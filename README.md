@@ -1,4 +1,7 @@
-# [Pages Read Me](https://theo-armour.github.io/2022/#pages/README.md)
+# [Pages Read Me](https://theo-armour.github.io/2pages/README.md)
+
+[![]( https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/pages"Source code on GitHub" )
+
 
 ## Concept
 
@@ -9,17 +12,12 @@ My digital commonplace book
 
 ## To Do / Wish List
 
-* Move to its own repository
 * Transform my categories to Wikipedia categories
 
 
 ## Issues
 
 ## Links of Interest
-
-### https://en.wikipedia.org/wiki/Asemic_writing
-
-> Asemic writing is a wordless open semantic form of writing. The word asemic means "having no specific semantic content", or "without the smallest unit of meaning". With the non-specificity of asemic writing there comes a vacuum of meaning, which is left for the reader to fill in and interpret. All of this is similar to the way one would deduce meaning from an abstract work of art.
 
 
 ## Change Log
@@ -37,6 +35,7 @@ My digital commonplace book
 
 * First commit
 
+
 ***
 
-
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
