@@ -1,6 +1,6 @@
 # [Pages Read Me](https://theo-armour.github.io/2pages/README.md)
 
-[![]( https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/pages"Source code on GitHub" )
+[![]( https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/pages "Source code on GitHub" )
 
 
 ## Concept
