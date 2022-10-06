@@ -1,4 +1,7 @@
-# Bay Area Web Cameras
+# webcams Bay Area Web Cameras
+
+tags #webcam
+
 
 
 San Francisco
@@ -8,7 +11,7 @@ San Francisco
 * [Sea Lions at PIER 39]( https://www.pier39.com/sealions/ )
 * [Golden Gate Bridge view]( https://www.parksconservancy.org/parks/park-web-cams )
 * [Exploratorium Roof-cam]( https://www.exploratorium.edu/environmental-field-station )
-* [Northern Waterfront]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub ) 
+* [Northern Waterfront]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub )
 * [Castro Street]( https://www.webcamtaxi.com/en/usa/california/castro-street-cam-1.html )
 
 More
