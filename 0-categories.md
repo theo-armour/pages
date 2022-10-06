@@ -5,9 +5,9 @@
 2022-06-23
 
 * Much easier to use than Dewey Decimal or LoC
-  * Finding where a new item can fit into the tree looks to be kind of easy
-  * Wiktionary also has a tree sometimes that may help
-  * It wil be easier to find examples of usage since every article has categories.
+* Finding where a new item can fit into the tree looks to be kind of easy
+* Wiktionary also has a tree sometimes that may help
+* It wil be easier to find examples of usage since every article has categories.
 * Will be updated as new categories emerge
 
 ## https://en.wikipedia.org/wiki/Wikipedia:Contents
