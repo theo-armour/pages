@@ -37,3 +37,24 @@ https://sfmcd.org/
 >Manifesto
 You’re bold. You question the conventional notion of art. You are inspired by creativity that stirs the soul. And you value designers, makers and artists who are risk takers and seek to inspire the world. Visual culture thrives at the Museum of Craft and Design. We bring you the work of the hand, mind and heart. We are building a path to the future of creative expression.
 
+## Fleet Week
+
+### Web
+
+* https://www.twitch.tv/l13w
+  * Audio only
+* https://www.instagram.com/FleetWeekSF/
+* https://www.youtube.com/channel/UCEQIcT1y1SBIVAVAxYGC7iQ/featured
+
+Latest Kron
+* https://www.kron4.com/?submit&s=fleet+week&orderby=modified
+* https://www.kron4.com/news/bay-area/parade-of-ships-blue-angels-air-show-get-underway-today/
+
+
+### Phone or tablet
+
+Got to your app store and search for San Francisco Fleet Week
+### https://fleetweeksf.org
+
+https://fleetweeksf.org/#events
+https://fleetweeksf.org/air-show-schedules/

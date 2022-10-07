@@ -27,6 +27,7 @@ Intermittent Episodes
 * Change political motivations / more deliberate / public-spirited
 * Takes decades
 
+If there's a chance to focus on deeper questions: we are at the moment
 
 ### Caitlin Johnstone
 

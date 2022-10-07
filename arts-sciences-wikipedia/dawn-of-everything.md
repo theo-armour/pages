@@ -1,11 +1,13 @@
 # Dawn of Everything
 
 
+## Book
 
 * https://www.amazon.com/dp/B0948GPBBH
+
 People
 
-David Graeber
+## David Graeber
 
 * https://en.wikipedia.org/wiki/David_Graeber
 
