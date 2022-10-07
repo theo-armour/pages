@@ -37,3 +37,17 @@ Reference
 
 * https://en.wikipedia.org/wiki/Ciclopirox
 * https://en.wikipedia.org/wiki/Ketoconazole
+
+
+## FAQ
+
+What can I do about black growths?
+
+How to prevent toes from curling?
+
+How to prevent mails from bowing
+
+Some parts of my nails are thicker than others. Should I file the thick parts?
+
+How to manage cuticles? Push them back?
+
