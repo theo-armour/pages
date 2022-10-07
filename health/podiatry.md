@@ -45,7 +45,9 @@ What can I do about black growths?
 
 How to prevent toes from curling?
 
-How to prevent mails from bowing
+pincer nails: How to prevent toe nails from curling?
+
+* https://www.curvecorrect.com/
 
 Some parts of my nails are thicker than others. Should I file the thick parts?
 
