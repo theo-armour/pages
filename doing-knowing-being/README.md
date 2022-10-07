@@ -14,6 +14,7 @@ _Doing Knowing Being_
 @@@-->
 
 
+
 ## Concept
 
 My current major ontology/epistemology of life effort

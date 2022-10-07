@@ -11,8 +11,8 @@ Dividing a topic into three sub-topics appears to be an industry standard method
 ## Reference
 
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
-	* A trichotomy is a three-way classificatory division. Some philosophers pursued trichotomies.
-	* **Start here to see long list of 55 trichotomies**: https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+  * A trichotomy is a three-way classificatory division. Some philosophers pursued trichotomies.
+  * **Start here to see long list of 55 trichotomies**: https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
 * https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Triad_(religion)
 * https://en.wikipedia.org/wiki/Rule_of_three
@@ -25,7 +25,7 @@ Dividing a topic into three sub-topics appears to be an industry standard method
 * https://en.wikipedia.org/wiki/Trivium
 * https://en.wikipedia.org/wiki/Isocolon#Tricolon
 * https://en.wikipedia.org/wiki/Trilemma
-	* A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable.
+  * A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable.
 
 About
 
@@ -81,9 +81,9 @@ Random three things
 
 Any statement is a mixture of the three
 
-* input			process		output
-* extract		transform	save
-* read			print 		eval
+* input   process  output
+* extract  transform save
+* read   print   eval
 
 
 Computer terms
@@ -91,7 +91,6 @@ Computer terms
 * https://en.wikipedia.org/wiki/IPO_model
 * https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 * https://en.wikipedia.org/wiki/Extract,_transform,_load
-
 
 
 ## Jordan B Peterson
@@ -103,7 +102,7 @@ Computer terms
 
 ## [C S Pierce]( https://en.wikipedia.org/wiki/Charles_Sanders_Peirce )
 
-* Sign	~ Object ~ Interpretant
+* Sign ~ Object ~ Interpretant
 * represent ~ ramification ~ a quality/rule
 
 
@@ -151,7 +150,7 @@ The phrase OODA loop refers to the decision cycle of observe, orient, decide, an
 https://en.wikipedia.org/wiki/OODA_loop
 
 
-## SWOT
+## SWOT ~ 4
 
 https://en.wikipedia.org/wiki/SWOT_analysis
 
@@ -161,4 +160,11 @@ https://en.wikipedia.org/wiki/SWOT_analysis
 Code, get stuck, research (repeat)
 
 * https://gomakethings.com/code-get-stuck-research-repeat
+
+
+## Grace Cathedral
+
+Mind, Body and Spirit
+
+https://gracecathedral.org/
 

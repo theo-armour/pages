@@ -1,5 +1,10 @@
 # Categories
 
+## New
+
+https://en.wikipedia.org/wiki/Knowledge_organization
+
+
 ## Follow Wikipedia
 
 2022-06-23
@@ -62,8 +67,8 @@ https://en.wiktionary.org/wiki/Category:All_topics
 ### Cities
 
 ## Health and fitness
-## History and events
 
+## History and events
 
 ## Human activities
 
