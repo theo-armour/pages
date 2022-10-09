@@ -1,5 +1,7 @@
 # Writing & Publishing
 
+tags #write #medium
+
 Eat oatmeal?
 
 https://medium.com/mind-cafe/a-psychological-trick-to-evoke-an-interesting-conversation-144ce6a376ae
@@ -46,6 +48,7 @@ The Washington Post has built a multi-publisher, shared-subscription system in i
 
 ## Medium
 
+* https://news.ycombinator.com/item?id=33137417
 * https://medium.com/breakout-writing/can-you-write-a-book-chapter-by-chapter-on-medium-d34603506a67
 * https://writingcooperative.com/
 * https://medium.com/@the_manifest/the-dos-and-don-ts-of-publishing-on-medium-com-8fbde6667932
