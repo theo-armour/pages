@@ -1,4 +1,16 @@
-# Medicare 2021 Links of Interest
+# Medicare
+
+## direct contracting entity
+
+* https://pearlhealth.com/blog/healthcare-101/how-a-direct-contracting-model-succeeds-where-medicare-advantage-fails/
+* https://pearlhealth.com/blog/healthcare-101/direct-contracting-model-strategies-that-drive-innovative-healthcare/
+* https://boomerbenefits.com/medicare-direct-contracting-dce-what-does-it-mean-for-you
+* https://www.ncpssm.org/documents/medicare-policy-papers/medicare-direct-contracting-model-raises-privatization-concerns/
+* https://www.ncpssm.org/entitledtoknow/trump-plan-to-privatize-medicare-still-alive-and-well/
+
+* https://www.medicare.gov/manage-your-health/coordinating-your-care/gpdc-model
+
+## 2021 Links of Interest
 
 ## Newsweek: Best Insurance Companies for Medicare Advantage 2021
 

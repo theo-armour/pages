@@ -196,7 +196,7 @@ Theo
 
 ## Effective Altruism or Radical Philanthropy
 
-tags #virtue
+tags #virtue #ea #altruism #philanthropy
 
 Category philosophy and thinking > virtue > altruism
 
