@@ -38,6 +38,8 @@ chrome://internals/
 ### Online PDF apps
 
 Free online
+https://simplepdf.eu/
+* https://news.ycombinator.com/item?id=33142866
 * https://online.sodapdf.com/
 	* Used 2022-09-10 ~ looks good
 * https://www.pdfescape.com/

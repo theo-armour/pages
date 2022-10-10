@@ -1,6 +1,14 @@
 # Drawing
 
+tags #svg #draw
+
 * 2021-09-27 ~ PDF to SVG utilities exist; might be fun to explore
+
+## New
+
+* https://okso.app/
+  * https://news.ycombinator.com/item?id=33143489
+  
 
 ## Articles
 

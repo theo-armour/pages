@@ -49,8 +49,13 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 ### Research Tools and Topics
 
+### Books
+
+
+### Writing
+
 * Checklists
-* Writing
+* Note-taking
 
 ***
 
@@ -77,15 +82,26 @@ https://en.wiktionary.org/wiki/Category:All_topics
 * Gaming
 
 ## Mathematics and logic
+
+
 ## Natural and physical sciences
+
+
 ## People and self
+
+https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
+
+
 ## Philosophy and thinking
 
 ### Aesthetics
 
 * Beauty
 
+### Learning
+
 ## Religion and belief systems
+
 ## Society and social sciences
 
 ### Society
@@ -100,4 +116,6 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 ### Computing
 
-* Software
+### Artificial Intelligence
+
+### Software

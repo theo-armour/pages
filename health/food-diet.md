@@ -1,5 +1,9 @@
 # Food Eat Diet
 
+## New
+
+https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html
+* https://news.ycombinator.com/item?id=33140927
 
 ## Mission and vision
 
@@ -79,7 +83,7 @@ Nice stats and thoughts
 ## Tips
 
 * 2019-10-31 ~ stopping cheese produced a significant overnight weight loss / or stopping omeprazole?
-\
+
 ## Kim Bauer ~ Items for discussion ~ 2019
 
 https://www.steppingstone-wellness.com/
