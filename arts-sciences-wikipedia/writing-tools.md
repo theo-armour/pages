@@ -10,6 +10,12 @@
 
 >Asemic writing is a wordless open semantic form of writing. The word asemic means "having no specific semantic content", or "without the smallest unit of meaning". With the non-specificity of asemic writing there comes a vacuum of meaning, which is left for the reader to fill in and interpret. All of this is similar to the way one would deduce meaning from an abstract work of art.
 
+## 3Dtext
+
+Lui les Hébreux moi Pharaon
+An animation featuring voice synchronized with text, originally made for Mac and PC. The webgl
+* https://www.arielmalka.com/HEBREUX.html
+
 
 ## Expressive Fonts
 

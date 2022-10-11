@@ -1,5 +1,8 @@
 # David Peritz
 
+https://minervalife.mykajabi.com/store
+
+
 ## 2022-08-26
 
 2nd amendment - "under a well-organized militia" ignored
