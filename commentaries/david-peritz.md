@@ -3,6 +3,23 @@
 https://minervalife.mykajabi.com/store
 
 
+## 2022-10-14
+
+radical partisanship
+Political Science failures
+
+Anxieties
+
+* de-normalization for whites ~ changes too much ~ too fast
+* Status anxiety
+* Income anxiety
+* inequality anxiety
+
+Social Media
+
+* Amplify anxiety / grievance
+
+
 ## 2022-08-26
 
 2nd amendment - "under a well-organized militia" ignored

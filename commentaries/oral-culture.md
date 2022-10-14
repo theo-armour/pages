@@ -17,14 +17,17 @@
 
 * https://en.wikipedia.org/wiki/Marshall_McLuhan
 
+
 ### The Gutenberg Galaxy
 
 https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy
 * https://www.amazon.com/Gutenberg-Galaxy-Canada-150-Collection-ebook-dp-B0735XH8PB/dp/B0735XH8PB/ref=mt_other?_encoding=UTF8&me=&qid=
 
+
 #### Oral tribe culture
 
 >The oral tradition is not dead. In schools or at home or in the street, where children are taught to learn by heart, to memorize, nursery rhymes or poems or songs, then they can be said to participate in the oral tradition. The same is often true of the children belonging to religious groups who are taught to learn to say their prayers. In other words, childhood is one of the ages of man (in Shakespeare's sense) and is essentially an oral tribal culture. The transition from this oral culture takes place when the child is taught to read and write. Then the child enters the world of the manuscript culture.
+
 
 ## Return of Oral Culture
 
@@ -42,11 +45,14 @@ The Death of Writing, and Its Impact on Our Politics
 * https://www.thefreelibrary.com/Web+2.0%3A+a+return+to+participatory+oral+traditions+in+music+education.-a0347001782
 * https://samkriss.substack.com/p/the-internet-is-already-over
   * https://news.ycombinator.com/item?id=32907473
+
+
 ## Zeynep Tufekci
 
 * https://en.wikipedia.org/wiki/Zeynep_Tufekci
 * https://substack.com/profile/299814-zeynep
 * https://www.twitterandteargas.org/
+
 
 ### https://technosociology.org/?p=431
 
