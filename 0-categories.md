@@ -38,7 +38,7 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 ## my list
 
-## General reference
+## 01 General reference
 
 ### Reference Works
 
@@ -59,7 +59,7 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 ***
 
-## Culture and the arts
+## 02 Culture and the arts
 
 ### Mass media
 
@@ -67,32 +67,37 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 * Reddit
 
-## Geography and places
+## 03 Geography and places
 
 ### Cities
 
-## Health and fitness
+## 04 Health and fitness
 
-## History and events
+## 05 History and events
 
-## Human activities
+## 06 Human activities
 
 ### Entertainment
 
 * Gaming
 
-## Mathematics and logic
+## 07 Mathematics and logic
 
 
-## Natural and physical sciences
+* Formal sciences
+* Mathematics
+* Mathematical sciences
 
+## 08 Natural and physical sciences
 
-## People and self
+* Biology
+
+## 09 People and self
 
 https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
 
 
-## Philosophy and thinking
+## 10 Philosophy and thinking
 
 ### Aesthetics
 
@@ -100,9 +105,9 @@ https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
 
 ### Learning
 
-## Religion and belief systems
+## 11 Religion and belief systems
 
-## Society and social sciences
+## 12 Society and social sciences
 
 ### Society
 
@@ -112,10 +117,13 @@ https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
 
 * Linguistics
 
-## Technology and applied sciences
+## 13 Technology and applied sciences
 
 ### Computing
 
-### Artificial Intelligence
+#### Artificial Intelligence
 
-### Software
+#### Software
+
+### Engineering
+
