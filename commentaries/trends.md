@@ -65,3 +65,40 @@ Three Big Things: The Most Important Forces Shaping the World
 1. Access to information closes gaps that used to create a social shield of ignorance.
 >The greatest innovation of the last generation has been the destruction of information barriers that used to keep strangers isolated from one another.
 
+## Too many laws
+
+* What do lawyers like to do? Make laws?
+* What do bureaucrats like to do: Make laws
+* What do elected representatives like to do? Make laws
+
+Any building project can be stopped
+
+
+### Articles
+
+* https://www.washingtonpost.com/news/volokh-conspiracy/wp/2017/10/01/why-the-rule-of-law-suffers-when-we-have-too-many-laws/
+* https://thehill.com/opinion/criminal-justice/473659-america-has-too-many-criminal-laws/
+* https://www.cato.org/sites/cato.org/files/serials/files/policy-report/2015/2/cprv37n1-2.pdf
+* https://financialpost.com/opinion/william-watson-a-nation-of-too-many-laws
+* https://www.nytimes.com/1964/01/05/are-there-too-many-lawyers-in-congress.html
+* https://www.abajournal.com/news/article/lawyers_no_longer_dominate_congress_is_commercialization_of_profession_to_b
+* https://www.researchgate.net/publication/321212285_The_Decline_of_the_Lawyer-Politician/figures?lo=1
+
+
+### Lawyers
+
+* https://thepractice.law.harvard.edu/article/declining-dominance/
+* https://financialpost.com/opinion/william-watson-a-nation-of-too-many-laws
+* https://www.nytimes.com/1964/01/05/are-there-too-many-lawyers-in-congress.html
+
+### bureaucracy
+
+* https://thinkinsights.net/strategy/bureaucracy-max-weber/
+
+## Single player disruption
+
+## Long Term-ism
+
+
+
+
