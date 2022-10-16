@@ -83,7 +83,6 @@ https://en.wiktionary.org/wiki/Category:All_topics
 
 ## 07 Mathematics and logic
 
-
 * Formal sciences
 * Mathematics
 * Mathematical sciences
