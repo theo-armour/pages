@@ -12,19 +12,23 @@ tags #wellness #health #checklist
 
 ## Physical
 
-* Medical cre
+
 * Exercise activities
 * Nutrition
+* Sleep
+* Safety
 * Listening to speakers
 
 ***
 
 ## Emotional
 
+* PTSD
 * Listening to speakers about how to handle emotions
 * Participating in "support groups"
 * Group sharing
 * Grandparenting
+* Sexual Health
 
 ## Social
 
