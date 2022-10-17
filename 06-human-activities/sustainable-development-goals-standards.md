@@ -1,5 +1,8 @@
 # Sustainable Development Goals & Standards
 
+tags #SDG #climate #esg #environment #metrics #test
+
+
 ## Design policy to be testable
 
 Similar to SDGs
@@ -11,6 +14,14 @@ A prediction distribution for the impact of the bill.
 A level at which they'd consider the bill a success, and a level at which they'd consider it a failure.
 A description of how they're going to measure how bad things would be conditional on the bill not passing.
 A prediction distribution for this value.
+
+## articles
+
+### Sustainable Web Development Strategies Within An Organization
+
+* https://www.smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/
+
+>Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.
 
 
 ## Sustainable Development Goals
@@ -35,6 +46,7 @@ A prediction distribution for this value.
 	* https://ecomuseums.com/
 	* http://www.ecomusei.eu/?page_id=1038
 * https://news.slashdot.org/story/20/12/11/224202/how-the-nature-conservancy-the-worlds-biggest-environmental-group-became-a-dealer-of-meaningless-carbon-offsets
+
 
 ### About
 

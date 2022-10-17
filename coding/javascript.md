@@ -24,6 +24,7 @@ https://raw.githack.com/cferdinandi/frontend-horse-js-library/main/index.html
 
 * Good auto save example
 
+
 ## jsHint
 
 /* globals THREE */
@@ -31,7 +32,6 @@ https://raw.githack.com/cferdinandi/frontend-horse-js-library/main/index.html
 
 
 ## Ajax
-
 
 function requestFile( url ) {
 
@@ -1347,14 +1347,28 @@ console.log(`He carries ${apples} apples, ${pears} pears, and ${bananas()} banan
 
 http://www.w3schools.com/jsref/jsref_obj_string.asp
 
+### Convert
 
 //Convert a number to a hexadecimal string with:
 		hexString = yourNumber.toString(16);
 //and reverse the process with:
 		yourNumber = parseInt(hexString, 16);
 
+### Title Case
 
-#### Formatting
+// https://stackoverflow.com/questions/64489395/converting-snake-case-string-to-title-case
+
+let str = "big_animal";
+
+let ret = str
+  .split("_")
+  .filter(x => x.length > 0)
+  .map( x => (x.charAt(0).toUpperCase() + x.slice(1)))
+  .join(" ");
+console.log(ret);
+
+
+### Formatting
 
 Number(x).toLocaleString();
 ( 123456789 ).toLocaleString();
@@ -1396,6 +1410,7 @@ Number( space.area.toFixed(4) )
 ### ternary operator
 
 x > 100 ? 'Above 100' : 'Below 100';
+
 
 
 ## TIME
