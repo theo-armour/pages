@@ -1,6 +1,6 @@
 # Fitness
 
-tags #fitness #health
+tags #fitness #health #hw
 
 ## Reference
 
@@ -14,6 +14,7 @@ tags #fitness #health
 * https://www.thealinker.com/
 * https://www.ableamsterdam.com/blog/mobility-aids-in-the-spotlight-a-review-of-the-alinker
 * https://thegadgetflow.com/blog/this-game-changing-walk-assist-bike-keeps-users-active-despite-mobility-challenges/
+
 
 ## Devices Compare
 
