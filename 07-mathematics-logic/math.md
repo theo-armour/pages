@@ -18,3 +18,8 @@ JSXGraph is a cross-browser JavaScript library for interactive geometry, functio
 * https://www.sfchronicle.com/bayarea/article/San-Francisco-hopes-to-finally-start-closing-the-17362864.php
 
 
+## Geometry
+
+The Geometry Junkyard
+https://www.ics.uci.edu/~eppstein/junkyard/
+* https://news.ycombinator.com/item?id%3D33235931

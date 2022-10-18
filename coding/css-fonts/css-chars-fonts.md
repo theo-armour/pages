@@ -379,3 +379,6 @@ function loadCss() {
 	setRandomGradientBackground();
 
 
+## Border gradient
+
+https://bbbootstrap.com/snippets/border-gradient-animation-77276492

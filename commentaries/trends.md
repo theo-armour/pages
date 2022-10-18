@@ -40,6 +40,10 @@ Published in March 2021: makes me laugh at the outcomes they missed.
 ### Ten Global Trends Every Smart Person Should Know: And Many Others You Will Find Interesting ~ Book
 * https://www.amazon.com/Global-Trends-Every-Smart-Person/dp/1948647737?asin=1948647737
 
+### 10 Global Trends That Every Smart Person Should Know
+* https://medium.com/yardcouch-com/10-global-trends-that-every-smart-person-should-know-9368a7e80ad8
+
+
 ### More
 
 * https://www.kearney.com/web/global-business-policy-council/global-trends
