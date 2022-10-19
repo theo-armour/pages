@@ -1,6 +1,10 @@
 # IFRAME
 
+tags #html #iframe
+
 http://www.w3schools.com/tags/att_iframe_sandbox.asp
+
+## Usage
 
 sandbox='allow-scripts'
 
@@ -8,7 +12,7 @@ sandbox='allow-scripts'
 
 <iframe sandbox='allow-same-origin allow-scripts' src=https://jaanga.github.io/terrain3/elevations/elevations-get/index.html width=800px height=500px onload=this.contentWindow.googleMap.setOptions({scrollwheel:false}); ></iframe>
 
-
+``` JavaScript
 ifr.style.border:none;"
 
 	See also snippets-html
@@ -19,7 +23,15 @@ ifr.style.border:none;"
 	var ifr = document.body.appendChild( document.createElement( 'iframe' ) );
 	ifr.src = 'threejs-boilerplate-build.html';
 	console.log( ifr.contentWindow.scene );
+	
+```
 
+
+## Articles
+
+* Library ~ https://whyframe.dev/
+
+## Tips
 // http://stackoverflow.com/questions/326069/how-to-identify-if-a-webpage-is-being-loaded-inside-an-iframe-or-directly-into-t
 
 	if ( window.self === window.top ) {
@@ -47,7 +59,9 @@ ifr.style.border:none;"
 	ifr.setAttribute( 'src', fileName );
 
 [[]]
-### Using JSON
+
+
+## Using JSON
 
 https://www.w3schools.com/js/js_json_intro.asp
 
@@ -62,7 +76,7 @@ see view-rss.html
 			doc = parser.parseFromString( response, 'text/html' );
 
 
-### Update Parent Style
+## Update Parent Style
 
 <style = "foo" > ...
 

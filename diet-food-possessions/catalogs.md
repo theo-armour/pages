@@ -54,6 +54,14 @@ Catalogs are listed in alphabetical order
 * https://whizbangprojects.com/
   * Vintage digital project plans
 
+## Medical
+
+* https://www.ncmedical.com/catalogs/fs_catalog_8_5_no_price/
+* https://www.drleonards.com/
+* https://www.sciplus.com/
+* https://www.american-scientific.com/
+
+
 ## More
 
 Reviews

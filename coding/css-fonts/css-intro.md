@@ -56,7 +56,7 @@ https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically
 * https://www.bram.us/2020/12/28/html-and-css-techniques-to-reduce-your-javascript/
 * https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
 * https://dev.to/cydstumpel/4-css-tricks-that-will-get-you-dirty-looks-from-other-developers-43d0
-
+* How to Animate CSS Box Shadows and Optimize Performance ~ https://www.sitepoint.com/css-box-shadow-animation-performance/
 ## Multi Select
 
 * https://web.dev/building-a-multi-select-component/
