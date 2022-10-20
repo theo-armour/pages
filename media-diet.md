@@ -5,13 +5,13 @@
 * NY Times Morning
 * https://nextdraft.com/
 * Daily email with always 10 items
-	* Every item has links and text.
+* Every item has links and text.
 * Text provides sufficient guidance to help you decide whether you want to click the link or not
 
 ## Most Days
 
 * https://drudgereport.com/
-	* inevitably has first links to breaking stories
+* inevitably has first links to breaking stories
 * Provides me with a dose of what the political right wing is thinking
 * https://techmeme.com/
 * https://boingboing.net/blog
