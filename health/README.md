@@ -110,3 +110,9 @@ by Gary A. Bolles
 * https://en.wikipedia.org/wiki/Ray_Oldenburg
 * https://en.wikipedia.org/wiki/The_Great_Good_Place_(book)
 
+
+## Kegel Exercise
+
+* https://en.wikipedia.org/wiki/Kegel_exercise
+* https://www.wikihow.com/Do-Kegel-Exercises
+* https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283
