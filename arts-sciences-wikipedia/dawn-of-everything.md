@@ -15,24 +15,15 @@ https://us.macmillan.com/books/9780374157357/thedawnofeverything
 
 * https://www.amazon.com/dp/B0948GPBBH
 * https://docdrop.org/download_annotation_doc/The-Dawn-of-Everything-by-David-Graeber-David-Wengrow-z-lib.-zmbbo.pdf
-*https://www.journals.uchicago.edu/doi/10.1086/720603
+* https://www.journals.uchicago.edu/doi/10.1086/720603
 
-Crits
-* https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
-
-People
 
 ## David Graeber
 
 * https://en.wikipedia.org/wiki/David_Graeber
 
-Places
 
-* https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
-* https://en.wikipedia.org/wiki/Uruk
-* https://en.wikipedia.org/wiki/Nebelivka_(archaeological_site)
-
-Reviews
+## Reviews
 
 * https://www.nytimes.com/2021/10/31/arts/dawn-of-everything-graeber-wengrow.html
 * https://www.nytimes.com/2021/11/04/opinion/graeber-wengrow-dawn-of-everything-history.html
@@ -42,3 +33,14 @@ Reviews
 >The authors introduce us to sumptuous Ice Age burials (the beadwork at one site alone is thought to have required 10,000 hours of work), as well as to monumental architectural sites like Göbekli Tepe, in modern Turkey, which dates from about 9000 B.C. (at least 6,000 years before Stonehenge) and features intricate carvings of wild beasts.
 
 * https://www.theguardian.com/books/2021/oct/23/the-dawn-of-everything-by-david-graeber-and-david-wengrow-review-inequality-is-not-the-price-of-civilisation
+
+Crits
+* https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
+
+
+## Places
+
+* https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
+* https://en.wikipedia.org/wiki/Uruk
+* https://en.wikipedia.org/wiki/Nebelivka_(archaeological_site)
+
