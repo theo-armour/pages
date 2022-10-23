@@ -11,20 +11,23 @@ https://us.macmillan.com/books/9780374157357/thedawnofeverything
 >
 >The Dawn of Everything fundamentally transforms our understanding of the human past and offers a path toward imagining new forms of freedom, new ways of organizing society. This is a monumental book of formidable intellectual range, animated by curiosity, moral vision, and a faith in the power of direct action.
 
-## Book
+## Book Links
 
 * https://www.amazon.com/dp/B0948GPBBH
 * https://docdrop.org/download_annotation_doc/The-Dawn-of-Everything-by-David-Graeber-David-Wengrow-z-lib.-zmbbo.pdf
-* https://www.journals.uchicago.edu/doi/10.1086/720603
+* https://en.wikipedia.org/wiki/The_Dawn_of_Everything ~ a good summary to start with
 
 
 ## David Graeber
 
 * https://en.wikipedia.org/wiki/David_Graeber
+* https://en.wikipedia.org/wiki/Bullshit_Jobs
+* https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years
 
 
 ## Reviews
 
+* https://www.journals.uchicago.edu/doi/10.1086/720603
 * https://www.nytimes.com/2021/10/31/arts/dawn-of-everything-graeber-wengrow.html
 * https://www.nytimes.com/2021/11/04/opinion/graeber-wengrow-dawn-of-everything-history.html
 * https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/
