@@ -117,6 +117,7 @@ by Gary A. Bolles
 * https://www.wikihow.com/Do-Kegel-Exercises
 * https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283
 
+
 ## https://www.mindmaze.com/
 
 Patrick Pestalozzi

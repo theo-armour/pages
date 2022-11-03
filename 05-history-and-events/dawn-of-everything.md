@@ -1,7 +1,11 @@
 # Dawn of Everything
-A New History of Humanity
 
-https://us.macmillan.com/books/9780374157357/thedawnofeverything
+tags #history #graeber #dawnOfEverything #anthropology
+
+
+>A New History of Humanity
+
+* https://us.macmillan.com/books/9780374157357/thedawnofeverything
 
 >A dramatically new understanding of human history, challenging our most fundamental assumptions about social evolution—from the development of agriculture and cities to the origins of the state, democracy, and inequality—and revealing new possibilities for human emancipation.
 >
@@ -23,6 +27,11 @@ https://us.macmillan.com/books/9780374157357/thedawnofeverything
 * https://en.wikipedia.org/wiki/David_Graeber
 * https://en.wikipedia.org/wiki/Bullshit_Jobs
 * https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years
+
+
+### https://davidgraeber.org/
+
+>The David Graeber Institute provides a platform for projects related both directly to David Graeber’s legacy, developing his ideas and for projects that will take on a life of their own, carrying on and continuing his work.
 
 
 ## Reviews

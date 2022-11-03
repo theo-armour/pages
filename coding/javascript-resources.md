@@ -2,7 +2,6 @@
 
 ## About
 
-
 * https://dev.to/narottam04/how-javascript-works-visually-explained-269j
 * https://www.wired.com/story/healing-power-javascript-code-programming/
 
@@ -33,6 +32,7 @@ Complexity
 
 * https://hackernoon.com/
 
+
 ## JavaScript Learning
 
 * https://web.dev/about/
@@ -42,7 +42,6 @@ Complexity
 	* Service workers - https://developers.google.com/web/fundamentals/primers/service-workers/
 
 * ## Lists
-
 
 * https://dev.to/suprabhasupi/github-10-repo-for-javascript-developer-23a9
 * !!! https://javascript.plainenglish.io/9-useful-web-apps-for-web-developers-4cd9a0ea9a2f
@@ -55,6 +54,9 @@ Complexity
 ## Principles
 
 * https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b
+* https://component.gallery/
+  * https://github.com/inbn/component-gallery
+>Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems
 
 
 ## Search

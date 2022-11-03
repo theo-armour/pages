@@ -12,3 +12,4 @@ The Moldable Development Environment
 Glamorous Toolkit is a multi-language notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. Free and open-source.
 * https://gtoolkit.com/
   * https://news.ycombinator.com/item?id=33267518
+

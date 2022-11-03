@@ -52,6 +52,9 @@ How to Remove Special Characters From a String in JavaScript
 ## Peeps
 
 * https://github.com/jwagner/simplex-noise.js ~ https://29a.ch/
+* https://github.com/argyleink/gui-challenges
+
+
 
 ## Extensions
 
