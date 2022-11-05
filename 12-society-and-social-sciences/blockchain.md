@@ -1,7 +1,17 @@
 # Blockchain
 
-tags #economics 
+tags #economics
 
+## Articles
+
+### Web inventor Tim Berners-Lee wants us to ‘ignore’ Web3: ‘Web3 is not the web at all’
+
+https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html
+
+KEY POINTS
+* Tim Berners-Lee, the computer scientist credited with inventing the World Wide Web, said he doesn’t view blockchain as a viable solution for building the next iteration of the internet.
+* “In fact, Web3 is not the web at all,” he told an audience at the Web Summit tech conference in Lisbon.
+* Berners-Lee said people too often conflate Web3 with “Web 3.0,” his own proposal for reshaping the internet.
 
 ## Wiki Blockchain
 
