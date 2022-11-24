@@ -3,7 +3,7 @@
 tags #history #graeber #dawnOfEverything #anthropology
 
 
->A New History of Humanity
+>Dawn of Everything - A New History of Humanity
 
 * https://us.macmillan.com/books/9780374157357/thedawnofeverything
 
