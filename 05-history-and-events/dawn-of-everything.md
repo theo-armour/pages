@@ -49,10 +49,27 @@ tags #history #graeber #dawnOfEverything #anthropology
 Crits
 * https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
 
+lists of reviews
+
+* https://dawnofeverything.industries/reviews
 
 ## Places
 
 * https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
 * https://en.wikipedia.org/wiki/Uruk
 * https://en.wikipedia.org/wiki/Nebelivka_(archaeological_site)
+
+
+## Me
+
+The book is written as a college course - the usual twelve or so chapters with thoughts of previous chapters refrained as reminders throughout
+
+There are many quotable sequences - but they are unusually long -two or more sentences
+
+Graeber offers no solutions, just plenty of hope
+
+We are locked in by our vocabulary
+
+Rousseau & Hobbes: The path of least resistance leads the the hierarchical bureaucratic charismatic state
+Gaeber: nope, that'a a myth
 
