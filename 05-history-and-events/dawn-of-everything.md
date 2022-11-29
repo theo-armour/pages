@@ -70,6 +70,22 @@ Graeber offers no solutions, just plenty of hope
 
 We are locked in by our vocabulary
 
+Hobbes: best: modest control - but destiny
+
+Rousseau: minor tinkering ~ but sme free will
+
 Rousseau & Hobbes: The path of least resistance leads the the hierarchical bureaucratic charismatic state
+
 Gaeber: nope, that'a a myth
+
+Pinker: more of the same ~ cities bring safety
+
+
+
+Kindle Color Code
+
+Yellow ~ statement
+Blue ~ opinion
+Red ~ counter point ~ opposed view
+
 
