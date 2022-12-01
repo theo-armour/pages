@@ -81,6 +81,13 @@ Gaeber: nope, that'a a myth
 
 Pinker: more of the same ~ cities bring safety
 
+## Definitions
+
+Freedoms
+* To move
+* To disobey
+* To rearrange social ties
+
 
 ### Chapter 11
 
@@ -89,6 +96,8 @@ Pinker: more of the same ~ cities bring safety
 
 * https://education.nationalgeographic.org/resource/intriguing-interactions
 * https://en.wikipedia.org/wiki/Hopewell_tradition
+
+
 ## Kindle Color Code
 
 Yellow ~ statement

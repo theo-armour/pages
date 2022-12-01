@@ -2,6 +2,11 @@
 
 > Reading is sometimes an ingenious device for avoiding thought. Sir Arthur Helps 1813-1875
 
+## George Orwell ~ Bookshop memories
+
+https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/bookshop-memories/
+
+
 ## https://www.thenewatlantis.com/
 
 * https://www.thenewatlantis.com/publications/reading-ourselves-to-death

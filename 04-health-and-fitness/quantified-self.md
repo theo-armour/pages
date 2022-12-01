@@ -1,5 +1,10 @@
 # Quantified Self
 
+tags #quantified-self
+
+See also: #journal
+
+
 ## https://en.wikipedia.org/wiki/Quantified_self
 > The quantified self refers both to the cultural phenomenon of self-tracking with technology and to a community of users and makers of self-tracking tools who share an interest in "self-knowledge through numbers".[1] Quantified self practices overlap with the practice of lifelogging and other trends that incorporate technology and data acquisition into daily life, often with the goal of improving physical, mental, and emotional performance. The widespread adoption in recent years of wearable fitness and sleep trackers such as the Fitbit or the Apple Watch,[2] combined with the increased presence of Internet of things in healthcare and in exercise equipment, have made self-tracking accessible to a large segment of the population.
 
@@ -28,15 +33,4 @@ Wearable fitness trackers and smartwatches are connecting health care to daily l
 
 
 ## https://writings.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
-
-
-## Journaling
-
-* https://herman.bearblog.dev/years-of-journaling/
-* https://news.ycombinator.com/item?id=31832362
-
-Observations on 6 years of journaling
-22 Jun, 2022
-
-Journaling is, without a doubt, the most important thing I do for myself. It is the act of taking the internal mess of thoughts, emotions, and experiences, and structuring and codifying them. It makes the intangible, tangible. Understandable.
 
