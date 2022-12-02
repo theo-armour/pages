@@ -1,6 +1,6 @@
 # Categories
 
-123
+
 ## New
 
 https://en.wikipedia.org/wiki/Knowledge_organization

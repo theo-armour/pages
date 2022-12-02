@@ -76,7 +76,6 @@ Hobbes: best: modest control - but destiny
 Rousseau: minor tinkering ~ but sme free will
 
 Rousseau & Hobbes: The path of least resistance leads the the hierarchical bureaucratic charismatic state
-
 Gaeber: nope, that'a a myth
 
 Pinker: more of the same ~ cities bring safety
