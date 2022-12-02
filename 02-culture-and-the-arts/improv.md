@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/2022/blob/main/pages/arts-sciences-wikipedia/improv.md "Source code on GitHub" ) [TA 2022]( https://theo-armour.github.io/2022/ "Home page" ) / [Improv]( https://theo-armour.github.io/2022/view/#pages/arts-sciences-wikipedia/improv.md)
+# improv
 
 tags #improv #list #liveness
 
@@ -27,6 +27,12 @@ More
 * https://en.wikipedia.org/wiki/Improvisational_theatre
 * https://en.wikipedia.org/wiki/Viola_Spolin
 * https://en.wikipedia.org/wiki/Yes,_and...
+
+## links
+
+### The rules of improv can make you funnier. They can also make you more confident.
+
+* https://text.npr.org/1129907651
 
 
 ## Tina Fey's Four Rules of Improv

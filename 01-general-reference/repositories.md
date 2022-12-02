@@ -5,10 +5,9 @@ tabs #books #ref #list
 
 Gutenberg etc
 
-### Libby / https://www.overdrive.com/apps/libby
+## Libby / https://www.overdrive.com/apps/libby
 
 Borrow ebooks, audiobooks, magazines, and more from your local library for free! Libby is the newer library reading app by OverDrive, loved by millions of readers worldwide.
-
 
 
 ## Manybooks / https://manybooks.net/about
@@ -34,6 +33,7 @@ Learn 46 Languages Online for Free: Spanish, Chinese, English & More
 The Public Domain Review is dedicated to the exploration of curious and compelling works from the history of art, literature, and ideas – focusing on works now fallen into the public domain, the vast commons of out-of-copyright material that everyone is free to enjoy, share, and build upon without restrictions.
 
 
-## George Orwell ~ Bookshop memories
+## Wikiversity
 
-https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/bookshop-memories/
+* https://en.wikiversity.org/wiki/Wikiversity:Main_Page
+  * https://news.ycombinator.com/item?id=33226352

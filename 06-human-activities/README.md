@@ -39,7 +39,6 @@ The Small Business Innovation Research (or SBIR) program is a United States Gove
 * https://en.wikipedia.org/wiki/Small_Business_Innovation_Research
 
 
-
 ## Aquaculture
 
 > Aquaculture is the production of aquatic organisms under controlled conditions throughout part or all their lifecycle. Its development can help meet future food needs and ease burdens on natural resources.

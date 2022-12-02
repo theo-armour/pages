@@ -9,14 +9,14 @@ The benefits of checklists in carrying out on-going duties are well-documented. 
 ## Definitions
 
 * https://www.merriam-webster.com/dictionary/checklist
-	* : a list of things to be checked or done
-	* _a pilot's checklist before takeoff_
-	* also : a comprehensive list
+  * : a list of things to be checked or done
+  * _a pilot's checklist before takeoff_
+  * also : a comprehensive list
 
 * https://www.google.com/search?q=define:Checklist
-	* From: https://languages.oup.com/google-dictionary-en/
-	* noun: checklist; plural noun: checklists
-	* a list of items required, things to be done, or points to be considered, used as a reminder.
+  * From: https://languages.oup.com/google-dictionary-en/
+  * noun: checklist; plural noun: checklists
+  * a list of items required, things to be done, or points to be considered, used as a reminder.
 
 * https://www.collinsdictionary.com/us/dictionary/english/checklist
 * A checklist is a list of all the things that you need to do, information that you want to find out, or things that you need to take somewhere, which you make in order to ensure that you do not forget anything.
@@ -33,9 +33,9 @@ The benefits of checklists in carrying out on-going duties are well-documented. 
 ### The_Checklist_Manifesto
 
 * https://en.wikipedia.org/wiki/The_Checklist_Manifesto
-	>The book looks at the use of checklists in the business world and the medical profession, with Gawande examining how it could be used for greater efficiency, consistency and safety
+ >The book looks at the use of checklists in the business world and the medical profession, with Gawande examining how it could be used for greater efficiency, consistency and safety
 * http://atulgawande.com/book/the-checklist-manifesto/
-	*Gawande begins by making a distinction between errors of ignorance (mistakes we make because we don’t know enough), and errors of ineptitude (mistakes we made because we don’t make proper use of what we know).
+ *Gawande begins by making a distinction between errors of ignorance (mistakes we make because we don’t know enough), and errors of ineptitude (mistakes we made because we don’t make proper use of what we know).
 * https://www.nytimes.com/2010/01/24/books/review/Jauhar-t.html
 
 
@@ -61,8 +61,8 @@ Definitions
 ## Checklist Apps
 
 * https://www.thechecker.net
-	* Our Checklist Books can be used as a stand-alone solution or in conjunction with The Checker Software. Each checklist is specific to a particular type of asset, with all the detail necessary for a thorough, compliant inspection or audit.
-	* The Checker Software features a range of tools for conducting and managing inspections and audits in a way that lowers costs and increases benefits. The cloud-based software can be configured to meet your unique needs.
+  * Our Checklist Books can be used as a stand-alone solution or in conjunction with The Checker Software. Each checklist is specific to a particular type of asset, with all the detail necessary for a thorough, compliant inspection or audit.
+  * The Checker Software features a range of tools for conducting and managing inspections and audits in a way that lowers costs and increases benefits. The cloud-based software can be configured to meet your unique needs.
 * https://checklist.com/
 * https://www.checkli.com/
 * https://blog.bit.ai/how-to-create-a-checklist/
@@ -97,3 +97,10 @@ Did you have some?
 ## Note-taking
 
 * https://beepb00p.xyz/myinfra.html
+
+
+## 100 wishes on a post-its
+
+* https://xsvengoechea.medium.com/how-and-why-to-do-a-life-audit-1d8bfbe1798
+
+>I spent some time writing out 100 wishes of mine on post-its inspired by this post: How and Why to do a Life Audit. The idea is to brainstorm your life goals, values, dreams and then categorize them based on themes and timeframes. The process allows for your priorities to come to light and helps you to see the patterns of your life. I could only fill 50 post-its in one sitting and as I discover new dreams of mine I go back to my remaining post-it pack to add more. I found that once I had written down all the desires inside of me and, in a sense, got them out of my system, it freed up space for completely new and weirdly fun wishes to show up. — CD

@@ -2,6 +2,7 @@
 
 tags #history #graeber #dawnOfEverything #anthropology
 
+2022-11-29 p475
 
 >Dawn of Everything - A New History of Humanity
 
@@ -80,12 +81,30 @@ Gaeber: nope, that'a a myth
 
 Pinker: more of the same ~ cities bring safety
 
+## Definitions
+
+Freedoms
+* To move
+* To disobey
+* To rearrange social ties
 
 
-Kindle Color Code
+### Chapter 11
+
+
+#### hopewell interaction sphere
+
+* https://education.nationalgeographic.org/resource/intriguing-interactions
+* https://en.wikipedia.org/wiki/Hopewell_tradition
+
+
+## Kindle Color Code
 
 Yellow ~ statement
-Blue ~ opinion
+Blue ~ opinion ~ background
 Red ~ counter point ~ opposed view
+Orange ~ Definition
+
+
 
 
