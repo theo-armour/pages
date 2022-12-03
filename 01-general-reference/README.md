@@ -32,7 +32,29 @@ Web sites
 
 ### Further research tools and topics
 
-Academic disciplinesArchivesBooksClientsCurriculaDatabases onlineDistance educationGrammarGovernment agenciesIndicesInformationKnowledgeLettersLibraries digitalLibrary cataloging and classificationNews agenciesPeriodic tablePrefixesReadingResearchSearch engines Suffixes Universities and colleges
+Academic disciplines
+Archives
+Books
+Clients
+Curricula
+Databases online
+Distance education
+Grammar
+Government agencies
+Indices
+Information
+Knowledge
+Letters
+Libraries digital
+Library cataloging and classification
+News agencies
+Periodic table
+Prefixes
+Reading
+Research
+Search engines
+Suffixes
+Universities and colleges
 
 * https://en.wikipedia.org/wiki/Writing
   * https://en.wikipedia.org/wiki/Diary (Journaling )

@@ -1,7 +1,7 @@
 # Technology
 
 
-### Markdown
+## Markdown
 
 [Markdown]( https://en.wikipedia.org/wiki/Markdown ) is used extensively with the [Showdown converter]( https://github.com/showdownjs/showdown ).
 
@@ -45,20 +45,20 @@ CDNs used:
 
 As in:
 
-```
-<script src=https://cdn.jsdelivr.net/gh/mrdoob/three.js@r71/build/three.min.js ></script>  
+``` JavaScript
+<script src=https://cdn.jsdelivr.net/gh/mrdoob/three.js@r71/build/three.min.js ></script>
 <script src=https://cdn.jsdelivr.net/gh/mrdoob/three.js@r71/examples/js/controls/OrbitControls.js ></script>
-<script src=https://cdn.jsdelivr.net/gh/mrdoob/three.js@r71/examples/js/libs/stats.min.js ></script>  
+<script src=https://cdn.jsdelivr.net/gh/mrdoob/three.js@r71/examples/js/libs/stats.min.js ></script>
 ```
 
 ### PNG files are used to store the data
 
 We tried using ASCII JSON text files to store elevation data. There were many issues.
-The file sizes soon become huge and transmission speed suffer. 
+The file sizes soon become huge and transmission speed suffer.
 If all the data did not come in, the app is hosed.
 There are too many numbers to be able to 'see' things.
 
-We looked into using binary files, but these seem to require a whole lot of expertise and effert. 
+We looked into using binary files, but these seem to require a whole lot of expertise and effert.
 The use of binary files did not seem to make hiles smaller or transmit faster.
 
 The use of PNG files as heightmaps solves many problems and provides many benefits/

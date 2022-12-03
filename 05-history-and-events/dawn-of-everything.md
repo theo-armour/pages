@@ -88,8 +88,28 @@ Freedoms
 * To rearrange social ties
 
 
-### Chapter 11
+### Chapter 11 ~ p 441 ~ 63%
 
+Indigenous critique ~
+
+Portraying history as a story of material progress, that framework recasting Indigenous critics as innocent children of nature, whose views on freedom were in mere side effect of their uncultivated way of life and could not possibly offer a serious challenge to contemporary social thought (which came inreasingly to mean just European thought).
+
+Grain states and barbarians ~ locked together in tension
+But was the outcome inevitable
+
+Older Scheme
+
+* Band Societies
+* Tribes
+* Chiefdoms
+* States
+
+### Clans p455/6  ~ 66%
+
+Long text on how indigenous Americans created and un-created state-like societies ~ based on lucid conscious critique
+
+
+## Chapter 12 p493 ~ 71%
 
 #### hopewell interaction sphere
 
