@@ -87,6 +87,50 @@ Freedoms
 * To disobey
 * To rearrange social ties
 
+Long Distance Interaction ~ p 23
+* Dreams or vision Quests
+* Traveling healers and entertainers
+* Women's gambling
+
+## Chapter 1 ~ page 1 ~
+
+Most of history is lost.
+Are we good or Are we evil
+
+We were godlike, but now are in a fallen state
+* Child like innocence until agricultural revolution
+  * Then patriarchy, armies, executions, bureaucrats
+history is evolutionary
+
+question of history: not equal access to resources but equal capacity to contribute to decisions how to live together
+
+Diamond: Only primordial are egalitarian
+
+Hierarchy is inevitable
+
+Small groups not necessarily egalitarian; large groups must have rulers or bureaucracies
+
+Pinker: pre-state people were violent
+
+Early humans nurturing and caring
+
+Early life more complex than modern theorist would guess
+
+Democracy not liked befor 19th C
+
+Has Western civilization made life better?
+
+Impoverished history ~ simplification ~ reductionism ~ dulled down
+
+Goods travel without market economy
+
+Guesses we make are often far less interesting
+Answers often unexpected and more playful
+Foundation for a new world history
+Origins of social inequality: not the biggest question
+Move from European thinkers to indigenous thinkers
+
+## Chapter 2 ~ p 27 ~ 4%
 
 ### Chapter 11 ~ p 441 ~ 63%
 

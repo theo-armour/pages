@@ -46,9 +46,7 @@ Wikipedia Templates
 
 ## Change Log
 
-### 123
 
-* First commit
 
 ---
 
