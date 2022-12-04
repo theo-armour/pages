@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="">
+	<meta name="date" content="2022-12-03">
+
+	<title>notesy</title>
+
+	<style>
+		body {
+			box-sizing: border-box;
+			font: 100% monospace;
+			margin: 0;
+		}
+
+		br {
+
+			margin: 0.5em 0;
+		}
+
+		h2 {
+			display: inline;
+			margin: 0;
+		}
+
+		img {
+			vertical-align: middle;
+		}
+
+		input {
+			vertical-align: middle;
+		}
+
+		#divContent {
+			padding: 0 0.5rem;
+		}
+	</style>
+</head>
+
+<body>
+
+	<main>
+		<h2>
+			<a id=aSource target="_blank" title="source code on GitHub"><img
+					src=https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg></a>
+			<a href="" id="aPath" title="Click this menu title to reload the file">
+				<span id=spnTitle></span><span id=spnVersion></span></a>
+
+			<button onclick=XGP.putFileToGitHub() title="Press Alt-S">putToGitHub</button>
+			<!-- <input type=checkbox onchange=XGP.autoSave(); id=chkAutoSave style=vertical-align:text-top>save</label> -->
+		</h2>
+
+		<div id=divMessage style=display:inline;></div>
+
+		<div id="divContent" contentEditable></div>
+
+	</main>
+
+	<script>
+
+		// [X]MLHTTPRequest [G]itHub [P]ush (XGP)
+
+		var XGP = {
+
+			//base: "https://api.github.com/repos/pushme-pullyou/tootoo-2022/contents/test-cases/",
+			//path: "text-to-hack.md"
+
+			//base: "https://api.github.com/repos/theo-armour/qdata/contents/0-to-do/",
+			//file: "1-notes.md"
+
+			base: "https://api.github.com/repos/theo-armour/pages/contents/",
+			path: "README.md"
+
+		};
+
+
+		init = function ( url = XGP.base + XGP.path ) {
+
+			XGP.url = url
+
+			// spnTitle.innerHTML = XGP.url.split( "/" ).pop().split( "." ).shift();
+
+			// spnTitle.title = document.head.querySelector( "[ name=date ]" ).content;
+
+			// document.title = spnTitle.innerText;
+
+			//spnVersion.innerHTML = document.head.querySelector( "[ name=date ]" ).content;
+
+			XGP.accessToken = localStorage.getItem( "githubAccessToken" ) || "";
+
+			if ( !XGP.accessToken || XGP.accessToken === "" ) {
+
+				XGP.accessToken = prompt( "Enter GitHub Personal Access Token" );
+
+				localStorage.setItem( "githubAccessToken", XGP.accessToken );
+
+			}
+
+			window.addEventListener( "hashchange", XGP.onHashChange, false );
+
+			window.addEventListener( "beforeunload", XGP.checkForChange );
+
+			XGP.autoSave();
+
+			XGP.onHashChange();
+
+			// Use this??
+			// if ( location.protocol === "https:" ) {
+
+			// 	window.history.pushState( "", "", "../" + location.hash );
+
+			// }
+
+		};
+
+
+		test1 = () => location.hash = XGP.base + "sample.md";
+		test2 = () => location.hash = XGP.base + "concept.md";
+
+
+
+		XGP.setGitHubAccessToken = function () {
+
+			localStorage.setItem( "githubAccessToken", XGPinpAccessToken.value );
+
+		};
+
+
+
+		XGP.onHashChange = function () {
+
+			XGP.url = location.hash ? location.hash.slice( 1 ) : XGP.url;
+
+			XGP.fileName = XGP.url.split( "/" ).pop();
+
+			XGP.extension = XGP.fileName.split( "." ).pop();
+
+			console.log( "file", XGP.fileName );
+
+			XGP.requestFile();
+
+		};
+
+
+
+		XGP.requestFile = function ( event ) {
+
+			//console.log( "XGP.url ", XGP.url );
+
+			const xhr = new XMLHttpRequest();
+			xhr.open( "GET", XGP.url, true );
+			xhr.setRequestHeader( "Authorization", "token " + XGP.accessToken );
+			xhr.responseType = "json";
+			xhr.onerror = ( xhr ) => console.log( "error:", xhr );
+			//xhr.onprogress = ( xhr ) => console.log( "bytes loaded:", xhr.loaded );
+			xhr.onload = XGP.onLoad;
+			xhr.send( null );
+
+		};
+
+
+
+		XGP.onLoad = function ( xhr ) {
+			//console.log( "response", xhr );
+
+			// https://developer.mozilla.org/en-US/docs/Glossary/Base64#solution_1_%E2%80%93_escaping_the_string_before_encoding_it
+			// console.log( "content", xhr.target.response );
+			// const content =  atob( xhr.target.response.content );
+			const content = decodeURIComponent( escape( window.atob( xhr.target.response.content ) ) );
+
+			if ( XGP.extension === "md" || XGP.extension === "js" ) {
+
+				divContent.contentEditable = true;
+				divContent.innerText = content;
+
+			} else {
+
+				divContent.contentEditable = false;
+				divContent.innerHTML = content;
+
+			}
+
+			XGP.content = content;
+
+			divMessage.innerText = `Get:${ new Date().toLocaleString() } bytes:${ content.length.toLocaleString() }`;
+
+			aSource.href = xhr.target.response.html_url;
+
+			spnTitle.innerHTML = XGP.url.split( "/" ).pop().split( "." ).shift();
+
+			spnTitle.title = document.head.querySelector( "[ name=date ]" ).content;
+
+			aPath.href = "#" + XGP.url;
+
+			document.title = spnTitle.innerText;
+
+		};
+
+
+
+		XGP.autoSave = function () {
+
+			if ( !XGP.saveInterval ) {
+
+				XGP.saveInterval = setInterval( XGP.getSha, 5000 ); // in ms
+
+			} else {
+
+				clearInterval( XGP.saveInterval );
+				XGP.saveInterval = null;
+
+			}
+
+		};
+
+
+
+		XGP.getSha = function () {
+
+			//console.log( "XGP.content.length", XGP.content.length,  );
+
+			if ( XGP.url === "" ) { alert( "No URL" ); return; }
+
+			if ( XGP.content.length === divContent.innerText.length ) return;
+
+			if ( !XGP.url.endsWith( "md" ) ) return;
+
+			//console.log( "saving" );
+
+			const xhr = new XMLHttpRequest();
+			xhr.open( "GET", XGP.url, true );
+			xhr.setRequestHeader( "Authorization", "token " + XGP.accessToken );
+			xhr.responseType = "json";
+			xhr.onerror = ( xhr ) => console.log( "error:", xhr );
+			//xhr.onprogress = ( xhr ) => console.log( "bytes loaded:", xhr.loaded );
+			xhr.onload = ( xhr ) => {
+				//console.log( "", xhr );
+				XGP.sha = xhr.target.response.sha;
+				XGP.putFileToGitHub();
+			};
+			xhr.send( null );
+
+		};
+
+
+
+		XGP.putFileToGitHub = function () {
+
+			XGP.content = divContent.innerText;
+
+			const codedData = window.btoa( unescape( encodeURIComponent( XGP.content ) ) ); // encode the string
+
+			// !!! https://developer.mozilla.org/en-US/docs/Web/API/btoa
+
+			const body = JSON.stringify( {
+				"branch": XGP.branch,
+				"content": codedData,
+				"message": `add to file`,
+				"sha": XGP.sha
+
+			} );
+
+			xhr = new XMLHttpRequest();
+			xhr.open( "PUT", XGP.url, true );
+			xhr.setRequestHeader( "Authorization", "token " + XGP.accessToken );
+			xhr.setRequestHeader( "Content-Type", "application/json" );
+			xhr.onerror = ( xhr ) => console.log( "error:", xhr );
+			//xhr.onprogress = ( xhr ) => console.log( "bytes loaded:", xhr.loaded );
+			xhr.send( body );
+
+			divMessage.innerText = `Put: ${ new Date().toLocaleString() } bytes:${ XGP.content.length.toLocaleString() }`;
+
+		};
+
+
+
+		XGP.checkForChange = function ( event ) {
+
+			if ( divContent.innerText === XGP.content ) { return; }
+
+			if ( !XGP.url.endsWith( "md" ) ) return;
+
+			console.log( "file", XGP.fileName );
+
+			event.preventDefault();
+
+			event.returnValue = "";
+
+		};
+
+
+
+		if ( window.self === window.top ) {
+
+			init();
+
+		}
+
+	</script>
+
+</body>
+
+</html>
