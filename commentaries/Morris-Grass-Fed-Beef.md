@@ -30,7 +30,6 @@ Rancho Santa Margarita >> wikipedia
 * https://twitter.com/search?q=%23grassfed
 
 
-
 ## Morris
 
 * https://morrisgrassfed.com/
@@ -119,7 +118,7 @@ The Grass
 Feed
 
 * https://www.google.com/books/edition/Nutrient_Requirements_of_Beef_Cattle/W0UxDAAAQBAJ?hl=en
-* https://en.wikipedia.org/wiki/Agricultural_Marketing_Service ~ "grass-ded" designation stopped in 2016
+* https://en.wikipedia.org/wiki/Agricultural_Marketing_Service ~ "grass-fed" designation stopped in 2016
 * Grass-finished
 * Silage, Hay, Haylage
 * https://en.wikipedia.org/wiki/Forage
