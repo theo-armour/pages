@@ -1,6 +1,14 @@
-# Read Me
+# Technology Read Me
 
 tags #tech
+
+## Links
+
+* https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing
+  * https://news.ycombinator.com/item?id=33846104
+* https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
+  * https://news.ycombinator.com/item?id=33849068
+
 
 ## Categories
 

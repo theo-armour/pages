@@ -68,7 +68,3 @@ Old school
 * https://github.com/opentecture
 
 
-### Related to FOSS
-
-* https://opensource.guide/
-* https://readmetips.github.io/

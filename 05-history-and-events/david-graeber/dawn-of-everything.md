@@ -23,18 +23,6 @@ tags #history #graeber #dawnOfEverything #anthropology
 * https://en.wikipedia.org/wiki/The_Dawn_of_Everything ~ a good summary to start with
 
 
-## David Graeber
-
-* https://en.wikipedia.org/wiki/David_Graeber
-* https://en.wikipedia.org/wiki/Bullshit_Jobs
-* https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years
-
-
-### https://davidgraeber.org/
-
->The David Graeber Institute provides a platform for projects related both directly to David Graeber’s legacy, developing his ideas and for projects that will take on a life of their own, carrying on and continuing his work.
-
-
 ## Reviews
 
 * https://www.journals.uchicago.edu/doi/10.1086/720603
@@ -53,6 +41,7 @@ Crits
 lists of reviews
 
 * https://dawnofeverything.industries/reviews
+
 
 ## Places
 
@@ -73,12 +62,12 @@ We are locked in by our vocabulary
 
 Hobbes: best: modest control - but destiny
 
-Rousseau: minor tinkering ~ but sme free will
+Rousseau: minor tinkering ~ but some free will
 
 Rousseau & Hobbes: The path of least resistance leads the the hierarchical bureaucratic charismatic state
 Gaeber: nope, that'a a myth
 
-Pinker: more of the same ~ cities bring safety
+Pinker: more of the same as R & H ~ cities bring safety
 
 ## Definitions
 
@@ -94,15 +83,57 @@ Long Distance Interaction ~ p 23
 
 ## Chapter 1 ~ page 1 ~
 
-Most of history is lost.
-Are we good or Are we evil
+Most of history is lost
+
+The world seems to be in a mess; was it alwalys like this?
+
+Are we innately good or are we innately evil
+
+Actually nonsensical question. We don't ask animals if they are good.
 
 We were godlike, but now are in a fallen state
-* Child like innocence until agricultural revolution
-  * Then patriarchy, armies, executions, bureaucrats
+
+First: Jean-Jacques Rousseau ~ _Discourse on the Origin and the Fondation of Inequality among Mankind_ 1754
+
+Child-like innocence until agricultural revolution
+Then civilization, state
+Then patriarchy, armies, executions, bureaucrats
+
+Thomas Hobbes ~ _Leviathan_ ~ 1651
+
+Primitive life: nasty, short and brutish
+
+Progess: courts, bureaucracy, police
+
+Human society is founded on collective repression - especially when large numbers
+
 history is evolutionary
 
 question of history: not equal access to resources but equal capacity to contribute to decisions how to live together
+
+Graeber: Most accounts of history
+
+* Simply isn't true
+* Has dire political implications
+* Makes the past needlessly dull
+
+Hunter gatherers
+
+* Bold social experiments
+* Multitude of political forms
+* Absence of private property
+* Free of ranks and hierarchies
+
+#### Truth
+
+Need Radical shift
+
+Forget: Social evolution, stages of development
+
+Revisit: indigenous critique ~ take seriously social thought that is non-European
+
+#### Politics
+
 
 Diamond: Only primordial are egalitarian
 
