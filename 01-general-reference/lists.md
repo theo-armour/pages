@@ -16,7 +16,7 @@ tags #list
 ## GitHub
 
 * 2022-10-03 ~ https://github.com/minimaxir/hacker-news-undocumented
-  * https://news.ycombinator.com/item?id=33076053
+* https://news.ycombinator.com/item?id=33076053
 * https://dev.to/nehasoni__/top-10-useful-github-repos-for-self-development-25c0
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://github.com/pawelborkar/awesome-repos
