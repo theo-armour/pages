@@ -1,17 +1,7 @@
 # Sustainable Agriculture
 
-## Grassfed
-
-* https://www.reddit.com/r/grassfed/
-* https://twitter.com/search?q=%23grassfed
-* https://twitter.com/search?q=%23grassfed
-* https://www.americangrassfed.org/
-* https://grassfedexchange.com/
-
-
-## Publications
-
 * https://en.wikipedia.org/wiki/Agroecology_and_Sustainable_Food_Systems
+
 
 ## Sustainability
 

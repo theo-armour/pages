@@ -1,7 +1,4 @@
-# Commentaries
+# Commentaries Read Me
 
-## People of Interest
 
-* Tm MacWright
 
-https://macwright.com/about/
