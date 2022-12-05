@@ -1,7 +1,6 @@
 # Pages Read Me
 
 
-
 2022-12-04
 
 ## Concept
