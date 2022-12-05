@@ -1,4 +1,4 @@
-# Patrick Winston
+# Patrick Winston ~ great speeches
 
 * https://en.wikipedia.org/wiki/Patrick_Winston
 * http://people.csail.mit.edu/phw/index.html
