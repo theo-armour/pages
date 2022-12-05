@@ -2,23 +2,66 @@
 
 tags #tech
 
-## Links
 
-* https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing
-  * https://news.ycombinator.com/item?id=33846104
-* https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
-  * https://news.ycombinator.com/item?id=33849068
-
+https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
 ## Categories
 
 Main categories: Technology and Applied sciences
-AgricultureAgronomyArchitectureAutomationBiotechnologyCartographyChemical engineeringCommunication Media studiesTelecommunicationsConstructionControl theoryDesignDigital divideEarthquake engineeringEnergyErgonomicsFirefightingFire preventionForensic scienceForestryIndustryInformation scienceInternetManagementManufacturingMarketingMedicine Unsolved problems in neuroscienceMetalworkingMicrotechnologyMilitary scienceMiningNanotechnologyNuclear technologyOpticsPlumbingRoboticsSound technologyTechnology forecastingTools
-ComputingAppsArtificial intelligenceClasses of computersCompaniesComputer architectureComputer modelComputer engineeringComputer scienceComputer securityComputing and societyDataEmbedded systemsFree softwareHuman–computer interactionInformation systemsInformation technologyInternetMobile webLanguagesMultimediaNetworks (Industrial)Operating systemsPlatformsProduct lifecycle managementProgrammingReal-time computingSoftwareSoftware engineeringUnsolved problems in computer science
-ElectronicsAvionicsCircuitsCompaniesConnectorsConsumer electronicsDigital electronicsDigital mediaElectrical componentsElectronic designElectronics manufacturingEmbedded systemsIntegrated circuitsMicrowave technologyMolecular electronicsWater technologyOptoelectronicsQuantum electronicsRadio-frequency identification RFIDRadio electronicsSemiconductorsSignal cablesSurveillanceTelecommunications
+
+Agriculture
+Agronomy
+Architecture
+Automation
+Biotechnology
+Cartography
+Chemical engineering
+Communication Media studiesTelecommunicationsConstructionControl theoryDesignDigital divideEarthquake engineeringEnergyErgonomicsFirefightingFire preventionForensic scienceForestryIndustryInformation scienceInternetManagementManufacturingMarketingMedicine Unsolved problems in neuroscience
+Metalworking
+Microtechnology
+Military scienceMiningNanotechnologyNuclear technologyOpticsPlumbingRoboticsSound technologyTechnology forecastingTools
+
+Computing
+Apps
+Artificial intelligence
+Classes of computers
+Companies
+Computer architecture
+Computer model
+Computer engineering
+Computer science
+Computer security
+Computing and society
+Data
+Embedded systems
+Free software
+Human–computer interaction
+Information systems
+Information technology
+Internet
+Mobile web
+Languages
+Multimedia
+Networks (Industrial)
+Operating systems
+Platforms
+Product lifecycle management
+Programming
+Real-time computing
+Software
+Software engineering
+Unsolved problems in computer science
+
+
+Electronics
+AvionicsCircuitsCompaniesConnectorsConsumer electronicsDigital electronicsDigital mediaElectrical componentsElectronic designElectronics manufacturingEmbedded systemsIntegrated circuitsMicrowave technologyMolecular electronicsWater technologyOptoelectronicsQuantum electronicsRadio-frequency identification RFIDRadio electronicsSemiconductorsSignal cablesSurveillanceTelecommunications
+
 EngineeringAerospace engineeringBioengineeringChemical engineeringCivil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
-TransportBy countryAviationCarsCyclingPublic transportRail transportRoad transportShippingSpaceflightVehiclesWater transport
+
+Transport
+By countryAviationCarsCyclingPublic transportRail transportRoad transportShippingSpaceflightVehiclesWater transport
 See also: Technology timelines
+
 
 ## About Computing
 
@@ -31,3 +74,9 @@ Glamorous Toolkit is a multi-language notebook. A fancy code editor. A software 
 * https://gtoolkit.com/
   * https://news.ycombinator.com/item?id=33267518
 
+## Links
+
+* https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing
+  * https://news.ycombinator.com/item?id=33846104
+* https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
+  * https://news.ycombinator.com/item?id=33849068

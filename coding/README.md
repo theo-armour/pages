@@ -14,6 +14,12 @@ APIs, Libraries, Languages, Markup, Styling
 * https://github.com/public-apis/public-apis
 * https://dev.to/shreyazz/make-your-own-api-under-30-lines-of-code-4doh
 
+### Credential Management API
+
+* https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API
+* https://medium.com/@pierreprinetti/javascript-credential-management-api-for-passwords-99d483f227a6
+
+
 ### File System Access API
 
 simplifying access to local files
@@ -28,6 +34,7 @@ The File System Access API allows web apps to read or save changes directly to f
 Discover the best online communities ~ Curated lists of the top online communities to join
 
 * https://thehiveindex.com/
+
 
 ## Documentation
 
@@ -47,6 +54,7 @@ No server code needed. Focus on things that matter!
 GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor
 
 * https://news.ycombinator.com/item?id=28430808
+
 
 ## Engineering
 
@@ -104,6 +112,7 @@ A set of free webtools for your daily usage
 CubeWeaver ~ $$$ + free ~ a collaborative multidimensional web-based spreadsheet designed
 
 * https://cubeweaver.com/
+
 
 ## Patterns
 
