@@ -7,12 +7,12 @@
 
 
 Expertise
-	Raters must consider the expertise of the creator of the Main Content (MC)
+ Raters must consider the expertise of the creator of the Main Content (MC)
 
 Authoritativeness
-	Raters must consider the authoritativeness of the creator of the MC, the MC itself, and the website
+ Raters must consider the authoritativeness of the creator of the MC, the MC itself, and the website
 
 Trustworthiness
-	Raters must consider the trustworthiness of the creator of the MC, the MC itself, and the website
+ Raters must consider the trustworthiness of the creator of the MC, the MC itself, and the website
 
 * https://www.safaridigital.com.au/blog/google-eat-explained/

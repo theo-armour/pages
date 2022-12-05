@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
 ## Categories
 
-Main categories: Technology and Applied sciences
+### Main categories: Technology and Applied sciences
 
 Agriculture
 Agronomy
@@ -21,9 +21,9 @@ Metalworking
 Microtechnology
 Military scienceMiningNanotechnologyNuclear technologyOpticsPlumbingRoboticsSound technologyTechnology forecastingTools
 
-Computing
+### Computing
 Apps
-Artificial intelligence
+**Artificial intelligence**
 Classes of computers
 Companies
 Computer architecture
@@ -40,7 +40,7 @@ Information systems
 Information technology
 Internet
 Mobile web
-Languages
+**Languages**
 Multimedia
 Networks (Industrial)
 Operating systems
@@ -48,17 +48,40 @@ Platforms
 Product lifecycle management
 Programming
 Real-time computing
-Software
+**Software**
 Software engineering
 Unsolved problems in computer science
 
 
-Electronics
-AvionicsCircuitsCompaniesConnectorsConsumer electronicsDigital electronicsDigital mediaElectrical componentsElectronic designElectronics manufacturingEmbedded systemsIntegrated circuitsMicrowave technologyMolecular electronicsWater technologyOptoelectronicsQuantum electronicsRadio-frequency identification RFIDRadio electronicsSemiconductorsSignal cablesSurveillanceTelecommunications
+### Electronics
+Avionics
+Circuits
+Companies
+Connectors
+Consumer electronics
+Digital electronics
+Digital media
+Electrical components
+Electronic design
+Electronics manufacturing
+Embedded systems
+Integrated circuits
+Microwave technology
+Molecular electronic
+sWater technology
+Optoelectronics
+Quantum electronics
+Radio-frequency identification RFID
+Radio electronics
+Semiconductors
+Signal cables
+Surveillance
+Telecommunications
 
-EngineeringAerospace engineeringBioengineeringChemical engineeringCivil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
+### Engineering
+Aerospace engineeringBioengineeringChemical engineeringCivil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
 
-Transport
+### Transport
 By countryAviationCarsCyclingPublic transportRail transportRoad transportShippingSpaceflightVehiclesWater transport
 See also: Technology timelines
 
