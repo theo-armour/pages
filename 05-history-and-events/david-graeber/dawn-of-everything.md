@@ -179,7 +179,7 @@ Older Scheme
 * Chiefdoms
 * States
 
-### Clans p455/6  ~ 66%
+### Clans p455/6 ~ 66%
 
 Long text on how indigenous Americans created and un-created state-like societies ~ based on lucid conscious critique
 
