@@ -21,10 +21,15 @@ Generally speaking, an authoritative source is a highly trusted and reliable pla
 * http://owll.massey.ac.nz/academic-writing/identifying-academic-sources.php
 * http://owll.massey.ac.nz/academic-writing/what-is-academic-writing.php
 
-## CRAAP Test
+See also Google E-A-T “Expertise, authoritativeness, and trustworthiness"
 
-* https://tacomacc.libguides.com/credible
+
+## CRAAP Test ~ Currency Relevance Authority Accuracy Purpose
+
+* https://en.wikipedia.org/wiki/CRAAP_test
 * http://www.csuchico.edu/lins/handouts/eval_websites.pdf
+* https://researchguides.ben.edu/source-evaluation
+* https://tacomacc.libguides.com/credible
 
 
 ## Wikipedia:Core content policies

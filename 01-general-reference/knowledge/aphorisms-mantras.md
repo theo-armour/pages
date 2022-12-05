@@ -1,6 +1,6 @@
 # Aphorisms
 
-tags #rhetoric #epistemology #knowledge #virtue
+tags #rhetoric #epistemology #knowledge #virtue #saying #aphorism #lists
 
 * https://en.wikipedia.org/wiki/Aphorism
 
@@ -99,6 +99,7 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 * Alphonse & Gaston
 * Be good and you will be really lonely
 * Be good and you'll be very bored
+* Growing old is like being eaten to death by a goldfish
 
 ## Ayodeji Awosika
 
