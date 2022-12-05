@@ -240,7 +240,7 @@ Long text on how indigenous Americans created and un-created state-like societie
 
 ## Chapter 12 p493 ~ 71%
 
-#### hopewell interaction sphere
+## hopewell interaction sphere
 
 * https://education.nationalgeographic.org/resource/intriguing-interactions
 * https://en.wikipedia.org/wiki/Hopewell_tradition
