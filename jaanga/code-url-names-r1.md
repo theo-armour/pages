@@ -3,7 +3,6 @@
 <input onclick=window.location.href='https://github.com/jaanga/jaanga.github.io/tree/master/documents/jaanga-practice-notes/'; type=button  value='You are now in a GitHub web page view - Click this button to view this read me file as source code' />
 
 
-
 ## URL Naming Conventions
 
 Use suggestions such as those provided in the following articles for naming your repositories, folders and files:
@@ -32,10 +31,4 @@ If you know the URL is all lower case this can speed things up and reduce errors
 
 Another very good reason is that some operating systems differentiate between the case of folder and file names - and others do not.
 If you stick to lower case you may simplify the process of moving files from one OS to another OS.
-  
-
-
-
-
-
 
