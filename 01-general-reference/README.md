@@ -22,7 +22,7 @@ Directories online
 Encyclopedias online
 Glossaries
 Handbooks and manuals
-Lists
+**Lists**
 Medical manuals
 Reference book stubs
 Reference works in the public domain
@@ -43,7 +43,8 @@ Grammar
 Government agencies
 Indices
 Information
-Knowledge
+**Knowledge**
+* Note-taking
 Letters
 Libraries digital
 Library cataloging and classification

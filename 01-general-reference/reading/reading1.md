@@ -2,6 +2,11 @@
 
 > Reading is sometimes an ingenious device for avoiding thought. Sir Arthur Helps 1813-1875
 
+
+## https://www.newyorker.com/culture/cultural-comment/what-we-gain-from-a-good-bookstore
+
+* https://news.ycombinator.com/item?id=32367297
+
 ## George Orwell ~ Bookshop memories
 
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/bookshop-memories/

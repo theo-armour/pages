@@ -1,5 +1,6 @@
 # Categories
 
+philosophy > metaphysics > categorization
 
 ## New
 

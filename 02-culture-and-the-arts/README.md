@@ -1,4 +1,34 @@
-# Media Read Me
+# Culture Arts Read Me
+
+Main categories: Culture and The arts
+
+Culture and Humanities
+Classics
+Critical theoryCultural anthropologyFolkloreFood cultureFood and drinkLanguageLiteratureMuseologyMythologyPhilosophy
+Popular culture
+**Fads** ~ trends
+
+Science and cultureTraditions
+
+The arts and Entertainment
+Arts and craftsCelebrityCensorship in the artsFestivalsHumorLiteratureMuseumsPartiesPoetry
+
+Performing arts
+CircusesDanceFilmMusicOperaStorytellingTheatre
+
+Visual arts
+ArchitectureComicsCraftsDesignDrawingFilm AnimationNew media artPaintingPhotographySculpture
+
+Games and Toys
+Board gamesCard gamesDollsPuppetryPuzzlesRole-playing gamesVideo games
+
+Sports and Recreation
+Air sportsAmerican footballAssociation footballAuto racingBaseballBasketballBoatingBoxingCanoeingCricketCyclingExerciseFishingGolfGymnasticsHobbiesHorse racingIce hockeyLacrosseOlympic GamesRugby leagueRugby unionSailingSkiingSwimmingTennisTrack and fieldWalking trailsWater sportsWhitewater sports
+
+Mass media
+BroadcastingFilmInternetMagazinesNewspapersPublicationsPublishingTelevisionRadio
+
+## Media
 
 * https://ellen-heinrichs.medium.com/cha-ching-five-insights-into-how-constructive-journalism-pays-off-d7bcf5d1b0f9
 * [https://news.ycombinator.com/item?id=28413601](https://news.ycombinator.com/item?id=28413601)

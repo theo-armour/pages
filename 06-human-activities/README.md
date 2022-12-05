@@ -1,5 +1,54 @@
 # Human Activities read me
 
+## Human activities
+Activism
+Agriculture
+**Arts**
+AviationCommemoration
+**Communication**
+* Conversation
+* Email
+Crime
+Design
+Education
+Entertainment
+Fictional activities
+Fishing
+Food and drink preparation
+**Government**
+Hunting
+Industry
+Leisure activities
+Navigation
+Observation
+Performing arts
+Physical exercise
+Planning
+**Politics**
+Recreation
+Religion
+Human spaceflight
+Sports
+Trade
+**Transport**
+Travel
+Underwater human activities
+Underwater diving
+War
+Work
+
+## Impact of human activity
+Human impact on the environment
+* Climate change
+* Nature conservation
+* Deforestation
+* **Environmentalism**
+  * **SDGs**
+* Global warming,
+* Pollution
+Human overpopulation
+Urbanization
+
 ## Web3
 
 * https://web3isgoinggreat.com/

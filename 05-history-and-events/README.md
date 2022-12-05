@@ -1,5 +1,20 @@
 # History and Events Read Me
 
+https://en.wikipedia.org/wiki/Category:History
+
+
+Main categories: History and Events
+By period
+By topic Science
+Religion
+Historiography
+Timelines
+
+History by location
+By continent Africa Asia Europe America
+By regionN orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
+By country By cityE mpires
+
 ## Pekka Johannes Hämäläinen
 
 * https://en.wikipedia.org/wiki/Pekka_H%C3%A4m%C3%A4l%C3%A4inen_(historian)
