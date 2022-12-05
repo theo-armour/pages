@@ -1,19 +1,32 @@
 # History and Events Read Me
 
-https://en.wikipedia.org/wiki/Category:History
+tags #history #time
 
+## Wikipedia
+
+* https://en.wikipedia.org/wiki/Category:History
+* https://en.wikipedia.org/wiki/Category:Fields_of_history
 
 Main categories: History and Events
 By period
-By topic Science
+
+By topic
+Science
 Religion
 Historiography
 Timelines
 
 History by location
-By continent Africa Asia Europe America
-By regionN orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
-By country By cityE mpires
+* By continent Africa Asia Europe America
+* By regionN orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
+* By country By city Empires
+
+## Time
+
+* https://en.wikipedia.org/wiki/Time
+* https://en.wikipedia.org/wiki/Category:Time
+* https://en.wikipedia.org/wiki/Timeline
+
 
 ## Pekka Johannes Hämäläinen
 
