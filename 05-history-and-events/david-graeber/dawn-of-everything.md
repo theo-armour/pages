@@ -2,7 +2,6 @@
 
 tags #history #graeber #dawnOfEverything #anthropology
 
-2022-11-29 p475
 
 >Dawn of Everything - A New History of Humanity
 
@@ -81,50 +80,61 @@ Long Distance Interaction ~ p 23
 * Traveling healers and entertainers
 * Women's gambling
 
-## Chapter 1 ~ page 1 ~
 
-Most of history is lost
+## Chapter 1 ~ page 1 ~ 1%This is not a book about the origins of inequality.
 
-The world seems to be in a mess; was it alwalys like this?
+This is not a book about the origins of inequality
 
-Are we innately good or are we innately evil
+This is the right time for metamorphosis, of fundamental principles and symbols. Jung
+
+Most of history is lost. Little consequence for most people..
+
+The world seems to be in a mess; was it always like this?
+
+Theological question: Are we innately good or are we innately evil
 
 Actually nonsensical question. We don't ask animals if they are good.
 
-We were godlike, but now are in a fallen state
+Original sin. We were godlike, but now are in a fallen state
 
-First: Jean-Jacques Rousseau ~ _Discourse on the Origin and the Fondation of Inequality among Mankind_ 1754
+First: Jean-Jacques Rousseau ~ _Discourse on the Origin and the Foundation of Inequality among Mankind_ 1754
 
 Child-like innocence until agricultural revolution
 Then civilization, state
 Then patriarchy, armies, executions, bureaucrats
 
+Only other offer, even worse
+
 Thomas Hobbes ~ _Leviathan_ ~ 1651
 
-Primitive life: nasty, short and brutish
+Primitive life: nasty, short and brutish, repression of basic instincts.
 
-Progess: courts, bureaucracy, police
+Always: Alpha male, hierarchy and domination come., cynical self interest
+Progress: courts, bureaucracy, police
 
 Human society is founded on collective repression - especially when large numbers
 
-history is evolutionary
+history is evolutionary: wrong!
 
-question of history: not equal access to resources but equal capacity to contribute to decisions how to live together
+We don't like these choices!
 
 Graeber: Most accounts of history
 
 * Simply isn't true
 * Has dire political implications
-* Makes the past needlessly dull
+* Makes the past needlessly dull ~ Actually more playful
 
-Hunter gatherers
+Hunter gatherers : bold social experiments.
 
+Agriculture relatively free of ranks and hierarchies.
+
+p 4
 * Bold social experiments
 * Multitude of political forms
 * Absence of private property
 * Free of ranks and hierarchies
 
-#### Truth
+question of history: not equal access to resources but equal capacity to contribute to decisions how to live together
 
 Need Radical shift
 
@@ -132,33 +142,77 @@ Forget: Social evolution, stages of development
 
 Revisit: indigenous critique ~ take seriously social thought that is non-European
 
-#### Politics
+### Why both the Hobbesian and Rousseauian versions of human history have dire political implications
 
+Reussaeau: Humankind descended To send it into inequality from an original state of egalitarian innocence.
+
+Modern thinking: even if it's unjust, a bit of tinkering might make it work.
+
+Palatable to the rich.But to actual reformers, no solution is evident.
 
 Diamond: Only primordial are egalitarian
 
 Hierarchy is inevitable
 
-Small groups not necessarily egalitarian; large groups must have rulers or bureaucracies
+Small groups not necessarily egalitarian; large groups must have rulers or bureaucracies.
 
+Cubing in a gallatin society might be possible, but only if lived in a tiny band of foragers.
+
+The ultimate question of human history is not equal access to material resources.But our.Equal capacity to contribute to decisions about how to live together.
+
+We are projects of collective self creation.We must treat people from the beginning as a managership, intelligent, playful creatures who deserve to be understood as such?
+
+### Some brief examples of why received understandings of the broad sweep of human history are mostly wrong.Or the eternal return of Jean Jacques Rousseau.
+
+Fukuyama : Haunting bands very egalitarian.
 Pinker: pre-state people were violent
 
+For both, the invention of Agriculture puts an end to equality
+
+Graeber: There is no reason to believe that small groups were egalitarian, or that large ones must necessarily have kings presidents or even bureaucracies.
+
+p14
 Early humans nurturing and caring
 
 Early life more complex than modern theorist would guess
 
-Democracy not liked befor 19th C
+p17
+Democracy not liked before 19th C
 
 Has Western civilization made life better?
 
 Impoverished history ~ simplification ~ reductionism ~ dulled down
 
+p18
+People return to tribal life
+
+### How to conventional narrative of human history is not only wrong, but quite needlessly dull
+
+Standard history reduces people to cardboard stereotypes.
+
+When we impoverished history, we impoverished our sense of possibility.
+
+p22 primitive trade
+
 Goods travel without market economy
 
+Long distance interruption spheres
+* Dreams or vision quests
+* traveling healers and entertainers.
+* Women's gambling
+
 Guesses we make are often far less interesting
+
+### On What's To Follow
+
+New science of history
+
 Answers often unexpected and more playful
+
 Foundation for a new world history
-Origins of social inequality: not the biggest question
+Something has been lost
+Discover right questions
+"What is the origin of social inequality?": if not the biggest question, then what is?
 Move from European thinkers to indigenous thinkers
 
 ## Chapter 2 ~ p 27 ~ 4%
