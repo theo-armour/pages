@@ -132,7 +132,7 @@ Moment Improv Theatre, 533 Sutter Street, 2nd Floor, San Francisco, CA 94102
 
 > Every Secret Improv performance is a unique, fast paced, interactive, laugh out loud improv comedy experience!
 
-Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, a regular troupe of trained improvisers has been putting on this beloved late-night comedy show based largely on on-the-spot audience suggestions...the intimate space feels more like hanging out in your living room with friends. There's a full bar but no drink requirement, and free Oreos!"
+Secret Improv is the winner of SF Magazine's Best Comedy Show: "Since 2008, a regular troupe of trained improvisers has been putting on this beloved late-night comedy show based largely on on-the-spot audience suggestions...the intimate space feels more like hanging out in your living room with friends. There's a full bar but no drink requirement, and free Oreos!"
 
 > Free, all welcome, drop in, improv classes at St. Cyprian Church starting at 7pm to around 9:30 pm.
 2097 Turk Blvd, San Francisco, CA 94115
@@ -141,7 +141,7 @@ Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, 
 ## More
 
 * [Glossary of Stand Up Comedy Terms]( https://stand-upcomedy.com/glossary-of-stand-up-comedy-terms/ )
-	* https://news.ycombinator.com/item?id=19063053
+* https://news.ycombinator.com/item?id=19063053
 
 
 ***
