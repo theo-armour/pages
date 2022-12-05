@@ -13,7 +13,7 @@
 The Andy Warhol Case That Could Wreck American Art
 Without strong fair-use protections, a culture can’t thrive.
 * https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/
-  * https://news.ycombinator.com/item?id=33053286
+* https://news.ycombinator.com/item?id=33053286
 
 ## Accounts
 
