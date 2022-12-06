@@ -24,3 +24,8 @@ tags #future #fad #trend #time #history
 
 * https://en.wikipedia.org/wiki/List_of_emerging_technologies
 
+
+## Futures
+
+* https://semiwiki.com/eda/321247-a-crash-course-in-the-future-of-technology/
+  * https://news.ycombinator.com/item?id=33854173

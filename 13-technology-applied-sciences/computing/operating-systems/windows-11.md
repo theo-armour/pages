@@ -23,7 +23,10 @@ Maybe
 * Portable Apps
 * PDF Exchange Editor
 
+
+
 ### Lessons Learned
+
 Use Ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
 
 Don't forget DropBox takes forever.
@@ -34,6 +37,12 @@ Create a recovery drive in a USB drive
 * Needs 8GB
 
 win start > cmd (admin ) > sfc /snannow
+
+## keyboard reassign
+
+Not with surface 9!
+
+* https://support.microsoft.com/en-us/topic/mouse-and-keyboard-center-download-f5b10905-7887-eedb-2f1c-d0737a36a3b2
 
 
 ## Keyboard shortcuts in Windows
@@ -117,6 +126,7 @@ Wow!
 
 * https://www.microsoft.com/en-us/garage/workbench/
 
+Power Toys
 ### Power Toys
 
 * https://docs.microsoft.com/en-us/windows/powertoys/
@@ -125,5 +135,7 @@ Wow!
 * File Explorer add-ons enable preview pane rendering in File Explorer to display SVG icons (.svg) and Markdown (.md) file previews.
 
 ### SharpKeys
+
+2022-12-06 ~ Works on MicrosoftSurface keyboard
 
 * https://github.com/randyrants/sharpkeys/

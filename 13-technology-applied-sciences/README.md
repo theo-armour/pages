@@ -22,6 +22,7 @@ Microtechnology
 Military scienceMiningNanotechnologyNuclear technologyOpticsPlumbingRoboticsSound technologyTechnology forecastingTools
 
 ### Computing
+
 Apps
 **Artificial intelligence**
 Classes of computers
@@ -38,7 +39,7 @@ Free software
 Human–computer interaction
 Information systems
 Information technology
-Internet
+**Internet**
 Mobile web
 **Languages**
 Multimedia
@@ -79,7 +80,8 @@ Surveillance
 Telecommunications
 
 ### Engineering
-Aerospace engineeringBioengineeringChemical engineeringCivil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
+Aerospace engineeringBioengineeringChemical engineering
+Civil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
 
 ### Transport
 By countryAviationCarsCyclingPublic transportRail transportRoad transportShippingSpaceflightVehiclesWater transport

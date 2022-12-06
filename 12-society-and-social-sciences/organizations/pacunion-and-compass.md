@@ -17,7 +17,7 @@ https://www.pacificunion.com/
 * Compared to Comapass, the PacUnion site is much more oriented toward home owner and buyers than toward agents
 
 
-# Observations on the [compass.com]( https://compas.com ) web site
+# Observations on the [compass.com]( https://compass.com ) web site
 
 
 # Coding Aspects
@@ -108,7 +108,6 @@ Later:
 The code for the agents page and some of the other pages is very different than the code for the home page - and has a much better feel to it. The in-house development team is just eighteen people. It looks like most effort has gone into the apps and just some selected web pages.
 
 
-
 # Web Page Content
 
 I also browsed around the various pages and have these observations regarding the content
@@ -177,8 +176,4 @@ Navigation gets a bit complicated and the user experience is all a bit messy, bu
 * The business of getting and keeping agents is the paramount message
 
 The only service that Compass does not seem to offer to agents is web site design and hosting.
-
-
-
-
 

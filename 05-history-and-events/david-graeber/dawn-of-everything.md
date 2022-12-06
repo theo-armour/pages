@@ -21,6 +21,11 @@ tags #history #graeber #dawnOfEverything #anthropology
 * https://docdrop.org/download_annotation_doc/The-Dawn-of-Everything-by-David-Graeber-David-Wengrow-z-lib.-zmbbo.pdf
 * https://en.wikipedia.org/wiki/The_Dawn_of_Everything ~ a good summary to start with
 
+## Summary
+
+* https://paminy.com/book-summary-dawn-everything-david-graeber-david-wengrow-new-history-humanity/*
+* https://www.blinkist.com/en/books/the-dawn-of-everything-en
+* https://www.supersummary.com/the-dawn-of-everything/summary/
 
 ## Reviews
 
@@ -34,8 +39,13 @@ tags #history #graeber #dawnOfEverything #anthropology
 
 * https://www.theguardian.com/books/2021/oct/23/the-dawn-of-everything-by-david-graeber-and-david-wengrow-review-inequality-is-not-the-price-of-civilisation
 
+Long review
+
+* https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything
+
 Crits
 * https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
+* https://www.wsj.com/articles/the-dawn-of-everything-book-review-prehistoric-man-graeber-wengrow-wrong-from-the-start-11639168007
 
 lists of reviews
 
@@ -215,9 +225,74 @@ Discover right questions
 "What is the origin of social inequality?": if not the biggest question, then what is?
 Move from European thinkers to indigenous thinkers
 
-## Chapter 2 ~ p 27 ~ 4%
+## Chapter 2 ~ Wicked liberty ~ the indigenous critique and the myth of progress. ~ p 27 ~ 4%
 
-### Chapter 11 ~ p 441 ~ 63%
+Departure from pristine simplicity
+
+Great Man theory of history
+
+### In which we show how critiques of eurcentrism can backfire and end up turning aboriginal thinkers into soft puppets.
+
+Dijon: essay competition on the question: what is the origin of inequality among men, And is it authorized by natural law?
+
+Assumed inequality did have an origin and that there was a time when humans were equal, and that something happened to change the situation.
+
+Quite remarkable at a time of pecking orders and rituals of social deference.
+
+All search were men who had all their needs taken care of by servants.
+
+At a time when Europeans suddenly found themselves in control of the world and exposed to civilizations like China and India.
+
+All the new ideas became known as the enlightenment.
+
+Pretended ideas originated in Europe, but actually came from overseas. example,western bureaucracy models Chinese bureaucracy.
+
+Many ideas came from North America, but were reframed as projections.
+
+Americans developed a critique of Europe, which Europeans took seriously
+
+Social inequality would not have been understood in the middle ages. The word did not even exist as a concept.
+
+Equality arose out of debates on "natural law".
+
+Natural Based on simple societies. not Aztecs or Maya.Or income
+
+Middle ages had some idea of equality, egalitarianism.With festivals like Carnival Where the world was turned upside down?
+
+American intellectuals existed.This seems to have been denied.By Western historians.Should not be taken seriously. Cannot compare this Cicero or erasmus.
+
+The recent so many key enlightenment thinkers insisted that their ideals of individual liberty and political equality were inspired by Native American sources and examples. because it was true,
+
+### In which we consider what the inhabitants of New France made of their European invaders, Especially matters of generosity, combat sociability, material wealth, crime, punishment and Liberty ~ p37 ~ 6%
+
+Mi'kmaq:
+
+You are always fighting and quarreling among yourselves; we live peaceably. you are envious and are all the time slandering each other; you are thieves and deceivers. you are covetous and are neither generous nor kind; As for us, we.If we have a morsel bread, we share it with our neighbors.
+
+Personal freedom is inherently good
+
+Indigenous Americans attitudes are likely to be far closer to the readers own than 17th century European ones.
+
+Statesmen couldn't compel anyone to do anything they didn't wish to do
+
+### In which we show how Europeans learn from Native Americans about the connection between reason debate, personal freedoms and the refusal of arbitrary power ~ p44 ~ 7%
+
+### In which we introduce the Wendat philosopher statesman Kadiaronk and explain how his views On human nature and society took on new life in the salons of enlightenment in Europe, including an aside on the concept Schismogenesis ~ p48 ~ 7%
+
+### In which we explained that Demiurgic powers of ARJ Turgot and how he turned the indigenous Critique of European civilization on its head, laying the palaces for most modern views of social evolution., or how an argument about freedom became one about equality ~ p59 ~ 9%
+
+### How Jean Jacques Rousseau, having won one prestigious estate competition, then lost another (coming in over the permitted word length), but finally went on to Conquer the whole of human history ~ p63 ~ 10%
+
+### In which we consider relationships between the indigenous critiques, the myth of progress and the birth of the left ~ p67 ~ 10%
+
+### Beyond the myths of the stupid Savage by all these things matter so much for our project in this book ~ p71 ~11%
+
+
+## Chapter 3 ~ Unfreezing the Ice Age ~ p78 ~ 12%
+
+
+
+## Chapter 11 ~p 441 ~ 63%
 
 Indigenous critique ~
 
@@ -252,7 +327,4 @@ Yellow ~ statement
 Blue ~ opinion ~ background
 Red ~ counter point ~ opposed view
 Orange ~ Definition
-
-
-
 
