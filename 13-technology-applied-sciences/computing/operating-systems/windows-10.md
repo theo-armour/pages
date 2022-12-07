@@ -17,6 +17,7 @@
 * https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
 * https://www.windowscentral.com/best-windows-10-keyboard-shortcuts
 
+
 ## Quick Access
 
 * Drag items to new position using left menu
@@ -26,7 +27,6 @@
 * Use folders?
 
 https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/can-no-longer-reorder-quick-access-folders-in-list/255377fd-fce7-4523-b372-a22b838a656a#:~:text=Yes%2C%20you%20CAN%20re%2Dorder,the%20entries%20to%20another%20position.
-
 
 
 ## Dictation
@@ -60,8 +60,6 @@ function prompt {$null}
 https://lifehacker.com/how-to-turn-any-part-of-your-windows-desktop-into-a-gif-1825787640
 
 Problem Steps Recorder. Windows key PSR
-
-
 
 
 ### windows find

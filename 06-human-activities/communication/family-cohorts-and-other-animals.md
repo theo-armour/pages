@@ -18,19 +18,18 @@ My thoughts
 * Interactions are based in gatherings for eating and small talk surrounding traditional calendar events
 
 
-
 * https://www.canr.msu.edu/news/what_is_an_intentional_family
-	* intentions are light weight
+  * intentions are light weight
 * https://www.artofmanliness.com/articles/family-culture/
 * https://news.virginia.edu/content/uva-study-identifies-four-family-cultures-america
 
 
-## How do friendships come about?
+## How do friendships come about
 
 * https://www.merriam-webster.com/dictionary/cohort
-	* a group of individuals having a statistical factor (such as age or class membership) in common in a demographic study
+  * a group of individuals having a statistical factor (such as age or class membership) in common in a demographic study
 * https://en.wikipedia.org/wiki/Cohort
-	* a cohort is a group of subjects who share a defining characteristic (typically subjects who experienced a common event in a selected time period, such as birth or graduation).
+  * a cohort is a group of subjects who share a defining characteristic (typically subjects who experienced a common event in a selected time period, such as birth or graduation).
 
 ### Important cohorts in a life
 
@@ -63,7 +62,7 @@ Genes / Family
 
 * For infants and young children the family is the the prime cohort
 * With growth this primacy decreases
-	* Children very quickly take on the speech patterns of their school cohort
+  * Children very quickly take on the speech patterns of their school cohort
 * Eventually your birth family is just another cohort
 * Unlikely a parent would be in one of your cohorts if they were not your parent
 * Love of parents is a societal expectation
@@ -78,11 +77,11 @@ Genes / Family
 ### Intentionality of cohorts
 
 * Some cohorts have highly intentional aspects
-	* The volleyball team wants to reach the finals
-	* The Sunday barbecue neighbors want their local team to win
-	* The birth family wants to raise successful/happy progeny
-	* A group of workers desire to achieve a certain percentage sales growth in the next ninety days
-	* A high school class wants to graduate and go to college
+  * The volleyball team wants to reach the finals
+  * The Sunday barbecue neighbors want their local team to win
+  * The birth family wants to raise successful/happy progeny
+  * A group of workers desire to achieve a certain percentage sales growth in the next ninety days
+  * A high school class wants to graduate and go to college
 * For the most part relations are highly accidental - arising from being at the same place at the same time
 * The paramount dialogue is small talk
 
@@ -90,5 +89,5 @@ Genes / Family
 ### Links of Interest
 
 *Demographic Change and Parent-Child Relationships in Adulthood
-	* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4219735/
-	* the need for some types of help may be rare; that is, the need to draw on help from the family safety net does not arise often in the general population.
+ * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4219735/
+ * the need for some types of help may be rare; that is, the need to draw on help from the family safety net does not arise often in the general population.

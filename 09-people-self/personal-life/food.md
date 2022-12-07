@@ -39,8 +39,6 @@ Side effects
 * Could cause diarrhea / WebMD
 
 
-
-
 ## Cereal
 
 Horseradish on Bran Buds with high-protein almond milk- very interesting

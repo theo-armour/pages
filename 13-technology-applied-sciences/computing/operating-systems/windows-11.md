@@ -139,3 +139,11 @@ Power Toys
 2022-12-06 ~ Works on MicrosoftSurface keyboard
 
 * https://github.com/randyrants/sharpkeys/
+
+## Symbolic links Windows
+
+https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/
+
+In windows open a command line as Admin, and use the following command:
+
+mklink Link Target. This will create a (soft) symbolic link. Example: mklink C:\Development\cic.evaluate.antlr\JavaScript\src\Tests\ClarionExprParser.Debugger.txt C:\Development\cic.evaluate.antlr\Tests\ClarionExprParser_Debugger.txt
