@@ -18,7 +18,45 @@
 Main categories: Society and Social sciences
 
 Society
-ActivismBusinessCommunicationCrimeEducationEthnic groupsFamilyFinanceGlobalizationGovernmentHealthHomeIndustriesInfrastructureLawMass mediaMilitaryMoneyOrganizationsPeacePoliticsReal estateRightsWar
+Activism
+Business
+Communication
+CrimeEducation
+Ethnic groups
+Family
+Finance
+Globalization
+Government
+Health
+Home
+Industries
+Infrastructure
+Law
+Mass media
+Military
+Money
+Organizations
+Peace
+Politics
+Real estate
+Rights
+War
 
 Social sciences
-AnthropologyArchaeologyCultural studiesDemographicsEconomicsInformation scienceInternational relationsLinguisticsMedia studiesPolitical sciencePsychologyPublic administrationSexologySocial scientistsSociologySocial workSystems theory
+Anthropology
+Archaeology
+Cultural studies
+Demographics
+Economics
+Information science
+International relations
+Linguistics
+Media studies
+Political science
+Psychology
+Public administration
+Sexology
+Social scientists
+Sociology
+Social work
+Systems theory

@@ -9,20 +9,20 @@ This is about goals. this is not about
 ## Summary
 
 * Knowing ~ Perceive
-	* Outcome: Happiness ~ Health goals
-	* Owner: Personal goals ~ individual
-	* Time: short term
-	* Location: places, communication between places
+  * Outcome: Happiness ~ Health goals
+  * Owner: Personal goals ~ individual
+  * Time: short term
+  * Location: places, communication between places
 * Being ~ Judge ~ Family goals
-	* Outcome: Beauty - Spiritual goals ~
-	* Owner: family & friends & tribes & clans ~ social
-	* Time: medium term ~ people
-	* Location: on a person
+  * Outcome: Beauty - Spiritual goals ~
+  * Owner: family & friends & tribes & clans ~ social
+  * Time: medium term ~ people
+  * Location: on a person
 * Doing ~ Act ~ Career goals
-	* Outcome: Security - Money/finance goals
-	* Owner: society ~ global
-	* Time: long term ~ service, working, careers, recurring
-	* Location on a group of people
+  * Outcome: Security - Money/finance goals
+  * Owner: society ~ global
+  * Time: long term ~ service, working, careers, recurring
+  * Location on a group of people
 
 Plus the why for each
 
@@ -43,15 +43,15 @@ Does sustainability = security?
 ### Happiness ~ Personal
 
 * https://en.wikipedia.org/wiki/Happiness
-	>The term happiness is used in the context of mental or emotional states, including positive or pleasant emotions ranging from contentment to intense joy. It is also used in the context of life satisfaction, subjective well-being, eudaimonia, flourishing and well-being.
+ >The term happiness is used in the context of mental or emotional states, including positive or pleasant emotions ranging from contentment to intense joy. It is also used in the context of life satisfaction, subjective well-being, eudaimonia, flourishing and well-being.
 * https://en.wikipedia.org/wiki/Eudaimonia
-	>Eudaimonia is a Greek word commonly translated as 'happiness' or 'welfare'; however, more accurate translations have been proposed to be 'human flourishing, prosperity' and 'blessedness'
+ >Eudaimonia is a Greek word commonly translated as 'happiness' or 'welfare'; however, more accurate translations have been proposed to be 'human flourishing, prosperity' and 'blessedness'
 
 ### Beauty
 
 * https://en.wikipedia.org/wiki/Beauty
 * https://en.wikipedia.org/wiki/Beauty_(ancient_thought)
-	* Beauty = Good = Justice??
+  * Beauty = Good = Justice??
 
 ### Security
 
@@ -60,9 +60,9 @@ Security = freedoms from and rights to
 The feeling of being free from encountering harm and of having the right to prosper
 
 * https://en.wikipedia.org/wiki/Security
-	* https://en.wikipedia.org/wiki/Peace
-	* https://en.wikipedia.org/wiki/Safety
-	* https://en.wikipedia.org/wiki/Risk_management
+  * https://en.wikipedia.org/wiki/Peace
+  * https://en.wikipedia.org/wiki/Safety
+  * https://en.wikipedia.org/wiki/Risk_management
 
 
 ## Introduction
@@ -150,7 +150,7 @@ Health, Physical environment, Leisure, Fun & Recreation
 * Physical environment Housing
 * Cleanliness
 * Lifestyle
-	* travel, bucket list, clothes, appearance
+  * travel, bucket list, clothes, appearance
 * Quality of life
 * Delight
 * Admin
@@ -186,7 +186,7 @@ Spiritual, Family & Friends, Romance, Social
 
 * Esteem
 * Family
-	* time, money, dining, travel, activities
+  * time, money, dining, travel, activities
 * Friends neighborhood
 * Engagement Supportive
 * Stress management?
@@ -234,7 +234,7 @@ Career, Money, Business, Finance, Education, Personal Development
 * Business - theirs ?
 * Finances
 * Money
-	* Expenses, advisors, debt
+  * Expenses, advisors, debt
 * Education
 * Occupation
 * Planning Design Preparing Projects

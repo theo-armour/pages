@@ -1,5 +1,10 @@
 # Goals Read Me
 
+## Wikipedia
+
+
+## Notes
+
 * This is about end results, outcomes, the state of things
 
 This is mostly a landing page for snippets that will one day gp to wherever they are supposed to go
