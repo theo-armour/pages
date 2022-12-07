@@ -44,6 +44,9 @@ Long review
 * https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything
 
 Crits
+* https://peterturchin.com/cliodynamica/an-anarchist-view-of-human-social-evolution/
+* https://www.nybooks.com/articles/2021/12/16/david-graeber-digging-for-utopia/
+* https://www.nybooks.com/articles/2022/01/13/the-roots-of-inequality-an-exchange/
 * https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
 * https://www.wsj.com/articles/the-dawn-of-everything-book-review-prehistoric-man-graeber-wengrow-wrong-from-the-start-11639168007
 
