@@ -13,6 +13,13 @@ https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflm
 * https://www.spotvirtual.com/blog/why-we-use-babylonjs-instead-of-threejs-in-2022
 
 
+## WP plugin
+
+
+
+https://codesandbox.io/s/priceless-banzai-2yufxc?file=/src/App.js
+
+
 ## Shape 3D
 
 * https://stackoverflow.com/questions/49020699/how-to-draw-a-flat-shape-in-3-space-in-three-js

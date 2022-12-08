@@ -1,4 +1,4 @@
-# JavaScript Resources
+# JavaScript Read Me
 
 ## About
 

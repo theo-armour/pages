@@ -22,6 +22,12 @@ With Stable Diffusion, you may never believe what you see online again
 * https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
 * https://prompthero.com/
 
+## chatGPT
+
+* https://chat.openai.com/chat
+* https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
+* https://twitter.com/JacobWSmall/status/1600477115853737984
+
 ## Stable Diffusion
 
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
@@ -74,6 +80,9 @@ https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 * https://www.midjourney.com/app/
 * https://midjourney.gitbook.io/docs/
 
+## image edit
+
+* https://www.timothybrooks.com/instruct-pix2pix
 
 ## craiyon / dall-e mini
 

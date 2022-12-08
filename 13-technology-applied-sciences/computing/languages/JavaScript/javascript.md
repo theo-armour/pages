@@ -1,5 +1,12 @@
 # JavaScript
 
+## Wikipedia
+
+* https://en.wikipedia.org/wiki/JavaScript
+
+## basic
+
+
 	const div = document.body.appendChild( document.createElement( 'div' ) );
 	div.style.cssText = "width: 40rem; position: absolute; right: 10rem; top: 10rem;"
 

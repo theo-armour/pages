@@ -1,30 +1,49 @@
+# Array JavaScript
 
-# ARRAY
-
-# Array.from({ length: 10000 }, button.click);
-
-## Links of interest
-
-* https://1loc.dev/
-	* 222 JavaScript one liners
+tags #sw #array #js # JavaScript
 
 ## About
+
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-* http://www.w3schools.com/jsref/jsref_obj_array.asp
+* https://www.w3schools.com/jsref/jsref_obj_array.asp
 * https://www.w3schools.com/js/js_arrays.asp
 * https://www.codingame.com/playgrounds/6181/javascript-arrays---tips-tricks-and-examples
 * https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b
 
+## Links of interest
 
-## Tips
+* https://1loc.dev/
+  * 222 JavaScript one liners
+### JavaScript Data Structures - The Associative Array
 
-### Naming
+https://www.i-programmer.info/programming/javascript/1441-javascript-data-structures-the-associative-array.html
 
-* use "content" if talking about a single element
-* Using a plural indicates an array
+## Spread Syntax
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+
+## Multi Dim
+
+ var a = [];
+ for (i = 0; i < 4; i++) {
+   a[i] = [];
+   for (j = 0; j < 4; j++) {
+  a[i][j] = "[" + i + "," + j + "]";
+   }
+ }
+ console.log( a );
+
+ for ( var i = 0, item; item = a[i++]; ) { << not
+  // Do something with item
+ }
+
+see cookbook/array/array-pop-while-switch
+
 
 ## Methods
 
+### list
 * Array.length
 * Array.from()
 * Array.isArray()
@@ -67,14 +86,18 @@
 get Array​[@@species]
 
 
+### From
+
+Array.from({ length: 10000 }, button.click)
+
 Array.from( An array-like or iterable object to convert to an array )
 
-	AA.doSomethingWithObjOrArrayOfObj = function( obj ) {
+AA.doSomethingWithObjOrArrayOfObj = function( obj ) {
 
-		const obj = Array.isArray( obj ) ? obj : [ obj ];
+  const obj = Array.isArray( obj ) ? obj : [ obj ];
 
 
-- add them all...
+* add them all...
 
 a.concat(item[, itemN]) Returns a new array with the items added on to it.
 a.find( function ) http://www.w3schools.com/jsref/jsref_find.asp
@@ -98,125 +121,6 @@ a.next()
 
 return (foo || []).length;
 
-
-## Spread Syntax
-
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
-
-
-## Duplicates
-
-* https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
-
-arr = arr.filter( (value, index, array ) => array.indexOf (value) == index );
-
-
-
-## Min/Max
-
-console.log(Math.max(...array1));
-
-	var max_of_array = Math.max.apply( Math, array);
-	var min_of_array = Math.min.apply( Math, array);
-
-// http://stackoverflow.com/questions/1669190/javascript-min-max-array-values
-
-	min = arrayMin( elevations );
-	max = arrayMax( elevations );
-
-	function arrayMin( arr ) {
-
-		var len = arr.length, min = Infinity;
-
-		while ( len-- ) {
-
-			if ( arr[ len ] < min) { min = arr[ len ]; }
-
-		}
-
-		return min;
-
-	}
-
-	function arrayMax( arr ) {
-
-		var len = arr.length, max = -Infinity;
-
-		while ( len-- ) {
-
-			if (arr[len] > max) { max = arr[len]; }
-
-		}
-
-		return max;
-
-	}
-
-
-
-
-## Multi Dim
-
-	var a = [];
-	for (i = 0; i < 4; i++) {
-	  a[i] = [];
-	  for (j = 0; j < 4; j++) {
-		a[i][j] = "[" + i + "," + j + "]";
-	  }
-	}
-	console.log( a );
-
-	for ( var i = 0, item; item = a[i++]; ) { << not
-		// Do something with item
-	}
-
-see cookbook/array/array-pop-while-switch
-
-
-## Random Order
-
-		get_random = function ( list ) {
-
-			return list[ Math.floor( ( Math.random() * list.length ) ) ];
-
-		}
-
-		get_random( [ 2, 3, 5 ] )
-
-		var list = [1,2,3];
-
-		console.log( list.sort( function() { Math.random() - 0.5 } ) ); // [2,1,3]
-
-
-## Fill with Random Values
-
-* https://stackoverflow.com/questions/34966459/creating-array-of-length-n-with-random-numbers-in-javascript
-* https://stackoverflow.com/questions/3746725/how-to-create-an-array-containing-1-n
-
-	meshes = [ ...Array( 100 ) ].map( () => randomMesh()  )
-
-	arr = Array.from( {length: 100 }, ( value, index ) => Math.floor( 9 * Math.random() ) );
-
-	arr = Array.from( { length: arr1.length }, () => 0 )
-
-	arr = Array.from( { length: 100}, () => Math.random() )
-
-	let array = Array.from(Array(5).keys()); // Result: [0, 1, 2, 3, 4]
-	// Using the spread operator
-	let array = [...Array(5).keys()] // Result: [0, 1, 2, 3, 4]
-
-
-	const geometries = Array( count).fill().map( () => Math.random() )
-
-	const arrText = () => "<h1>Test</h1><p>lorem ipsum</p>"
-
-	divContentMain.innerHTML = Array.from( { length: 10 }, ( arrText ) ).join( "" );
-
-	divMainContent.innerHTML = Array( 10 ).fill( txt ).join( "<hr>" );
-
-
-## From
-
 [Go Make Things] The Array.from() method in vanilla JS also lets you update values
 
 * https://gomakethings.com/the-array.from-method-in-vanilla-js-also-lets-you-update-values/
@@ -226,14 +130,14 @@ get Array​[@@species]
 
 Array.from( An array-like or iterable object to convert to an array )
 
-	AA.doSomethingWithObjOrArrayOfObj = function( obj ) {
+ AA.doSomethingWithObjOrArrayOfObj = function( obj ) {
 
-		const obj = Array.isArray( obj ) ? obj : [ obj ];
+  const obj = Array.isArray( obj ) ? obj : [ obj ];
 
 
-- add them all...
+* add them all...
 
-## Reduce
+### Reduce
 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
 https://www.w3schools.com/jsref/jsref_reduce.asp
@@ -249,38 +153,37 @@ Definition and Usage
 * Note: reduce() does not execute the function for array elements without values.
 * array.reduce( function(total, currentValue, currentIndex, arr), initialValue)
 
-	reduce = arr.reduce( ( acc, value, index ) => {
+ reduce = arr.reduce( ( acc, value, index ) => {
 
-		if ( value === 8 ) { acc.push( index ); }
+  if ( value === 8 ) { acc.push( index ); }
 
-		return acc;
+  return acc;
 
-	}, [] );
-
-
-	ISSTI.buttonsSurfaceType = GBX.surfaceTypes.reduce(
-		( arr, item ) => arr + `<button onclick=ISSTI.setSurfaceType("${item}"); >${ item }</button><br>`,
-		''
-	);
+ }, [] );
 
 
-	const items = [1,2,3,4];
-	const sumOfItems = items.reduce( (acc, cur ) => acc + cur );
-	console.log(sumOfItems)
-	// 10
+ ISSTI.buttonsSurfaceType = GBX.surfaceTypes.reduce(
+  ( arr, item ) => arr + `<button onclick=ISSTI.setSurfaceType("${item}"); >${ item }</button><br>`,
+  ''
+ );
 
-	const items = [1,2,3,4];
-	items.reduce((acc,cur) => acc + cur, 0)  //10
-	items.reduce((acc,cur) => acc + cur, '') //'1234'
+
+ const items = [1,2,3,4];
+ const sumOfItems = items.reduce( (acc, cur ) => acc + cur );
+ console.log(sumOfItems)
+ // 10
+
+ const items = [1,2,3,4];
+ items.reduce((acc,cur) => acc + cur, 0)  //10
+ items.reduce((acc,cur) => acc + cur, '') //'1234'
 
 
 ### Sort
 
 * https://www.w3schools.com/jsref/jsref_sort.asp
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-	* Has nice sort array of objects
+  * Has nice sort array of objects
 * https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/
-
 
 
 // sort by value
@@ -304,22 +207,118 @@ items.sort(function(a, b) {
 });
 
 
-## Lines Split to Float
+## Tips
 
-	elevations = data.split( ',' ).map( function( item ) { return parseFloat( item ); } );
-	txtline = lines[ i ].split( ',' ).map( parseFloat );
+### Duplicates
 
-	waypoints = xhr.responseText.split( '\n' ).map( function( point ) { return point.split( ',' ).map( parseFloat ); } );
+* https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array
 
+arr = arr.filter( (value, index, array ) => array.indexOf (value) == index );
+
+
+### Naming
+
+* use "content" if talking about a single element
+* Using a plural indicates an array
+
+### Fill with Random Values
+
+* https://stackoverflow.com/questions/34966459/creating-array-of-length-n-with-random-numbers-in-javascript
+* https://stackoverflow.com/questions/3746725/how-to-create-an-array-containing-1-n
+
+ meshes = [ ...Array( 100 ) ].map( () => randomMesh()  )
+
+ arr = Array.from( {length: 100 }, ( value, index ) => Math.floor( 9 * Math.random() ) );
+
+ arr = Array.from( { length: arr1.length }, () => 0 )
+
+ arr = Array.from( { length: 100}, () => Math.random() )
+
+ let array = Array.from(Array(5).keys()); // Result: [0, 1, 2, 3, 4]
+ // Using the spread operator
+ let array = [...Array(5).keys()] // Result: [0, 1, 2, 3, 4]
+
+
+ const geometries = Array( count).fill().map( () => Math.random() )
+
+ const arrText = () => "<h1>Test</h1><p>lorem ipsum</p>"
+
+ divContentMain.innerHTML = Array.from( { length: 10 }, ( arrText ) ).join( "" );
+
+ divMainContent.innerHTML = Array( 10 ).fill( txt ).join( "<hr>" );
+
+
+### Min/Max
+
+console.log(Math.max(...array1));
+
+ var max_of_array = Math.max.apply( Math, array);
+ var min_of_array = Math.min.apply( Math, array);
+
+// http://stackoverflow.com/questions/1669190/javascript-min-max-array-values
+
+ min = arrayMin( elevations );
+ max = arrayMax( elevations );
+
+ function arrayMin( arr ) {
+
+  var len = arr.length, min = Infinity;
+
+  while ( len-- ) {
+
+   if ( arr[ len ] < min) { min = arr[ len ]; }
+
+  }
+
+  return min;
+
+ }
+
+ function arrayMax( arr ) {
+
+  var len = arr.length, max = -Infinity;
+
+  while ( len-- ) {
+
+   if (arr[len] > max) { max = arr[len]; }
+
+  }
+
+  return max;
+
+ }
+
+### Random Order
+
+  get_random = function ( list ) {
+
+   return list[ Math.floor( ( Math.random() * list.length ) ) ];
+
+  }
+
+  get_random( [ 2, 3, 5 ] )
+
+  var list = [1,2,3];
+
+  console.log( list.sort( function() { Math.random() - 0.5 } ) ); // [2,1,3]
+
+
+### Split Lines to Float
+
+ elevations = data.split( ',' ).map( function( item ) { return parseFloat( item ); } );
+ txtline = lines[ i ].split( ',' ).map( parseFloat );
+
+ waypoints = xhr.responseText.split( '\n' ).map( function( point ) { return point.split( ',' ).map( parseFloat ); } );
 
 
 * https://stackoverflow.com/questions/5034781/js-regex-to-split-by-line
 
 arrayOfLines = lineString.match(/[^\r\n]+/g);
 
-## Unique / find /set
 
-	const array = [1, 1, 2, 3, 5, 5, 1]
-	const uniqueArray = [...new Set(array)];
-	console.log(uniqueArray); // Result: [1, 2, 3, 5]
+### Unique / find /set
+
+ const array = [1, 1, 2, 3, 5, 5, 1]
+ const uniqueArray = [...new Set(array)];
+ console.log(uniqueArray); // Result: [1, 2, 3, 5]
 

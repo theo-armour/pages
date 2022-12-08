@@ -81,6 +81,29 @@ Gaeber: nope, that'a a myth
 
 Pinker: more of the same as R & H ~ cities bring safety
 
+## Bullets
+
+History is not a progression or evolution ~ History is
+Current history
+* Simply isn't true
+* Has dire political implications
+* Makes the past needlessly dull ~ Actually more playful
+foraging and agriculture do not follow they coexist
+hunter-gathers: heroic ~ farmers peaceful
+Agriculture was not a revolution
+All cultures have critique ~ no stupidity
+Inequality is not inevitable ~ egalitarian hard to define
+Hierarchies are not required
+Seasonality and theater are strong elements of life
+Development of Science and Math may may have been by women
+
+Reviewer
+* Sapient Paradox brushed aside
+* Early societies more like high school gossip groups
+
+
+
+
 ## Definitions
 
 Freedoms
@@ -92,6 +115,7 @@ Long Distance Interaction ~ p 23
 * Dreams or vision Quests
 * Traveling healers and entertainers
 * Women's gambling
+
 
 
 ## Chapter 1 ~ page 1 ~ 1%This is not a book about the origins of inequality.
@@ -293,9 +317,33 @@ Statesmen couldn't compel anyone to do anything they didn't wish to do
 
 ## Chapter 3 ~ Unfreezing the Ice Age ~ p78 ~ 12%
 
+Human thought is dialogic
+
+p99 Politicians are wheeler-dealers
+
+p104 Seasonality with festive labor
+
+p108
+bands, tribes, chiefdoms, states
+hunter-gatherers, gardeners, farmers, industrial civilization
+
+p 112 organized in such a way that arbitary power could not emerge
+
+p114 Chiefs
+
+* mediate quarrels
+* provide for the needy
+* Entertain with beautiful speeches
+
+p115 If society is used to be flexible, how did we get stuck?
+
+p118 Early society was a carnival,
+
+## Chapter 4 ~ Free people, the origin of cultures, and the advent of private property ~ p120 ~ 18%
 
 
-## Chapter 11 ~p 441 ~ 63%
+
+## Chapter 11 ~ p 441 ~ 63%
 
 Indigenous critique ~
 
