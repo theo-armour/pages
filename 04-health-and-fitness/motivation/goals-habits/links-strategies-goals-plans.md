@@ -1,7 +1,8 @@
 
-# Plan, Goals, Sequencing
+# Goals ~ links
 
-Goals & Objectives
+
+## Synonyms ~ Goals & Objectives
 
 * How we gauge our degrees of success
 * Actions, Owners, Time-frames, Resources, Outcomes
@@ -16,6 +17,26 @@ Means ~ Ends
 * Values
 * targets
 * Indicators
+
+
+## Links of Interest
+
+### 5 Harsh Truths for Success from Linus Torvalds
+
+* https://medium.com/codex/5-harsh-truths-from-linus-torvalds-406ab20cea02
+
+Not really about Linus, but good read
+
+1. Nobody is Special
+>Hence, if you want to become successful, collaborate with other people and learn how to use others’ power for your project.
+2. Being Nice is Not Nice
+>In the commits, and the media he defended his ideas in a very aggressive way. I don’t support this but he also broke hearts too. However, this was a good strategy to find the best solution.
+3. **Goals, Ideas… are all Lies**
+>Linus Torvalds admitted that he doesn’t have a vision or a 5-year plan. Basically, he solves problems whenever faced with one, and on the other hand, he tries to find better solutions for the ones he solved already
+4. There is No Intelligent Design
+>the idea is learning by making mistakes. However, don’t repeat mistakes already made. Try new things, and by solving every problem you faced, learn new things. Stop trying to figure out what is the best way to do it, and just start doing it with mistakes.
+5. Distractions Are Potential Killers
+>if you want to be successful, to create something other people and you want to use, then you really need to focus on the problems and the projects you want and stick with that.
 
 
 ## SMART goals
