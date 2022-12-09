@@ -1,4 +1,3 @@
-
 # Goals ~ links
 
 
@@ -25,7 +24,7 @@ Means ~ Ends
 
 * https://medium.com/codex/5-harsh-truths-from-linus-torvalds-406ab20cea02
 
-Not really about Linus, but good read
+2022-12-08 ~ Not really about Linus, but good read
 
 1. Nobody is Special
 >Hence, if you want to become successful, collaborate with other people and learn how to use others’ power for your project.

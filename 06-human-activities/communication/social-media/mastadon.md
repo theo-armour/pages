@@ -1,4 +1,4 @@
-# Mastadon
+# Mastodon
 
 ## Wikipedia
 
@@ -7,4 +7,5 @@
 
 ## Articles
 
+* https://techcrunch.com/2022/11/08/what-is-mastodon/
 * https://www.noemamag.com/mastodon-isnt-just-a-replacement-for-twitter/
