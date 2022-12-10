@@ -4,6 +4,18 @@ tags #ai #sw
 
 here we are
 
+## articles
+
+2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
+A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
+
+2022-12-09 ~ https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242
+
+With Stable Diffusion, you may never believe what you see online again
+* https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
+* https://prompthero.com/
+
+
 ## New
 
 * https://news.ycombinator.com/item?id=33109243
@@ -16,11 +28,6 @@ https://dreamfusion3d.github.io/gallery.html
   * https://news.ycombinator.com/item?id=33055340
 
 
-## articles
-
-With Stable Diffusion, you may never believe what you see online again
-* https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
-* https://prompthero.com/
 
 ## chatGPT
 

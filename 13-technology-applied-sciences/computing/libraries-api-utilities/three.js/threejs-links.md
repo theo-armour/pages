@@ -13,9 +13,11 @@ https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflm
 * https://www.spotvirtual.com/blog/why-we-use-babylonjs-instead-of-threejs-in-2022
 
 
+## interesting
+
+* https://matthias-research.github.io/pages/tenMinutePhysics/index.html
+
 ## WP plugin
-
-
 
 https://codesandbox.io/s/priceless-banzai-2yufxc?file=/src/App.js
 
