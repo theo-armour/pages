@@ -67,6 +67,7 @@ lists of reviews
 > Let us be lazy in everything, except in loving and drinking, except in being lazy. – Lessing
 * https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm
 
+
 ## Me
 
 The book is written as a college course - the usual twelve or so chapters with thoughts of previous chapters refrained as reminders throughout
