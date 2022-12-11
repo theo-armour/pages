@@ -1,3 +1,5 @@
+# Markdown cheat sheet simple
+
 http://www.emoji-cheat-sheet.com/
 
 :large_blue_circle:
@@ -5,10 +7,10 @@ http://www.emoji-cheat-sheet.com/
 
 ## Header Tags
 
-#Header 1
-##Header 2
-###Header 3
-####Header 4
+    # Header 1
+    ## Header 2
+    ### Header 3
+    #### Header 4
 
 ## Bold and Italics and Strikeout
 
@@ -48,7 +50,7 @@ GFM also supports fenced blocks
 
 ## Footnotes
 [^1]
- 
+
 [^1]:
 
 
@@ -74,5 +76,3 @@ Item | Item | Item
 Task lists
 - [ ] task
 - [x] task
-
-

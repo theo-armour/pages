@@ -1,28 +1,4 @@
-# Markdown
-
-tags: #markdown #notes #editors #code
-
-## JavaScript WYSIWYG & Markdown editors
-
-### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
-
-### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
-* last update 2016
-
-### https://github.com/substance/substance
-* dead
-
-
-
-## New
-
-* https://markdoc.io/
-
->Markdoc is a powerful, flexible, Markdown-based authoring framework.
-
-> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
-
-## Reference
+# Markdown Reference
 
 * https://daringfireball.net/projects/markdown/ ~ where it all started
 >Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
@@ -55,71 +31,13 @@ tags: #markdown #notes #editors #code
 * https://www.reddit.com/wiki/markdown
 * https://stackoverflow.com/help/formatting
 * https://github.com
-	* https://github.com/topics/markdown
-	* https://guides.github.com/features/mastering-markdown/
-	* https://help.github.com/articles/github-flavored-markdown
-	* https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
-	* https://help.github.com/articles/basic-writing-and-formatting-syntax/
-
+  * https://github.com/topics/markdown
+  * https://guides.github.com/features/mastering-markdown/
+  * https://help.github.com/articles/github-flavored-markdown
+  * https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+  * https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ## Similar efforts
 
 * https://en.wikipedia.org/wiki/Wiki#Editing
 * https://en.wikipedia.org/wiki/Comparison_of_document-markup_languagestips
-
-
-## Emoji
-
-Emoji in Markdown: TBD
-
-* https://www.webfx.com/tools/emoji-cheat-sheet/
-* https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-
-
-## Online Markdown editors
-
-* https://www.webfx.com/blog/web-design/online-markdown-editors/
-* https://stackedit.io/
-
-
-***
-
-Software Tools
-
-https://github.com/search?q=markdown&type=topics
-
-## Markdown to HTML JavaScript
-
-* https://github.com/evilstreak/markdown-js
-	* Deprecated
-* https://github.com/markedjs/marked ~ 25K stars ~ regular updates << better than ShowDown??
-	* Wants mode.
-	* A markdown parser and compiler. Built for speed.
-* https://github.com/markdown-it/markdown-it
-	* Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-	* Wants node
-* https://github.com/showdownjs/showdown
-	* A bidirectional Markdown to HTML to Markdown converter written in Javascript
-
-
-## MD to JSON JavaScript
-
-* https://github.com/kesla/jsonmark/blob/master/jsonmark.js
-* https://github.com/ajithr/md-2-json
-	* Uses Marked
-
-***
-
-Other tools to consider
-
-## Obsidian
-
-* https://theo-armour.github.io/2022/#pages/applications-programs-new/obsidian.md
-
-
-## texme
-
-Self-rendering Markdown + LaTeX documents
-
-* https://github.com/susam/texme
-* https://susam.github.io/texme/examples/valid-html5.html
