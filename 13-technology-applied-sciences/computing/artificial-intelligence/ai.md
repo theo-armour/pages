@@ -6,6 +6,9 @@ here we are
 
 ## articles
 
+2022-12-10 ~ https://github.com/f/awesome-chatgpt-prompts
+2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
+
 2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
 A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
 
@@ -137,6 +140,11 @@ Hacker News > AGI
 
 Reddit
 * https://www.reddit.com/r/agi/
+
+## Prompts
+
+* https://www.gwern.net/docs/ai/nn/transformer/gpt/inner-monologue/index
+
 
 ## More
 

@@ -1,4 +1,4 @@
-# bMarkdown Read Me
+# Markdown Read Me
 
 tags: #markdown #notes #editors #code
 
@@ -56,9 +56,9 @@ https://github.com/search?q=markdown&type=topics
 * https://github.com/cweijan/vscode-office
 * https://github.com/Vanessa219/vditor/blob/master/README_en_US.md
 * https://codesandbox.io/examples/package/vditor
-*
+* https://ld246.com/article/1582778815353
 
-2022-12-10 ~ looks to be quite useful,
+2022-12-10 ~ looks to be quite useful, if not a bit quirky or idiosyncratic.
 
 ## MD to JSON JavaScript
 

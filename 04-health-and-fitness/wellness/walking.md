@@ -29,11 +29,16 @@ Not much detail
 
 https://www.policymap.com/newmaps#/
 
-## About
+## Articles
 
-
-Go for a Walk ~ What I learned about transcendence from a very boring 100-mile trek ~ By Arthur C. Brooks
+### Go for a Walk ~ What I learned about transcendence from a very boring 100-mile trek ~ By Arthur C. Brooks
 * https://www.theatlantic.com/family/archive/2021/09/happiness-walking-pilgrimage/620075/
+
+### The Single Greatest Habit You Can Build
+
+* https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build
+  * https://www.sahilbloom.com/newsletter/the-single-greatest-habit-you-can-build
+>There is one tool that has been used with near perfect consistency by history's greatest men and women. From artists and inventors to entrepreneurs and athletes, they have all understood the immense power of this one, simple tool: the walk.
 
 ## Steps
 

@@ -23,7 +23,8 @@ continent
 educational institution
 ethnicity (descent origin)
 medical or psychological condition
-nationalityoccupationpolitical orientationreligionrevolutionstatusyear bornyear deceased
+nationalityoccupationpolitical orientation
+religionrevolutionstatusyear bornyear deceased
 
 Lists of people
 * Personal timelines
@@ -33,7 +34,10 @@ Activists
 Actors
 Astronauts
 Billionaires
-Chief executive officersComposersCyborgsDefectorsGeneralsHumanitariansInnovatorsInventorsLesbian, gay, bisexual or transgender (LGBT) peopleMonarchsMusiciansMusical groupsPhilosophersPhotographersPoliticiansPresidentsPrincesPrincessesRevolutionariesScientistsSettlersSingersSlavesVictimsPeople associated with war
+Chief executive officers
+ComposersCyborgsDefectorsGeneralsHumanitariansInnovatorsInventorsLesbian, gay, bisexual or transgender (LGBT) peopleMonarchsMusiciansMusical groups
+PhilosophersPhotographersPoliticiansPresidents
+PrincesPrincessesRevolutionariesScientistsSettlersSingersSlavesVictimsPeople associated with war
 Writers
 
 Self

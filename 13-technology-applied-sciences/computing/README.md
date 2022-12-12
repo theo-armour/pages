@@ -50,6 +50,7 @@ DevDocs combines multiple API documentations in a fast, organized, and searchabl
 
 * https://devdocs.io/
 
+
 ## Editors
 
 GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor
@@ -117,7 +118,7 @@ A set of free webtools for your daily usage
 
 ## Beautifying
 
-* https://codebeautify.org/
+* https://codebeautify.org/yv
 
 ## Linear Algebra
 

@@ -5,6 +5,12 @@ tags #conversation
 https://en.wikipedia.org/wiki/Conversation
 https://en.wikipedia.org/wiki/Category:Oral_communication
 
+
+### Good conversations have lots of doorknobs
+
+https://substack.com/saved/post/49203177
+
+
 ## Priya Parker
 
 https://www.priyaparker.com/

@@ -29,3 +29,10 @@ tags #future #fad #trend #time #history
 
 * https://semiwiki.com/eda/321247-a-crash-course-in-the-future-of-technology/
   * https://news.ycombinator.com/item?id=33854173
+
+## 2022
+
+### The Atlantic: Breakthroughs of the Year
+>Pictures of the beginning of the universe, medicine that can (kind of) reverse death, and other leaps of human ingenuity
+
+* https://www.theatlantic.com/newsletters/archive/2022/12/technology-medicine-law-ai-10-breakthroughs-2022/672390/

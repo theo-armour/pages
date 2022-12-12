@@ -1,9 +1,6 @@
-﻿<span style=display:none; >[You are now in a GitHub source code view - click this link to view this read me file as a web page]
-( http://jaanga.github.io/documents/jaanga-practice-notes/ "View file as a web page." ) </span>
-<input onclick=window.location.href='https://github.com/jaanga/jaanga.github.io/tree/master/documents/jaanga-practice-notes/'; type=button  value='You are now in a GitHub web page view - Click this button to view this read me file as source code' />
+﻿# URL Naming Conventions
 
-
-## URL Naming Conventions
+tags #names #files #urls #filenames
 
 Use suggestions such as those provided in the following articles for naming your repositories, folders and files:
 
@@ -32,3 +29,8 @@ If you know the URL is all lower case this can speed things up and reduce errors
 Another very good reason is that some operating systems differentiate between the case of folder and file names - and others do not.
 If you stick to lower case you may simplify the process of moving files from one OS to another OS.
 
+
+### File Names
+
+* https://www.simplethread.com/taming-names-in-software-development/
+  * https://news.ycombinator.com/item?id=33939114

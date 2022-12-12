@@ -347,6 +347,15 @@ p118 Early society was a carnival,
 
 ## Chapter 4 ~ Free people, the origin of cultures, and the advent of private property ~ p120 ~ 18%
 
+p121 ~ we are far more interesting than we are sometimes inclined to imagine
+
+* Free to travel
+* free to move between different social structured
+* Free to disobey
+
+Private property starts out as sacred property
+
+## Chapter 5 Many Seasons Ago
 
 
 ## Chapter 11 ~ p 441 ~ 63%
