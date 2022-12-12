@@ -2,7 +2,10 @@
 
 tags #ai #sw
 
-here we are
+## Reference
+
+https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
+  * https://news.ycombinator.com/item?id=33946720
 
 ## articles
 

@@ -59,3 +59,12 @@ Universities and colleges
 
 * https://en.wikipedia.org/wiki/Writing
   * https://en.wikipedia.org/wiki/Diary (Journaling )
+
+## Encyclopedias
+
+* https://encycla.com/
+  * https://news.ycombinator.com/item?id=33944334
+
+## Wikis
+
+* https://wikiindex.org/Welcome
