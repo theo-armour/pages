@@ -5,6 +5,11 @@
 * https://www.grammarly.com/
 * https://hemingwayapp.com/
 
+## Writing at work
+
+* https://lcamtuf.substack.com/p/writing-at-work
+  * https://news.ycombinator.com/item?id=33955630
+
 ## Some thoughts on writing
 
 * https://danluu.com/writing-non-advice/

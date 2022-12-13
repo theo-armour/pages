@@ -333,7 +333,7 @@ p108
 bands, tribes, chiefdoms, states
 hunter-gatherers, gardeners, farmers, industrial civilization
 
-p 112 organized in such a way that arbitary power could not emerge
+p 112 organized in such a way that arbitrary power could not emerge
 
 p114 Chiefs
 
@@ -353,10 +353,36 @@ p121 ~ we are far more interesting than we are sometimes inclined to imagine
 * free to move between different social structured
 * Free to disobey
 
-Private property starts out as sacred property
+property existed but according to different concepts
 
-## Chapter 5 Many Seasons Ago
+Foragers were able to form priestly castes and royal courts
 
+Academic thought: write off prosperous foragers as "quirks"
+
+Cultures centred on abundance
+
+monuments were sacred spaces
+
+Ritual and intellectual property protected by secrecy
+
+Private property and the notion of the sacred
+
+Roman Law: Three Basic rights relating to possession
+* _Usus_ ~ the right to use
+* _Fructus_ ~ the right to enjoy
+* _Abusus_ ~ the right to destroy
+
+Sacred objects were the only objects treated as private property
+
+The defining feature of property: one has the option of not taking care of it or even destroying it at will
+
+p162 Private property starts out as sacred property
+
+
+
+## Chapter 5 Many Seasons Ago ~ p164 ! 24%
+
+My Canadian Foragers kept slaves, and their Californian neighbors didn't; or, the problem with "modes of production".
 
 ## Chapter 11 ~ p 441 ~ 63%
 
