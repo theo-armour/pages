@@ -4,6 +4,17 @@
 * https://substack.com/
 * https://substack.com/inbox
 
+## Publishers
+
+* https://aeon.co/
+* https://lesswrong.com/
+* https://nautil.us/
+* https://noemamag.com/
+* https://quantamagazine.org/
+* https://theatlantic.com/
+* https://theconversation.com/us
+* https://worksinprogress.co/
+
 ## Simple News
 
 * https://text.npr.org/
@@ -17,19 +28,13 @@
 * https://news.google.com/
 
 
-## Publishers
 
-* https://www.noemamag.com/
-* https://www.worksinprogress.co/
-* https://www.lesswrong.com/
-* https://nautil.us/
-* https://theconversation.com/us
-* https://www.quantamagazine.org/
 
 ## Comics
 
 * https://dilbert.com/
 * https://xkcd.com/
+
 
 ## JavaScript
 
@@ -44,9 +49,11 @@
 
 * https://javascriptweekly.com/
 
+
 ## Smart People
 
 * https://www.themarginalian.org/
+
 
 ## Organizations
 

@@ -12,7 +12,6 @@ tags #wellness #health #checklist
 
 ## Physical
 
-
 * Exercise activities
 * Nutrition
 * Sleep
