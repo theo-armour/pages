@@ -9,6 +9,7 @@ https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
 
 ## articles
 
+2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
 2022-12-10 ~ https://github.com/f/awesome-chatgpt-prompts
 2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
 
