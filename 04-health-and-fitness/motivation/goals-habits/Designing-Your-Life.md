@@ -2,6 +2,12 @@
 
 How can design help us create a life that is both meaningful and fulfilling, regardless of who or where we are, what we do or have done for a living, or how young or old we are?
 
+## links of interest
+
+* https://www.iamtk.co/designing-my-lifes-system
+  * https://news.ycombinator.com/item?id=33980464
+
+  
 ## [Design Your Life]( http://lifedesignlab.stanford.edu/ )
 
 The Stanford Life Design Lab applies design thinking to tackling the "wicked" problems of life and vocational wayfinding.

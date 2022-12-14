@@ -12,10 +12,15 @@
 * https://www.iconichouses.org/icons-at-risk/maslon-house
   * https://psmodcom.org/neutra-maslon-house/
   * https://www.nytimes.com/2002/04/21/magazine/style-a-destruction-site.html
-  
+
 
 ## Paris
 
 Oscar Niemeyer’s French Communist Party Headquarters Brings a Sensual Brazilian Lilt to Paris
 * https://interiordesign.net/projects/oscar-niemeyer-s-french-communist-party-headquarters-brings-a-sensual-brazilian-lilt-to-paris/
 * https://news.ycombinator.com/item?id=32809056
+
+## Construction Physics: Balloon Framing is Worse is Better
+
+* https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better
+  * https://news.ycombinator.com/item?id=33974720
