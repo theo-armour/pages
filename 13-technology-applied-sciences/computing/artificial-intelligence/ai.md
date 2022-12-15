@@ -4,11 +4,13 @@ tags #ai #sw
 
 ## Reference
 
-https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
+* https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
   * https://news.ycombinator.com/item?id=33946720
 
 ## articles
 
+2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
+  * https://news.ycombinator.com/item?id=33982683
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
 2022-12-10 ~ https://github.com/f/awesome-chatgpt-prompts
 2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
@@ -34,6 +36,13 @@ https://dreamfusion3d.github.io/gallery.html
 * https://gorgeous.adityashankar.xyz/
   * https://news.ycombinator.com/item?id=33055340
 
+## Games
+
+### Dark Forest: This sci-fi blockchain game could help create a metaverse that no one owns
+Dark Forest shows how advanced cryptography can be used in a game—and how blockchains might host decentralized digital worlds.
+* https://www.technologyreview.com/2022/11/10/1062981/dark-forest-blockchain-video-game-creates-metaverse/
+* https://twitter.com/darkforest_eth?lang=en
+* https://blog.zkga.me/
 
 
 ## chatGPT
