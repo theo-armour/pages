@@ -56,6 +56,8 @@ vinegar drinks are good
 
 ### Beer
 
+* 2022-12-15 ~ https://www.atlasobscura.com/articles/what-is-cervois
+> The Brewer Updating an Ancient French Beer for Modern Drinkers. Thomas Deck’s cervoise-inspired brew is herbal and delicious.
 * https://thetakeout.com/5-beer-styles-recommendation-for-total-newbies-1830591759
 
 

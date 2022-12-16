@@ -2,6 +2,18 @@
 
 lat 37.8031325,-122.4309479
 
+## Articles
+
+## Overture
+
+* https://overturemaps.org/resources/faq/
+* https://news.ycombinator.com/item?id=33998438
+* https://news.ycombinator.com/item?id=33999873
+
+### Articles
+2022-12-15 ~ https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/
+
+
 ## trends
 
 * https://www.npmtrends.com/cesium-vs-leaflet-vs-mapbox-gl-vs-three-js
@@ -406,13 +418,14 @@ more nice lat lon
 
 http://wiki.openstreetmap.org/wiki/Zoom_levels
 
+
 ### Mercator
 
 http://wiki.openstreetmap.org/wiki/Mercator
 
-function y2lat( a ) { return 180 / Math.PI *( 2* Math.atan( Math.exp( a * Math.PI / 180 ) ) - Math.PI / 2 ); }
+function y2lat( a ) { return 180 / Math.PI * ( 2* Math.atan( Math.exp( a * Math.PI / 180 ) ) - Math.PI / 2 ); }
 
-function lat2y( a ) { return 180 / Math.PI *Math.log( Math.tan( Math.PI / 4 + a* ( Math.PI / 180 ) / 2 ) ); }
+function lat2y( a ) { return 180 / Math.PI * Math.log( Math.tan( Math.PI / 4 + a* ( Math.PI / 180 ) / 2 ) ); }
 
 
 ## XYZ
@@ -424,6 +437,7 @@ function lat2y( a ) { return 180 / Math.PI *Math.log( Math.tan( Math.PI / 4 + a*
   const d2r = pi / 180
   var rc = radius * Math.cos( lat * d2r );
   return new THREE.Vector3( rc * Math.cos( lon * d2r ), radius * Math.sin( lat * d2r ), rc * Math.sin( lon * d2r) );
+
  }
 
  function latLonToXYZ( radius, latitude, longitude ) {

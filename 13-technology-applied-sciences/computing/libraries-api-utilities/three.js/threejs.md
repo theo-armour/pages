@@ -1,10 +1,13 @@
 # Three.js
 
+https://hofk.de/main/discourse.threejs/
+
 ## AI
 
 https://twitter.com/stspanho/status/1599367959029288960
 
 ##
+
 https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/build/three.min.js
 https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/examples/js/controls/OrbitControls.js
 https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/examples/js/utils/BufferGeometryUtils.js
@@ -1100,15 +1103,15 @@ var color = new THREE.Color( 'skyblue' );
 
 https://threejs.org/docs/#api/math/Spherical
 
-		phi - polar angle from the y (up) axis. Default is 0.
-		theta - equator angle around the y (up) axis. Default is 0.
+	phi - polar angle from the y (up) axis. Default is 0.
+	theta - equator angle around the y (up) axis. Default is 0.
 
-		spherical = new THREE.Spherical( radius : Float, phi : Float, theta : Float );
-		spherical = new THREE.Spherical().setFromVector3 ( new THREE.Vector3( 1, 1, 1 ) );
+	spherical = new THREE.Spherical( radius : Float, phi : Float, theta : Float );
+	spherical = new THREE.Spherical().setFromVector3 ( new THREE.Vector3( 1, 1, 1 ) );
 
-		vector = new THREE.Vector3().setFromSpherical ( spherical );
-		mesh.position.setFromSpherical( spherical );
-		mesh.rotation.setFromVector3( vector );
+	vector = new THREE.Vector3().setFromSpherical ( spherical );
+	mesh.position.setFromSpherical( spherical );
+	mesh.rotation.setFromVector3( vector );
 
 
 ### Vector3

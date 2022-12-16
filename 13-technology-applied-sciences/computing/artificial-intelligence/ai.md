@@ -27,6 +27,7 @@ With Stable Diffusion, you may never believe what you see online again
 
 ## New
 
+* 2022-12-15 ~ https://nijijourney.com/en/getting-started/
 * https://news.ycombinator.com/item?id=33109243
 https://www.ghostlystock.com/
 

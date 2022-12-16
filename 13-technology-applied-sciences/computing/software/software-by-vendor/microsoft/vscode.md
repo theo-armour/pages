@@ -43,6 +43,9 @@ Redefine Alt Home and Alt End to go home and end
 
 ## About
 
+* 2022-12-15 ~ https://news.ycombinator.com/item?id=34010065
+>VSCode is one of the greatest pieces of engineering of our time.
+
 * <https://code.visualstudio.com/>
 * <https://en.wikipedia.org/wiki/Visual_Studio_Code>
 * <https://twitter.com/hashtag/vscode?lang=en>

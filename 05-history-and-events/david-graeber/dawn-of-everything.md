@@ -378,11 +378,23 @@ The defining feature of property: one has the option of not taking care of it or
 
 p162 Private property starts out as sacred property
 
+p180 schismogenesis
 
+Each society a mirror image of the other ~ alter ego
 
 ## Chapter 5 Many Seasons Ago ~ p164 ! 24%
 
 My Canadian Foragers kept slaves, and their Californian neighbors didn't; or, the problem with "modes of production".
+
+Cultural differentiation ~ p165
+
+What drives cultural subdivision?
+
+"Cultural Area" ~ p169
+
+Cultures were, effectively, structures of refusal
+
+self-conscious borrowing and refusal
 
 ## Chapter 11 ~ p 441 ~ 63%
 
