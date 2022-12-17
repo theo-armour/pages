@@ -23,7 +23,7 @@ Normal politics
 * No indifferent to Public Good but Focused on self-interest
 
 Intermittent Episodes
-* Understand Consyitutional issues
+* Understand Constitutional issues
 * Change political motivations / more deliberate / public-spirited
 * Takes decades
 
@@ -45,10 +45,6 @@ Jul 11 2017
 * https://medium.com/@nayafia/keeping-my-mouth-shut-38b7141fe523
 
 
-### Noam Chomsky
-
-* https://www.thenation.com/article/noam-chomsky-neoliberalism-destroying-democracy/
-
 ### Jordan B Peterson
 
 https://jordanbpeterson.com/
@@ -61,6 +57,7 @@ https://jordanbpeterson.com/
 
 ### Ben Thompson
 * https://stratechery.com/2017/manifestos-and-monopolies/
+
 
 ## Movements
 

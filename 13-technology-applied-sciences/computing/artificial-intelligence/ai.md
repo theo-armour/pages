@@ -140,6 +140,9 @@ MIRI announces new "Death With Dignity" strategy
 
 ## Smart People Talking
 
+### 2022-12-16S > The next decades might be wild
+* https://www.lesswrong.com/posts/qRtD4WqKRYEtT5pi3/the-next-decades-might-be-wild
+
 Yudkowsky Contra Christiano On AI Takeoff Speeds
 * https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai?s=r
 
