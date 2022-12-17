@@ -396,7 +396,61 @@ Cultures were, effectively, structures of refusal
 
 self-conscious borrowing and refusal
 
-## Chapter 11 ~ p 441 ~ 63%
+## Chapter 6 ~ gardens of adonis ~ p210
+
+### The revolution that never happened
+
+women
+
+p219 gynarchy gynaecocracy
+
+### Famous Neolithic Towns ~ p220
+
+Catalhuyuk
+
+### Seasonality ~ p223
+
+
+### Breaking apart the Fertile Crescent
+
+### Why so long ~ p233
+
+### On woman, the scientist ~ p 236
+
+### To farm or not to farm ~ p242
+
+### Semantic Snare ~ p247
+
+
+## Chapter 7 ~ The ecology of Freedom ~ p248
+
+### Spread around Globe  ~ p 253
+
+
+## Chapter 8 ~ Imaginary Cities ~ p276
+
+### Europe's first urbanites
+
+p279 Dunbar number
+
+Mas society exists in the mind
+
+Imaginary groups
+
+
+Agriculture may have been an outcome, not a cause, of urbanization
+
+### "Mega-Sites" ~ p288
+
+### Mesopotamia ~ not so primitive democracy ~ p297
+
+## Chapter 9 ~ Hiding in Plain Sight ~ p 328 ~ 47%
+
+
+## Chapter 10 ~ Why the State has no origin ~ p 359 ~ 51%
+
+
+## Chapter 11 ~ Full Circle ~ p441 ~ 63%
 
 Indigenous critique ~
 
@@ -417,7 +471,10 @@ Older Scheme
 Long text on how indigenous Americans created and un-created state-like societies ~ based on lucid conscious critique
 
 
-## Chapter 12 p493 ~ 71%
+## Chapter 12 ~ Conclusion ~ p493 ~ 71%
+
+
+## Notes ~ p527 ~ 76%
 
 ## hopewell interaction sphere
 

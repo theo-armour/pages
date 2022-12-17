@@ -2,6 +2,7 @@
 
 Patterns
 
+* 2022-12-16 ~ https://beautiful.software/
 * https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/
 
 

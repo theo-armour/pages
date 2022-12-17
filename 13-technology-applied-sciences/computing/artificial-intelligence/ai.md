@@ -27,6 +27,10 @@ With Stable Diffusion, you may never believe what you see online again
 
 ## New
 
+* 2022-12-16 ~ https://mimosa.so/
+  * Collaborative brainstorming. Supercharged with A.I.
+Solve problems together effectively with design thinking best practices and A.I. suggestions—no learning curve.
+  * https://news.ycombinator.com/item?id=34018355
 * 2022-12-15 ~ https://nijijourney.com/en/getting-started/
 * https://news.ycombinator.com/item?id=33109243
 https://www.ghostlystock.com/
