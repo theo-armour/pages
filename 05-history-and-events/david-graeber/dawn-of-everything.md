@@ -49,6 +49,8 @@ Crits
 * https://www.nybooks.com/articles/2022/01/13/the-roots-of-inequality-an-exchange/
 * https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
 * https://www.wsj.com/articles/the-dawn-of-everything-book-review-prehistoric-man-graeber-wengrow-wrong-from-the-start-11639168007
+* https://newpol.org/review/a-new-human-history/
+>In their quest to challenge any notion that human societies arose out of phases of technological and economic development and resulting social organization, they present a confused picture of humanity forming different social structures, religions and economic strategies completely out of conscious choices, playful experimentation and free will—until at some unknown period for unexplained reasons, we got stuck in our current predicament of rigid class inequality. As a result, the book fails to explain why societies formed under oppressive elites and class exploitation or the conflicts and contradictions associated with it.
 
 lists of reviews
 
@@ -446,6 +448,10 @@ Agriculture may have been an outcome, not a cause, of urbanization
 
 ## Chapter 9 ~ Hiding in Plain Sight ~ p 328 ~ 47%
 
+Teotihuacan
+* good housing, high standard of living for thousand, but no rulers
+
+Tlaxcala ~ a democracy?
 
 ## Chapter 10 ~ Why the State has no origin ~ p 359 ~ 51%
 

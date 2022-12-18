@@ -9,8 +9,8 @@ lat 37.8031325,-122.4309479
 * https://overturemaps.org/resources/faq/
 * https://news.ycombinator.com/item?id=33998438
 * https://news.ycombinator.com/item?id=33999873
-
-### Articles
+* https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/
+  * https://news.ycombinator.com/item?id=34028084
 2022-12-15 ~ https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/
 
 

@@ -32,3 +32,7 @@ Social philosophy
 Attention
 Cognition
 Cognitive biasesCreativityDecision theoryEmotionErrorImaginationIntelligence researchersLearningMemory biasesmnemonicsNootropics (smart drugs)Organizational thinking (strategic management)PerceptionProblem solvingPsychological adjustmentPsychometrics
+
+## links
+
+* https://www.philosophybro.com/ ~ https://news.ycombinator.com/item?id=34034430
