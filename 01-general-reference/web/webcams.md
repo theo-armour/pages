@@ -3,6 +3,7 @@
 Live
 
 * https://www.youtube.com/watch?v=b-PyEswUenE
+* https://www.youtube.com/watch?v=NpeZcVgHlcI
 
 ## 2022-10-03 ~ 'A fluke': The world's oldest webcam is still watching over San Francisco /
 
