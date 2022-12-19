@@ -12,47 +12,47 @@ https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/build/three.min.js
 https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/examples/js/controls/OrbitControls.js
 https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/examples/js/utils/BufferGeometryUtils.js
 
-	const geometry = new THREE.BoxGeometry( 10, 10, 10 );
-	const material = new THREE.MeshNormalMaterial();
-	const mesh = new THREE.Mesh( geometry, material );
-	scene.add( mesh );
+ const geometry = new THREE.BoxGeometry( 10, 10, 10 );
+ const material = new THREE.MeshNormalMaterial();
+ const mesh = new THREE.Mesh( geometry, material );
+ scene.add( mesh );
 
 
-	scene.add( new THREE.Mesh( new THREE.BoxGeometry( 10, 10, 10 ), new THREE.MeshNormalMaterial() ) );
+ scene.add( new THREE.Mesh( new THREE.BoxGeometry( 10, 10, 10 ), new THREE.MeshNormalMaterial() ) );
 
-	// CylinderGeometry( radiusTop, radiusBottom, height, radiusSegments, heightSegments, openEnded )
-	// SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
-	// TorusGeometry( radius, tube, radialSegments, tubularSegments, arc )
+ // CylinderGeometry( radiusTop, radiusBottom, height, radiusSegments, heightSegments, openEnded )
+ // SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
+ // TorusGeometry( radius, tube, radialSegments, tubularSegments, arc )
 
-	geometry.rotateX( -0.5 * Math.PI ) );
-	geometry.scale( 1, 1, 1 ) );
-	geometry.translate( 0, 0, 0 ) );
-	.setFromPoints
+ geometry.rotateX( -0.5 * Math.PI ) );
+ geometry.scale( 1, 1, 1 ) );
+ geometry.translate( 0, 0, 0 ) );
+ .setFromPoints
 
 
-	var color = new THREE.Color( 'grey' );
+ var color = new THREE.Color( 'grey' );
 
-	const v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); };
-	const v = ( x, y, z ) => new THREE.Vector3( x, y, z );
+ const v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); };
+ const v = ( x, y, z ) => new THREE.Vector3( x, y, z );
 
 
 ## Changes
 
 http://mrdoob.github.io/three.js/docs/#Reference/Loaders/XHRLoader
 
-	mesh.position.copy( thing.position );
+ mesh.position.copy( thing.position );
 
-	.subSelf > .sub
-	THREE.ray > THREE.Raycaster
+ .subSelf > .sub
+ THREE.ray > THREE.Raycaster
 
-		renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff } );
-		renderer.shadowMapEnabled = true;
+  renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff } );
+  renderer.shadowMapEnabled = true;
 
-		THREE.ImageUtils.crossOrigin = 'anonymous';
+  THREE.ImageUtils.crossOrigin = 'anonymous';
 
 <script src='http://mrdoob.github.com/three.js/examples/js/renderers/Projector.js'></script>
 
-		vector.unproject( camera );
+  vector.unproject( camera );
 
 
 ## Notes
@@ -71,45 +71,45 @@ http://mrdoob.github.io/three.js/docs/#Reference/Core/Object3D
 
 var obj = new THREE.Object3D();
 
-	.add()
-	.applyMatrix()
-	.castShadow()
-	.clone() - Creates a new clone of this object and all descendants.
-	.distanceTo( v )
-	.getDescendents( array ) - array - optional argument that returns the array with descendants.
-	.lookAt( vector )
-	.matrix()
-	.receiveShadow()
-	.remove()
-	.rotation()
-	.scale()
-		.scale.multiplyScalar( 2 );
-	.traverse( callback )
-	.up
-	.visible
+ .add()
+ .applyMatrix()
+ .castShadow()
+ .clone() - Creates a new clone of this object and all descendants.
+ .distanceTo( v )
+ .getDescendents( array ) - array - optional argument that returns the array with descendants.
+ .lookAt( vector )
+ .matrix()
+ .receiveShadow()
+ .remove()
+ .rotation()
+ .scale()
+  .scale.multiplyScalar( 2 );
+ .traverse( callback )
+ .up
+ .visible
 
 
 Translates object along axis by distance.
 
-	.translateX
-	.translateY
-	.translateZ
+ .translateX
+ .translateY
+ .translateZ
 
-	.translateOnAxis( axis, distance ) Object3D
-	- axis -- A normalized vector in object space.
-	- distance -- The distance to translate.
-	- Translate an object by distance along an axis in object space. The axis is assumed to be normalized.
+ .translateOnAxis( axis, distance ) Object3D
+ - axis -- A normalized vector in object space.
+ - distance -- The distance to translate.
+ - Translate an object by distance along an axis in object space. The axis is assumed to be normalized.
 
-	.rotateOnAxis( axis, angle ) Object3D
-	- axis -- A normalized vector in object space.
-	- angle -- The angle in radians.
-	- Rotate an object along an axis in object space. The axis is assumed to be normalized.
+ .rotateOnAxis( axis, angle ) Object3D
+ - axis -- A normalized vector in object space.
+ - angle -- The angle in radians.
+ - Rotate an object along an axis in object space. The axis is assumed to be normalized.
 
-	var axisOfMovement = v( 0, 0, 1 );
-	obj.translateOnAxis( axisOfMovement, delta );
+ var axisOfMovement = v( 0, 0, 1 );
+ obj.translateOnAxis( axisOfMovement, delta );
 
 
-	obj.rotation.setFromVector3( startRotation );
+ obj.rotation.setFromVector3( startRotation );
 
 
 ### Object3D TRAVERSE
@@ -118,14 +118,14 @@ object.traverse( callback )
 * callback - An Function with as first argument an object3D object.
 * Executes the callback on this object and all descendants.
 
-		scene.traverse( function ( child ) {
+  scene.traverse( function ( child ) {
 
-			if ( child instanceof THREE.Mesh && child.material instanceof THREE.MeshFaceMaterial ) {
+   if ( child instanceof THREE.Mesh && child.material instanceof THREE.MeshFaceMaterial ) {
 
-				child.material = new THREE.MeshPhongMaterial();
-				child.material.needsUpdate = true;
-			}
-		} );
+    child.material = new THREE.MeshPhongMaterial();
+    child.material.needsUpdate = true;
+   }
+  } );
 
 // Learn
 
@@ -134,39 +134,37 @@ object.traverse( callback )
 
 scene.updateMatrixWorld();
 
-		object.localToWorld ( point )
+  object.localToWorld ( point )
 
 * vector - A vector representing a position in local (object) space.
 * Converts the vector from local space to world space.
 
 Also
 
-			var vector = ceilingGeometry.vertices[ k ].clone();
-			vector.applyMatrix4( object.matrixWorld );
+   var vector = ceilingGeometry.vertices[ k ].clone();
+   vector.applyMatrix4( object.matrixWorld );
 
 
 ### RAYCSTER
 
 * https://threejs.org/docs/#api/en/core/Raycaster
 
-	* Has good example
+  * Has good example
 * cookbook-threejs/examples/editing/find-intersection-line-to-mesh/find-intersection-line-to-mesh-r2.html
 
 
 var raycaster = new THREE.Raycaster();
 
 
-
 ## CAMERA
 
-	function updateCamera() {
+ function updateCamera() {
 
-		target = mesh.position.clone();
-		camera.position.copy( target.clone().add( new THREE.Vector3( 0.08, 0.08, 0.08 ) ) );
-		controls.target.copy( target );
-		camera.updateProjectionMatrix(); // <<<<
-	}
-
+  target = mesh.position.clone();
+  camera.position.copy( target.clone().add( new THREE.Vector3( 0.08, 0.08, 0.08 ) ) );
+  controls.target.copy( target );
+  camera.updateProjectionMatrix(); // <<<<
+ }
 
 
 ### CONTROLS
@@ -174,69 +172,68 @@ var raycaster = new THREE.Raycaster();
 controls.update()
 controls.reset();
 
-	this.enabled = true;
+ this.enabled = true;
 
 // "target" sets the location of focus, where the control orbits around and where it pans with respect to.
-	this.target = new THREE.Vector3();
+ this.target = new THREE.Vector3();
 
 // center is old, deprecated; use "target" instead
-	this.center = this.target;
+ this.center = this.target;
 
 // This option actually enables dollying in and out; left as "zoom" for backwards compatibility
-	this.noZoom = false;
-	this.zoomSpeed = 1.0;
+ this.noZoom = false;
+ this.zoomSpeed = 1.0;
 
-	// Limits to how far you can dolly in and out
-	this.minDistance = 0;
-	this.maxDistance = Infinity;
+ // Limits to how far you can dolly in and out
+ this.minDistance = 0;
+ this.maxDistance = Infinity;
 
-	// Set to true to disable this control
-	this.noRotate = false;
-	this.rotateSpeed = 1.0;
+ // Set to true to disable this control
+ this.noRotate = false;
+ this.rotateSpeed = 1.0;
 
-	// Set to true to disable this control
-	this.noPan = false;
-	this.keyPanSpeed = 7.0;	// pixels moved per arrow key push
+ // Set to true to disable this control
+ this.noPan = false;
+ this.keyPanSpeed = 7.0; // pixels moved per arrow key push
 
-	// Set to true to automatically rotate around the target
-	this.autoRotate = false;
-	this.autoRotateSpeed = 2.0; // 30 seconds per round when fps is 60
+ // Set to true to automatically rotate around the target
+ this.autoRotate = false;
+ this.autoRotateSpeed = 2.0; // 30 seconds per round when fps is 60
 
-	// How far you can orbit vertically, upper and lower limits.
-	// Range is 0 to Math.PI radians.
-	this.minPolarAngle = 0; // radians
-	this.maxPolarAngle = Math.PI; // radians
+ // How far you can orbit vertically, upper and lower limits.
+ // Range is 0 to Math.PI radians.
+ this.minPolarAngle = 0; // radians
+ this.maxPolarAngle = Math.PI; // radians
 
 // How far you can orbit horizontally, upper and lower limits.
 // If set, must be a sub-interval of the interval [ - Math.PI, Math.PI ].
-	this.minAzimuthAngle = - Infinity; // radians
-	this.maxAzimuthAngle = Infinity; // radians
+ this.minAzimuthAngle = - Infinity; // radians
+ this.maxAzimuthAngle = Infinity; // radians
 
 // Set to true to disable use of the keys
-	this.noKeys = false;
+ this.noKeys = false;
 
 // The four arrow keys
-	this.keys = { LEFT: 37, UP: 38, RIGHT: 39, BOTTOM: 40 };
+ this.keys = { LEFT: 37, UP: 38, RIGHT: 39, BOTTOM: 40 };
 
 // Mouse buttons
-	this.mouseButtons = { ORBIT: THREE.MOUSE.LEFT, ZOOM: THREE.MOUSE.MIDDLE, PAN: THREE.MOUSE.RIGHT };
+ this.mouseButtons = { ORBIT: THREE.MOUSE.LEFT, ZOOM: THREE.MOUSE.MIDDLE, PAN: THREE.MOUSE.RIGHT };
 
 
 ### CLOCK
 
-	var clock = new THREE.Clock();
-	var delta = clock.getDelta(),
-	var t = clock.getElapsedTime();
+ var clock = new THREE.Clock();
+ var delta = clock.getDelta(),
+ var t = clock.getElapsedTime();
 
 //
-	var delta;  // global
+ var delta;  // global
 
-	delta += clock.getDelta();
-	if ( delta > 0.05 ) {
-		do something...
-		delta = 0;
-	}
-
+ delta += clock.getDelta();
+ if ( delta > 0.05 ) {
+  do something...
+  delta = 0;
+ }
 
 
 ### DETECTOR
@@ -244,9 +241,9 @@ controls.reset();
 if ( ! Detector.webgl ) Detector.addGetWebGLMessage( {parent: threejs} );  // move the message wherever
 
 if ( ! Detector.webgl ) {
-	renderer = new THREE.CanvasRenderer( { antialias: true } );
+ renderer = new THREE.CanvasRenderer( { antialias: true } );
 } else {
-	renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff} );
+ renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff} );
 }
 
 
@@ -255,55 +252,53 @@ if ( ! Detector.webgl ) {
 // you must new or clone geometry for each new mesh
 
 
-		geometry = new THREE.BoxGeometry( 10, 10, 10 );
-		material = new THREE.MeshNormalMaterial();
-		mesh = new THREE.Mesh( geometry, material );
-		scene.add( mesh );
+  geometry = new THREE.BoxGeometry( 10, 10, 10 );
+  material = new THREE.MeshNormalMaterial();
+  mesh = new THREE.Mesh( geometry, material );
+  scene.add( mesh );
 
 // line-s: see below
 
-		geometry = new THREE.CircleGeometry( radius, segments, thetaStart, thetaLength );
+  geometry = new THREE.CircleGeometry( radius, segments, thetaStart, thetaLength );
 
-		geometry = new THREE.BoxGeometry( width, height, depth, widthSegments, heightSegments, depthSegments );
+  geometry = new THREE.BoxGeometry( width, height, depth, widthSegments, heightSegments, depthSegments );
 
 // CylinderGeometry( radiusTop, radiusBottom, height, radiusSegments, heightSegments, openEnded )
-		geometry = new THREE.CylinderGeometry( radiusTop, radiusBottom, height, radiusSegments, heightSegments, openEnded );
+  geometry = new THREE.CylinderGeometry( radiusTop, radiusBottom, height, radiusSegments, heightSegments, openEnded );
 
-		geometry = new THREE.PlaneBufferGeometry( width, height, widthSegments, heightSegments );
-		geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
-		vertices = geometry.attributes.position.array;
+  geometry = new THREE.PlaneBufferGeometry( width, height, widthSegments, heightSegments );
+  geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
+  vertices = geometry.attributes.position.array;
 
 
 // SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
-		geometry = new THREE.SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
+  geometry = new THREE.SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
 
 // TorusGeometry( radius, tube, radialSegments, tubularSegments, arc )
-		geometry = new THREE.TorusGeometry( 4, 0.5, 15, 30 );
+  geometry = new THREE.TorusGeometry( 4, 0.5, 15, 30 );
 
 // https://threejs.org/docs/#api/geometries/TorusKnotGeometry
 // TorusKnotGeometry(radius, tube, radialSegments, tubularSegments, p, q, heightScale );
-		geometry = new THREE.TorusKnotGeometry( 10, 3, 100, 16 );
+  geometry = new THREE.TorusKnotGeometry( 10, 3, 100, 16 );
 
-		.applyMatrix()
-		.clone()
-		.dispose() <<<<<<<<<<<<<<<<
+  .applyMatrix()
+  .clone()
+  .dispose() <<<<<<<<<<<<<<<<
 
-		.mergeVertices();
+  .mergeVertices();
 
-		.center();
-
+  .center();
 
 
 ### GEOMETRY / Edges
 // https://threejs.org/docs/?q=edg#api/en/geometries/EdgesGeometry
 
-			var edgesGeometry, edgesMaterial, edges,
+   var edgesGeometry, edgesMaterial, edges,
 
-			edgesGeometry = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry
-			edgesMaterial = new THREE.LineBasicMaterial( { color: 0x000000 } );
-			edges = new THREE.LineSegments( edgesGeometry, edgesMaterial );
-			mesh.add( edges );
-
+   edgesGeometry = new THREE.EdgesGeometry( geometry ); // or WireframeGeometry
+   edgesMaterial = new THREE.LineBasicMaterial( { color: 0x000000 } );
+   edges = new THREE.LineSegments( edgesGeometry, edgesMaterial );
+   mesh.add( edges );
 
 
 ### Events
@@ -311,17 +306,15 @@ if ( ! Detector.webgl ) {
 see assets
 
 
-
-
 ### GEOMETRY MATRIX / Edits
 
-		geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
-		geometry.applyMatrix( new THREE.Matrix4().makeScale( 1, 2, 3 ) );
-		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0, -30 ) );
+  geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
+  geometry.applyMatrix( new THREE.Matrix4().makeScale( 1, 2, 3 ) );
+  geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0, -30 ) );
 
 // https://discourse.threejs.org/t/how-to-convert-three-buffergeometry-coordinates-to-worlds-when-rotating/889
 // transform a local coordinate to a world coordinate
-		vertex.applyMatrix4( object.matrixWorld );
+  vertex.applyMatrix4( object.matrixWorld );
 
 
 #### GEOMETRY / EDGES edgesGEOMETRY
@@ -336,9 +329,9 @@ let edges = new THREE.LineSegments( new THREE.EdgesGeometry( geometry ), new THR
 
 scene.add( edges );
 
-		const edges = new THREE.EdgesGeometry( geometry );
-		const line = new THREE.LineSegments( edges, new THREE.LineBasicMaterial( { color: 0xffffff } ) );
-		scene.add( line );
+  const edges = new THREE.EdgesGeometry( geometry );
+  const line = new THREE.LineSegments( edges, new THREE.LineBasicMaterial( { color: 0xffffff } ) );
+  scene.add( line );
 
 
 ### GEOMETRY Dispose
@@ -347,27 +340,27 @@ https://stackoverflow.com/questions/33152132/three-js-collada-whats-the-proper-w
 
 https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-material-and-geometry/5448/2
 
-		if ( objects ) {
+  if ( objects ) {
 
-			objects.traverse( function ( child ) {
+   objects.traverse( function ( child ) {
 
-				if ( child.geometry ) {
+    if ( child.geometry ) {
 
-					child.geometry.dispose();
-					child.material.dispose();
+     child.geometry.dispose();
+     child.material.dispose();
 
-				}
+    }
 
-				if ( child.texture ) { child.texture.dispose(); }
+    if ( child.texture ) { child.texture.dispose(); }
 
-			} );
+   } );
 
-		}
+  }
 
-	renderer.renderLists.dispose();
-	renderer.getContext();
-	renderer.dispose( );
-	//scene.dispose();
+ renderer.renderLists.dispose();
+ renderer.getContext();
+ renderer.dispose( );
+ //scene.dispose();
 
 
 ### geometry BufferGeometry
@@ -382,23 +375,23 @@ https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-mat
 // LatheGeometry(points, segments, phiStart, phiLength) - does not close automatically
 
 
-	function drawLatheObject() {
+ function drawLatheObject() {
 
-		var v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
+  var v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
 
-		var points = [];
+  var points = [];
 
-		for ( var i = 0; i < 10; i ++ ) { points.push( new THREE.Vector2( Math.sin( i * 0.2 ) * 15 + 50, ( i - 5 ) * 2 ) ); }
+  for ( var i = 0; i < 10; i ++ ) { points.push( new THREE.Vector2( Math.sin( i * 0.2 ) * 15 + 50, ( i - 5 ) * 2 ) ); }
 
-//		points = [ v2( 20, 0 ) , v2( 30, 0 ), v2( 30, 10 ), v2( 20, 10 ), v2( 20, 0 ) ];
-//		points = [ v2( 0, 0 ) , v2( 0, 0 ), v2( 0, 0 ), v2( 0, 0 ), v2( 0, 0 ) ];
+//  points = [ v2( 20, 0 ) , v2( 30, 0 ), v2( 30, 10 ), v2( 20, 10 ), v2( 20, 0 ) ];
+//  points = [ v2( 0, 0 ) , v2( 0, 0 ), v2( 0, 0 ), v2( 0, 0 ), v2( 0, 0 ) ];
 
-		var geometry = new THREE.LatheGeometry( points, 24, Math.PI, 1.5 * Math.PI );
-		var material = new THREE.MeshNormalMaterial( { side: 2 } );
-		var mesh = new THREE.Mesh( geometry, material );
-		scene.add( mesh );
+  var geometry = new THREE.LatheGeometry( points, 24, Math.PI, 1.5 * Math.PI );
+  var material = new THREE.MeshNormalMaterial( { side: 2 } );
+  var mesh = new THREE.Mesh( geometry, material );
+  scene.add( mesh );
 
-	}
+ }
 
 
 ### LINE GEOMETRY / LINE / LINES
@@ -406,29 +399,29 @@ https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-mat
 * https://threejs.org/docs/?q=lin#api/en/objects/Line
 * https://stackoverflow.com/questions/26790345/vertex-colors-in-three-line
 
-		function addSphereLines() {
+  function addSphereLines() {
 
-			scene.remove( group );
-			group = new THREE.Group();
+   scene.remove( group );
+   group = new THREE.Group();
 
-			for ( let i = 0; i < 1000; i++ ) {
+   for ( let i = 0; i < 1000; i++ ) {
 
-				const values = [ Math.random(), Math.random(), Math.random(), Math.random(), Math.random(), Math.random() ];
+    const values = [ Math.random(), Math.random(), Math.random(), Math.random(), Math.random(), Math.random() ];
 
-				const geometry = new THREE.BufferGeometry();
-				geometry.setAttribute( 'position', new THREE.Float32BufferAttribute( values, 3 ) );
-				geometry.setAttribute( 'color', new THREE.Float32BufferAttribute( values, 3 ) );
-				geometry.scale( 100, 100, 100 );
-				geometry.translate( -50, -50, -50 );
-				const material = new THREE.LineBasicMaterial( { color: 0xffffff, vertexColors: THREE.VertexColors } );
-				const line = new THREE.Line( geometry, material );
-				group.add( line );
+    const geometry = new THREE.BufferGeometry();
+    geometry.setAttribute( 'position', new THREE.Float32BufferAttribute( values, 3 ) );
+    geometry.setAttribute( 'color', new THREE.Float32BufferAttribute( values, 3 ) );
+    geometry.scale( 100, 100, 100 );
+    geometry.translate( -50, -50, -50 );
+    const material = new THREE.LineBasicMaterial( { color: 0xffffff, vertexColors: THREE.VertexColors } );
+    const line = new THREE.Line( geometry, material );
+    group.add( line );
 
-			}
+   }
 
-			scene.add( group );
+   scene.add( group );
 
-		}
+  }
 
 
 ### GEOMETRY/ Loaders
@@ -436,109 +429,96 @@ https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-mat
 https://threejs.org/docs/#api/loaders/JSONLoader
 sse load-walt-r1.html
 
-	function loadWalt() {
+ function loadWalt() {
 
-		loader = new THREE.JSONLoader();
-		loader.load( 'https://threejs.org/examples/obj/WaltHeadLo.js',
+  loader = new THREE.JSONLoader();
+  loader.load( 'https://threejs.org/examples/obj/WaltHeadLo.js',
 
-			function ( geometry ) {
+   function ( geometry ) {
 
-				geometry.computeFaceNormals();
-				geometry.computeVertexNormals();
-//				geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -Math.PI / 2 ) );
-//				geometry.applyMatrix( new THREE.Matrix4().makeRotationZ( Math.PI / 2 ) );
-				geometry.applyMatrix( new THREE.Matrix4().makeScale( 1, 1, 1 ) );
-				geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0, 0 ) );
-				material = new THREE.MeshNormalMaterial();
+    geometry.computeFaceNormals();
+    geometry.computeVertexNormals();
+//    geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -Math.PI / 2 ) );
+//    geometry.applyMatrix( new THREE.Matrix4().makeRotationZ( Math.PI / 2 ) );
+    geometry.applyMatrix( new THREE.Matrix4().makeScale( 1, 1, 1 ) );
+    geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0, 0 ) );
+    material = new THREE.MeshNormalMaterial();
 
-				mesh = new THREE.Mesh( geometry, material );
-				scene.add( mesh );
-			}
+    mesh = new THREE.Mesh( geometry, material );
+    scene.add( mesh );
+   }
 
-		);
+  );
 
-	}
-
-
-
-
+ }
 
 
 ### HELPERS / WIREFRAME
 
 https://threejs.org/docs/#api/helpers/AxisHelper
 
-	let axisHelper = new THREE.AxisHelper( 50 );
-	scene.add( axisHelper );
+ let axisHelper = new THREE.AxisHelper( 50 );
+ scene.add( axisHelper );
 
-	scene.add( new THREE.BoxHelper( mesh ) );
+ scene.add( new THREE.BoxHelper( mesh ) );
 
-	var gridHelper = new THREE.GridHelper( size, step );
-	scene.add( gridHelper );
+ var gridHelper = new THREE.GridHelper( size, step );
+ scene.add( gridHelper );
 
-	scene.add( new THREE.WireframeHelper( mesh ) );
+ scene.add( new THREE.WireframeHelper( mesh ) );
 
-	var col = 0xffffff * Math.random();
-	scene.add( new THREE.EdgesHelper( mesh, -50, col ) );
-	scene.add( new THREE.FaceNormalsHelper( mesh, -50, col ) );
-	scene.add( new THREE.VertexNormalsHelper( mesh, -50, col ) );
-	scene.add( new THREE.VertexTangentsHelper( mesh, 50, col ) );
-
-
-
+ var col = 0xffffff * Math.random();
+ scene.add( new THREE.EdgesHelper( mesh, -50, col ) );
+ scene.add( new THREE.FaceNormalsHelper( mesh, -50, col ) );
+ scene.add( new THREE.VertexNormalsHelper( mesh, -50, col ) );
+ scene.add( new THREE.VertexTangentsHelper( mesh, 50, col ) );
 
 
 #### HELPERS / arrows
 
-		scene.add( new THREE.ArrowHelper( dir, origin, length, hex ) );
+  scene.add( new THREE.ArrowHelper( dir, origin, length, hex ) );
 
-		ArrowHelper(dir : Vector3, origin : Vector3, length : Number, hex : Number, headLength : Number, headWidth : Number )
-		dir -- direction from origin. Must be a unit vector.
-		origin -- Point at which the arrow starts.
-		length -- length of the arrow. Default is 1.
-		hex -- hexadecimal value to define color. Default is 0xffff00.
-		headLength -- The length of the head of the arrow. Default is 0.2 * length.
-		headWidth -- The length of the width of the arrow. Default is 0.2 * headLength.
-
-
-
-
-
+  ArrowHelper(dir : Vector3, origin : Vector3, length : Number, hex : Number, headLength : Number, headWidth : Number )
+  dir -- direction from origin. Must be a unit vector.
+  origin -- Point at which the arrow starts.
+  length -- length of the arrow. Default is 1.
+  hex -- hexadecimal value to define color. Default is 0xffff00.
+  headLength -- The length of the head of the arrow. Default is 0.2 * length.
+  headWidth -- The length of the width of the arrow. Default is 0.2 * headLength.
 
 
 ### JSON / save to file
 
-		<p>
-			<button onclick = saveFile(); >save building data to file</button>
-		</p>
+  <p>
+   <button onclick = saveFile(); >save building data to file</button>
+  </p>
 
 
-	function saveFile() {
+ function saveFile() {
 
-		var output = objects.toJSON();
+  var output = objects.toJSON();
 
-		try {
+  try {
 // parseNumber??
-			output = JSON.stringify( output, parseNumber, '\t' );
-			output = output.replace( /[\n\t]+([\d\.e\-\[\]]+)/g, '$1' );
+   output = JSON.stringify( output, parseNumber, '\t' );
+   output = output.replace( /[\n\t]+([\d\.e\-\[\]]+)/g, '$1' );
 
-		} catch ( e ) {
+  } catch ( e ) {
 
-			output = JSON.stringify( output );
+   output = JSON.stringify( output );
 
-		}
+  }
 
-		var blob = new Blob( [ output ] );
-		var a = document.body.appendChild( document.createElement( 'a' ) );
+  var blob = new Blob( [ output ] );
+  var a = document.body.appendChild( document.createElement( 'a' ) );
 
-		a.href = window.URL.createObjectURL( blob );
-		a.download = 'threejs.json';
-		a.click();
-//		delete a;
-		a = null;
+  a.href = window.URL.createObjectURL( blob );
+  a.download = 'threejs.json';
+  a.click();
+//  delete a;
+  a = null;
 
-	}
-
+ }
 
 
 ### LIGHTS
@@ -546,19 +526,19 @@ https://threejs.org/docs/#api/helpers/AxisHelper
 
 // hemisphere
 
-		var light = new THREE.DirectionalLight();
-		scene.add( light );
+  var light = new THREE.DirectionalLight();
+  scene.add( light );
 
-		var light = new THREE.HemisphereLight();
-		scene.add( light );
+  var light = new THREE.HemisphereLight();
+  scene.add( light );
 
-		var light = new THREE.HemisphereLight( 0xffbbbb, 0x444488 );
-		light.position.set( -1, 1, 1 );
-		scene.add( light );
+  var light = new THREE.HemisphereLight( 0xffbbbb, 0x444488 );
+  light.position.set( -1, 1, 1 );
+  scene.add( light );
 
 // ambientLight
-		var light = new THREE.AmbientLight( 0x404040 ); // soft white light
-		scene.add( light );
+  var light = new THREE.AmbientLight( 0x404040 ); // soft white light
+  scene.add( light );
 
 // pointLight
 http://mrdoob.github.io/three.js/docs/#Reference/Lights/PointLight
@@ -568,19 +548,15 @@ intensity — Numeric value of the light's strength/intensity.
 distance -- The distance of the light where the intensity is 0. When distance is 0, then the distance is endless.
 Creates a light at a specific position in the scene. The light shines in all directions (roughly similar to a light bulb.)
 
-		var light = new THREE.PointLight( 0xff0000, 1, 100 );
-//		light.position.set( 50, 50, 50 );
-		light.position = camera.position;
-		light.castShadow = true;
-		light.shadowCameraVisible = true;
-		scene.add( light );
+  var light = new THREE.PointLight( 0xff0000, 1, 100 );
+//  light.position.set( 50, 50, 50 );
+  light.position = camera.position;
+  light.castShadow = true;
+  light.shadowCameraVisible = true;
+  scene.add( light );
 
 
-		scene.add( new THREE.CameraHelper( lightDirectional.shadow.camera ) );
-
-
-
-
+  scene.add( new THREE.CameraHelper( lightDirectional.shadow.camera ) );
 
 
 ## MATERIALS / textures> see below
@@ -597,135 +573,131 @@ specular: 0xffffff,
 transparent: false,
 wireframe: false,
 
-		material = new THREE.MeshNormalMaterial( { opacity: 0.7, shading: THREE.SmoothShading, side: THREE.DoubleSide, transparent: true, wireframe: true } );
+  material = new THREE.MeshNormalMaterial( { opacity: 0.7, shading: THREE.SmoothShading, side: THREE.DoubleSide, transparent: true, wireframe: true } );
 
-		material = new THREE.MeshBasicMaterial( {color: Math.random() * 0xffffff, opacity: 0.7, side: THREE.DoubleSide, transparent: true } );
+  material = new THREE.MeshBasicMaterial( {color: Math.random() * 0xffffff, opacity: 0.7, side: THREE.DoubleSide, transparent: true } );
 
-		material = new THREE.MeshPhongMaterial( {map: texture, side: THREE.DoubleSide, color: 0xffffff, emissive: 0xffffff, metal: true, specular: 0x888888, shininess: 200, shading: THREE.SmoothShading} );
+  material = new THREE.MeshPhongMaterial( {map: texture, side: THREE.DoubleSide, color: 0xffffff, emissive: 0xffffff, metal: true, specular: 0x888888, shininess: 200, shading: THREE.SmoothShading} );
 
-		material = new THREE.MeshBasicMaterial( { vertexColors: THREE.FaceColors } );
+  material = new THREE.MeshBasicMaterial( { vertexColors: THREE.FaceColors } );
 
-		material = new THREE.MeshPhongMaterial({specular: 0xffffff, color: 0x3399ff, shininess: 100, metal: true});
-		mesh.geometry.dynamic = true;
-		mesh.geometry.verticesNeedUpdate = true;
-		mesh.geometry.normalsNeedUpdate = true;
-		mesh.geometry.computeFaceNormals();
-		mesh.geometry.computeVertexNormals();
-		mesh.geometry.computeTangents();
-		mesh.geometry.computeMorphNormals();
-		mesh.geometry.buffersNeedUpdate = true;
-		mesh.geometry.uvsNeedUpdate = true;
-		material.needsUpdate = true;
+  material = new THREE.MeshPhongMaterial({specular: 0xffffff, color: 0x3399ff, shininess: 100, metal: true});
+  mesh.geometry.dynamic = true;
+  mesh.geometry.verticesNeedUpdate = true;
+  mesh.geometry.normalsNeedUpdate = true;
+  mesh.geometry.computeFaceNormals();
+  mesh.geometry.computeVertexNormals();
+  mesh.geometry.computeTangents();
+  mesh.geometry.computeMorphNormals();
+  mesh.geometry.buffersNeedUpdate = true;
+  mesh.geometry.uvsNeedUpdate = true;
+  material.needsUpdate = true;
 ////////////////////
 
-		geometry.computeFaceNormals();
-		geometry.computeVertexNormals();
+  geometry.computeFaceNormals();
+  geometry.computeVertexNormals();
 
-		mesh.geometry.verticesNeedUpdate = true;
-		mesh.geometry.normalsNeedUpdate = true;
+  mesh.geometry.verticesNeedUpdate = true;
+  mesh.geometry.normalsNeedUpdate = true;
 
 ////////////////////
 
 
 // http://www.creativewax.co.uk/js/tests/Ribbons.html
-		mesh.geometry.__dirtyVertices = true;
-		mesh.geometry.__dirtyNormals = true;
+  mesh.geometry.__dirtyVertices = true;
+  mesh.geometry.__dirtyNormals = true;
 
 ### Images
 
-		img.crossOrigin = 'Anonymous';
+  img.crossOrigin = 'Anonymous';
 
 ### Vertex Colors
 
 jaanga.github.io/cookbook-threejs/materials-sandbox/color/vertex-colors/vertex-colors-single-plane.html
 
-		for ( let f of geometry.faces ) {
+  for ( let f of geometry.faces ) {
 
-			console.log( 'face', f );
+   console.log( 'face', f );
 
-			f.vertexColors[ 0 ] = new THREE.Color( 0xffffff * Math.random());
-			f.vertexColors[ 1 ] = new THREE.Color( 0xffffff * Math.random());
-			f.vertexColors[ 2 ] = new THREE.Color( 0xffffff * Math.random());
+   f.vertexColors[ 0 ] = new THREE.Color( 0xffffff * Math.random());
+   f.vertexColors[ 1 ] = new THREE.Color( 0xffffff * Math.random());
+   f.vertexColors[ 2 ] = new THREE.Color( 0xffffff * Math.random());
 
-			geometry.vertices[ f[ 'a' ] ].z = 100 * Math.random() - 50;
-			geometry.vertices[ f[ 'b' ] ].z = 100 * Math.random() - 50;
-			geometry.vertices[ f[ 'c' ] ].z = 100 * Math.random() - 50;
+   geometry.vertices[ f[ 'a' ] ].z = 100 * Math.random() - 50;
+   geometry.vertices[ f[ 'b' ] ].z = 100 * Math.random() - 50;
+   geometry.vertices[ f[ 'c' ] ].z = 100 * Math.random() - 50;
 
-		}
+  }
 
-		material = new THREE.MeshBasicMaterial( { color: 0xffffff, side: THREE.DoubleSide, vertexColors: THREE.VertexColors } );
+  material = new THREE.MeshBasicMaterial( { color: 0xffffff, side: THREE.DoubleSide, vertexColors: THREE.VertexColors } );
 
 
 ### TEXTURES
 
 https://threejs.org/docs/#api/textures/Texture
 
-		const texture = new THREE.TextureLoader().load( "arrow-gray.png" );
+  const texture = new THREE.TextureLoader().load( "arrow-gray.png" );
 
-		loader = new THREE.TextureLoader();
-		loader.crossOrigin = '';
+  loader = new THREE.TextureLoader();
+  loader.crossOrigin = '';
 
-		heightmap = loader.load( '../bitmaps/bathymetry_bw_composite_2k.png' );
+  heightmap = loader.load( '../bitmaps/bathymetry_bw_composite_2k.png' );
 
-		texture = loader.load( '../bitmaps/2_no_clouds_4k.jpg' );
+  texture = loader.load( '../bitmaps/2_no_clouds_4k.jpg' );
 
 
 ***
 
 // http://jaanga.github.io/cookbook-threejs/materials-sandbox/load-texture/
 
-		loader = new THREE.TextureLoader();
-		loader.crossOrigin = 'anonymous';
-		loader.load( 'http://i.imgur.com/RPv6ofy.jpg', callback );
+  loader = new THREE.TextureLoader();
+  loader.crossOrigin = 'anonymous';
+  loader.load( 'http://i.imgur.com/RPv6ofy.jpg', callback );
 
-		function callback ( texture ){
+  function callback ( texture ){
 
-				sphere1.material = new THREE.MeshBasicMaterial( { map: texture } );
+    sphere1.material = new THREE.MeshBasicMaterial( { map: texture } );
 
-		}
+  }
 
 
 ### textures must be 512x512 to repeat
 
-		THREE.ImageUtils.crossOrigin = 'anonymous';
-		texture = THREE.ImageUtils.loadTexture( "../../textures/im5.jpg" );
-		texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
-//		texture.repeat.set( 16, 16 );
-//		texture.anisotropy = 16;
+  THREE.ImageUtils.crossOrigin = 'anonymous';
+  texture = THREE.ImageUtils.loadTexture( "../../textures/im5.jpg" );
+  texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
+//  texture.repeat.set( 16, 16 );
+//  texture.anisotropy = 16;
 
-		texture.minFilter = texture.magFilter = THREE.NearestFilter;
-		texture.needsUpdate = true;
+  texture.minFilter = texture.magFilter = THREE.NearestFilter;
+  texture.needsUpdate = true;
 
-		material = new THREE.MeshBasicMaterial( {  map: texture, side: THREE.DoubleSide } );
-
-
+  material = new THREE.MeshBasicMaterial( {  map: texture, side: THREE.DoubleSide } );
 
 
 ## MESH
 
-		mesh.castShadow() = mesh.receiveShadow() = true;
+  mesh.castShadow() = mesh.receiveShadow() = true;
 
-		mesh.position.copy()
-		mesh.position.fromArray()
-		mesh.position.length()
-		mesh.position.normalize()
-		mesh.position.multiplyScalar()
-		mesh.position.set()
-		mesh.position.copy( startPosition );
+  mesh.position.copy()
+  mesh.position.fromArray()
+  mesh.position.length()
+  mesh.position.normalize()
+  mesh.position.multiplyScalar()
+  mesh.position.set()
+  mesh.position.copy( startPosition );
 
-		mesh.rotation.setFromVector3( startRotation );
+  mesh.rotation.setFromVector3( startRotation );
 
-		mesh.scale.multiplyScalar( 0.5 );
+  mesh.scale.multiplyScalar( 0.5 );
 
-		mesh.parent.updateMatrixWorld();
+  mesh.parent.updateMatrixWorld();
 
-		geometry = new THREE.BoxGeometry( 2, 2, 20 );
-		mesh = new THREE.Mesh( geometry, material );
-		mesh.quaternion.copy( child.getWorldQuaternion() );
-		mesh.position.copy( child.getWorldPosition() );
-		scene.add( mesh );
-
-
+  geometry = new THREE.BoxGeometry( 2, 2, 20 );
+  mesh = new THREE.Mesh( geometry, material );
+  mesh.quaternion.copy( child.getWorldQuaternion() );
+  mesh.position.copy( child.getWorldPosition() );
+  scene.add( mesh );
 
 
 ### MESHES
@@ -733,26 +705,25 @@ https://threejs.org/docs/#api/textures/Texture
 
 function setSomeBoxes( count = 50 ) {
 
-	const geometry = new THREE.BoxGeometry( 5, 5, 5 );
-	const material = new THREE.MeshNormalMaterial();
+ const geometry = new THREE.BoxGeometry( 5, 5, 5 );
+ const material = new THREE.MeshNormalMaterial();
 
-	for ( let i = 0; i < count; i++ ) {
+ for ( let i = 0; i < count; i++ ) {
 
-		const mesh = new THREE.Mesh( geometry, material );
-		mesh.position.set( 100 * Math.random() - 50, 100 * Math.random() - 50, 100 * Math.random() - 50 );
-		mesh.rotation.set( 2 * Math.random(), 2 * Math.random(), 2 * Math.random() );
+  const mesh = new THREE.Mesh( geometry, material );
+  mesh.position.set( 100 * Math.random() - 50, 100 * Math.random() - 50, 100 * Math.random() - 50 );
+  mesh.rotation.set( 2 * Math.random(), 2 * Math.random(), 2 * Math.random() );
 
-		const edgesGeometry = new THREE.EdgesGeometry( mesh.geometry );
-		const edgesMaterial = new THREE.LineBasicMaterial( { color: 0x000000 } );
-		const surfaceEdge = new THREE.LineSegments( edgesGeometry, edgesMaterial );
+  const edgesGeometry = new THREE.EdgesGeometry( mesh.geometry );
+  const edgesMaterial = new THREE.LineBasicMaterial( { color: 0x000000 } );
+  const surfaceEdge = new THREE.LineSegments( edgesGeometry, edgesMaterial );
 
-		mesh.add( surfaceEdge );
-		scene.add( mesh );
+  mesh.add( surfaceEdge );
+  scene.add( mesh );
 
-	}
+ }
 
 }
-
 
 
 ## PATH / 2D
@@ -763,84 +734,77 @@ function setSomeBoxes( count = 50 ) {
 .moveTo ( x, y )
 .lineTo ( x, y )
 
-		const path
-		path = new THREE.Path();
-		path.fromPoints( [ v2( 10, 10 ), v2( 10, -10 ), v2( -10, -10 ), v2( -10, 10 ) ] );
+  const path
+  path = new THREE.Path();
+  path.fromPoints( [ v2( 10, 10 ), v2( 10, -10 ), v2( -10, -10 ), v2( -10, 10 ) ] );
 
 
-		pts2D = path.getPoints(); <<<
+  pts2D = path.getPoints(); <<<
 
-		points = [];
+  points = [];
 
-		for ( var i = 0; i < pts2D.length; i++ ) {
+  for ( var i = 0; i < pts2D.length; i++ ) {
 
-			points.push( v( pts2D[ i ].x, 0, pts2D[ i ].y ) );
+   points.push( v( pts2D[ i ].x, 0, pts2D[ i ].y ) );
 
-		}
+  }
 
-			var line;
-			geometry = new THREE.Geometry();
-			geometry.vertices = points;
-			material = new THREE.LineBasicMaterial( { color: 'magenta' } );
-			line = new THREE.Line( geometry, material );
-			scene.add( line );
-
-
-
+   var line;
+   geometry = new THREE.Geometry();
+   geometry.vertices = points;
+   material = new THREE.LineBasicMaterial( { color: 'magenta' } );
+   line = new THREE.Line( geometry, material );
+   scene.add( line );
 
 
 ## POINTS
 
 
-
 ## RENDERER
 
-		renderer.shadowMapEnabled = true;
-//		renderer.shadowMapSoft = true;
-
-
+  renderer.shadowMapEnabled = true;
+//  renderer.shadowMapSoft = true;
 
 
 ## SCENE
 
 * http://threejs.org/docs/#Reference/Scenes/Scene
-	* See overrideMaterial
+  * See overrideMaterial
 
 http://stackoverflow.com/questions/14397596/add-custom-event-to-object3d
-- includes scene
+* includes scene
 
 
-	function addShadowsToMeshesInScene( scene ) {
+ function addShadowsToMeshesInScene( scene ) {
 
-		if ( ! scene ) { return; }
+  if ( ! scene ) { return; }
 
-		scene.traverse( function ( child ) {
+  scene.traverse( function ( child ) {
 
-			if ( child instanceof THREE.Mesh ) {
+   if ( child instanceof THREE.Mesh ) {
 
-				child.castShadow = true;
-				child.receiveShadow = true;
-				child.frustumCulled = false;
+    child.castShadow = true;
+    child.receiveShadow = true;
+    child.frustumCulled = false;
 
-			}
+   }
 
-		} );
+  } );
 
-	};
-
+ };
 
 
 ## SHADOWS
 
-		light.castShadow = true;
+  light.castShadow = true;
 
-		mesh.castShadow = true;
-		mesh.receiveShadow = true;
+  mesh.castShadow = true;
+  mesh.receiveShadow = true;
 
-		renderer.gammaInput = true;
-		renderer.gammaOutput = true;
+  renderer.gammaInput = true;
+  renderer.gammaOutput = true;
 
-		renderer.shadowMap.enabled = true;
+  renderer.shadowMap.enabled = true;
 
 
 ## SHAPES
@@ -854,59 +818,58 @@ https://threejs.org/docs/#api/extras/core/Path
 
 function getShape( vertices ) {
 
-		const v2 = ( x, y ) => new THREE.Vector2( x, y );
+  const v2 = ( x, y ) => new THREE.Vector2( x, y );
 
-		vertices = vertices || [ v2( 0, 0 ), v2( 50, 0 ), v2( 30, 60 ), v2( 0, 40 ) ];
-		const shape = new THREE.Shape( points );
-		const geometry = new THREE.ShapeGeometry( vertices );
+  vertices = vertices || [ v2( 0, 0 ), v2( 50, 0 ), v2( 30, 60 ), v2( 0, 40 ) ];
+  const shape = new THREE.Shape( points );
+  const geometry = new THREE.ShapeGeometry( vertices );
 
-		const material = new THREE.MeshNormalMaterial( { side: 2 } );
-		const mesh = new THREE.Mesh( geometry, material );
-		return mesh;
+  const material = new THREE.MeshNormalMaterial( { side: 2 } );
+  const mesh = new THREE.Mesh( geometry, material );
+  return mesh;
 
 }
 
 
 //https://threejs.org/docs/#api/geometries/ExtrudeGeometry
 
-	function buildShapeWithHole() {
+ function buildShapeWithHole() {
 
-		let shape, hole;
-		let geometry, material, mesh;
-		const v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
+  let shape, hole;
+  let geometry, material, mesh;
+  const v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
 
-		const v2 = ( x, y ) => new THREE.Vector2( x, y );
+  const v2 = ( x, y ) => new THREE.Vector2( x, y );
 //
 
-		shape = new THREE.Shape( [ v2( 0, 10 ), v2( 0, 50 ), v2( 30, 60 ), v2( 40, 10 ) ] );
-		tee = new THREE.Shape( [ v2( 0, 0 ), v2( 0, 50 ), v2( 10, 50 ), v2( 10, 30 ), v2( 50, 30 ), v2( 50, 20 ) , v2( 10, 20 ), v2( 10, 0 ) ] );
+  shape = new THREE.Shape( [ v2( 0, 10 ), v2( 0, 50 ), v2( 30, 60 ), v2( 40, 10 ) ] );
+  tee = new THREE.Shape( [ v2( 0, 0 ), v2( 0, 50 ), v2( 10, 50 ), v2( 10, 30 ), v2( 50, 30 ), v2( 50, 20 ) , v2( 10, 20 ), v2( 10, 0 ) ] );
 
-// not		geometry = shape.extrude( { amount: 10, bevelEnabled: false } );
+// not  geometry = shape.extrude( { amount: 10, bevelEnabled: false } );
 
-		shape.absarc( 0, 0, 50, 0, 2 * Math.PI );
+  shape.absarc( 0, 0, 50, 0, 2 * Math.PI );
 //
 
-		shape = new THREE.Shape( vertices );
+  shape = new THREE.Shape( vertices );
 
 
-		var hole = new THREE.Path();
-//		hole.fromPoints( [ v2( 10, 10 ), v2( 30, 10 ), v2( 30, 40 ), v2( 10, 40 ) ] );
-		hole.absarc( 20, 20, 10, 0, -2 * Math.PI );
+  var hole = new THREE.Path();
+//  hole.fromPoints( [ v2( 10, 10 ), v2( 30, 10 ), v2( 30, 40 ), v2( 10, 40 ) ] );
+  hole.absarc( 20, 20, 10, 0, -2 * Math.PI );
 
-		shape.holes.push( hole );
+  shape.holes.push( hole );
 
 // choose one
-		// not geometry = shape.extrude( { amount: 10, bevelEnabled: false, curveSegments: 8, steps: 3 } );
-		geometry = new THREE.ExtrudeGeometry( shape, { bevelEnabled: false, amount: 10 } );
-//		geometry = new THREE.ShapeGeometry( shape );
-//		geometry = shape.makeGeometry( { curveSegments: 30 } );
+  // not geometry = shape.extrude( { amount: 10, bevelEnabled: false, curveSegments: 8, steps: 3 } );
+  geometry = new THREE.ExtrudeGeometry( shape, { bevelEnabled: false, amount: 10 } );
+//  geometry = new THREE.ShapeGeometry( shape );
+//  geometry = shape.makeGeometry( { curveSegments: 30 } );
 
-		material = new THREE.MeshNormalMaterial();
-		mesh = new THREE.Mesh( geometry, material );
-		scene.add( mesh );
+  material = new THREE.MeshNormalMaterial();
+  mesh = new THREE.Mesh( geometry, material );
+  scene.add( mesh );
 
-	}
-
+ }
 
 
 ## Shape Utils Area
@@ -916,39 +879,37 @@ https://threejs.org/docs/#api/extras/ShapeUtils
 THREE.ShapeUtils.area( vertices ).toLocaleString();
 
 
-
 ## SPLINES
 
 // http://jaanga.github.io/cookbook-threejs/examples/animation/nice-path/nice-path-spline-r1.html
 // http://jaanga.github.io/cookbook-threejs/examples/geometry/curves/curves-r1.html
 
 
-	function drawSpline() {
-		function v( x, y, z ){ return new THREE.Vector3( x, y, z );
+ function drawSpline() {
+  function v( x, y, z ){ return new THREE.Vector3( x, y, z );
 
-		var spline = new THREE.SplineCurve3( [
-			v(-100, 0, 0),
-			v(-50, 50, 20),
-			v( 0, 0, 0 ),
-			v( 50, -50, -20),
-			v(100, 20, 0)
-		] );
+  var spline = new THREE.SplineCurve3( [
+   v(-100, 0, 0),
+   v(-50, 50, 20),
+   v( 0, 0, 0 ),
+   v( 50, -50, -20),
+   v(100, 20, 0)
+  ] );
 
-//		var path = new THREE.Path( curve.getPoints( 150 ) );
-//		geometry = path.createPointsGeometry( 150 );
+//  var path = new THREE.Path( curve.getPoints( 150 ) );
+//  geometry = path.createPointsGeometry( 150 );
 
-		splinePoints = spline.getPoints( 150 );
-		geometry = new THREE.Geometry();
-		for ( var i = 0; i < splinePoints.length; i++) {
-			geometry.vertices.push(splinePoints[i]);
-		}
+  splinePoints = spline.getPoints( 150 );
+  geometry = new THREE.Geometry();
+  for ( var i = 0; i < splinePoints.length; i++) {
+   geometry.vertices.push(splinePoints[i]);
+  }
 
-		var material = new THREE.LineBasicMaterial( { color: 0xff0000 } );
-		var line = new THREE.Line( geometry, material );
-		scene.add( line );
+  var material = new THREE.LineBasicMaterial( { color: 0xff0000 } );
+  var line = new THREE.Line( geometry, material );
+  scene.add( line );
 
-	}
-
+ }
 
 
 ### SPRITE
@@ -965,16 +926,16 @@ scene.add( sprite );
 ## STATS
 
 
-	<p>
-		<a href="javascript:( () => { const script=document.head.appendChild( document.createElement( 'script' ) ); script.onload=() => { const stats=new Stats(); document.body.appendChild(stats.dom); requestAnimationFrame( function loop(){ stats.update(); requestAnimationFrame(loop) } ); } ; script.src='https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js'; } )()" >load stats.js</a>
-	</p>
+ <p>
+  <a href="javascript:( () => { const script=document.head.appendChild( document.createElement( 'script' ) ); script.onload=() => { const stats=new Stats(); document.body.appendChild(stats.dom); requestAnimationFrame( function loop(){ stats.update(); requestAnimationFrame(loop) } ); } ; script.src='https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js'; } )()" >load stats.js</a>
+ </p>
 
 WIP
 
 
-	<p>
-		<a href="javascript:( () => { const script=document.head.appendChild( document.createElement('script') ); script.onload=() => {const rS=new rStats(); requestAnimationFrame( function loop(){  rS( 'frame' ).start();rS( 'frame' ).end();rS().update(); requestAnimationFrame(loop) } ); } ; script.src='https://raw.githack.com/spite/rstats/master/src/rStats.js'; })()" >load rStats</a>
-	</p>
+ <p>
+  <a href="javascript:( () => { const script=document.head.appendChild( document.createElement('script') ); script.onload=() => {const rS=new rStats(); requestAnimationFrame( function loop(){  rS( 'frame' ).start();rS( 'frame' ).end();rS().update(); requestAnimationFrame(loop) } ); } ; script.src='https://raw.githack.com/spite/rstats/master/src/rStats.js'; })()" >load rStats</a>
+ </p>
 
 ## TWEEN
 
@@ -1014,8 +975,7 @@ See files
 
 ### WIREFRAME
 
-		<button onclick=mesh.material.wireframe=!mesh.material.wireframe; >wireframe</button>
-
+  <button onclick=mesh.material.wireframe=!mesh.material.wireframe; >wireframe</button>
 
 
 ## MATH
@@ -1023,13 +983,13 @@ See files
 
 >> angles-normalize-r1.html
 
-		pt1 = geometry.vertices[ 0 ];
-		pt2 = geometry.vertices[ 2 ];
+  pt1 = geometry.vertices[ 0 ];
+  pt2 = geometry.vertices[ 2 ];
 
-		vectorDelta = pt2.clone().sub( pt1 );
-		angle = Math.atan2( vectorDelta.y, vectorDelta.x );
+  vectorDelta = pt2.clone().sub( pt1 );
+  angle = Math.atan2( vectorDelta.y, vectorDelta.x );
 
-		geometry.applyMatrix( new THREE.Matrix4().makeRotationZ( - angle ) );
+  geometry.applyMatrix( new THREE.Matrix4().makeRotationZ( - angle ) );
 
 
 Also: THREE.Math.degToRad https://threejs.org/docs/#api/math/Math
@@ -1038,34 +998,34 @@ Also: THREE.Math.degToRad https://threejs.org/docs/#api/math/Math
 ### MATH COLOR / Random
 
 trick
-		mesh.scale.z = -1;
+  mesh.scale.z = -1;
 
 http://mrdoob.github.io/three.js/docs/#Reference/Math/Color
 
-	var color = new THREE.Color();
-	var color = new THREE.Color( 0xff0000 );
-	var color = new THREE.Color("rgb(255,0,0)");
-	var color = new THREE.Color( 1, 0, 0 );
+ var color = new THREE.Color();
+ var color = new THREE.Color( 0xff0000 );
+ var color = new THREE.Color("rgb(255,0,0)");
+ var color = new THREE.Color( 1, 0, 0 );
 
 
-	material.color.setHSL( colors[i], 0.8, 0.5 );
+ material.color.setHSL( colors[i], 0.8, 0.5 );
 
-	var colors = generateColors( 100 ) ;
+ var colors = generateColors( 100 ) ;
 
-	function generateColors( count) {
+ function generateColors( count) {
 
-		var delta = 1.0 / count;
-		var arr = [];
+  var delta = 1.0 / count;
+  var arr = [];
 
-		for (var i = 0; i < count; i++ ) {
+  for (var i = 0; i < count; i++ ) {
 
-			arr.push( i *  delta );
+   arr.push( i *  delta );
 
-		}
+  }
 
-		return arr;
+  return arr;
 
-	}
+ }
 
 * https://www.w3schools.com/colors/colors_names.asp
 * https://htmlcolorcodes.com/color-names/
@@ -1103,15 +1063,15 @@ var color = new THREE.Color( 'skyblue' );
 
 https://threejs.org/docs/#api/math/Spherical
 
-	phi - polar angle from the y (up) axis. Default is 0.
-	theta - equator angle around the y (up) axis. Default is 0.
+ phi - polar angle from the y (up) axis. Default is 0.
+ theta - equator angle around the y (up) axis. Default is 0.
 
-	spherical = new THREE.Spherical( radius : Float, phi : Float, theta : Float );
-	spherical = new THREE.Spherical().setFromVector3 ( new THREE.Vector3( 1, 1, 1 ) );
+ spherical = new THREE.Spherical( radius : Float, phi : Float, theta : Float );
+ spherical = new THREE.Spherical().setFromVector3 ( new THREE.Vector3( 1, 1, 1 ) );
 
-	vector = new THREE.Vector3().setFromSpherical ( spherical );
-	mesh.position.setFromSpherical( spherical );
-	mesh.rotation.setFromVector3( vector );
+ vector = new THREE.Vector3().setFromSpherical ( spherical );
+ mesh.position.setFromSpherical( spherical );
+ mesh.rotation.setFromVector3( vector );
 
 
 ### Vector3
@@ -1119,23 +1079,21 @@ https://threejs.org/docs/#api/math/Spherical
 http://mrdoob.github.io/three.js/docs/#Reference/Math/Vector3
 
 
-		.clamp()
-		.distanceTo()
-		.fromArray( array )
-		.toArray( array );
+  .clamp()
+  .distanceTo()
+  .fromArray( array )
+  .toArray( array );
 
 
-		vv = pt.clone().sub( pt );
-		var rad2 = Math.atan2( vv.z, vv.x ); // In radians
-
+  vv = pt.clone().sub( pt );
+  var rad2 = Math.atan2( vv.z, vv.x ); // In radians
 
 
 ### VECTOR
 
 vecto to fixed string
 
-		var map2fixed = function( vect ) { return vect.toArray().map( function( num ){ return num.toFixed( 3 ); } ) };
-
+  var map2fixed = function( vect ) { return vect.toArray().map( function( num ){ return num.toFixed( 3 ); } ) };
 
 
 ## THREE.JS SCRIPTS
@@ -1174,30 +1132,30 @@ vecto to fixed string
 
 ## Tricks
 
-	function convertPosition( lat, lon, radius ) {
-		var rc =  radius * cos( lat );
-		return new THREE.Vector3( rc * cos( lon), radius * sin( lat ), rc * sin( lon ) );
-	}
+ function convertPosition( lat, lon, radius ) {
+  var rc =  radius * cos( lat );
+  return new THREE.Vector3( rc * cos( lon), radius * sin( lat ), rc * sin( lon ) );
+ }
 
 
-	var v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); };
-	var v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
-	const v = ( x, y, z ) => new THREE.Vector3( x, y, z );
+ var v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); };
+ var v2 = function( x, y ){ return new THREE.Vector2( x, y ); };
+ const v = ( x, y, z ) => new THREE.Vector3( x, y, z );
 
-	var pi = Math.PI;
-	var pi05 = 0.5 * pi;
-	var pi_05 = -0.5 * pi;
-	var pi2 = 2 * pi;
+ var pi = Math.PI;
+ var pi05 = 0.5 * pi;
+ var pi_05 = -0.5 * pi;
+ var pi2 = 2 * pi;
 
-	var pi = Math.PI, pi05 = pi * 0.5, pi2 = pi + pi;
-	var d2r = pi / 180, r2d = 180 / pi;  // degrees / radians
+ var pi = Math.PI, pi05 = pi * 0.5, pi2 = pi + pi;
+ var d2r = pi / 180, r2d = 180 / pi;  // degrees / radians
 
-	var ran = function( n ) { return n * Math.random(); };
-	var cos = function( a ){ return Math.cos( a ); };
-	var sin = function( a ){ return Math.sin( a ); };
+ var ran = function( n ) { return n * Math.random(); };
+ var cos = function( a ){ return Math.cos( a ); };
+ var sin = function( a ){ return Math.sin( a ); };
 
-	var sign = function( n ) { return Math.sign( n ); };
+ var sign = function( n ) { return Math.sign( n ); };
 
-	var sin = Math.sin;
-	var cos = Math.cos;
+ var sin = Math.sin;
+ var cos = Math.cos;
 
