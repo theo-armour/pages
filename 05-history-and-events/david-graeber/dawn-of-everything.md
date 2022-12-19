@@ -352,7 +352,7 @@ p118 Early society was a carnival,
 p121 ~ we are far more interesting than we are sometimes inclined to imagine
 
 * Free to travel
-* free to move between different social structured
+* free to move between different social structured ~ freedom to reorganize social structures
 * Free to disobey
 
 property existed but according to different concepts
@@ -455,6 +455,31 @@ Tlaxcala ~ a democracy?
 
 ## Chapter 10 ~ Why the State has no origin ~ p 359 ~ 51%
 
+* Free to travel
+* free to move between different social structured ~ freedom to reorganize social structures
+* Free to disobey
+
+The bases of social power
+* Control of violence
+* Control of information
+* Individual Charisma
+
+Egalitarian ethos
+* deny quirks; treat al the same
+* Celebrate the quirks
+
+Modern state
+* Sovereignty
+* Administration / Bureaucracy
+* Competitive politics
+
+* Violence
+* Knowledge
+* Power
+
+
+
+### p391 Sovereignty without "The State"
 
 ## Chapter 11 ~ Full Circle ~ p441 ~ 63%
 

@@ -7,6 +7,11 @@
 
 * https://news.ycombinator.com/item?id=32367297
 
+## https://news.ycombinator.com/item?id=34039362
+
+We’re Drowning in Old Books. But Getting Rid of Them Is Heartbreaking (washingtonpost.com)
+
+
 ## George Orwell ~ Bookshop memories
 
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/bookshop-memories/
