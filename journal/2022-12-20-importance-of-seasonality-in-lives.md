@@ -2,19 +2,19 @@
 
 In _Dawn of Everything_ (DoE), Graeber and Wenger bring out the importance of seasonality to people's lives.
 
-I had not given the concept much thought. I did know about things like this
+I had not given the concept much thought. I did know about things like this:
 
 * SAD ~ seasonal affective disorder
-* Closet fever and seasonal mood swings
+* Cabin fever and seasonal mood swings
 * Seasonal suicide rates
-* seasonal birth rates and related outcomes
+* Seasonal birth rates and related outcomes
 * Spending patterns such asd Black Friday
 * Halloween is the best!
 * Etc
 
 But the idea that seasonal dates may spur personal fulfillment and meaning was rather more vague to me. Easter being meaningful to a devout Christian and hateful to an anti-Christian might be as deep as I might have penetrated.
 
-_DoE_ exposes numerous possibilities as to the deep significance, the occurrence of deep changes of seasonalities to cultures past and present. Seasonality may affect fulfilling physical needs, politics, sexual morays and more.
+_DoE_ exposes numerous and wide-ranging possibilities as to the deep significance, the occurrence of deep changes of seasonalities to cultures past and present. Seasonality may affect fulfilling physical need, politics, sexual morays and more.
 
 
 ## Questions
