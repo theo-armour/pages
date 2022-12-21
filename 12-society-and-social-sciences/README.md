@@ -1,9 +1,6 @@
 # Society and Social Sciences Read Me
 
 
-
-
-
 ## Organizations
 
 ## Tides Foundation
@@ -60,3 +57,4 @@ Social scientists
 Sociology
 Social work
 Systems theory
+
