@@ -1,6 +1,11 @@
 # 3D Viz
 
-Miami Beach’s First Underwater Sculpture Park Is 7 Miles Long and Will Open Later This Year
+## Pixi3D – 3D rendering library for the web
+
+https://news.ycombinator.com/item?id=34083940
+
+
+## Miami Beach’s First Underwater Sculpture Park Is 7 Miles Long and Will Open Later This Year
 
 * https://mymodernmet.com/miami-beach-reefline-oma
 * When thinking about living in a virtual world, swimming through space is a better paradigm than walking up stairs

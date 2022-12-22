@@ -6,6 +6,15 @@ philosophy > metaphysics > categorization
 
 https://en.wikipedia.org/wiki/Knowledge_organization
 
+## DBpedia
+
+* https://github.com/dbpedia/
+* https://www.dbpedia.org/resources/ontology/
+The DBpedia ontology is the heart of DBpedia. Having started as a manually created ontology based on the most commonly used infoboxes within Wikipedia in 2008, it soon evolved into a successful crowd-sourcing effort resulting in a shallow cross-domain ontology.
+
+>DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects. This structured information resembles an open knowledge graph (OKG) which is available for everyone on the Web. A knowledge graph is a special kind of database which stores knowledge in a machine-readable form and provides a means for information to be collected, organised, shared, searched and utilised. Google uses a similar approach to create those knowledge cards during search. We hope that this work will make it easier for the huge amount of information in Wikimedia projects to be used in some new interesting ways.
+>
+>DBpedia data is served as Linked Data, which is revolutionizing the way applications interact with the Web. One can navigate this Web of facts with standard Web browsers, automated crawlers or pose complex queries with SQL-like query languages (e.g. SPARQL). Have you thought of asking the Web about all cities with low criminality, warm weather and open jobs? That’s the kind of query we are talking about.
 
 ## Follow Wikipedia
 

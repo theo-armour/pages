@@ -477,27 +477,64 @@ Modern state
 * Knowledge
 * Power
 
-
-
 ### p391 Sovereignty without "The State"
 
 ## Chapter 11 ~ Full Circle ~ p441 ~ 63%
 
-Indigenous critique ~
+### On the historical foundations of the indigenous critique
 
 Portraying history as a story of material progress, that framework recasting Indigenous critics as innocent children of nature, whose views on freedom were in mere side effect of their uncultivated way of life and could not possibly offer a serious challenge to contemporary social thought (which came inreasingly to mean just European thought).
 
+indigenous critique: long foundation in Europe + backlash
+
+History portrayed as material progress - grew larger > more complex > more hierarchical > influences generations of historians
+
+from tiny bands to capitalists nation states
+Anything that does not fit in with this story can be ignored.
+Thus much history disappears
+
+### In which we consider James C Scott's arguments about the last 5000 years and ask whether current global arrangements were, in fact, inevitable. ~ p443 ~ 64%
+
+Last 2,000 years mostly hierarchical
+
+Epochs of relative freedom become dark ages (ie Egypt)
+
+Arguments:
+hierarchy inevitable, it just may take linger in places
+Or it takes the right combo og guns, germs and steel
+
+Wheat, barley millet drive agriculture
+* visible, storable, taxable
+
+Barbaric "Heroic" vs valley farmer societies = dark twins
+
 Grain states and barbarians ~ locked together in tension
 But was the outcome inevitable
+about have the population could move
 
-Older Scheme
+Now cannot move. sovereignty, admin an charisma rule. Was this the necessary culmination?
 
-* Band Societies
+Older Scheme says
+* Band societies
 * Tribes
 * Chiefdoms
 * States
 
-### Clans p455/6 ~ 66%
+Terms still used, because
+difficult to imagine history that is not teleological - which does not imply current arrangements are inevitable
+
+EurAsia: Dramatic changes appear to have occured in a coordinated fashion
+
+But we can compare EurAsia and the Americas
+
+Example Cahokia
+
+Not like Europe, so different that real dialog is impossible
+
+example: dream-guessing
+
+
+### In which we ask, how much of North America came to have a single uniform plan system, and the role of the "Hopewell interaction sphere" ~ p455/6 ~ 66%
 
 Long text on how indigenous Americans created and un-created state-like societies ~ based on lucid conscious critique
 
