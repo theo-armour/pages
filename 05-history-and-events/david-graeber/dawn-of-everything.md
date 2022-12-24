@@ -538,6 +538,27 @@ example: dream-guessing
 
 Long text on how indigenous Americans created and un-created state-like societies ~ based on lucid conscious critique
 
+Clans everywhere on "Turtle Island" - consistent alliances
+
+Unlikely to have been brought over from Siberia ~ must be more recent
+
+Not kinship groups
+
+Ritual societies
+Cannot marry within ~ matriarchal
+No ancestor colts ~ no property ~ only ritual knowledge
+Fixed list of names
+Communities never just one clan
+
+Designed so people could move or reshuffle social arrangements
+
+Origins in in rituals and diplomacy
+
+p457 Ties developed at "Hopewell Interaction Sphere"
+
+
+
+
 
 ## Chapter 12 ~ Conclusion ~ p493 ~ 71%
 

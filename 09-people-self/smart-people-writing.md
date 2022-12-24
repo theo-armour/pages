@@ -14,6 +14,7 @@
 * https://theatlantic.com/
 * https://theconversation.com/us
 * https://worksinprogress.co/
+( https://www.laphamsquarterly.org/)
 
 ## Simple News
 
@@ -26,8 +27,6 @@
 ## News
 
 * https://news.google.com/
-
-
 
 
 ## Comics

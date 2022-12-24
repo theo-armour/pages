@@ -10,6 +10,11 @@
 
 ## Tips
 
+* https://ossinsight.io/
+  * https://news.ycombinator.com/item?id=34110601
+Cool GitHub Tricks to Make You Look Like A Senior Developer
+* https://javascript.plainenglish.io/8-cool-github-tricks-to-make-you-look-like-a-senior-developer-5c77c170d9e1
+
 10 Fun Things You Can Do With GitHub.dev
 * https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7
 
@@ -27,6 +32,7 @@
 	$ curl -i https://git.io -F "url=https://github.com/technoweenie" -F "code=t"
 
 	$ curl -i https://git.io -F "url=https://theo-armour.github.io/2021/demo-reel/carousel-2021.html" -F "code=theo-2021"
+
 
 ## JavaScript
 

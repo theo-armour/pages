@@ -31,6 +31,15 @@ https://www.policymap.com/newmaps#/
 
 ## Articles
 
+### 2022-12-23 ~ 50 Reasons Why Everyone Should Want More Walkable Streets << Yay!
+
+* https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets
+> From making you live longer to making cities more resilient: If you want a reason to make your city more walkable, it’s in here.
+
+* https://www.arup.com/perspectives/cities-alive-towards-a-walking-world
+* https://www.arup.com/-/media/arup/files/publications/c/cities-alive_towards-a-walking-world_lowres.pdf
+
+
 ### Go for a Walk ~ What I learned about transcendence from a very boring 100-mile trek ~ By Arthur C. Brooks
 * https://www.theatlantic.com/family/archive/2021/09/happiness-walking-pilgrimage/620075/
 

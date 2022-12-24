@@ -1,7 +1,15 @@
 # Math
 
-## Future
+## Articles
 
+### 2012-11-16 ~ The Mathematical Hacker
+
+* https://www.evanmiller.org/mathematical-hacker.html
+* https://news.ycombinator.com/item?id=34108434
+* https://hn.algolia.com/?q=The+Mathematical+Hacker+
+
+
+### 2020-01
 * https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
 
 ## Charts

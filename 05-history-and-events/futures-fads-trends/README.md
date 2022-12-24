@@ -26,6 +26,15 @@ tags #future #fad #trend #time #history
 
 * https://en.wikipedia.org/wiki/List_of_emerging_technologies
 
+## 2023
+
+### 2022-12-23 ~ Nieman Lab: Predictions For Journalism 2023 ~ https://www.niemanlab.org/collection/predictions-2023/
+
+* https://news.ycombinator.com/item?id=34105572
+
+>Each year, we ask some of the smartest people in journalism and media what they think is coming in the next 12 months. At the end of a trying 2022, here’s what they had to say.
+
+
 
 ## 2022
 
