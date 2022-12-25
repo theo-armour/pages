@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Conversation
 https://en.wikipedia.org/wiki/Category:Oral_communication
 
 
+
+
 ### NY Times: Ezra Klein: The Great Delusion Behind Twitter
 
 * https://www.nytimes.com/2022/12/11/opinion/what-twitter-can-learn-from-quakers.html

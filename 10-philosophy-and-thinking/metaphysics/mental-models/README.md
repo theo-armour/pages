@@ -104,6 +104,12 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 
 * https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/
 
+### Psychology researchers find that a simple “talking to strangers” intervention is surprisingly effective
+
+* https://www.psypost.org/2022/12/psychology-researchers-find-that-a-simple-talking-to-strangers-intervention-is-surprisingly-effective-64561
+
+>“At its heart, our intervention is simple: it involves repeatedly approaching and talking to strangers. As such, this intervention is something that many people could self-administer. We encourage readers to try it, despite any natural instinct to avoid such interactions—which even the authors confess to sharing. As our research shows, these conversations really do get easier with practice, and the experience will be more positive than you expect.”
+
 
 
 ## Smart People Writing
