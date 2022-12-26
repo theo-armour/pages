@@ -35,10 +35,18 @@ BroadcastingFilmInternetMagazinesNewspapersPublicationsPublishingTelevisionRadio
 
 ### Bias
 
+### Things could be better
+
+Eight studies reveal a (possibly universal) bias in human imagination
+* https://experimentalhistory.substack.com/p/things-could-be-better
+  * https://news.ycombinator.com/item?id=34125158
+
+### More
+
 * https://www.nytimes.com/2021/03/24/briefing/boulder-shooting-george-segal-astrazeneca.html
 * https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/2318/files/2021/03/Why-Is-All-Covid-News-Bad-News-3_22_21.pdf
 
-Machine-Learning media bias
+### Machine-Learning media bias
 
 * https://arxiv.org/pdf/2109.00024.pdf
 
