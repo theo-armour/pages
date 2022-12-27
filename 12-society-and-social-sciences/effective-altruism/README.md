@@ -1,8 +1,16 @@
 # Effective Altruism Read Me
 
-tags #philosophy @social-movement #effective-altruism # longtermism
+tags #philosophy #altruism #social-movement #effective-altruism # longtermism
 
 * https://en.wikipedia.org/wiki/Effective_altruism
+
+## Articles
+
+### https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
+
+* https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
+  * https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
+
 
 
 ## Wired

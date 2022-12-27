@@ -1,6 +1,6 @@
 # EverEverLand
 
-deprecated - see gitlab
+
 
 ## Sell then design then build
 

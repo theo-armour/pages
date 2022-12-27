@@ -556,6 +556,24 @@ Origins in in rituals and diplomacy
 
 p457 Ties developed at "Hopewell Interaction Sphere"
 
+### In which we tell the story of Cahokia, which looks likes it ought to be the first "state" in America ~ p463 ~ 67%
+
+https://en.wikipedia.org/wiki/Chunkey
+
+
+### On how the collapse of the Mississippian World and rejection of its legacy opened the way to new forms of indigenous politics around the time of the European invasion ~ P471 ~ 68%
+
+small towns with egalitarian structures
+
+Role of tobacco ~ influence on Europe
+
+### How the Osage came to embody the principle of self constitution, later to be celebrated in Montesquieu's _The Spirit of the Laws_.
+
+M probably met with Americans.
+
+### In which we return to Iroquoia and consider the political Philosophies likely to have been familiar to Kandiaronk in his youth ~ p481 ~ 69%
+
+Backlash against Cahokia set forth repercussions we still feel today.
 
 
 
