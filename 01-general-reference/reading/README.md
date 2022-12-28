@@ -1,5 +1,12 @@
 # Reading Read Me
 
+## Niall Ferguson on reading, remembering and shared culture
+
+* https://www.driverlesscrocodile.com/art-and-culture/niall-ferguson-on-reading-remembering-and-shared-culture/
+* https://news.ycombinator.com/item?id=34156887
+
+There's a lot less reading going on with the young
+
 
 ## Reading Cursive
 

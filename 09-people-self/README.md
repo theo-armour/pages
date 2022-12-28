@@ -81,3 +81,13 @@ Relationships
 * Adoption
 
 Specific people
+
+### Wildcard Person
+* https://wildcardpeople.com/what-is-a-wildcard-person
+* https://news.ycombinator.com/item?id=34157907
+
+You know that person on your team who seems to be good at everything? I mean the literal definition of the word good. Not master. Good.
+
+When a problem comes up that nobody else has any experience with, this person volunteers to jump in head-first.
+
+They don't produce masterpieces, but that was never the intention. The intention was for the problem to be solved, which it now is.

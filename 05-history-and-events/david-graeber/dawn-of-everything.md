@@ -575,7 +575,13 @@ M probably met with Americans.
 
 Backlash against Cahokia set forth repercussions we still feel today.
 
+The way Americans behaved was not how all humans can be expected to behave. No the way the cookie crumbled
 
+Societies Europeans first encountered only make sense when you consider a specific political history
+* Questions hereditary power
+* Revealed religion
+* Personal freedom
+* Independence of women
 
 
 ## Chapter 12 ~ Conclusion ~ p493 ~ 71%
