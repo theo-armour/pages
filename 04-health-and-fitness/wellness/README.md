@@ -13,6 +13,11 @@
 
 * https://halestrom.net/darksleep/blog/048_indoorairsensing/
 
+## Alcohol
+
+* https://dynomight.net/alcohol/
+* https://news.ycombinator.com/item?id=27696055
+
 
 ## Death
 
