@@ -586,6 +586,42 @@ Societies Europeans first encountered only make sense when you consider a specif
 
 ## Chapter 12 ~ Conclusion ~ p493 ~ 71%
 
+### The dawn of everything
+
+Appeal to ask better questions
+
+origins of inequality rquires cretion of a myth
+
+Best we can hope for: modest tinkering with inherenly squualid condition
+or
+no origins of inequality, we are thuggish, progress driven forward by our selfish, competitive nature
+
+But why were European powers force people to accept our ways for 500 years
+
+if being savage was so bad why did Westerners embrace American life
+
+heyday of march of progress - 19thC - was time when peeps were obsesses with decadence and disintegration.
+
+Enlightenment era had been naive
+
+Social sciences were concerned
+1. What had gone wrong with Enlightenment - with schemes for improvong society?
+2. Why did so many well-meaning attempts to fix problems end up making worse?
+
+Only modern people had capacity to intervene in history and change its course
+
+non-modern-folk: too simple minded to attribute self-conscious social projects
+
+anthroplogogists describe societies as being in a eternal present.
+
+British in Asia: change was illegal
+
+War
+
+Slaves
+
+population scaling up by orders of magnitude
+
 
 ## Notes ~ p527 ~ 76%
 

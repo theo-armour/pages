@@ -4,9 +4,20 @@
 
 * Join https://github.community/
 
+## Spam
+
+* https://news.ycombinator.com/item?id=34167965
+
 ## Lists
 
 * https://stargazing.dev/
+* https://github.com/topics/awesome-list
+* https://github.com/topics/awesome-list?q=JavaScript
+* https://github.com/micromata/awesome-javascript-learning
+* https://github.com/olawanlejoel/Awesome-Javascript-resources
+* https://github.com/minidonut/awesome-javascript
+* https://github.com/dexteryy/spellbook-of-modern-webdev
+* https://github.com/raphamorim/awesome-canvas
 
 ## Tips
 

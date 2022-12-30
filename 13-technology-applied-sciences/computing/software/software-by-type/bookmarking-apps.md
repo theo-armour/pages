@@ -7,6 +7,11 @@
 	* http://saved.io/
 * http://bookmark.saved.io/
 
+## About
+
+### Ask HN: Why haven't bookmarks been re-invented?
+* https://news.ycombinator.com/item?id=34176035
+
 ## deprecated
 
 * https://extensions.blockbyte.de/
