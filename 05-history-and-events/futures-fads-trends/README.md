@@ -28,6 +28,11 @@ tags #future #fad #trend #time #history
 
 ## 2023
 
+### 2022-12-30 ~ https://scottbelsky.substack.com/p/edition1
+
+* https://news.ycombinator.com/item?id=34188535
+
+
 ### 2022-12-23 ~ Nieman Lab: Predictions For Journalism 2023 ~ https://www.niemanlab.org/collection/predictions-2023/
 
 * https://news.ycombinator.com/item?id=34105572

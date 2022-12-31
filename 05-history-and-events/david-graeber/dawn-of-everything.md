@@ -612,7 +612,7 @@ Only modern people had capacity to intervene in history and change its course
 
 non-modern-folk: too simple minded to attribute self-conscious social projects
 
-anthroplogogists describe societies as being in a eternal present.
+anthropologists describe societies as being in a eternal present.
 
 British in Asia: change was illegal
 
@@ -622,6 +622,43 @@ Slaves
 
 population scaling up by orders of magnitude
 
+p519 ~ How did we find ourselves stuck in just one form of social reality, and how did relations based ultimately earn violence and domination come to be normalized within it?
+
+p521 research as a form of play
+
+how new archeological evidence might change notions of history
+
+searched in vain
+
+perhaps because of lack of language
+
+words ike "democracy" have so much historical baggage
+
+we are at a los for words when confronted with certain major aspects of human history
+
+The majority of human history is without slavery or war: free societies
+
+p523
+Recalibrate the scales
+
+We could have been living in radically different conceptions of what human society is about
+
+p524
+Are we at a time of "kairos" a time in which events happen?
+
+Scientists not discovering new science, but they are discovering new history
+
+p525 Myth gives structure
+
+To rediscover the meaning of our third basic freedom, the freedom to create new and different forms of social reality.
+
+This is the way in which human societies give structure and meaning to experience.
+
+Ending is a trick:
+
+"In fact, we have already taken the first step. We can see more clearly now what is going on when, for example, a study that is rigorous in every other respect begins from the unexamined assumption that the.Some “original” form of human society; that its nature was fundamentally good or evil; that at a time before an inequality and political awareness existed, that something happened to change all this; that "civilization" and "complexity" always came at the price of human freedoms; that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state."
+
+"We know, now, that we are in the presence of myths"
 
 ## Notes ~ p527 ~ 76%
 
