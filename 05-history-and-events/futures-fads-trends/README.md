@@ -28,6 +28,8 @@ tags #future #fad #trend #time #history
 
 ## 2023
 
+### 2022-12-31 ~ https://github.com/joweich/year-in-search-trends
+
 ### 2022-12-30 ~ https://scottbelsky.substack.com/p/edition1
 
 * https://news.ycombinator.com/item?id=34188535
