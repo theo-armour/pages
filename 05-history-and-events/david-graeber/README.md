@@ -22,7 +22,7 @@ Correlates with Graeber on some aspects - but calls peeps kings
 
 >And the wheel turns fast, followed by the rhetoric. When British people muscle out Natives or seek to intimidate them at treaty parleys, they are “haughty.” At the same time, cannibalism and torture are ennobled as strategies—when they empower Natives. Native power as terror may help explain genocidal settler responses, but it makes natives who aren’t just plain brave—including women, who had been producers of essential goods and makers of peace—fade away almost as quickly as they did in the old history. As readers, we gain a continental perspective, but strangely, we miss the forest for the battlefields.
 
-## WHY THE AGE OF AMERICAN PROGRESS ENDED
+## Why The Age Of American Progress Ended
 * https://www.theatlantic.com/magazine/archive/2023/01/science-technology-vaccine-invention-history/672227/
   * https://news.ycombinator.com/item?id=34205119
 
