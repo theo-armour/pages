@@ -12,6 +12,8 @@ Person 1: but has not actually completed their thought yet but now has to respon
 
 ## Links of interest
 
+* https://tynan.com/letstalk/
+  * https://news.ycombinator.com/item?id=34206418
 * https://en.wikipedia.org/wiki/Conversation
   * conversational narcisism
 * https://integralcentered.com/3-levels-of-conversation/
