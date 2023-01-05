@@ -153,5 +153,8 @@ TextExpander for Linux from within Chrome
 * Open source
 * https://github.com/Lexikos/AutoHotkey_L
 * https://github.com/ahkscript
+* https://www.autohotkey.com/docs/v2/Program.htm
+  * https://news.ycombinator.com/item?id=34248234
+
 
 

@@ -50,17 +50,17 @@ Long Distance Interaction ~ p 23
 * Women's gambling
 
 
-## Chapter 1 ~ page 1 ~ 1%This is not a book about the origins of inequality.
+## Chapter 1 ~ page 1 ~ 1% ~ This is not a book about the origins of inequality.
 
 This is not a book about the origins of inequality
 
-This is the right time for metamorphosis, of fundamental principles and symbols. Jung
+>This is the right time for metamorphosis, of fundamental principles and symbols. Jung
 
 Most of history is lost. Little consequence for most people..
 
 The world seems to be in a mess; was it always like this?
 
-Theological question: Are we innately good or are we innately evil
+Theological question: Are we innately good or are we innately evil?
 
 Actually nonsensical question. We don't ask animals if they are good.
 
@@ -72,13 +72,13 @@ Child-like innocence until agricultural revolution
 Then civilization, state
 Then patriarchy, armies, executions, bureaucrats
 
-Only other offer, even worse
+Only other offer, even worse:
 
 Thomas Hobbes ~ _Leviathan_ ~ 1651
 
 Primitive life: nasty, short and brutish, repression of basic instincts.
 
-Always: Alpha male, hierarchy and domination come., cynical self interest
+Always: Alpha male, hierarchy and domination come, cynical self interest
 Progress: courts, bureaucracy, police
 
 Human society is founded on collective repression - especially when large numbers
@@ -93,9 +93,9 @@ Graeber: Most accounts of history
 * Has dire political implications
 * Makes the past needlessly dull ~ Actually more playful
 
-Hunter gatherers : bold social experiments.
+Hunter gatherers: bold social experiments.
 
-Agriculture relatively free of ranks and hierarchies.
+Agriculture: relatively free of ranks and hierarchies.
 
 p 4
 * Bold social experiments
@@ -110,6 +110,7 @@ Need Radical shift
 Forget: Social evolution, stages of development
 
 Revisit: indigenous critique ~ take seriously social thought that is non-European
+
 
 ### Why both the Hobbesian and Rousseauian versions of human history have dire political implications
 
@@ -514,9 +515,9 @@ Societies Europeans first encountered only make sense when you consider a specif
 
 Appeal to ask better questions
 
-origins of inequality rquires cretion of a myth
+origins of inequality requires creation of a myth
 
-Best we can hope for: modest tinkering with inherenly squualid condition
+Best we can hope for: modest tinkering with inherently squalid condition
 or
 no origins of inequality, we are thuggish, progress driven forward by our selfish, competitive nature
 
@@ -529,7 +530,7 @@ heyday of march of progress - 19thC - was time when peeps were obsesses with dec
 Enlightenment era had been naive
 
 Social sciences were concerned
-1. What had gone wrong with Enlightenment - with schemes for improvong society?
+1. What had gone wrong with Enlightenment - with schemes for improving society?
 2. Why did so many well-meaning attempts to fix problems end up making worse?
 
 Only modern people had capacity to intervene in history and change its course
@@ -568,21 +569,27 @@ Recalibrate the scales
 We could have been living in radically different conceptions of what human society is about
 
 p524
-Are we at a time of "kairos" a time in which events happen?
+Are we at a time of "kairos" a time in which events prone to happen, when frameworks shift?
 
-Scientists not discovering new science, but they are discovering new history
+Scientists not discovering new science, but they are discovering new history.
+
+The purpose of this new knowledge is to reshape our conceptopns
 
 p525 Myth gives structure
 
 To rediscover the meaning of our third basic freedom, the freedom to create new and different forms of social reality.
 
-This is the way in which human societies give structure and meaning to experience.
+All societies have science. Ditto myth.
 
-Ending is a trick:
+Myth is the way in which human societies give structure and meaning to experience.
+
+
+Be careful: The ending is a trick:
 
 "In fact, we have already taken the first step. We can see more clearly now what is going on when, for example, a study that is rigorous in every other respect begins from the unexamined assumption that the.Some “original” form of human society; that its nature was fundamentally good or evil; that at a time before an inequality and political awareness existed, that something happened to change all this; that "civilization" and "complexity" always came at the price of human freedoms; that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state."
 
 "We know, now, that we are in the presence of myths"
+
 
 ## Notes ~ p527 ~ 76%
 
