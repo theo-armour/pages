@@ -17,3 +17,4 @@ Paste code here: https://editor.p5js.org/
 
 Use CodePen?
 
+* https://discourse.threejs.org/t/amazing-i-use-github-copilot-to-write-three-js-code/27739/11
