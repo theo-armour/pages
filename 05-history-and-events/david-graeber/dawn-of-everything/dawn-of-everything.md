@@ -63,6 +63,7 @@ lists of reviews
 * https://en.wikipedia.org/wiki/Uruk
 * https://en.wikipedia.org/wiki/Nebelivka_(archaeological_site)
 
+
 ## links of Interest
 
 ### Paul Lafargue ~ The Right To Be Lazy
@@ -108,8 +109,6 @@ Development of Science and Math may may have been by women
 Reviewer
 * Sapient Paradox brushed aside
 * Early societies more like high school gossip groups
-
-
 
 
 ## Definitions
