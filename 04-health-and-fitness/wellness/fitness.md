@@ -25,3 +25,8 @@
 Lowering a dumbbell 6 times a day offers significant gains in strength (newatlas.com)
 
 * https://news.ycombinator.com/item?id=32491275
+
+### Less gym time, same results: Why ‘lowering’ weights is all you need to do
+
+* https://www.ecu.edu.au/newsroom/articles/research/less-gym-time-same-results-why-lowering-weights-is-all-you-need-to-do
+  * https://news.ycombinator.com/item?id=34282662

@@ -70,6 +70,10 @@ lists of reviews
 > Let us be lazy in everything, except in loving and drinking, except in being lazy. – Lessing
 * https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm
 
+### How Transportation Technologies Shaped Empires
+
+* https://unchartedterritories.tomaspueyo.com/p/transportation-tech-shaped-empires
+  * How Transportation Technologies Shaped Empires
 
 ## Me
 
