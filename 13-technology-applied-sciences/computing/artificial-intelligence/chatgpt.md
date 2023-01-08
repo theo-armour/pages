@@ -1,5 +1,10 @@
 # ChatGPT
 
+## 11 ways ChatGPT saves me hours of work every day, and why you'll never outcompete those who use AI effectively.
+
+* https://twitter.com/svpino/status/1611357154514186241
+
+
 ## https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
 
 >Where Does ChatGPT Fall on the Political Compass?
