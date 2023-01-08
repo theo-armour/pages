@@ -513,25 +513,39 @@ Societies Europeans first encountered only make sense when you consider a specif
 
 ### The dawn of everything
 
-Appeal to ask better questions
+#### Myth
+Book began Appeal to ask better questions
 
-origins of inequality requires creation of a myth
+Inquiring about origins of inequality requires creation of a myth
+
+Book of genesis
 
 Best we can hope for: modest tinkering with inherently squalid condition
 or
 no origins of inequality, we are thuggish, progress driven forward by our selfish, competitive nature
 
-But why were European powers force people to accept our ways for 500 years
+First view more popular. Rosy narrative that Western civ inevitably makes everyone happier
 
-if being savage was so bad why did Westerners embrace American life
+#### But!
+Fails to explain why were European powers forced people to accept their ways for 500 years
 
-heyday of march of progress - 19thC - was time when peeps were obsesses with decadence and disintegration.
+if being savage was so bad why did Westerners embrace American life?
+
+#### 19thC aware
+19th C people seemed aware of the predicament.
+
+Heyday of march of progress - 19thC - was time when peeps were obsesses with decadence and disintegration.
 
 Enlightenment era had been naive
 
+#### Questions
 Social sciences were concerned
 1. What had gone wrong with Enlightenment - with schemes for improving society?
 2. Why did so many well-meaning attempts to fix problems end up making worse?
+
+Why did the passion for liberty, equality and fraternity end up produciung the terror
+
+#### p294 Rousseau
 
 Only modern people had capacity to intervene in history and change its course
 

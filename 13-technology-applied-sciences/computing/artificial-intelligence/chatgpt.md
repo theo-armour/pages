@@ -1,5 +1,12 @@
 # ChatGPT
 
+
+## 2023-01-07 ~ Why ChatGPT won’t replace search engines any time soon
+
+* https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/
+* https://news.ycombinator.com/item?id=34291565
+
+
 ## 11 ways ChatGPT saves me hours of work every day, and why you'll never outcompete those who use AI effectively.
 
 * https://twitter.com/svpino/status/1611357154514186241

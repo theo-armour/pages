@@ -12,7 +12,9 @@ tags #notes #journaling #knowledge #diary
 
 ## Apps
 
-
+Note-Taking Strategies
+* https://canvas.cornell.edu/courses/1451
+  * Note-Taking Strategies
 
 ## Zettelkasten
 
