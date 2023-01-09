@@ -11,17 +11,25 @@ tags #wellness #health #checklist
   * https://en.wikipedia.org/wiki/Internal_medicine#Further_reading
   * https://en.wikipedia.org/wiki/Outline_of_health
 
-## What We Owe the Future
 
-### Chapter 9: Will the Future Be Good or Bad?
+### 2023-01-08 ~ Study identifies unique set of attributes linked to healthy, optimal aging
+* https://www.medicalnewstoday.com/articles/study-identifies-attributes-linked-to-healthy-optimal-aging
 
-How many people have positive wellbeing
+Ho’s study defined healthy aging as having the following attributes:
 
-Are People Getting Happier?
+* the ability to accomplish activities of daily living (ADLs)
+* the ability to accomplish instrumental activities of daily living (IADLs)
+* freedom from mental illness and memory problems
+* freedom from disabling chronic pain
+* self-reported perceptions of happiness and physical health
+* adequate social support
 
-Nonhuman Animals
+### 2023-01-08 ~ Learning About Activities of Daily Living
 
-Non-wellbeing Goods
+https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?HwId=abk6226
 
-TheCase for Optimism
 
+### Global strategy and action plan on ageing and health ~ SDG related
+
+* https://www.who.int/publications/i/item/9789241513500
+* https://www.who.int/initiatives/decade-of-healthy-ageing

@@ -31,7 +31,8 @@ Catalogs are listed in alphabetical order
   * Tin toys, steam engines, Shuco & MicroRacers, model trains
   * Bring joy to the boy in you
 * https://www.llbean.com ~ outdoors
-* https://www.mcmaster.com/
+* https://www.mcmaster.com/ ~ nuts & bolts
+  * https://news.ycombinator.com/item?id=34306793
   * https://news.ycombinator.com/item?id=32976978
 * https://www.magellans.com/ ~ travel
 * https://mensgear.net/

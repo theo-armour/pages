@@ -1,5 +1,7 @@
 # Marina
 
+tags #location #sf #dining
+
 https://sf.eater.com/maps/best-restaurants-bars-marina-san-francisco
 
 ## Alegria ~ https://www.alegriassf.com/
@@ -9,9 +11,11 @@ https://sf.eater.com/maps/best-restaurants-bars-marina-san-francisco
 * Rabbit: good
 * Try croquettes
 
+
 ## Balboa
 
 * Mark
+* Mattiss ~ LFLP
 * Said?
 * Oxana
 
@@ -19,6 +23,10 @@ https://sf.eater.com/maps/best-restaurants-bars-marina-san-francisco
 
 * Owner : Jesse
 
+## California Wine Merchant
+
+* Greg O'Flynn
+* Joe
 
 ## Horseshoe
 
@@ -36,6 +44,14 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
+
+## La Fromagerie
+
+* My friend: Dylan
+* 4 locations
+* lafromageriesf.com
+
+
 ## Marina Lounge
 
 * Sully ~ knows Hanh and James
@@ -49,9 +65,12 @@ Regulars
 * Milena ~ niec
 * Michael ! realtor Brother-in-law?
 
+
 ## Maybeck's ~ https://www.maybecks.com/
 
 * Oysters
+
+## Mel's Diner
 
 ## Perry's 
 
@@ -60,6 +79,7 @@ Regulars
 
 
 ## Ristobar
+
 * Danny ~ wife from 12th ~ born Costa Rica ~ came to US wanting to join Military
 * Deborah
 

@@ -1,6 +1,6 @@
 # Effective Altruism Read Me
 
-tags #philosophy #altruism #social-movement #effective-altruism # longtermism
+tags #philosophy #altruism #social-movement #effective-altruism #longtermism @macaskill
 
 * https://en.wikipedia.org/wiki/Effective_altruism
 

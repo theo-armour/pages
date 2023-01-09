@@ -2,7 +2,6 @@
 
 tags #tech
 
-
 https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
 ## Categories

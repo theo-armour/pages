@@ -27,7 +27,18 @@ https://en.wikipedia.org/wiki/Software_categories
 * https://github.com/public-apis/public-apis
 * https://dev.to/shreyazz/make-your-own-api-under-30-lines-of-code-4doh
 
-### Credential Management API
+## Beautifying
+
+* https://codebeautify.org/yv
+
+
+## Browsers
+
+* https://donhopkins.medium.com/alan-kay-on-should-web-browsers-have-stuck-to-being-document-viewers-and-a-discussion-of-news-5cb92c7b3445
+  * https://news.ycombinator.com/item?id=34304655
+
+
+## Credential Management API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API
 * https://medium.com/@pierreprinetti/javascript-credential-management-api-for-passwords-99d483f227a6
@@ -43,6 +54,7 @@ Discover the best online communities ~ Curated lists of the top online communiti
 
 https://github.com/jgm/pandoc
 Universal markup converter
+
 
 ## Documentation
 
@@ -71,7 +83,7 @@ No server code needed. Focus on things that matter!
 * https://news.ycombinator.com/item?id=27695523
 
 
-### File System Access API
+## File System Access API
 
 simplifying access to local files
 The File System Access API allows web apps to read or save changes directly to files and folders on the user's device.
@@ -83,42 +95,11 @@ The File System Access API allows web apps to read or save changes directly to f
 ## Frameworks
 
 
-## Marketing
-
-* https://www.pollfish.com/
-
-### W2ui
-
-JavaScript UI Library for the Modern Web
-
-https://w2ui.com/web/home
-
-* Looks like my style
-* Uses jQuery
-
-### uswds
-
-A design system for the federal government.
-We make it easier to build accessible, mobile-friendly government websites.
-
-* https://designsystem.digital.gov/
-* https://github.com/uswds/uswds#install-the-package-directly-from-github
-
 ## hosting
 
 * https://notes.volution.ro/v1/2022/09/notes/b08118d8/
 * https://news.ycombinator.com/item?id=32730020
 
-## Online tools
-
-A set of free webtools for your daily usage
-50+ CSS, HTML and JS tools and more coming in the future!
-
-* https://www.toolb.dev/
-
-## Beautifying
-
-* https://codebeautify.org/yv
 
 ## Linear Algebra
 
@@ -133,6 +114,18 @@ CubeWeaver ~ $$$ + free ~ a collaborative multidimensional web-based spreadsheet
 * https://cubeweaver.com/
 
 
+## Marketing
+
+* https://www.pollfish.com/
+
+
+## Online tools
+
+A set of free webtools for your daily usage
+50+ CSS, HTML and JS tools and more coming in the future!
+
+* https://www.toolb.dev/
+
 ## Patterns
 
 Difficult math is about recognizing patterns (get21stnight.com)
@@ -145,7 +138,25 @@ Difficult math is about recognizing patterns (get21stnight.com)
 * https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
   * https://news.ycombinator.com/item?id=32525995
 
+
 ## Web Components
 
 * https://www.webcomponents.org/
 * https://shoelace.style/
+
+## uswds
+
+A design system for the federal government.
+We make it easier to build accessible, mobile-friendly government websites.
+
+* https://designsystem.digital.gov/
+* https://github.com/uswds/uswds#install-the-package-directly-from-github
+
+## W2ui
+
+JavaScript UI Library for the Modern Web
+
+https://w2ui.com/web/home
+
+* Looks like my style
+* Uses jQuery

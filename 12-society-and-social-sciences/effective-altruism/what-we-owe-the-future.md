@@ -121,6 +121,16 @@ Averagism
 
 ### Chapter 9: Will the Future Be Good or Bad?
 
+How many people have positive wellbeing
+
+Are People Getting Happier?
+
+Nonhuman Animals
+
+Non-wellbeing Goods
+
+TheCase for Optimism
+
 
 ## Part V. Taking Action
 

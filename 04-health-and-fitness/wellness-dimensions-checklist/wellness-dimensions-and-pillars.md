@@ -167,6 +167,9 @@ Physical, Social, Emotional, Occupational, Financial, Spiritual, Intellectual, E
 
 Physical, Nutritional, Emotional, Social, Spiritual, Intellectual, Financial, Environmental
 
+Nice definitions! Very usable.
+
+
 #### What Are the 8 Pillars of Wellness?
 
 The idea of incorporating eight pillars into your routine might sound daunting as you begin your wellness journey. But chances are, you’re already using at least a few of these pillars already. We’ll break down each pillar and give you actionable steps to develop them in your life.
@@ -232,6 +235,7 @@ Building Up Your Pillars
 ### https://askthescientists.com/pillars-of-wellness/
 
 physical, nutritional, emotional, social, spiritual, intellectual, financial, environmental
+
 
 ## Eleven Pillars
 
