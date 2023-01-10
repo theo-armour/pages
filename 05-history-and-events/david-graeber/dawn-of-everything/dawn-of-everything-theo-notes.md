@@ -514,7 +514,8 @@ Societies Europeans first encountered only make sense when you consider a specif
 ### The dawn of everything
 
 #### Myth
-Book began Appeal to ask better questions
+
+Book began with appeal to ask better questions
 
 Inquiring about origins of inequality requires creation of a myth
 
@@ -526,34 +527,50 @@ no origins of inequality, we are thuggish, progress driven forward by our selfis
 
 First view more popular. Rosy narrative that Western civ inevitably makes everyone happier
 
-#### But!
+#### p493 But!
 Fails to explain why were European powers forced people to accept their ways for 500 years
 
 if being savage was so bad why did Westerners embrace American life?
 
-#### 19thC aware
+#### p493 19thC aware
 19th C people seemed aware of the predicament.
 
 Heyday of march of progress - 19thC - was time when peeps were obsesses with decadence and disintegration.
 
 Enlightenment era had been naive
 
-#### Questions
+#### p494 Questions
 Social sciences were concerned
 1. What had gone wrong with Enlightenment - with schemes for improving society?
 2. Why did so many well-meaning attempts to fix problems end up making worse?
 
 Why did the passion for liberty, equality and fraternity end up produciung the terror
 
-#### p294 Rousseau
+#### p494 Rousseau
 
-Only modern people had capacity to intervene in history and change its course
+
+p494 modern social science comes frome Vicomte de Bonald & Edmund Burke
+
+p495 Left heart enlightenment; right are critics
+
+
+p495 Only modern people had capacity to intervene in history and change its course
 
 non-modern-folk: too simple minded to attribute self-conscious social projects
 
-anthropologists describe societies as being in a eternal present.
+p496 anthropologists describe societies as being in a eternal present.
 
 British in Asia: change was illegal
+
+p496 Mircea Eliade
+
+Traditional societies: Everything important has already happened.
+
+Modern: linear societies
+
+p498 Social science a study in ways which humans are not free
+
+p500 Ritual play
 
 War
 

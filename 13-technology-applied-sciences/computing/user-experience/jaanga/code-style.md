@@ -155,12 +155,14 @@ No black boxes. Nothing hidden away in remote places.
 
 * Use the same variable names and style that the documentation of your language uses
 * Use the same variable names and style that your library uses
-
+* 2023-01-09 ~ https://ntietz.com/blog/name-your-projects-cutesy-things/ ~ https://news.ycombinator.com/item?id=34320517
 * [A Guide to Naming Variables]( https://a-nickels-worth.blogspot.com/2016/04/a-guide-to-naming-variables.html ) !!!
 * [Good Variable Names]( http://c2.com/cgi/wiki?GoodVariableNames )
 * [7+1 tips for naming variables]( http://www.makinggoodsoftware.com/2009/05/04/71-tips-for-naming-variables/ )
 * [Is there an excuse for short variable names?]( http://programmers.stackexchange.com/questions/176582/is-there-an-excuse-for-short-variable-names )
 * [15 Ways to Write Self-documenting JavaScript]( https://www.sitepoint.com/self-documenting-javascript/ ) !!!
+
+
 
 ## Naming things
 

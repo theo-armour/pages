@@ -13,6 +13,7 @@ tags #ai #sw
 * https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
   * https://news.ycombinator.com/item?id=33946720
 
+
 ## articles
 
 2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856

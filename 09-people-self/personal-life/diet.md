@@ -6,3 +6,6 @@ The Case for Keto: Rethinking Weight Control and the Science and Practice of Low
 	* https://the.ink/p/the-case-for-keto
 
 * https://www.ewg.org/foodnews/
+
+* 2023-01-09~ https://scitechdaily.com/intermittent-fasting-completely-reverses-type-2-diabetes-in-study/
+  * https://news.ycombinator.com/item?id=34320811

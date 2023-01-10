@@ -1,5 +1,9 @@
 # ChatGPT
 
+## 2023-01-09 ~ In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA
+
+* https://news.ycombinator.com/item?id=34305518
+
 
 ## 2023-01-07 ~ Why ChatGPT won’t replace search engines any time soon
 
