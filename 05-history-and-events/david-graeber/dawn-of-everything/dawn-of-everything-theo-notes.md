@@ -44,6 +44,11 @@ Freedoms
 * To disobey
 * To rearrange social ties
 
+p502
+1. The freedom to move away or relocate from surroundings
+2. The freedom to ignore or disobey commands issued by others.
+3. the freedom to shape entirely new social realities or shift back and forth between different ones.
+
 Long Distance Interaction ~ p 23
 * Dreams or vision Quests
 * Traveling healers and entertainers
@@ -571,8 +576,31 @@ Modern: linear societies
 p498 Social science a study in ways which humans are not free
 
 p500 Ritual play
+* Scientific laboratory
+* repertory of knowledge and techniques
+
+Is there a positive correlation between "gender equality" (women's freedom) and the degree of innovation in a society
+
+Choosing to describe history, the other way around, as a series of abrupt technological revolutions, each followed by long periods when we were prisoners of our own creationist, has consequences.Ultimately, it is a very rapid dissenting or species, as decidedly less thoughtful, less creative, less free than we actually turn out to have been.
+
+p502 Things get complicated
+
+p502
+1. The freedom to move away or relocate from surroundings
+2. The freedom to ignore or disobey commands issued by others.
+3. the freedom to shape entirely new social realities or shift back and forth between different ones.
+
+The only kings were play kings
+
+Now. We can barely comprehend what it might be like to live in a social order based on them.
+
+p504 There is no way out of the imagined order.
+
+Most people who write history on the ground scale seem to have decided that, as a species, we are well and truly stuck. And there is no real escape from the institutional gages we've made for ourselves.
 
 War
+
+p506 Was there a relationship between external warfare and the internal lost freedoms that opened the way, first two systems of ranking and the later on to large scale systems of domination.
 
 Slaves
 
