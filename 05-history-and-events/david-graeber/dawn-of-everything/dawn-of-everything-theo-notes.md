@@ -602,11 +602,40 @@ War
 
 p506 Was there a relationship between external warfare and the internal lost freedoms that opened the way, first two systems of ranking and the later on to large scale systems of domination.
 
-Slaves
+p508 You should write connection between patriarchal household and military might?
 
-population scaling up by orders of magnitude
+Existing debates are derived from Roman law.
+
+Roman laws trace back to slave law
+
+Absolute power over Slaves
+
+p510 "family" root is Latin famulus meaning "house slave"
+
+Domus or "house" from dominium or "sovereignty
+
+Iriquois - violence toward enemy ~ Europe violence against ones own people
+
+Indians opposite of Romans
+
+Romans: violence a form of love
+Wendat: no violence within the community
+
+The connection between care and domination is critical
+
+revceived wisdom: population scaling up by orders of magnitude corresponds to social and spatial hierarchies
+
 
 p519 ~ How did we find ourselves stuck in just one form of social reality, and how did relations based ultimately earn violence and domination come to be normalized within it?
+
+Crumley: complex systems do not have to be organized top-down
+
+no: rise of urban life means surrendering freedom and submitting to rule
+
+What preceded cities was networks of societies
+
+cities were confederacies compressed into a small space
+
 
 p521 research as a form of play
 

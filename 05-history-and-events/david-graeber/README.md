@@ -3,6 +3,13 @@
 
 ## Birds of a feather
 
+### What Were We Thinking?
+The intolerable inequalities we take for granted.
+
+* https://www.commonwealmagazine.org/what-were-we-thinking
+* https://news.ycombinator.com/item?id=34363936
+
+
 ### Where Did Software Go Wrong?
 * https://blog.jse.li/posts/software/
 * https://news.ycombinator.com/item?id=33961251
