@@ -614,54 +614,116 @@ p510 "family" root is Latin famulus meaning "house slave"
 
 Domus or "house" from dominium or "sovereignty
 
-Iriquois - violence toward enemy ~ Europe violence against ones own people
+Iroquois - violence toward enemy ~ Europe violence against ones own people
 
-Indians opposite of Romans
+p511 All Wendat wars were "mourning wars"
+
+
+
+p512 only some historical periods were violent - other times there was general peace
+
+Werndat appalled by French killing their own people
+
+p513 Indian households the opposite of Romans
 
 Romans: violence a form of love
 Wendat: no violence within the community
 
-The connection between care and domination is critical
+France similar to Rome
 
-revceived wisdom: population scaling up by orders of magnitude corresponds to social and spatial hierarchies
+King James I: True Law of Free Monarchies
 
 
-p519 ~ How did we find ourselves stuck in just one form of social reality, and how did relations based ultimately earn violence and domination come to be normalized within it?
+Common model of subordination
 
-Crumley: complex systems do not have to be organized top-down
+p514 The connection between care and domination is critical
 
+received wisdom: population scaling up by orders of magnitude corresponds to social and spatial hierarchies
+
+Critical to understand how we got stuck so can't see anything other than moving from cage to cage
+
+Have only mapped what we think really happened but only highlight flaws in other scholars arguments
+
+Most stubborn misconception: domination is inevitable result of scaling up population or borders by orders of magnitude
+
+"complexity" often euphemism for "hierarchy"
+
+None of these assumptions ae essential
+
+p515 Crumley: complex systems do
+not have to be organized top-down
+
+p516
 no: rise of urban life means surrendering freedom and submitting to rule
 
 What preceded cities was networks of societies
 
+amphictyony (plural amphictyonies) A religious foundation or co-operative shared between Greek city states during the classical period, typically to support the temple or cult of a deity shared by the city states. Also used academically to refer to similar arrangements in non-Greek cultures
+
+https://en.wikipedia.org/wiki/Amphictyonic_league
+
 cities were confederacies compressed into a small space
 
+Hereditary aristocracies just as likely to form in small groups
 
-p521 research as a form of play
+p518 Kings and slaves inhabit the same ground: both have no kin
+
+First factories: charitable institutions but leads to degradation of women
+
+p519 ~ How did we find ourselves stuck in just one form of social reality, and how did relations based ultimately earn violence and domination come to be normalized within it?
+
+Franz Steiner
+
+https://en.wikipedia.org/wiki/Franz_Baermann_Steiner
+
+What happens when freedom of movement, hospitality and abode erode?
+
+If stateless societies regularly organize themselves but chiefs have no power
+Perhaps goes back to charity. Chief's residence becomes a sanctuary.
+
+the process of giving refuge transforms domestic arrangements
+
+p520 Attracts freakish or detached - everywhere
+
+
+p521 our research began as a form of play
 
 how new archeological evidence might change notions of history
 
 searched in vain
 
-perhaps because of lack of language
+p522 perhaps because of lack of language
+Lack of appropriate language
 
 words ike "democracy" have so much historical baggage
 
-we are at a los for words when confronted with certain major aspects of human history
+What do you call a city that lacks a top-down structure?
 
-The majority of human history is without slavery or war: free societies
-
+we are at a loss for words when confronted with certain major aspects of human history
 p523
 Recalibrate the scales
 
+The majority of human history is without slavery or war: free societies
+
+Slavery abolished multiple times. Ditto war
+
+the periods of free societies represents the majority of existence
+
+Perhaps the future will rewrite history
+
 We could have been living in radically different conceptions of what human society is about
 
+the possibilities for human intervention are greater then we are inclined to think
+
+
 p524
+
 Are we at a time of "kairos" a time in which events prone to happen, when frameworks shift?
 
 Scientists not discovering new science, but they are discovering new history.
 
 The purpose of this new knowledge is to reshape our conceptopns
+
 
 p525 Myth gives structure
 
