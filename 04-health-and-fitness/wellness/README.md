@@ -21,6 +21,13 @@
 
 ## Death
 
+### Hospice
+
+* https://vitas.com
+* Talked at Heritage2023/01
+>Hospice is a type of medical care that gives seriously ill patients and their loved ones meaningful time together when the focus of care turns from active treatment to comfort and quality of life near the end of life. Hospice is not a place. Rather, it is a full range of services that put patients and families in control, giving them hope about their last days, weeks and months together.
+
+
 ### Breathing
 
 * https://www.crossroadshospice.com/hospice-resources/end-of-life-signs/breathing-patterns/
@@ -56,7 +63,7 @@ Goodbye Dominique. You have left me a legacy replete with the twists and turns o
 ## Sophia ~ Inflammation
 
 * Text too small
-* allergies even depression - all sorts of odd things - caused by inflamation
+* allergies even depression - all sorts of odd things - caused by inflammation
 * Nutrition action
 
 Elizabeth
