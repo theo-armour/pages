@@ -28,7 +28,8 @@ tags #history #graeber #dawnOfEverything #anthropology
 * https://www.supersummary.com/the-dawn-of-everything/summary/
 
 ## Reviews
-
+* 2023-01-22 ~ https://www.middleeasteye.net/opinion/david-graeber-vs-yuval-harari-forgotten-cities-myths-how-civilisation-began
+  * https://news.ycombinator.com/item?id=34480653
 * https://www.journals.uchicago.edu/doi/10.1086/720603
 * https://www.nytimes.com/2021/10/31/arts/dawn-of-everything-graeber-wengrow.html
 * https://www.nytimes.com/2021/11/04/opinion/graeber-wengrow-dawn-of-everything-history.html

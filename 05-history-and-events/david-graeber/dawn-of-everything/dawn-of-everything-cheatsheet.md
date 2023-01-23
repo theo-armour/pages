@@ -40,6 +40,7 @@ Long Distance Interaction ~ p 23
 
 
 ## Freedoms
+
 * To move
 * To disobey
 * To rearrange social ties
@@ -53,7 +54,7 @@ Long Distance Interaction ~ p 23
 
 ## Rousseau
 
-* p5125 minor tinkering with inherently squlid condition ~ but some free will
+* p5125 minor tinkering with inherently squalid condition ~ but some free will
 
 ## Hobbes
 
@@ -74,4 +75,48 @@ Long Distance Interaction ~ p 23
 
 ## Myth
 
-* p5125 Message the way in which human societies give structure and meaning to experience.
+* P2 the myth of progress
+* p69 Myth of the noble savage
+  * Today we assume it is the left who speaks of the noble savage
+  * projection of European fantasies, idealizes faraway people
+  * Popularized a century later ~ 1859
+  * Myth of the myth of the noble savage
+* p71 Beyond the myth of the stupid savage
+  * innocent simplicity
+* p78 Most societies imagine a mythic age of creation
+  * now endlessly repeating the great gestures of that time
+* p82 No original form of human society. Searching for one is myth-making
+* p82 Nothing wrong with myths - it's our nature like art and poetry
+* p118 for too long generating myths ~ we mostly ask the wrong questions
+* p147 Myth that foragers live in a state of infantile simplicity
+* p153 Myth of the "Agricultural Revolution"
+* p230 Myth ~ Retelling the oast as a "just so" story - makes present somehow inevitable
+* p240 myth about demiurgic, life-ding clay
+* p493 inquiring about origins of inequality means creating a myth - a fall from grace
+* p524 the lines between myth, history and science become blurred
+* p525 Message the way in which human societies give structure and meaning to experience.
+
+### Myths
+
+a study that is rigorous in every other respect begins from the unexamined assumption
+* that there was ome “original” form of human society
+* that its nature was fundamentally good or evil
+* that at a time before an inequality and political awareness existed
+* that something happened to change all this
+* that "civilization" and "complexity" always came at the price of human freedoms
+* that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state
+
+
+## hopewell interaction sphere
+
+* https://education.nationalgeographic.org/resource/intriguing-interactions
+* https://en.wikipedia.org/wiki/Hopewell_tradition
+
+
+## Kindle Color Code
+
+Yellow ~ statement
+Blue ~ opinion ~ background
+Red ~ counter point ~ opposed view
+Orange ~ Definition
+

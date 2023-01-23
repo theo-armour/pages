@@ -1,4 +1,7 @@
-# Dawon of Eveything ~ Theo Notes
+# Dawn of Everything ~ Theo Notes
+
+tags #book #history #anthropology
+
 
 The book is written as a college course - the usual twelve or so chapters with thoughts of previous chapters refrained as reminders throughout
 
@@ -82,7 +85,7 @@ Revisit: indigenous critique ~ take seriously social thought that is non-Europea
 
 ### Why both the Hobbesian and Rousseauian versions of human history have dire political implications
 
-Reussaeau: Humankind descended To send it into inequality from an original state of egalitarian innocence.
+Rousseau: Humankind descended To send it into inequality from an original state of egalitarian innocence.
 
 Modern thinking: even if it's unjust, a bit of tinkering might make it work.
 
@@ -277,7 +280,7 @@ p180 schismogenesis
 
 Each society a mirror image of the other ~ alter ego
 
-## Chapter 5 Many Seasons Ago ~ p164 ! 24%
+## Chapter 5 ~ Many Seasons Ago ~ p164 ~ 24%
 
 My Canadian Foragers kept slaves, and their Californian neighbors didn't; or, the problem with "modes of production".
 
@@ -317,7 +320,7 @@ Catalhuyuk
 ### Semantic Snare ~ p247
 
 
-## Chapter 7 ~ The ecology of Freedom ~ p248
+## Chapter 7 ~ The Ecology of Freedom ~ p248
 
 ### Spread around Globe  ~ p 253
 
@@ -346,7 +349,7 @@ Teotihuacan
 
 Tlaxcala ~ a democracy?
 
-## Chapter 10 ~ Why the State has no origin ~ p 359 ~ 51%
+## Chapter 10 ~ Why the State has no Origin ~ p 359 ~ 51%
 
 * Free to travel
 * free to move between different social structured ~ freedom to reorganize social structures
@@ -663,6 +666,7 @@ words ike "democracy" have so much historical baggage
 What do you call a city that lacks a top-down structure?
 
 we are at a loss for words when confronted with certain major aspects of human history
+
 p523
 Recalibrate the scales
 
@@ -707,17 +711,3 @@ Be careful: The ending is a trick:
 
 
 ## Notes ~ p527 ~ 76%
-
-## hopewell interaction sphere
-
-* https://education.nationalgeographic.org/resource/intriguing-interactions
-* https://en.wikipedia.org/wiki/Hopewell_tradition
-
-
-## Kindle Color Code
-
-Yellow ~ statement
-Blue ~ opinion ~ background
-Red ~ counter point ~ opposed view
-Orange ~ Definition
-
