@@ -13,7 +13,6 @@ History is teleology
 
 ## Bullets
 
-
 foraging and agriculture ~ do not follow ~ they coexist
 hunter-gathers: heroic ~ farmers: peaceful
 Agriculture was not a revolution
@@ -38,6 +37,19 @@ Long Distance Interaction ~ p 23
 * Traveling healers and entertainers
 * Women's gambling
 
+## Agriculture
+p4
+* Not inception of private property
+* Did not mark irreversible step toward inequality
+* First farming communities free of ranks and hierarchies
+
+## Cities
+
+## Hunter Gatherers
+p4
+* Bold social experiments
+* Carnival parade of political forms
+
 
 ## Freedoms
 
@@ -52,13 +64,17 @@ Long Distance Interaction ~ p 23
 * No prospect of redemption
 * Book of Genesis
 
+## Hobbes
+
+* best: modest control - but destiny
+
+## Inequality
+
+
 ## Rousseau
 
 * p5125 minor tinkering with inherently squalid condition ~ but some free will
 
-## Hobbes
-
-* best: modest control - but destiny
 
 ## Narrative fails
 
@@ -99,7 +115,7 @@ Long Distance Interaction ~ p 23
 ### Myths
 
 a study that is rigorous in every other respect begins from the unexamined assumption
-* that there was ome “original” form of human society
+* that there was some “original” form of human society
 * that its nature was fundamentally good or evil
 * that at a time before an inequality and political awareness existed
 * that something happened to change all this

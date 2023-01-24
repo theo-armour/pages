@@ -35,6 +35,8 @@ Theological question: Are we innately good or are we innately evil?
 
 Actually nonsensical question. We don't ask animals if they are good.
 
+"Good" and "evil" are concepts humans made up to compare ourselves with one another.
+
 Original sin. We were godlike, but now are in a fallen state
 
 First: Jean-Jacques Rousseau ~ _Discourse on the Origin and the Foundation of Inequality among Mankind_ 1754
@@ -47,7 +49,7 @@ Only other offer, even worse:
 
 Thomas Hobbes ~ _Leviathan_ ~ 1651
 
-Primitive life: nasty, short and brutish, repression of basic instincts.
+p3 primitive life: nasty, short and brutish, repression of basic instincts.
 
 Always: Alpha male, hierarchy and domination come, cynical self interest
 Progress: courts, bureaucracy, police
