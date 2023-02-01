@@ -25,6 +25,7 @@ https://forum.effectivealtruism.org/
 
 ## Links of Interest
 
+
 https://en.wikipedia.org/wiki/Fermi_paradox
 
 Widespread mis-perceptions of long-term attitude change
@@ -33,8 +34,6 @@ Widespread mis-perceptions of long-term attitude change
 * https://news.ycombinator.com/item?id=32774592
 
 ## People
-
-
 
 Many links
 

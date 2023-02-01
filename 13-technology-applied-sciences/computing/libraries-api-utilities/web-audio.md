@@ -1,5 +1,10 @@
 # Web Audio
 
+## Speech
+
+* https://beta.elevenlabs.io/
+
+> The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
 
 ## howler
 

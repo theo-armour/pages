@@ -6,11 +6,42 @@ tags #philosophy #altruism #social-movement #effective-altruism #longtermism @ma
 
 ## Articles
 
+### 2023-01-31 ~ My Model Of EA Burnout
+
+* https://www.lesswrong.com/posts/pDzdb4smpzT3Lwbym/my-model-of-ea-burnout
+
+Nice list of values
+
+True Values
+
+* Abundance
+* Power
+* Novelty
+* Social Harmony
+* Beauty
+* Growth
+* Comfort
+* The Wellbeing Of Others
+* Excitement
+* Personal Longevity
+* Accuracy
+
+Should Values
+
+* Impact*
+* Calibration
+* Openness*
+* Collaboration*
+* Empiricism*
+* The Wellbeing Of Others
+* Personal Longevity
+
+
+
 ### https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
 
 * https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
   * https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
-
 
 
 ## Wired
