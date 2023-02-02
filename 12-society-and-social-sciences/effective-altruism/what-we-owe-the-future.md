@@ -8,6 +8,8 @@
 
 ***
 
+
+
 ## Reviews
 
 ### What We Owe the Future by William MacAskill — our obligation to the unborn billions
@@ -21,7 +23,7 @@ Unapologetically optimistic and bracingly realistic, a philosopher’s guide to 
 https://www.theguardian.com/books/2022/aug/25/what-we-owe-the-future-by-william-macaskill-review-a-thrilling-prescription-for-humanity
 
 >Unapologetically optimistic and bracingly realistic, this is the most inspiring book on ‘ethical living’ I’ve ever read
-
+>
 >Giving $3,000 to the right clean energy charity will make more difference to the climate than a lifetime of not eating meat
 
 

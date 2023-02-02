@@ -71,10 +71,15 @@ Hunter gatherers: bold social experiments.
 Agriculture: relatively free of ranks and hierarchies.
 
 p 4
+World of hunter-gatherers:
 * Bold social experiments
 * Multitude of political forms
 * Absence of private property
 * Free of ranks and hierarchies
+
+create a different world history.
+
+conceptual shift is required
 
 question of history: not equal access to resources but equal capacity to contribute to decisions how to live together
 
@@ -85,34 +90,48 @@ Forget: Social evolution, stages of development
 Revisit: indigenous critique ~ take seriously social thought that is non-European
 
 
-### Why both the Hobbesian and Rousseauian versions of human history have dire political implications
+### p5 ~ Why both the Hobbesian and Rousseauian versions of human history have dire political implications
+
+tags #inequality
 
 Rousseau: Humankind descended To send it into inequality from an original state of egalitarian innocence.
 
+Moderns: social inequality is out of control
+
 Modern thinking: even if it's unjust, a bit of tinkering might make it work.
 
-Palatable to the rich.But to actual reformers, no solution is evident.
+Palatable to the rich. But to actual reformers, no solution is evident.
+
+What does removing inequality mean?
+
+
+
+Small groups not necessarily egalitarian; large groups must have rulers or bureaucracies.
+
+An egalitarian society might be possible, but only if lived in a tiny band of foragers.
+
+The ultimate question of human history is not equal access to material resources.But our equal capacity to contribute to decisions about how to live together.
+
+We are projects of collective self creation. We must treat people from the beginning as a managership, intelligent, playful creatures who deserve to be understood as such?
+
+We are so trapped that we cannot imagine reinventing ourselves
+
+### Some brief examples of why received understandings of the broad sweep of human history are mostly wrong.Or the eternal return of Jean Jacques Rousseau.
+
+The framing oh uhman history: humanity once existed in an idyllic state and that a specific point can be identified at which everything started to go wrong
+
+Fukuyama : Haunting bands very egalitarian.
+Pinker: pre-state people were violent
 
 Diamond: Only primordial are egalitarian
 
 Hierarchy is inevitable
 
-Small groups not necessarily egalitarian; large groups must have rulers or bureaucracies.
-
-Cubing in a gallatin society might be possible, but only if lived in a tiny band of foragers.
-
-The ultimate question of human history is not equal access to material resources.But our.Equal capacity to contribute to decisions about how to live together.
-
-We are projects of collective self creation.We must treat people from the beginning as a managership, intelligent, playful creatures who deserve to be understood as such?
-
-### Some brief examples of why received understandings of the broad sweep of human history are mostly wrong.Or the eternal return of Jean Jacques Rousseau.
-
-Fukuyama : Haunting bands very egalitarian.
-Pinker: pre-state people were violent
-
 For both, the invention of Agriculture puts an end to equality
 
 Graeber: There is no reason to believe that small groups were egalitarian, or that large ones must necessarily have kings presidents or even bureaucracies.
+
+### p11 ~ On the pursuit of Happiness
 
 p14
 Early humans nurturing and caring
@@ -129,7 +148,7 @@ Impoverished history ~ simplification ~ reductionism ~ dulled down
 p18
 People return to tribal life
 
-### How to conventional narrative of human history is not only wrong, but quite needlessly dull
+### p21 ~ How to conventional narrative of human history is not only wrong, but quite needlessly dull
 
 Standard history reduces people to cardboard stereotypes.
 
@@ -146,7 +165,7 @@ Long distance interruption spheres
 
 Guesses we make are often far less interesting
 
-### On What's To Follow
+### p24 ~ On What's To Follow
 
 New science of history
 
