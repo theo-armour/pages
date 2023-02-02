@@ -1,4 +1,4 @@
-# Technology Read Me
+# Technology Applied Science Read Me
 
 tags #tech
 
@@ -31,6 +31,7 @@ Computer model
 Computer engineering
 Computer science
 Computer security
+**Computer Standards**
 Computing and society
 Data
 Embedded systems

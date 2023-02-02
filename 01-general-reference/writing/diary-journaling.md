@@ -17,12 +17,11 @@ One habit
 
 * https://medium.com/mind-cafe/one-habit-that-helped-me-dramatically-improve-my-life-7ce827af2520
 
+
 ### Kieran Drew
 
 * https://kierandrew.medium.com/
 * https://www.kierandrew.com/
-
-
 * https://twitter.com/ItsKieranDrew/status/1597941365316505602
 
 Start a question log as you go about daily life.

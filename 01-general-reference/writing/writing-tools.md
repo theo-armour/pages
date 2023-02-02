@@ -42,7 +42,7 @@ jsFiddle is best
 
 ### Airtable
 
-& https://prezi.com/slybmeadkxfm/omar-more/?present=1
+* https://prezi.com/slybmeadkxfm/omar-more/?present=1
 
 ### Presi
 

@@ -15,6 +15,14 @@ My digital commonplace book
 * Transform my categories to Wikipedia categories
 grv-github-repo-tree-view.html
 grv-github-repo-tree-view.html
+
+
+## Futures
+
+* https://www.crummy.com/writing/hosted/The%20Year%202000.html?
+> One Hundred Technical Innovations Very Likely in the Last Third of the Twentieth Century
+
+
 ## Issues
 
 ## Links of Interest
@@ -25,21 +33,6 @@ FakooFakoo
 The Fakoo alphabet was developed from 2006 to 2008 and beyond by Alexander Fakoó as script for the blind, which can also be read by the sighted. This should enable an improved exchange of information between blind and sighted people. Inscriptions of all kinds can be read by sighted and blind people without any problems, as the characters have been adapted to the Latin letters and therefore have a high recognition value.
 
 
-
-## Futures
-
-* https://www.crummy.com/writing/hosted/The%20Year%202000.html?
-> One Hundred Technical Innovations Very Likely in the Last Third of the Twentieth Century
-
-
-## Concept
-
-## To Do / Wish List
-
-## Issues
-
-## Links of Interest
-
 Return to an oral culture
 * https://www.theatlantic.com/technology/archive/2011/05/oral-culture-literate-culture-twitter-culture/239697/
 
@@ -47,10 +40,12 @@ Safety === security
 * https://rootsofprogress.org/towards-a-philosophy-of-safety
 * https://rootsofprogress.org/
 
+
 Making an Enemy of Luxury
 Imagining utopia—and condemning excess—during the Enlightenment.
 * https://www.laphamsquarterly.org/roundtable/making-enemy-luxury
 * https://news.ycombinator.com/item?id=32820033
+
 [Book review] Gödel, Escher, Bach: an in-depth explainer
 * https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer
 
@@ -70,12 +65,11 @@ Wikipedia Templates
 * https://en.wikipedia.org/wiki/Category:People_and_person_templates
 
 
-
 ## Change Log
 
 ### 2022-10-05
 
-* Moved to its own repository
+* Moved pages to its own repository
 
 
 ### 2021-01-03

@@ -1,7 +1,12 @@
 # Writing Read Me
 
-## Technical Writing Courses
+## Wikipedia
 
+* https://en.wikipedia.org/wiki/Writing
+  * https://en.wikipedia.org/wiki/Diary (Journaling )
+
+
+## Technical Writing Courses
 
 * https://developers.google.com/tech-writing
 >Every engineer is also a writer.
@@ -12,6 +17,5 @@
 ## Editorial style guides
 
 * https://www.chicagomanualofstyle.org/home.html
-
 * https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf
 

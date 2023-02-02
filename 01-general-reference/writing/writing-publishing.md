@@ -11,6 +11,7 @@ https://medium.com/mind-cafe/a-psychological-trick-to-evoke-an-interesting-conve
 
 * https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/
 
+
 ## Marketing
 
 * https://www.blurb.com/partner/reedsy

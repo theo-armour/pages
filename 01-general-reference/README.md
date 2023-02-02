@@ -1,4 +1,4 @@
-# Reference
+# 01 General Reference Read Me
 
 ## Careful Words
 
@@ -33,8 +33,8 @@ Web sites
 ### Further research tools and topics
 
 Academic disciplines
-Archives
-Books
+**Archives**
+**Books**
 Clients
 Curricula
 Databases online
@@ -51,14 +51,13 @@ Library cataloging and classification
 News agencies
 Periodic table
 Prefixes
-Reading
+**Reading**
 Research
 Search engines
 Suffixes
 Universities and colleges
+**Writing**
 
-* https://en.wikipedia.org/wiki/Writing
-  * https://en.wikipedia.org/wiki/Diary (Journaling )
 
 ## Encyclopedias
 

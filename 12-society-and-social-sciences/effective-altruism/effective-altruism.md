@@ -1,5 +1,7 @@
 # effective altruism
 
+tags #ea #effective-altruism #altruism
+
 ## Centre For Effective Altruism
 
 * https://www.centreforeffectivealtruism.org/
