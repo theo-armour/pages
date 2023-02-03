@@ -27,7 +27,6 @@ Reviewer
 * Early societies more like high school gossip groups
 
 Current historiography is a myth
-
 * Simply isn't true
 * Has dire political implications
 * Makes the past needlessly dull ~ Actually more playful
@@ -86,7 +85,6 @@ p4
 * By fear of decadence
 
 ## Enlightenment defines
-
 
 
 ## Myth
