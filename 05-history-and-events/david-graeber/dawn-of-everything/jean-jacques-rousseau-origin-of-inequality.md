@@ -29,9 +29,9 @@ p23
 p25
 > As we say, it’s all just an endless repetition of a story first told by Rousseau in 1754. Many contemporary scholars will quite literally say that Rousseau’s vision has been proved correct. If so, it is an extraordinary coincidence, since Rousseau himself never suggested that the innocent State of Nature really happened. On the contrary, he insisted he was engaging in a thought experiment: ‘One must not take the kind of research which we enter into as the pursuit of truths of history, but solely as hypothetical and conditional reasonings, better fitted to clarify the nature of things than to expose their actual origin...
 
- Rousseau’s portrayal of the State of Nature and how it was overturned by the coming of agriculture was never intended to form the basis for a series of evolutionary stages, like the ones Scottish philosophers such as Smith, Ferguson or Millar (and later on, Lewis Henry Morgan) were referring to when they spoke of ‘Savagery’ and ‘Barbarism’. In no sense was Rousseau imagining these different states of being as levels of social and moral development, corresponding to historical changes in modes of production: foraging, pastoralism, farming, industry. Rather, what Rousseau presented was more of a parable, by way of an attempt to explore a fundamental paradox of human politics: how is it that our innate drive for freedom somehow leads us, time and again, on a ‘spontaneous march to inequality
+> Rousseau’s portrayal of the State of Nature and how it was overturned by the coming of agriculture was never intended to form the basis for a series of evolutionary stages, like the ones Scottish philosophers such as Smith, Ferguson or Millar (and later on, Lewis Henry Morgan) were referring to when they spoke of ‘Savagery’ and ‘Barbarism’. In no sense was Rousseau imagining these different states of being as levels of social and moral development, corresponding to historical changes in modes of production: foraging, pastoralism, farming, industry. Rather, what Rousseau presented was more of a parable, by way of an attempt to explore a fundamental paradox of human politics: how is it that our innate drive for freedom somehow leads us, time and again, on a ‘spontaneous march to inequality
 
-Describing how the invention of farming first leads to private property, and property to the need for civil government to protect it, this is how Rousseau puts things: ‘All ran towards their chains, believing that they were securing their liberty; for although they had reason enough to discern the advantages of a civil order, they did not have experience enough to foresee the dangers.’ His imaginary State of Nature was primarily invoked as a way of illustrating the point. True, he didn’t invent the concept: as a rhetorical device, the State of Nature had already been used in European philosophy for a century. Widely deployed by natural law theorists, it effectively allowed every thinker interested in the origins of government (Locke, Grotius and so on) to play God, each coming up with his own variant on humanity’s original condition, as a springboard for speculation.
+> Describing how the invention of farming first leads to private property, and property to the need for civil government to protect it, this is how Rousseau puts things: ‘All ran towards their chains, believing that they were securing their liberty; for although they had reason enough to discern the advantages of a civil order, they did not have experience enough to foresee the dangers.’ His imaginary State of Nature was primarily invoked as a way of illustrating the point. True, he didn’t invent the concept: as a rhetorical device, the State of Nature had already been used in European philosophy for a century. Widely deployed by natural law theorists, it effectively allowed every thinker interested in the origins of government (Locke, Grotius and so on) to play God, each coming up with his own variant on humanity’s original condition, as a springboard for speculation.
 
 p28
 > When it comes to cherry-picking anthropological case studies, and putting them forward as representative of our ‘contemporary ancestors’ – that is, as models for what humans might have been like in a State of Nature – those working in the tradition of Rousseau tend to prefer African foragers like the Hadza, Pygmies or !Kung. Those who follow Hobbes prefer the Yanomami.
@@ -40,111 +40,76 @@ p30
 > For obvious reasons, Hobbes’s position tends to be favoured by those on the right of the political spectrum, and Rousseau’s by those leaning left.
 
 p34
-> Hobbes and Rousseau told their contemporaries things that were
-startling, profound and opened new doors of the imagination. Now their
-ideas are just tired common sense. There’s nothing in them that justifies the
-continued simplification of human affairs. If social scientists today continue
-to reduce past generations to simplistic, two-dimensional caricatures, it is
-not so much to show us anything original, but just because they feel that’s
-what social scientists are expected to do so as to appear ‘scientific’. The
-actual result is to impoverish history – and as a consequence, to impoverish
-our sense of possibility.
+> Hobbes and Rousseau told their contemporaries things that were startling, profound and opened new doors of the imagination. Now their ideas are just tired common sense. There’s nothing in them that justifies the continued simplification of human affairs. If social scientists today continue to reduce past generations to simplistic, two-dimensional caricatures, it is not so much to show us anything original, but just because they feel that’s what social scientists are expected to do so as to appear ‘scientific’. The actual result is to impoverish history – and as a consequence, to impoverish our sense of possibility.
 
 p38
->, Rousseau
-was not entirely mistaken. Something has been lost. He just had a rather
-idiosyncratic (and ultimately, false) notion of what it was. How do we
-characterize it, then?
+> Rousseau was not entirely mistaken. Something has been lost. He just had a rather idiosyncratic (and ultimately, false) notion of what it was. How do we characterize it, then?
 
 p38
-> In the end, we decided to write a
-book that would echo, to some degree at least, that evolution in our own
-thought. In those conversations, the real breakthrough moment came when
-we decided to move away from European thinkers like Rousseau entirely,
-and instead consider perspectives that derive from those indigenous thinkers
-who ultimately inspired them.
+> In the end, we decided to write a book that would echo, to some degree at least, that evolution in our own thought. In those conversations, the real breakthrough moment came when we decided to move away from European thinkers like Rousseau entirely, and instead consider perspectives that derive from those indigenous thinkers who ultimately inspired them.
 
 p40
-> Jean-Jacques Rousseau left us a story about the origins of social inequality
-that continues to be told and retold, in endless variations, to this day. It is
-the story of humanity’s original innocence, and unwitting departure from a
-state of pristine simplicity on a voyage of technological discovery that
-would ultimately guarantee both our ‘complexity’ and our enslavement.
-
-> All this applies to Rousseau. Intellectual historians sometimes write as if
-Rousseau had personally kicked off the debate about social inequality with
-his 1754 Discourse on the Origin and the Foundation of Inequality Among
-Mankind. In fact, he wrote it to submit to an essay contest on the subject.
+> Jean-Jacques Rousseau left us a story about the origins of social inequality that continues to be told and retold, in endless variations, to this day. It is the story of humanity’s original innocence, and unwitting departure from a state of pristine simplicity on a voyage of technological discovery that would ultimately guarantee both our ‘complexity’ and our enslavement.
+>
+> All this applies to Rousseau. Intellectual historians sometimes write as if Rousseau had personally kicked off the debate about social inequality with his 1754 Discourse on the Origin and the Foundation of Inequality Among Mankind. In fact, he wrote it to submit to an essay contest on the subject.
 
 p41
-> They lived off the
-patronage of dukes and archbishops, and rarely entered a building without
-knowing the precise order of importance of everyone inside. Rousseau was
-one such man: an ambitious young philosopher, he was at the time engaged
-in an elaborate project of trying to sleep his way into influence at court. The
-closest he’d likely ever come to experiencing social equality himself was
-someone doling out equal slices of cake at a dinner party. Yet everyone at
-the time also agreed that this situation was somehow unnatural; that it had
-not always been that way
+> They lived off the patronage of dukes and archbishops, and rarely entered a building without knowing the precise order of importance of everyone inside. Rousseau was one such man: an ambitious young philosopher, he was at the time engaged in an elaborate project of trying to sleep his way into influence at court. The closest he’d likely ever come to experiencing social equality himself was someone doling out equal slices of cake at a dinner party. Yet everyone at the time also agreed that this situation was somehow unnatural; that it had not always been that way
 
 p49
-> e will examine early missionary and travel accounts from New France
-– especially the Great Lakes region – since these were the accounts
-Rousseau himself was most familiar with, to get a sense of what its
-indigenous inhabitants did actually think of French society, and how they
-came to think of their own societies differently as a result. We will argue
-that indigenous Americans did indeed develop a very strong critical view of
-their invaders’ institutions: a view which focused first on these institutions’
-lack of freedom, and only later, as they became more familiar with
-European social arrangements, on equality.
+> We will examine early missionary and travel accounts from New France – especially the Great Lakes region – since these were the accounts Rousseau himself was most familiar with, to get a sense of what its indigenous inhabitants did actually think of French society, and how they came to think of their own societies differently as a result. We will argue that indigenous Americans did indeed develop a very strong critical view of their invaders’ institutions: a view which focused first on these institutions’ lack of freedom, and only later, as they became more familiar with European social arrangements, on equality.
 
-p74
-> The exchange between Madame de Graffigny and Turgot gives us a sense
-of intellectual debate in France in the early 1750s; at least, in the saloniste
-circles with which Rousseau was familiar. Were freedom and equality
-universal values, or were they – at least in their pure form – inconsistent
-with a regime based on private property? Did the progress of arts and
-sciences lead to improved understanding of the world, and therefore to
-moral progress as well? Or was the indigenous critique correct, and the
-wealth and power of France simply a perverse side effect of unnatural, even
-pathological, social arrangements? These were the questions on every
-debater’s lips at the time.
-If we know anything about those debates today, it’s largely because of
-their influence on Rousseau’s essay. The Discourse on the Origins of Social
-Inequality has been taught, debated and picked apart in a thousand
-classrooms – which is odd, because in many ways it is very much an
-eccentric outlier, even by the standards of its time.
+**p74 - p84**
 
-**p75 - p84**
-> In the early part of his life, Rousseau was known mainly as an aspiring
-composer. His rise to prominence as a social thinker began in 1750, when
-he took part in a contest sponsored by the same learned society, the
-Académie de Dijon, on the question, ‘Has the restoration of the sciences
-and arts contributed to moral improvement?’46 Rousseau won first prize,
-and national fame, with an essay in which he argued with great passion that
-they had not. Our elementary moral intuitions, he asserted, are
-fundamentally decent and sound; civilization merely corrupts by
-encouraging us to value form over content. Almost all the examples in this
-Discourse on the Arts and Sciences are taken from classical Greek and
-Roman sources – but in his footnotes, Rousseau hints at other sources of
-inspiration:
+HOW JEAN-JACQUES ROUSSEAU, HAVING WON ONE PRESTIGIOUS ESSAY COMPETITION, THEN LOST ANOTHER (COMING IN OVER THE PERMITTED WORD LENGTH), BUT FINALLY WENT ON TO CONQUER THE WHOLE OF HUMAN HISTORY
 
-I don’t dare speak of those happy nations who do not know even the
-names of the vices which we have such trouble controlling, of those
-American savages whose simple and natural ways of keeping public
-order Montaigne does not hesitate to prefer, not merely to the laws
-of Plato, but even to anything more perfect which philosophy will
-ever be able to dream up for governing a people. He cites a number
-of striking examples of these for those who understand how to
-admire them. What’s more, he says, they don’t wear breeches!
+> The exchange between Madame de Graffigny and Turgot gives us a sense of intellectual debate in France in the early 1750s; at least, in the saloniste circles with which Rousseau was familiar. Were freedom and equality universal values, or were they – at least in their pure form – inconsistent with a regime based on private property? Did the progress of arts and sciences lead to improved understanding of the world, and therefore to moral progress as well? Or was the indigenous critique correct, and the wealth and power of France simply a perverse side effect of unnatural, even pathological, social arrangements? These were the questions on every debater’s lips at the time.
+>
+>If we know anything about those debates today, it’s largely because of their influence on Rousseau’s essay. _The Discourse on the Origins of Social Inequality_ has been taught, debated and picked apart in a thousand classrooms – which is odd, because in many ways it is very much an eccentric outlier, even by the standards of its time.
+>
+> In the early part of his life, Rousseau was known mainly as an aspiring composer. His rise to prominence as a social thinker began in 1750, when he took part in a contest sponsored by the same learned society, the Académie de Dijon, on the question, ‘Has the restoration of the sciences and arts contributed to moral improvement?’ Rousseau won first prize, and national fame, with an essay in which he argued with great passion that they had not. Our elementary moral intuitions, he asserted, are fundamentally decent and sound; civilization merely corrupts by encouraging us to value form over content. Almost all the examples in this _Discourse on the Arts and Sciences_ are taken from classical Greek and Roman sources – but in his footnotes, Rousseau hints at other sources of inspiration:
+>
+> I don’t dare speak of those happy nations who do not know even the names of the vices which we have such trouble controlling, of those American savages whose simple and natural ways of keeping public order Montaigne does not hesitate to prefer, not merely to the laws of Plato, but even to anything more perfect which philosophy will ever be able to dream up for governing a people. He cites a number of striking examples of these for those who understand how to admire them. What’s more, he says, they don’t wear breeches!
 
-On for several pages. Come back here!
+p76
+> But the real innovation Rousseau introduces comes at the key moment of humanity’s ‘fall from grace’, a moment triggered, he argues, by the emergence of property relations
+>
+>three stages:
+* a purely imaginary State of Nature, when individuals lived in isolation from one another;
+* a stage of Stone Age savagery, which followed the invention of language (in which he includes most of the
+modern inhabitants of North America and other actually observable ‘savages’);
+* then finally, civilization, which followed the invention of agriculture and metallurgy. Each marks a moral decline
+
+>Each marks a moral decline
+>
+> the entire parable is a way to understand what made it possible for human beings to accept the notion of private property
+
+
+p77
+> Here, Rousseau asks exactly the same question that puzzled so many indigenous Americans. How is it that Europeans are able to turn wealth into power; turn a mere unequal distribution of material goods – which exists, at least to some degree, in any society – into the ability to tell others what to do, to employ them as servants, workmen or grenadiers, or simply to feel that it was no concern of theirs if they were left dying in a feverish bundle on the street?
+
+> Europeans just don’t seem to care about each other; that they are ‘neither generous nor kind’
+
+> It manages to incorporate elements of the indigenous critique,  echoes of the biblical narrative of the
+Fall, and something that at least looks a great deal like the evolutionary stages of material development that were only just being propounded, around that time
+
+p80
+> It may seem ironic that Rousseau, who began his career by taking what we would now consider an arch-conservative position – that seeming progress leads only to moral decay – would end up becoming the supreme bête noire
+of so many conservatives
+
+p81
+> What needs to be investigated, instead, might better be called the ‘myth of the myth of the noble savage’:
+
+p83
+> Rousseau sidestepped the question by reducing his savages to mere thought experiments. He was just about the only major figure of the French Enlightenment who didn’t write a dialogue or other imaginative work attempting to look at European society from a foreign point of view. In fact, he strips his ‘savages’ of any imaginative powers of their own; their happiness is entirely derived from their inability to imagine things otherwise, or to project themselves into the future in any way at all.
+> They are thus also utterly lacking in philosophy. This is presumably why no one could foresee the disasters that would ensue when they first staked out property and began to form governments to protect it; by the time human beings were even capable of thinking that far ahead, the worst damage had already been done.
+
+p84
+> Rousseau has been accused of many crimes. He is innocent of most of them. If there is really a toxic element in his legacy, it is this: not his promulgation of the image of the ‘noble savage’, which he didn’t really do, but his promulgation of what we might call the ‘myth of the stupid savage’ – even if one he considered blissful in its state of stupidity. Nineteenth century imperialists adopted the stereotype enthusiastically, merely adding on a variety of ostensibly scientific justifications – from Darwinian evolutionism to ‘scientific’ racism – to elaborate on that notion of innocent simplicity, and thus provide a pretext for pushing the remaining free peoples of the world (or increasingly, as European imperial expansion continued, the formerly free peoples) into a conceptual space where their judgements no longer seemed threatening. This is the work we are trying to undo.
+
 
 p97
-> As Christopher Boehm puts it,
-we seem doomed to play out an endless recycling of the war between
-‘Hobbesian hawks and Rousseauian doves’: those who view humans as
-either innately hierarchical or innately egalitarian.
+> As Christopher Boehm puts it, we seem doomed to play out an endless recycling of the war between ‘Hobbesian hawks and Rousseauian doves’: those who view humans as either innately hierarchical or innately egalitarian.
 
 p98
 > The solution to
