@@ -30,6 +30,9 @@ Dog Patch??
 * 1517 Polk St, San Francisco, CA 94109
 * https://www.sfchronicle.com/food/article/At-Swan-Oyster-Depot-a-secret-menu-built-for-10591335.php
 
+## Maps
+
+* https://files.sfchronicle.com/static-assets/misc/49milefullmap.jpg
 
 ## Museum
 
