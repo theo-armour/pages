@@ -1,5 +1,7 @@
 # Julia Morgan Links
 
+See Heritage Happenings for later version
+
 ![Julia Morgan]( https://upload.wikimedia.org/wikipedia/commons/f/fc/Julia_Morgan.jpg )
 
 ## Reference
