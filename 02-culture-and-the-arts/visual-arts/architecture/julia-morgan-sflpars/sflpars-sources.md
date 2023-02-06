@@ -1,4 +1,4 @@
-# San Francisco Ladies Protection and Relief Society Wikipedia Article
+# San Francisco Ladies Protection and Relief Society (SFLPaRS) Sources
 
 Started August 4, 1853
 
@@ -13,13 +13,6 @@ Use this as the Wikipedia entry core text
 
 * https://www.migration.amdigital.co.uk/Documents/Details/CHS_325-C128r_1861
 
-## Wikipedia
-
-* https://en.wikipedia.org/wiki/Timeline_of_the_San_Francisco_Bay_Area
-
-### categories
-
-https://en.wikipedia.org/wiki/Category:1853_establishments_in_California
 
 
 ## Articles
@@ -42,12 +35,6 @@ https://en.wikipedia.org/wiki/Category:1853_establishments_in_California
 
 * Earthquake
 * http://sfmuseum.org/1906.2/orphans.html
-
-## Identity
-
-* http://worldcat.org/identities/lccn-no2019033361/
-* http://classify.oclc.org/classify2/ClassifyDemo?wi=14325724
-* http://worldcat.org/identities/nc-heritage%20home%20san%20francisco%20calif/
 
 
 ## Mary Tape Case
@@ -122,7 +109,6 @@ People
 * https://pcad.lib.washington.edu/person/128/
 
 
-
 ## Notable Residents
 
 ### Dr Ben Carlson
@@ -153,6 +139,7 @@ People
 ### Mary Tape
 
 * https://en.wikipedia.org/wiki/Mary_Tape
+* https://en.wikipedia.org/wiki/Tape_v._Hurley
 * https://www.nps.gov/people/mary-tape.htm
 * https://archive.advancingjustice-la.org/sites/default/files/AA-Ep1-L4-The-Fight-Against-School%20Segregation_0.docx
 * https://human.libretexts.org/Bookshelves/History/State_and_Local_History/Competing_Visions%3A_A_History_of_California_(Cherny_Lemke-Santiangelo_and_Castillo)/06%3A_California_in_the_Gilded_Age_18701900
@@ -164,6 +151,7 @@ People
 * https://www.history.com/news/chinese-american-segregation-san-francisco-mamie-tape-case
 * https://stopasianhate.medium.com/this-eight-year-old-chinese-american-girl-helped-school-desegregation-in-1885-51e8345dc187
 * https://digitalcommons.stmarys-ca.edu/cgi/viewcontent.cgi?article=1000&context=book-gallery
+
 
 ### heritage highlights 2012
 
@@ -201,23 +189,27 @@ http://sfstreets.noahveltman.com/#7350
 
 https://cdnc.ucr.edu/?a=d&d=DAC18890425.2.67&e=-------en--20--1--txt-txIN--------
 
+
+### mary ann deming crocker
+
+* https://www.nmhistoricwomen.org/location/mary-ann-deming-crocker/
+
+
 ## Timeline
 
 A PARTIAL TIMELINE
 
 August 4, 1853 The San Francisco Ladies’ Protection and Relief Society is founded by Mrs A B Eaton and a church full of acquaintances "to render protection and assistance to strangers, to sick independent women and children."
 
-1857 The Society founds a home for women and children needing shelter on undeveloped land bordered by Van Ness, Geary, Franklin and Post street donated by Horace Hawes. The Franklin Street was know as the "Old Brown Ark" and was primarily used as an orphanage but also housed indigent mothers and elderly women.
+1857 The Society founds a home for women and children needing shelter on undeveloped land bordered by Van Ness, Geary, Franklin and Post street donated by Horace Hawes. The Franklin Street was known as the "Old Brown Ark" and was primarily used as an orphanage but also housed indigent mothers and elderly women.
 
 1921 A new program by State authorities of placing children in foster homes diminishes the need for children‘s homes - forcing the "Ark" to close
 
 1922 The Society decides to change its focus from children to elderly women and convalescents.
 
-March 1922 The Society acquires property  in the Marina District bounded by Francisco, Bay, Laguna, and Octavia Streets (former site of the “Gay Way," a concession area at the Panama Pacific Exposition).
+March 1922 The Society acquires property in the Marina District bounded by Francisco, Bay, Laguna, and Octavia Streets (former site of the “Gay Way," a concession area at the Panama Pacific Exposition).
 
 March 1923 The trustees approve architect Miss Julia Morgan’s plans for the Laguna Street building that will become known as The Heritage. Julian Morgan, the first female architect in California, renowned for her work.On the Hearst Castle, the Fairmont Hotel, Bills College and many other projects was enlisted to design a home of elegance and statute to provide convalescent care to San Francisco's elderly women and children.
-
-https://www.foundsf.org/index.php?title=University_Mound_Ladies_Home
 
 Summer 1923 The Ladies’ Home for children on Franklin Street closes its doors.
 
