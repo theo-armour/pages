@@ -2,79 +2,179 @@
 
 Started August 4, 1853
 
-San Francisco Ladies Protection and Relief Society provided ass
+San Francisco Ladies Protection and Relief Society
 
 ## Archives
 
+### Online Archives of CA ~ Finding Aid to the San Francisco Ladies' Protection and Relief Society Records MS 3576
+
 * https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/
-* https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/entire_text/
+* https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/entire_text/ @@@
 
-Use this as the Wikipedia entry core text
-
-* https://www.migration.amdigital.co.uk/Documents/Details/CHS_325-C128r_1861
-
+Use this as the Wikipedia entry core text??
 
 
 ## Articles
 
-* https://druthersagency.tumblr.com/ 11-30-20
-* https://academic.oup.com/chicago-scholarship-online/book/17625/chapter-abstract/175271757?redirectedFrom=fulltext
-* https://www.maritimeheritage.org/news/benevolent.html ~ Agust 4 1853
-* https://calnonprofits.org/images/downloads/SanFrancisco.pdf
-* https://www.foundsf.org/index.php?title=Men_:_Women_in_Early_San_Francisco
-* https://online.ucpress.edu/ch/article-abstract/85/1/3/32956/Collections?redirectedFrom=PDF
-* https://www.opensfhistory.org/osfhcrucible/2021/03/07/opensfhistory-top-ten-1866/
-* https://sfmuseum.org/hist/chron3.html
-* https://www.google.com/books/edition/Inasmuch_the_One_Hundred_year_History_of/xKfHwgEACAAJ?hl=en
-* https://www.sfgate.com/bayarea/slideshow/Library-of-Congress-images-show-S-F-as-it-was-114119.php
-* https://online.ucpress.edu/phr/article-abstract/68/3/365/78738/Going-About-and-Doing-Good-The-Politics-of?redirectedFrom=fulltext
-& https://www.opensfhistory.org/osfhcrucible/2021/03/07/opensfhistory-top-ten-1866/
-* https://projects.propublica.org/nonprofits/organizations/941156611
-* https://sf.curbed.com/maps/julia-morgan-buildings-best-sf
-* http://www.frederickbee.com/anniebrowning.html
+* https://sfmuseum.org/hist/chron3.html ~ detailed timeline with sfplars start date @@@
 
-* Earthquake
+Minor sources
+
+* https://online.ucpress.edu/phr/article-abstract/68/3/365/78738/Going-About-and-Doing-Good-The-Politics-of?redirectedFrom=fulltext ~ $$$
+* https://online.ucpress.edu/ch/article-abstract/85/1/3/32956/Collections
+* https://academic.oup.com/chicago-scholarship-online/book/17625 ~ about Oakland
+* https://druthersagency.tumblr.com/ 11-30-20 ~ new CEO
+* https://calnonprofits.org/images/downloads/SanFrancisco.pdf ~ sfplars early foundation snippet
+* https://www.maritimeheritage.org/news/benevolent.html ~ gives a date August 4 1853
+* https://www.foundsf.org/index.php?title=Men_:_Women_in_Early_San_Francisco ~ quotes Beans
+> Beans, Rowena. 1953. Inasmuch; the one-hundred year history of the San Francisco ladies protection and relief society, 1853-1953. Edited by Carol Green Wilson. San Francisco: James J. Gillick and Co.
+> Beans, R. (1953). Inasmuch ... the One Hundred-year History of the San Francisco Ladies' Protection and Relief Society, 1853-1953. United States: The Society.
+
+### Earthquake
+
 * http://sfmuseum.org/1906.2/orphans.html
 
-
-## Mary Tape Case
+## Mary Tape Case ~ 1885
 
 See "notable residents"
 
 
 ## Books
 
-* https://www.eurekabookshop.com/pages/books/93128/isabel-l-soule-margaret-p-deering/forty-eighth-and-forty-ninth-annual-reports-of-the-managers-of-the-san-francisco-ladies-protection
+### Beans, Rowena ~ 1953 ~ Inasmuch; the one-hundred year history of the San Francisco ladies protection and relief society
 
-Our Heritage : the San Francisco Ladies' Protection and Relief Society : 1853-2003, the first 150 years
+* https://www.google.com/books/edition/Inasmuch_the_One_Hundred_year_History_of/xKfHwgEACAAJ?hl=en
+> Beans, Rowena. 1953. Inasmuch; the one-hundred year history of the San Francisco ladies protection and relief society, 1853-1953. Edited by Carol Green Wilson. San Francisco: James J. Gillick and Co.
+
+Copy??
+
+https://csl.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01CSL_INST:CSL&search_scope=MyInst_and_CI&tab=Everything&docid=alma990003039730205115&lang=en&context=L&adaptor=Local%20Search%20Engine&query=any,contains,Inasmuch%20...%20the%20One%20Hundred-year%20History%20of%20the%20San%20Francisco%20Ladies%27%20Protection%20and%20Relief%20Society,%201853-1953&offset=0&virtualBrowse=true
+
+
+### Chase, Ashley ~ 2003 ~ Our Heritage : the San Francisco Ladies' Protection and Relief Society : 1853-2003
+
+> Our Heritage : the San Francisco Ladies' Protection and Relief Society : 1853-2003, the first 150 years
 Chase, Ashley, author.; San Francisco Ladies' Protection and Relief Society, issuing body.
 2003
+
 https://search.library.berkeley.edu/discovery/fulldisplay?docid=alma991048143859706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,55084491&offset=0
 
 https://search.library.berkeley.edu/discovery/fulldisplay?docid=alma991048143859706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,55084491&offset=0
 
 https://openlibrary.org/works/OL4874014W/A_history_of_the_Heritage_1853-1970?edition=key%3A/books/OL23057064M
 
-* https://www.google.com/books/edition/California_Women_and_Politics/qkcqDwAAQBAJ?hl=en&gbpv=0
 
-## Filings
+### A History of The Heritage, 1853-1970
 
-* https://projects.propublica.org/nonprofits/organizations/941156611
-* https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/380500295
+https://search.library.berkeley.edu/discovery/fulldisplay?vid=01UCS_BER:UCB&search_scope=MyInstitution&tab=Everything&docid=alma991041833769706532&lang=en&context=L&adaptor=Local%20Search%20Engine&query=any,contains,34918595&offset=0&virtualBrowse=true
 
-
-## Documents
-
-* https://freepages.rootsweb.com/~npmelton/genealogy/SFLadies.htm ~ 1870 Petition
-* http://www.zeimer.com/wp-content/uploads/006-TH-AnlRpt_22x17_03lr.pdf ~ full 2012 PDF
-* https://heritageonthemarina.org/wp-content/uploads/2021/05/2020-Heritage-on-the-Marina-DSS-Auditors-Report.pdf
-* https://www.russellsage.org/sites/default/files/Slingerland_ChildWorkinCA_0.pdf
-
-### A History of The Heritage
+>Wilson, Carol Green, 1892-; San Francisco Ladies' Protection and Relief Society., issuing body.; Kennedy, Lawton, 1900-1980, book designer, printer.; Kennedy, Alfred, book designer, printer.
+1970
 
 It's object quote to render protection and assistance to strangers, to sick independent women and children."
 
 p15 ~ Horace Hawes
+
+***
+
+### More books
+
+### California Women and Politics From the Gold Rush to the Great Depression
+
+* https://www.google.com/books/edition/California_Women_and_Politics/qkcqDwAAQBAJ?hl=en&gbpv=0 ~ sfplars has several mentions ~ none appear useful
+
+
+### Slingerlands ~ 1915 ~ Child welfare work in California; a study of agencies and institutions
+
+* https://www.russellsage.org/sites/default/files/Slingerland_ChildWorkinCA_0.pdf ~ p95 avg children 100 ~ 21 staff
+
+>22. Ladies' Protection and Relief Society, 1200 Franklin Street, San Francisco
+>Founded, 1868, to provide a home for orphaned and dependent children. Brick and frame building, mostly faced with cement, three stories, modern conveniences, but structure old-fashioned and not adapted to modern use. An institution of very great possibilities, largely unrealized. Need new building and modern methods.
+>Main statistics for year ending December 31, 191 3: Value of plant ^100,000
+>Amount of endowment ^350,000
+>Capacity I35 Regular employes 21 Average children in care 100 Annual maintenance ^24,850
+>Average expense per capita ^249
+
+
+## Documents
+
+
+### The Heritage ~ Highlights 2012
+
+* http://www.zeimer.com/wp-content/uploads/006-TH-AnlRpt_22x17_03lr.pdf ~ full 2012 PDF
+* https://web.archive.org/web/20150501075437/http://www.zeimer.com/wp-content/uploads/006-TH-AnlRpt_22x17_03lr.pdf
+
+p7 A Generous Gift from Horace Hawes
+p8 Mrs Robinson, Hawes' daughter: collection boxes
+
+As provided assistance to many different groups of San Franciscans across multiple generations
+
+
+
+### Petition Of The Ladies' Protection And Relief Society, San Francisco, To The Legislature.
+
+* https://freepages.rootsweb.com/~npmelton/genealogy/SFLadies.htm ~ 1870 Petition
+
+
+### Annual Reports
+
+* https://www.eurekabookshop.com/pages/books/93128/isabel-l-soule-margaret-p-deering/forty-eighth-and-forty-ninth-annual-reports-of-the-managers-of-the-san-francisco-ladies-protection
+
+
+## Filings ~ Recent
+
+* https://projects.propublica.org/nonprofits/organizations/941156611 ~ data for 2020
+* https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/380500295 ~ CA inspections
+* https://heritageonthemarina.org/wp-content/uploads/2021/05/2020-Heritage-on-the-Marina-DSS-Auditors-Report.pdf
+
+
+## Photos
+
+Source of 1866 images
+* https://californiarevealed.org/islandora/object/cavpp%3A162163 ~ in book not easy to capture ~ many beauties
+
+### 1866 ~ "Old Brown Ark" ~ West / Back Side
+* https://www.loc.gov/resource/cph.3a27716/
+* https://www.opensfhistory.org/osfhcrucible/2021/03/07/opensfhistory-top-ten-1866/ ~ best? ~ not copyable
+* https://www.sfgate.com/bayarea/slideshow/Library-of-Congress-images-show-S-F-as-it-was-114119.php
+* http://www.frederickbee.com/anniebrowning.html
+
+### 1866 ~ "Old Brown Ark" ~ East / Front Side
+* https://www.loc.gov/resource/cph.3a27715/
+* https://calisphere.org/item/ark:/13030/kt109nc11w/ ~ Ark
+
+
+### 1924 Heritage on the Marina ~ Front
+* https://calisphere.org/item/198cef75733b493777e768f85125ccfe/ ~ not loading ~ same as AR
+* https://www.architecturalrecord.com/articles/15920-guess-the-architect-november-2022 ~ bw ~ hotm ~ calpoly ~ 1924
+
+
+> Ladies' Protection and Relief Society, 'The Heritage Residence,' San Francisco, 1924
+> Creator Edelen, James, photographer
+> Date Created and/or Issued 1924
+
+### 1924 Heritage on the Marina ~ Fireplace
+
+* https://digital.lib.calpoly.edu/rekl-6590 ~ fireplace
+
+### 1935
+
+http://sflib1.sfpl.org:82/record=b1024841
+> Four women in a garden at the Ladies' Protection & Relief Society]
+> Date Created and/or Issued1935 Aug. 22
+
+### 2013 People
+* https://drewaltizer.com/event/6416-san-francisco-ladies-protection-relief-society-cel/gallery/5a9649e0e694aa1b8b1c00de ~ 2013
+
+## Photos Crocker Old People's Home
+
+* https://pcad.lib.washington.edu/building/13221/
+* https://www.flickr.com/photos/sftrajan/50063787963
+
+
+### More by Edelen
+
+https://npgallery.nps.gov/GetAsset/714d32f1-84f9-40fd-b967-a79242501b6e
 
 ## Premises
 
@@ -88,26 +188,17 @@ p15 ~ Horace Hawes
 * https://nancydrew.fandom.com/wiki/The_Ladies_Protection_%26_Relief_Society
 * https://nancydrew.fandom.com/wiki/Lizzie_Applegate
 
-## Photos
 
-* https://www.loc.gov/resource/cph.3a27715/
-* https://calisphere.org/item/ark:/13030/kt109nc11w/
-* https://calisphere.org/item/198cef75733b493777e768f85125ccfe/
-* https://digital.lib.calpoly.edu/rekl-6590
-* https://www.sfgate.com/bayarea/slideshow/Library-of-Congress-images-show-S-F-as-it-was-114119.php
-* https://drewaltizer.com/event/6416-san-francisco-ladies-protection-relief-society-cel/
-* https://www.architecturalrecord.com/articles/15920-guess-the-architect-november-2022
-* https://californiarevealed.org/islandora/object/cavpp%3A162163
 
-People
-* https://drewaltizer.com/event/6416-san-francisco-ladies-protection-relief-society-cel/gallery/5a9649e0e694aa1b8b1c00de ~ 2013
-
+***
 
 
 ## Julia Morgan
 
 * https://pcad.lib.washington.edu/person/128/
-
+* https://sf.curbed.com/maps/julia-morgan-buildings-best-sf
+> The Heritage (1924-1925)
+The Ladies Protection and Relief Society of San Francisco established The Heritage as high-quality housing and nursing care for senior citizens in 1924, and today it still functions as such. Constructed from reinforced concrete and faced with brick, this building was carefully designed by Morgan to withstand an earthquake since it was sited on landfill from the 1915 Panama-Pacific Exposition.
 
 ## Notable Residents
 
@@ -153,37 +244,26 @@ People
 * https://digitalcommons.stmarys-ca.edu/cgi/viewcontent.cgi?article=1000&context=book-gallery
 
 
-### heritage highlights 2012
-
-As provided assistance to many different groups of San Franciscans across multiple generations
 
 ## Founders & Benefactors
 
-### Horace Hawes
+### Horace May Hawes ~ 10 July 1813 - 12 March 1871
 
-1871
-The Lafayette Monthly
-Lafayette College (Easton, Pa.)
-Volume 1
-1871
+Good references
 
-https://www.google.com/books/edition/The_Lafayette_Monthly/4hMUAAAAIAAJ?hl=en&gbpv=1&dq=%22horace+howes%22+San+Francisco&pg=PA266&printsec=frontcover
-
-
-https://www.google.com/books/edition/The_College_Courant/SYdPAAAAYAAJ?hl=en&gbpv=1&dq=%22horace+howes%22+San+Francisco&pg=PA138&printsec=frontcover
-
-http://www.joincalifornia.com/candidate/11050
-
-https://climaterwc.com/2019/07/23/redwood-city-and-san-mateo-county-owe-a-lot-to-horace-hawes/
-
+* https://www.findagrave.com/memorial/87833415/horace-may-hawes
+* https://climaterwc.com/2019/07/23/redwood-city-and-san-mateo-county-owe-a-lot-to-horace-hawes/
 * https://www.smdailyjournal.com/news/local/who-was-horace-hawes/article_7aaf7013-2c3b-5d0b-b769-5607c8cff5bd.html
+* https://www.smdailyjournal.com/news/local/redwood-city-almost-became-a-college-town/article_c4357a4a-dda5-11e9-9601-f76b83838aab.html
 
-https://www.smdailyjournal.com/news/local/redwood-city-almost-became-a-college-town/article_c4357a4a-dda5-11e9-9601-f76b83838aab.html
+Secondary
 
-* https://sfmuseum.org/hist3/laws.html
-http://www.harker.com/History/PDF/Booklets/LaPeninsula-VI-6-stdres.pdf
-
-http://sfstreets.noahveltman.com/#7350
+* https://www.google.com/books/edition/The_Lafayette_Monthly/4hMUAAAAIAAJ?hl=en&gbpv=1&dq=%22horace+howes%22+San+Francisco&pg=PA266&printsec=frontcover ~ spelled "howes" ~ deeds $2m for Mt Eagle U
+* https://www.google.com/books/edition/The_College_Courant/SYdPAAAAYAAJ?hl=en&gbpv=1&dq=%22horace+howes%22+San+Francisco&pg=PA138&printsec=frontcover ~ detailed but curious account of his legacy
+* http://www.joincalifornia.com/candidate/11050 ~ election history
+* https://sfmuseum.org/hist3/laws.html ~ Consolidation act ~ short
+* http://www.harker.com/History/PDF/Booklets/LaPeninsula-VI-6-stdres.pdf ~  Lots about consolidation bill ~ portrait of Hawes
+* http://sfstreets.noahveltman.com/#7350 ~ Hawes Street
 
 ### Nathanial Gray
 

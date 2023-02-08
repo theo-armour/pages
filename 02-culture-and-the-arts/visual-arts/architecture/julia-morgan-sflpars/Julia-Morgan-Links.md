@@ -13,7 +13,7 @@ Julia
 
 HotMc
 * 1922 commission
-* Complex needs fufiilled
+* Complex needs fulfilled
 * designs on budget
 * university mound ladies merger failed
 * 50K low budget
@@ -21,12 +21,12 @@ HotMc
 
 ## Reference
 
+* https://pcad.lib.washington.edu/firm/437/
+* https://pcad.lib.washington.edu/building/11984/
 * http://artisanarchitecture.com/wp-content/uploads/2013/07/gold-medal-nomination-01-JM.pdf
 * https://issuu.com/kimberlyperette/docs/jm_gold_medal_2014-issuu-small
 * https://www.wikiwand.com/en/Julia_Morgan
-
 * http://www.coffmanbooks.com/HAMpdfs/30_HAM_AI.pdf
-
 * https://www.google.com/books/edition/Julia_Morgan/f9g-rVjBDLAC?hl=en&gbpv=1&dq=julia+morgan+San+Francisco+Ladies+Protection+and+Relief+Society&pg=PA31&printsec=frontcover
 
 note same as heritage sign

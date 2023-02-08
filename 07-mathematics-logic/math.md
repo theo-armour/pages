@@ -12,6 +12,16 @@
 ### 2020-01
 * https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
 
+
+## Fundamental Math for Game Developers
+
+* https://pikuma.com/blog/math-for-game-developers
+
+The range of mathematics we can use as programmers is quite broad; no single course could cover it. This article is a high-level overview of some of the most important math topics we use as gamedevs. We'll discuss math education, review useful math topics in CS, and present methods we can use to improve the way we learn math.
+
+Let's review the most important math topics used by game devs, reflect about math education, and discuss techniques that can be used to improve the way we learn new math topics.
+
+
 ## Charts
 
 JSXGraph is a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser. Interactive geometry, plotting, visualization
