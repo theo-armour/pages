@@ -1,6 +1,11 @@
 # Heritage on the Marina Photos Read Me
 
-## Heritage on the Marina
+* https://en.wikipedia.org/wiki/User:TheoA
+* https://en.wikipedia.org/wiki/Draft:San_Francisco_Ladies_Protection_and_Relief_Society
+* https://commons.wikimedia.org/wiki/User:Theoa
+
+
+## 1924 ~ Heritage on the Marina
 ![1924 Heritage on the Marina Front]( 1924-hotm/1924-hotm-front.jpg =100%x* )
 
 > Ladies' Protection and Relief Society, 'The Heritage Residence,' San Francisco, 1924
@@ -25,7 +30,37 @@
 
 ***
 
-### 1866 ~ "Old Brown Ark" ~ East / Front Side
+## 1899 Crocker Old People's Home
+
+https://web.archive.org/web/20060507165336/http://www.andnet.org/architecture/Rose.html
+
+> The Rose Court was built in the 1880’s as the Crocker Old People’s Home. Designed by the prominent turn-of-the-century architect A. Page Brown, it dominated the corner with a tall shingle hip roof.
+> Fire reduced the building to two stories and later, alterations changed the building to a school until the 1989 earthquake prevented its further use.
+> This renovation added a third story to provide 19 affordable housing units and a childcare for 48 children. Intact details from the original were retained, including three exterior entries, the distinctive brick and shingle facade, the large entry foyer and stairs, and the chapel which was converted to a community room used by tenants and neighborhood groups.
+
+A sun room was added in the courtyard which overlooks the patio, gardens and childcare play area.
+Title
+1889-san-francisco-california-crocker-old-peoples-home-exterior
+
+Caption
+The Crocker Old People's Home, Exterior, Pine and Pierce St about 1889. San Francisco, California
+
+Description
+The Crocker Old People's Home merged with the San Francisco Ladies Protection and Relief Society in 1957
+
+Exterior
+
+* [[File:1899-san-francisco-crocker-old-peoples-home-exterior.png|thumb|The Crocker Old People's Home, Exterior, Pine and Pierce St about 1889. San Francisco, California]]
+* https://commons.wikimedia.org/wiki/File:1899-san-francisco-crocker-old-peoples-home-exterior.png
+
+
+Interior
+* [[File:1899-san-francisco-crocker-old-peoples-home-interior.png|thumb|The Crocker Old People's Home, interior, Pine and Pierce St about 1889. San Francisco, California]]
+* https://commons.wikimedia.org/wiki/File:1899-san-francisco-crocker-old-peoples-home-interior.png
+
+
+
+## 1866 ~ "Old Brown Ark" ~ East / Front Side
 
 ![Old Brown Ark]( 1866-ark-east.jpg =100%x* )
 
@@ -35,7 +70,8 @@
 
 * https://calisphere.org/item/ark:/13030/kt109nc11w/
 
-## "1866 ~ "Old Brown Ark" ~ West / Back Side
+
+## 1866 ~ "Old Brown Ark" ~ West / Back Side
 
 ![Old Brown Ark]( 1866-ark-west.jpg =100%x* )
 

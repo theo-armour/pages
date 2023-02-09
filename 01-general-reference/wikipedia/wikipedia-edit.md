@@ -2,16 +2,14 @@
 
 * https://en.wikipedia.org/w/index.php?title=List_of_most-viewed_YouTube_videos&action=edit&section=3
 
-
-STAR WARS SPEEDERS IN NYC making off!!
-
 ## Further reading
-
-$$refbegin}}
 
 * https://en.wikipedia.org/wiki/Template:Cite_web
 
-* $$cite web
+{{refbegin}}
+
+
+{{cite web
  | url =
  | title =
  | last =

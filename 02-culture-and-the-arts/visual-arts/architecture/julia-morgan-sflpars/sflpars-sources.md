@@ -108,8 +108,7 @@ p7 A Generous Gift from Horace Hawes
 p8 Mrs Robinson, Hawes' daughter: collection boxes
 
 As provided assistance to many different groups of San Franciscans across multiple generations
-
-
+ In the early 1920’s, the government mandated foster care as the preferred choice for children, and unfortunately, the “Ark” closed down. However, the need to care for San Francisco’s elderly women had now become more important than ever. In 1922, The Heritage’s current land site was donated by a generous benefactor, after the then-empty block within the Marina District had been used as part of the extended site of the 1915 Panama-Pacific International Exposition. Julia Morgan, the first female architect in San Francisco, renowned for her work on the Hearst Castle, the Fairmont Hotel, Mills College and many other projects, was enlisted to design a home of elegance and stature to provide convalescent care to the City’s elderly women. When it was completed in 1925. Sisters Edith and Lucy Allyne, direct descendants of local pioneers, donated half the funds to purchase apartments on adjoining properties to house members of the home’s staff.
 
 ### Petition Of The Ladies' Protection And Relief Society, San Francisco, To The Legislature.
 
@@ -134,6 +133,7 @@ Source of 1866 images
 * https://californiarevealed.org/islandora/object/cavpp%3A162163 ~ in book not easy to capture ~ many beauties
 
 ### 1866 ~ "Old Brown Ark" ~ West / Back Side
+
 * https://www.loc.gov/resource/cph.3a27716/
 * https://www.opensfhistory.org/osfhcrucible/2021/03/07/opensfhistory-top-ten-1866/ ~ best? ~ not copyable
 * https://www.sfgate.com/bayarea/slideshow/Library-of-Congress-images-show-S-F-as-it-was-114119.php
@@ -168,9 +168,9 @@ http://sflib1.sfpl.org:82/record=b1024841
 
 ## Photos Crocker Old People's Home
 
-* https://pcad.lib.washington.edu/building/13221/
 * https://www.flickr.com/photos/sftrajan/50063787963
 
+Long detailed entry!!
 
 ### More by Edelen
 
@@ -226,6 +226,7 @@ The Ladies Protection and Relief Society of San Francisco established The Herita
 ### Richard Morris
 
 * https://www.legacy.com/us/obituaries/sfgate/name/richard-morris-obituary?id=2028042
+* USF board of directors
 
 ### Mary Tape
 
@@ -246,6 +247,13 @@ The Ladies Protection and Relief Society of San Francisco established The Herita
 
 
 ## Founders & Benefactors
+
+## Major A B Eaton
+
+* https://ia800202.us.archive.org/32/items/biostor-82679/biostor-82679.pdf
+* https://tile.loc.gov/storage-services//service/gdc/calbk/057.pdf >> sflpars ~ mrs eaton @@@
+* Many Google results
+
 
 ### Horace May Hawes ~ 10 July 1813 - 12 March 1871
 
