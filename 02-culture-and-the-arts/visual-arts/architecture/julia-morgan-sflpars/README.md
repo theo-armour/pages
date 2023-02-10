@@ -3,6 +3,11 @@
 * San Francisco Ladies Protection and Relief Society (SFLPaRS)
 * sflpars
 
+San Francisco Ladies Protection and Relief Society
+
+* https://en.wikipedia.org/w/index.php?title=Draft:San_Francisco_Ladies_Protection_and_Relief_Society
+* https://en.wikipedia.org/wiki/User_talk:Jimfbleak#Request_to_restore_deleted_page
+* https://en.wikipedia.org/wiki/User_talk:Sphilbrick#Very_speedy_draft_entry_deletion
 ## Concept
 
 

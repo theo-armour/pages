@@ -10,3 +10,9 @@
 ## Knowledge Management
 
 * https://en.wikipedia.org/wiki/Knowledge_management
+
+
+## Ask HN: How do you deal with information and internet addiction?
+
+* https://news.ycombinator.com/item?id=34710830
+

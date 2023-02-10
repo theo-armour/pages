@@ -8,14 +8,16 @@ tags #svg #draw
 
 * https://okso.app/
   * https://news.ycombinator.com/item?id=33143489
-  
+
 
 ## Articles
 
 * https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 * https://insights.samsung.com/2020/08/06/13-things-you-didnt-know-you-could-do-with-the-s-pen/
 
+## SVG Source Files
 
+* https://www.svgrepo.com/
 
 ## Portal
 

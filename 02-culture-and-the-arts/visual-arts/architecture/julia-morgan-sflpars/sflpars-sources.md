@@ -4,6 +4,11 @@ Started August 4, 1853
 
 San Francisco Ladies Protection and Relief Society
 
+* https://en.wikipedia.org/w/index.php?title=Draft:San_Francisco_Ladies_Protection_and_Relief_Society&action=edit&redlink=1
+* https://en.wikipedia.org/wiki/User_talk:Jimfbleak#Request_to_restore_deleted_page
+* https://en.wikipedia.org/wiki/User_talk:Sphilbrick#Very_speedy_draft_entry_deletion
+
+
 ## Archives
 
 ### Online Archives of CA ~ Finding Aid to the San Francisco Ladies' Protection and Relief Society Records MS 3576
@@ -11,7 +16,7 @@ San Francisco Ladies Protection and Relief Society
 * https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/
 * https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/entire_text/ @@@
 
-Use this as the Wikipedia entry core text??
+2023-02-09: messaged: Use this as the Wikipedia entry core text??
 
 
 ## Articles
@@ -51,6 +56,14 @@ Copy??
 https://csl.primo.exlibrisgroup.com/discovery/fulldisplay?vid=01CSL_INST:CSL&search_scope=MyInst_and_CI&tab=Everything&docid=alma990003039730205115&lang=en&context=L&adaptor=Local%20Search%20Engine&query=any,contains,Inasmuch%20...%20the%20One%20Hundred-year%20History%20of%20the%20San%20Francisco%20Ladies%27%20Protection%20and%20Relief%20Society,%201853-1953&offset=0&virtualBrowse=true
 
 
+https://search.library.ucdavis.edu/discovery/fulldisplay?docid=alma990010948470403126&context=L&vid=01UCD_INST:UCD&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,2063259&offset=0
+
+
+sfpl.org
+
+* MAIN	MAIN - 6th Floor - SF History Stacks	917.9461 B378i	LIB USE ONLY
+
+
 ### Chase, Ashley ~ 2003 ~ Our Heritage : the San Francisco Ladies' Protection and Relief Society : 1853-2003
 
 > Our Heritage : the San Francisco Ladies' Protection and Relief Society : 1853-2003, the first 150 years
@@ -63,6 +76,8 @@ https://search.library.berkeley.edu/discovery/fulldisplay?docid=alma991048143859
 
 https://openlibrary.org/works/OL4874014W/A_history_of_the_Heritage_1853-1970?edition=key%3A/books/OL23057064M
 
+MAIN	MAIN - 6th Floor - SF History Stacks	362.6109 C386o	LIB USE ONLY
+
 
 ### A History of The Heritage, 1853-1970
 
@@ -74,6 +89,8 @@ https://search.library.berkeley.edu/discovery/fulldisplay?vid=01UCS_BER:UCB&sear
 It's object quote to render protection and assistance to strangers, to sick independent women and children."
 
 p15 ~ Horace Hawes
+
+MAIN	MAIN - 6th Floor - SF History Stacks	362.6109 W692h	LIB USE ONLY
 
 ***
 
