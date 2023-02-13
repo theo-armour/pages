@@ -75,6 +75,10 @@ https://commons.wikimedia.org/wiki/File:1866-sflpars-old-brown-ark-east.jpg
 
 ## Awards
 
+### https://commons.wikimedia.org/wiki/File:2013-09-16-gov-edmund-g-brown-letter-to-heritage.jpg
+
+* [[File:2013-09-16-gov-edmund-g-brown-letter-to-heritage.jpg|thumb|2013-09-16-gov-edmund-g-brown-letter-to-heritage]]
+
 Title
 2013-09-16-gov-edmund-g-brown-letter-to-heritage
 
@@ -98,6 +102,59 @@ Sincerely,
 Jenny Brown
 EDMUND G. BROWN JR.
 GOVERNOR EDMUND G. BROWN JR. SACRAMENTO, CALIFORNIA 95814 (916) 445-2841
+
+### https://commons.wikimedia.org/wiki/File:2013-09-16-california-assembly-resolution-to-honor-heritage.jpg
+
+[[File:2013-09-16-california-assembly-resolution-to-honor-heritage.jpg|thumb|California Assembly Resolution to The Heritage #1141 2013-09-13]]
+
+Caption
+California Assembly Resolution to The Heritage #1141 2013-09-13
+
+Description
+Resolution to highlight the achievements of The Heritage
+
+### https://commons.wikimedia.org/wiki/File:2013-09-16-california-senate-resolution-1141-to-heritage.jpg
+
+[[File:2013-09-16-california-senate-resolution-1141-to-heritage.jpg|thumb|California Senate Resolution #1141 honoring The Heritage]]
+
+Caption
+[[File:2013-09-16-california-senate-resolution-1141-to-heritage.jpg|thumb|California Senate Resolution #1141 honoring The Heritage]]
+
+Description
+Member resolution made by Senator Mark Leno
+
+### https://commons.wikimedia.org/wiki/File:2013-09-16-san-francisco-mayor-lee-certificate-of-honor-heritage.jpg
+
+* [[File:2013-09-16-san-francisco-mayor-lee-certificate-of-honor-heritage.jpg|thumb|San Francisco Mayor Edwin Lee Certificate of Honor for The Heritage]]
+
+Caption
+San Francisco Mayor Edwin Lee Certificate of Honor for The Heritage
+
+Description
+Signed and sealed by the Mayor on September 13, 2013
+
+### https://commons.wikimedia.org/wiki/File:2013-09-16-san-francisco-supervisors-certificate-to-honor-heritage.jpg\\
+
+* [[File:2013-09-16-san-francisco-supervisors-certificate-to-honor-heritage.jpg|thumb|San Francisco Board of Supervisors Certificate of Honor presented to the Heritage]]
+
+Caption
+
+San Francisco Board of Supervisors Certificate of Honor presented to the Heritage
+
+Description
+Signed by all the Supervisors on September 13, 2013
+
+### https://commons.wikimedia.org/wiki/File:2013-09-16-us-flag-capitol-member-congress-nancy-pelosi-to-heritage.jpg
+
+* [[File:2013-09-16-us-flag-capitol-member-congress-nancy-pelosi-to-heritage.jpg|thumb|US Flag that flew over the Capitol presented by Member of Congress Nancy Pelosi to The Heritage]]
+
+Caption
+US Flag that flew over the Capitol presented by Member of Congress Nancy Pelosi to The Heritage
+
+Description
+Flown August 15, 2013
+
+
 
 ## Categories
 

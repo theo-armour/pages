@@ -23,12 +23,19 @@ Mission Rock
 
 Dog Patch??
 
+### Reference
+
+* https://en.wikipedia.org/wiki/San_Francisco
+* https://en.wikipedia.org/wiki/Lists_of_San_Francisco_topics
+* https://en.wikipedia.org/wiki/Category:San_Francisco-related_lists
+
 
 ### Swan Oyster Depot
 
 * http://places.singleplatform.com/swan-oyster-depot/menu?ref=google
 * 1517 Polk St, San Francisco, CA 94109
 * https://www.sfchronicle.com/food/article/At-Swan-Oyster-Depot-a-secret-menu-built-for-10591335.php
+
 
 ## Maps
 
