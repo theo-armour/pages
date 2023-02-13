@@ -9,10 +9,10 @@ San Francisco Ladies Protection and Relief Society
 * https://en.wikipedia.org/wiki/User_talk:Jimfbleak#Request_to_restore_deleted_page
 * https://en.wikipedia.org/wiki/User_talk:Sphilbrick#Very_speedy_draft_entry_deletion
 
-### Copy Deterctors
+## Copy Deterctors
 
 * https://copyvios.toolforge.org/
-* https://copypatrol.toolforge.org/
+* https://copypatrol.toolforge.org/ ~ https://copypatrol.toolforge.org/en/%7C
 
 ## Concept
 
