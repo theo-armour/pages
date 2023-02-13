@@ -2,17 +2,23 @@
 
 tags: #markdown #notes #editors #code
 
+
+
 ## Markdown editor lists
 
 ### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
 
 * last update 2016
 
-## Markdown editors
+## Markdown editors ~ online ~ single-screen
 
-### https://github.com/substance/substance
 
-* dead
+### EasyMDE ~ https://github.com/Ionaru/easy-markdown-editor
+
+
+
+
+## Markdown editors online
 
 ### Marcdoc
 
@@ -22,16 +28,31 @@ tags: #markdown #notes #editors #code
 
 > From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 
-## Markdown editors online
-
 * https://www.webfx.com/blog/web-design/online-markdown-editors/
 * https://stackedit.io/
+
+
+### Substance ~ https://github.com/substance/substance
+
+* dead
+
+## Markdown Download
+
+### Typora
+
+https://typora.io/
+
 
 ## Software Tools
 
 https://github.com/search?q=markdown&type=topics
 
-## Markdown to HTML JavaScript
+### https://github.com/showdownjs/showdown ~ 13K stars
+
+* A bidirectional Markdown to HTML to Markdown converter written in Javascript
+
+
+### Markdown to HTML JavaScript
 
 ### https://github.com/evilstreak/markdown-js
 
@@ -47,9 +68,6 @@ https://github.com/search?q=markdown&type=topics
 * Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * Wants node
 
-### https://github.com/showdownjs/showdown ~ 13K stars
-
-* A bidirectional Markdown to HTML to Markdown converter written in Javascript
 
 ### Vditor
 
@@ -60,7 +78,38 @@ https://github.com/search?q=markdown&type=topics
 
 2022-12-10 ~ looks to be quite useful, if not a bit quirky or idiosyncratic.
 
-## MD to JSON JavaScript
+
+## Links of Interest
+
+* https://help.github.com/articles/basic-writing-and-formatting-syntax/
+* https://guides.github.com/features/mastering-markdown/
+* https://github.com/showdownjs/showdown
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://help.github.com/articles/github-flavored-markdown
+* http://daringfireball.net/projects/markdown/syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://www.reddit.com/wiki/commenting
+
+* https://stackedit.io/
+
+## Alternatives
+
+<https://github.com/evilstreak/markdown-js>
+<https://github.com/chjj/marked>
+
+* require node
+
+<http://strapdownjs.com/>
+
+* cannot interpret readme.md
+* embedded usage only
+* requires node
+
+<http://epiceditor.com/>
+
+* a live editor...
+
+### MD to JSON JavaScript
 
 * https://github.com/kesla/jsonmark/blob/master/jsonmark.js
 * https://github.com/ajithr/md-2-json
@@ -68,12 +117,12 @@ https://github.com/search?q=markdown&type=topics
 
 ## Other tools to consider
 
-## Converters
+### Converters
 
 https://github.com/jgm/pandoc
 Universal markup converter
 
-## Clean output
+### Clean output
 
 sanitize libraries
 
