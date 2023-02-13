@@ -33,6 +33,9 @@ p25
 
 > Describing how the invention of farming first leads to private property, and property to the need for civil government to protect it, this is how Rousseau puts things: ‘All ran towards their chains, believing that they were securing their liberty; for although they had reason enough to discern the advantages of a civil order, they did not have experience enough to foresee the dangers.’ His imaginary State of Nature was primarily invoked as a way of illustrating the point. True, he didn’t invent the concept: as a rhetorical device, the State of Nature had already been used in European philosophy for a century. Widely deployed by natural law theorists, it effectively allowed every thinker interested in the origins of government (Locke, Grotius and so on) to play God, each coming up with his own variant on humanity’s original condition, as a springboard for speculation.
 
+p27
+
+
 p28
 > When it comes to cherry-picking anthropological case studies, and putting them forward as representative of our ‘contemporary ancestors’ – that is, as models for what humans might have been like in a State of Nature – those working in the tradition of Rousseau tend to prefer African foragers like the Hadza, Pygmies or !Kung. Those who follow Hobbes prefer the Yanomami.
 
