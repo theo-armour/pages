@@ -43,6 +43,7 @@ tags #esg #sdg #environment
 * ESG is more about reporting than acting
 * There are no ESG standards, goals, metrics and targets
 
+
 ## ESG guides
 
 Nonetheless, ESG is important and is still under development so here are some tips:
