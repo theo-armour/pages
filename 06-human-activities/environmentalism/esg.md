@@ -1,6 +1,6 @@
 # ESG
 
-tags #esg
+tags #esg #sdg #environment
 
 ## Reference
 
@@ -33,7 +33,7 @@ tags #esg
 * You should be able to see results on the factory floor
 
 
-## ESG is bad
+## ESG is not as good
 
 * ESG is weakly defined, a political hot potato, open to being misused in many ways.
 * There is no organization or body that monitors or maintains standards
@@ -45,20 +45,23 @@ tags #esg
 
 ## ESG guides
 
+Nonetheless, ESG is important and is still under development so here are some tips:
+
 * Upon first use, always: Environmental, social, and governance (ESG)
-* An exec level person has ESG or compliance in their title
-* "ESG" is used in a number of job descriptions throughout
-* Every department has ESG goals, target and metrics
-* All these are also asked to help profit, engagement and efficiency
+* An executive-level person - senior VP - has ESG or compliance in their title
+* "ESG" - even better: SDG - is used in a number of job descriptions throughout the organization
+* Every department has ESG measurable goals, targets and metrics
+* All these are also asked and designed to help profit, engagement and efficiency ~ win-win
 * All of these work with standards and metrics that enable comparison with other organizations
 * As much as possible, compliance and monitoring is automated. No pencils are used ever! ;-)
 * "ESG" is part of manufacturing process, the design process, the hiring process and the accounting process
 * Measurement stats and results are public and visible to all - even on the factory floor
 * Emergencies and bad things happen. Be prepared and be prepared to mitigate ESG disasters
+* Wherever possible incorporate SDGs
 
 More
-* Go open sources - create THE standard
-* Remember: ESG is bogus ~ SDG is good
+* Go open source - create THE standard for others to follow- exakples Arduino * Raspberry Pi
+* Remember: ESG is imaginary ~ SDG is real
 * If there is a difficult certification: go for it. Certification eliminates the little guys.
 * There are many ways of supporting ESGs even in daily office life - and ways of indicating compliance
 
