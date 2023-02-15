@@ -177,24 +177,22 @@ Discover right questions
 "What is the origin of social inequality?": if not the biggest question, then what is?
 Move from European thinkers to indigenous thinkers
 
-## p27 Chapter 2 ~ Wicked liberty ~ the indigenous critique and the myth of progress. ~ p 27 ~ 4%
-
-Departure from pristine simplicity
-
-Great Man theory of history
-
-the story of humanity’s original innocence, and unwitting departure from a state of pristine simplicity on a voyage of technological discovery that would ultimately guarantee both our ‘complexity’ and our enslavement.
-
-the Great Man theory of history
-
-Ignore depth of the the context of men that were famous
-
-Even Rousseau taken out of his context
 
 
-### p28 In which we show how critiques of eurocentrism can backfire and end up turning aboriginal thinkers into soft puppets.
+## p40 ~ Chapter 2 ~ Wicked liberty ~ the indigenous critique and the myth of progress. ~ p 27 ~ 4%
 
-Dijon: essay competition on the question: what is the origin of inequality among men, And is it authorized by natural law?
+Rousseau: The story of humanity’s original innocence, and unwitting departure from a state of pristine simplicity on a voyage of technological discovery that would ultimately guarantee both our ‘complexity’ and our enslavement.
+
+the Great Man theory of history: all important ideas in a given age can be traced back to one or other extraordinary individual
+
+Ignores depth of the the context of the men that were famous
+
+Example: Even Rousseau taken out of his context
+
+
+### p41 ~ In which we show how critiques of eurocentrism can backfire and end up turning aboriginal thinkers into soft puppets ~ p28.
+
+Dijon: essay competition on the question: "what is the origin of inequality among men, And is it authorized by natural law?"
 
 Assumed inequality did have an origin and that there was a time when humans were equal, and that something happened to change the situation.
 
@@ -202,11 +200,11 @@ Quite remarkable at a time of pecking orders and rituals of social deference.
 
 All search were men who had all their needs taken care of by servants.
 
-p28 Europe - previously a backwater - At a time when Europeans suddenly found themselves in control of the world and exposed to civilizations like China and India.
+p42 Europe - previously a backwater - At a time when Europeans suddenly found themselves in control of the world and exposed to civilizations like China and India.
 
 All the new ideas became known as the "Enlightenment".
 
-Often pretended ideas originated in Europe, but actually came from overseas. example,western bureaucracy models Chinese bureaucracy. arrogant assumptions
+Often pretended ideas originated in Europe, but actually came from overseas. example,western bureaucracy models Chinese bureaucracy. Arrogant assumptions
 
 p30 If we ask, not ‘what are the origins of social inequality?’ but ‘what are the origins of the question about the origins of social inequality?’
 
@@ -228,7 +226,7 @@ The reason so many key enlightenment thinkers insisted that their ideals of indi
 
 
 
-### p37 In which we consider what the inhabitants of New France made of their European invaders, Especially matters of generosity, combat sociability, material wealth, crime, punishment and Liberty ~ 6%
+### p37 ~ In which we consider what the inhabitants of New France made of their European invaders, Especially matters of generosity, combat sociability, material wealth, crime, punishment and Liberty ~ 6%
 
 Mi'kmaq:
 
@@ -240,20 +238,20 @@ Indigenous Americans attitudes are likely to be far closer to the readers own th
 
 Statesmen couldn't compel anyone to do anything they didn't wish to do
 
-### p44 In which we show how Europeans learn from Native Americans about the connection between reason debate, personal freedoms and the refusal of arbitrary power ~ p44 ~ 7%
+### p44 ~ In which we show how Europeans learn from Native Americans about the connection between reason debate, personal freedoms and the refusal of arbitrary power ~ p44 ~ 7%
 
-### In which we introduce the Wendat philosopher statesman Kadiaronk and explain how his views On human nature and society took on new life in the salons of enlightenment in Europe, including an aside on the concept Schismogenesis ~ p48 ~ 7%
+### p48 ~ In which we introduce the Wendat philosopher statesman Kadiaronk and explain how his views On human nature and society took on new life in the salons of enlightenment in Europe, including an aside on the concept Schismogenesis ~ p48 ~ 7%
 
-### In which we explained that Demiurgic powers of ARJ Turgot and how he turned the indigenous Critique of European civilization on its head, laying the palaces for most modern views of social evolution., or how an argument about freedom became one about equality ~ p59 ~ 9%
+### p59 ~ In which we explained that Demiurgic powers of ARJ Turgot and how he turned the indigenous Critique of European civilization on its head, laying the palaces for most modern views of social evolution., or how an argument about freedom became one about equality ~ p59 ~ 9%
 
-### How Jean Jacques Rousseau, having won one prestigious estate competition, then lost another (coming in over the permitted word length), but finally went on to Conquer the whole of human history ~ p63 ~ 10%
+### p63 ~ How Jean Jacques Rousseau, having won one prestigious estate competition, then lost another (coming in over the permitted word length), but finally went on to Conquer the whole of human history ~ p63 ~ 10%
 
-### In which we consider relationships between the indigenous critiques, the myth of progress and the birth of the left ~ p67 ~ 10%
+### p67 ~ In which we consider relationships between the indigenous critiques, the myth of progress and the birth of the left ~ p67 ~ 10%
 
-### Beyond the myths of the stupid Savage by all these things matter so much for our project in this book ~ p71 ~11%
+### p71 ~ Beyond the myths of the stupid Savage by all these things matter so much for our project in this book ~ p71 ~11%
 
 
-## Chapter 3 ~ Unfreezing the Ice Age ~ p78 ~ 12%
+## p78 ~ Chapter 3 ~ Unfreezing the Ice Age ~ p78 ~ 12%
 
 Human thought is dialogic
 
