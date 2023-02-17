@@ -94,7 +94,7 @@ At the same time, I feel the need for meaning, purpose and being useful.
 https://en.wikipedia.org/wiki/Hedonism
 https://en.wikipedia.org/wiki/Eudaimonia
 
-How can be happy when others are unhappy?
+How can you be happy when others are unhappy?
 
 * https://www.reddit.com/r/askphilosophy/comments/dq46g6/how_to_be_happy_in_an_unjust_world/
 
