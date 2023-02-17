@@ -6,7 +6,7 @@
 
 ## DoE
 
-p16
+## p16 ~ Foundational Story
 >Once upon a time, the story goes, we were hunter-gatherers, living in a prolonged state of childlike innocence, in tiny bands. These bands were egalitarian; they could be for the very reason that they were so small. It was only after the ‘Agricultural Revolution’, and then still more the rise of cities, that this happy condition came to an end, ushering in ‘civilization’ and ‘the state’ – which also meant the appearance of written literature, science and philosophy, but at the same time, almost everything bad in human life: patriarchy, standing armies, mass executions and annoying bureaucrats demanding that we spend much of our lives filling in forms
 
 p17

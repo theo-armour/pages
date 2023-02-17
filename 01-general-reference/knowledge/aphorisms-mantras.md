@@ -19,9 +19,6 @@ Aphorisms are useful in naming or representing mental models. They are like verb
 Aphorisms may also become slogans - offering information to consumers in an appealing and creative ways.
 
 * https://en.wikipedia.org/wiki/Slogan
-
-
-
 * https://en.wikipedia.org/wiki/Black_box
 * https://en.wikipedia.org/wiki/White_box_(software_engineering)
 
@@ -65,6 +62,13 @@ Aphorisms may also become slogans - offering information to consumers in an appe
 ***
 
 __People__
+
+## Fortune Files
+
+Hundreds of quotes
+
+* http://fortunes.cat-v.org/
+
 
 ## Never Complain, Never Explain
 

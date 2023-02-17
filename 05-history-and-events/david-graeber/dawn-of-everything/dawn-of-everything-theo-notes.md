@@ -118,7 +118,7 @@ We are so trapped that we cannot imagine reinventing ourselves
 
 ### Some brief examples of why received understandings of the broad sweep of human history are mostly wrong.Or the eternal return of Jean Jacques Rousseau.
 
-The framing oh uhman history: humanity once existed in an idyllic state and that a specific point can be identified at which everything started to go wrong
+The framing oh human history: humanity once existed in an idyllic state and that a specific point can be identified at which everything started to go wrong
 
 Fukuyama : Haunting bands very egalitarian.
 Pinker: pre-state people were violent

@@ -2,14 +2,30 @@
 
 We are locked in by our vocabulary
 
+Current historiography is a myth
+* Simply isn't true
+* Has dire political implications
+* Makes the past needlessly dull ~ Actually more playful
 
-History is teleology
 
-* History is not a progression or evolution ~ History is
-* Hobbes: best: modest control - but destiny
+History is not teleological
+
+* History is not a progression or evolution ~ p18 any "laws" are made up. History is not stages of development
+* p450 we find it so difficult to imagine history that isn’t teleological – that is, to organize history in a way which does not imply that current arrangements were somehow inevitable.
+* the “marching forward” metaphor is silly and misleading, since it’s not necessarily accurate to think that our society is better than those that preceded it.
+
+## Creation Myth ~ Foundational Story: not true
+
+* Fall from grace
+* No prospect of redemption
+* Book of Genesis
 * Rousseau: minor tinkering ~ but some free will
+* Hobbes: best: modest control - but destiny
 * Rousseau & Hobbes: The path of least resistance leads to the hierarchical bureaucratic charismatic state
 * Pinker: more of the same as R & H ~ cities bring safety
+
+## Long Distance Trade Myth
+
 
 ## Bullets
 
@@ -26,10 +42,7 @@ Reviewer
 * Sapient Paradox brushed aside
 * Early societies more like high school gossip groups
 
-Current historiography is a myth
-* Simply isn't true
-* Has dire political implications
-* Makes the past needlessly dull ~ Actually more playful
+
 
 Long Distance Interaction ~ p 23
 * Dreams or vision Quests
@@ -49,6 +62,10 @@ p4
 * Bold social experiments
 * Carnival parade of political forms
 
+## State
+* Charismatic vision
+* Sovereignty
+* Administration
 
 ## Freedoms
 
@@ -57,22 +74,10 @@ p4
 * To rearrange social ties
   * p525 to create new and different forms of social reality
 
-## History ~ the usual suspects
-
-* Fall from grace
-* No prospect of redemption
-* Book of Genesis
-
-## Hobbes
-
-* best: modest control - but destiny
-
 ## Inequality
 
+* p22 Trapped in conceptual shackles
 
-## Rousseau
-
-* p5125 minor tinkering with inherently squalid condition ~ but some free will
 
 
 ## Narrative fails
