@@ -57,6 +57,9 @@ lists of reviews
 
 * https://dawnofeverything.industries/reviews
 
+## Other Histories
+
+* https://www.pnas.org/doi/10.1073/pnas.2209613120
 
 ## Places
 
