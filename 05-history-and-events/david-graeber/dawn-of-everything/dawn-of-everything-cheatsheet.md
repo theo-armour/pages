@@ -7,9 +7,9 @@ Current historiography is a myth
 * Has dire political implications
 * Makes the past needlessly dull ~ Actually more playful
 
+## Teleology: Thinking in terms of destiny or purpose
 
-History is not teleological
-
+* History is not teleological
 * History is not a progression or evolution ~ p18 any "laws" are made up. History is not stages of development
 * p450 we find it so difficult to imagine history that isn’t teleological – that is, to organize history in a way which does not imply that current arrangements were somehow inevitable.
 * the “marching forward” metaphor is silly and misleading, since it’s not necessarily accurate to think that our society is better than those that preceded it.
@@ -31,7 +31,7 @@ History is not teleological
 
 foraging and agriculture ~ do not follow ~ they coexist
 hunter-gathers: heroic ~ farmers: peaceful
-Agriculture was not a revolution
+Agriculture was not a revolution ~ it took thousands of years
 All cultures have critique ~ no stupidity
 Inequality is not inevitable ~ egalitarian hard to define
 Hierarchies are not required
@@ -41,8 +41,6 @@ Development of Science and Math may may have been by women
 Reviewer
 * Sapient Paradox brushed aside
 * Early societies more like high school gossip groups
-
-
 
 Long Distance Interaction ~ p 23
 * Dreams or vision Quests
@@ -62,7 +60,8 @@ p4
 * Bold social experiments
 * Carnival parade of political forms
 
-## State
+## State needs
+
 * Charismatic vision
 * Sovereignty
 * Administration
@@ -77,7 +76,6 @@ p4
 ## Inequality
 
 * p22 Trapped in conceptual shackles
-
 
 
 ## Narrative fails
@@ -109,7 +107,7 @@ p4
 * p118 for too long generating myths ~ we mostly ask the wrong questions
 * p147 Myth that foragers live in a state of infantile simplicity
 * p153 Myth of the "Agricultural Revolution"
-* p230 Myth ~ Retelling the oast as a "just so" story - makes present somehow inevitable
+* p230 Myth ~ Retelling the past as a "just so" story - makes present somehow inevitable
 * p240 myth about demiurgic, life-ding clay
 * p493 inquiring about origins of inequality means creating a myth - a fall from grace
 * p524 the lines between myth, history and science become blurred
