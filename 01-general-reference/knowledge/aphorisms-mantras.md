@@ -105,6 +105,12 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 * Be good and you'll be very bored
 * Growing old is like being eaten to death by a goldfish
 
+## Arthur Helps
+
+* Reading is sometimes an ingenious device for avoiding thought. Sir Arthur Helps 1813-1875 
+* https://en.wikipedia.org/wiki/Arthur_Helps
+* https://www.sas.upenn.edu/~cavitch/pdf-library/Helps_Thoughts_1835_edition.pdf
+
 ## Ayodeji Awosika
 
 * [https://forge.medium.com/the-5-year-rule-how-to-create-the-future-you-want-e25e00770612](https://forge.medium.com/the-5-year-rule-how-to-create-the-future-you-want-e25e00770612)
@@ -182,7 +188,6 @@ And I urge you to please notice when you are happy, and exclaim or murmur or thi
 
 * 2019: _What Is Remembered Lives: Developing Relationships with Deities, Ancestors & the Fae_
 * https://www.goodreads.com/en/book/show/43626396
-
 
 
 ## Warren Buffet
