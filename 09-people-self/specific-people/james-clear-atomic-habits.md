@@ -1,6 +1,6 @@
 # Atomic Habits
 
-tags #book #habits 
+tags #book #habits
 
 
 ## Book
@@ -28,6 +28,7 @@ Poster
 
 * https://medium.com/tom-thoughts/i-finally-read-atomic-habits-here-are-my-top-5-takeaways-57dd6f904ab4
 * https://www.goodreads.com/book/show/40121378-atomic-habits
+* https://www.krishnabharadwaj.info/why-atomic-habits-may-not-be-working-for-you/
 
 
 ## Wikipedia

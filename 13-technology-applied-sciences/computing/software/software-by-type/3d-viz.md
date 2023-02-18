@@ -1,5 +1,10 @@
 # 3D Viz
 
+## Sweet Home 3D is a free interior design application (https://sweethome3d.com)
+
+https://news.ycombinator.com/item?id=34838728
+
+
 ## Pixi3D – 3D rendering library for the web
 
 https://news.ycombinator.com/item?id=34083940
