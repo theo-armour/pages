@@ -74,6 +74,8 @@ Hundreds of quotes
 
 https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 
+## Stop, Look, Go
+
 ## Me
 
 * I don't live in an ivory tower but I do enjoy the visits
@@ -96,7 +98,7 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 * Stupidbowl
 * Football: all you need to know: Sometimes the men are standing. Sometimes they are falling down.
 * Do you know how weird it is being the same age as old people?
-
+* Avoiding Stupidity is Easier than Seeking Brilliance ~ Munger https://constantrenewal.com/avoiding-stupidity/
 
 ## Anne Morris
 
@@ -113,31 +115,32 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 
 ## Ayodeji Awosika
 
-* [https://forge.medium.com/the-5-year-rule-how-to-create-the-future-you-want-e25e00770612](https://forge.medium.com/the-5-year-rule-how-to-create-the-future-you-want-e25e00770612)
+* https://forge.medium.com/the-5-year-rule-how-to-create-the-future-you-want-e25e00770612
 * it takes five years to fully reinvent yourself.
 * Rule of 100: Do something 100 times to get good at it
 * What’s the one thing you can do, such that by doing it, everything else will be easier or unnecessary?
 
 ## Ashleigh Brilliant
 
-* [https://www.ashleighbrilliant.com/](https://www.ashleighbrilliant.com/)
-* [https://en.wikipedia.org/wiki/Ashleigh_Brilliant](https://en.wikipedia.org/wiki/Ashleigh_Brilliant)
-* [https://www.goodreads.com/author/quotes/15038.Ashleigh_Brilliant](https://www.goodreads.com/author/quotes/15038.Ashleigh_Brilliant)
-* [https://www.pinterest.com/BetsyMalee/ashleigh-brilliant-is/](https://www.pinterest.com/BetsyMalee/ashleigh-brilliant-is/)
-* [https://twitter.com/ashlebrilliant?lang=en](https://twitter.com/ashlebrilliant?lang=en)
+* https://www.ashleighbrilliant.com/
+* https://en.wikipedia.org/wiki/Ashleigh_Brilliant
+* https://www.goodreads.com/author/quotes/15038.Ashleigh_Brilliant
+* https://www.pinterest.com/BetsyMalee/ashleigh-brilliant-is/
+* https://twitter.com/ashlebrilliant?lang=en
 
 
 ### pot shots
 
-* [https://www.ashleighbrilliant.com/WhatIsaPotShot.html](https://www.ashleighbrilliant.com/WhatIsaPotShot.html)
+* https://www.ashleighbrilliant.com/WhatIsaPotShot.html
 
-From __Give yourself the unfair advantage__ p240
+From _Give yourself the unfair advantage_ p240
 
 Though it may not be readily apparent, there is a structure - some rules - underlying the Pot-Shots. First is brevity: no longer than 17 word because at the time he began formulating rules, he had already formulated many potshots and the longest was 17 words. Also, Japanese haiku poetry uses exactly 17 syllables not words. so 17 it is.
 
-Second principle is universality: ever the intuitive global thinker, from the start he decided to avoid puns, rhymes, word-play for reference is unique to one language or culture, and to use only simple, common, easily translated words. This put a premium on "irony, ambiguity, subtlety, audacity, paradox and crazy logic.”
+Second principle is universality: ever the intuitive global thinker, from the start he decided to avoid puns,p rhymes, word-play for reference is unique to one language or culture, and to use only simple, common, easily translated words. This put a premium on
+'irony, ambiguity, subtlety, audacity, paradox and crazy logic.”
 
-Third is originality: though they must sound like everyday speech, they must not be something said before. As Shakespeare might have said(but didn't), "the Words the thing". The illustration is incidental (though often adds greatly to the impact, given the old rule about how many words a [well chosen] picture is worth).
+Third is originality: though they must sound like everyday speech, they must not be something said before. As Shakespeare might have said(but didn't), "the Words the thing". The illustration is incidental (though often adds greatly to the impact, given the old rule about how many words a [well chosen] picture is worth). Ashleigh's delightful illustrations are worth their weight in - words.
 
 Ashleigh's delightful illustrations are worth their weight in - words.
 
@@ -227,6 +230,7 @@ __Topics__
 * Don't make me think
 * Don't make me change
 
+
 ## Life
 
 * Fill what's empty. Empty what's full. And scratch where it itches.
@@ -234,31 +238,37 @@ __Topics__
 * 1-1-9 = one location, one drink, home by nine
 * You Don't Need a Resolution, You Need Priorities
 
+
 ### Control
 
 * The more we value things outside our control, the less control we have. Marcus Aurelius
 * There is never any need to get worked up or to trouble your soul about things you can’t control. Ryan Holiday
 * Focus on the things you can control, let go of everything else. Emma Pattee
 * God, grant me the serenity to accept the things I cannot change, courage to change the things I can And wisdom to know the difference. Reinhold Niebuhr
-* [https://en.wikipedia.org/wiki/Serenity_Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
+	* https://en.wikipedia.org/wiki/Serenity_Prayer
+
 
 ## Agency
 
-* [https://en.wikipedia.org/wiki/Sense_of_agency](https://en.wikipedia.org/wiki/Sense_of_agency)
-* __What Is the Sense of Agency and Why Does it Matter?__
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/)
-* When we make voluntary actions we tend not to feel as though they simply happen to us, instead we feel as though we are in charge. The sense of agency refers to this feeling of being in the driving seat when it comes to our actions.
+* https://en.wikipedia.org/wiki/Sense_of_agency
+* _What Is the Sense of Agency and Why Does it Matter?_
+	* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/
+	* When we make voluntary actions we tend not to feel as though they simply happen to us, instead we feel as though we are in charge. The sense of agency refers to this feeling of being in the driving seat when it comes to our actions.
 
 ## Esteem
 
+
 ## Mission
+
+
 
 ## Sayings and proverbs
 
-* [https://en.wikipedia.org/wiki/List_of_proverbial_phrases](https://en.wikipedia.org/wiki/List_of_proverbial_phrases)
-* [https://www.phrases.org.uk/meanings/proverbs.html](https://www.phrases.org.uk/meanings/proverbs.html)
-* [https://lemongrad.com/proverbs-with-meanings-and-examples/](https://lemongrad.com/proverbs-with-meanings-and-examples/)
-* [https://silgro.com/fortunes.htm](https://silgro.com/fortunes.htm)
+* https://en.wikipedia.org/wiki/List_of_proverbial_phrases
+* https://www.phrases.org.uk/meanings/proverbs.html
+* https://lemongrad.com/proverbs-with-meanings-and-examples/
+* https://silgro.com/fortunes.htm
+
 
 Items
 
