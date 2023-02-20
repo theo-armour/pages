@@ -3,7 +3,7 @@
 
 <!--@@@
 <div class=iframe-resize ><iframe src=https://theo-armour.github.io/pages/00-journal/ height=100% width=100% ></iframe></div>
-_"Pages" in a resizable window_
+_"Journal" in a resizable window_
 @@@-->
 
 ## Full Screen: [Journal]( https://theo-armour.github.io/pages/00-journal/ )
