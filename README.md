@@ -1,7 +1,12 @@
-# Pages Read Me
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) [Theo Armour Pages]( https://theo-armour.github.io/pages/ "2023-02-19" )
 
+<!--@@@
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/pages/ height=100% width=100% ></iframe></div>
+_"Pages Read Me" in a resizable window_
+@@@-->
 
-2023-02-14
+## Full Screen: [Pages]( https://theo-armour.github.io/pages/ )
+
 
 ## Concept
 
