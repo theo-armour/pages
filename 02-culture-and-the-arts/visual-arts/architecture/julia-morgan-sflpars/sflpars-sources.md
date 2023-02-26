@@ -22,6 +22,7 @@ San Francisco Ladies Protection and Relief Society
 ## Articles
 
 * https://sfmuseum.org/hist/chron3.html ~ detailed timeline with sfplars start date @@@
+* http://sfmuseum.org/1906.2/orphans.html
 
 Minor sources
 
@@ -34,6 +35,7 @@ Minor sources
 * https://www.foundsf.org/index.php?title=Men_:_Women_in_Early_San_Francisco ~ quotes Beans
 > Beans, Rowena. 1953. Inasmuch; the one-hundred year history of the San Francisco ladies protection and relief society, 1853-1953. Edited by Carol Green Wilson. San Francisco: James J. Gillick and Co.
 > Beans, R. (1953). Inasmuch ... the One Hundred-year History of the San Francisco Ladies' Protection and Relief Society, 1853-1953. United States: The Society.
+* https://chroniclingamerica.loc.gov/lccn/sn85066387/1909-10-17/ed-1/seq-6/#date1=1777
 
 ### Earthquake
 
@@ -260,6 +262,7 @@ The Ladies Protection and Relief Society of San Francisco established The Herita
 * https://www.history.com/news/chinese-american-segregation-san-francisco-mamie-tape-case
 * https://stopasianhate.medium.com/this-eight-year-old-chinese-american-girl-helped-school-desegregation-in-1885-51e8345dc187
 * https://digitalcommons.stmarys-ca.edu/cgi/viewcontent.cgi?article=1000&context=book-gallery
+* https://12ft.io/proxy?&q=https%3A%2F%2Fwww.sfchronicle.com%2Fbayarea%2Farticle%2FHow-Chinese-Americans-won-right-to-attend-SF-11107543.php
 
 
 
@@ -294,6 +297,10 @@ Secondary
 
 https://cdnc.ucr.edu/?a=d&d=DAC18890425.2.67&e=-------en--20--1--txt-txIN--------
 
+
+### Weltha Haight
+
+* https://hoodline.com/2017/08/local-herstory-who-is-haight-st-really-named-after/
 
 ### mary ann deming crocker
 
