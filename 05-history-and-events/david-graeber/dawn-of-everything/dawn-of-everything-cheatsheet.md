@@ -1,20 +1,43 @@
 # DoE Cheat
 
+## Vocabulary
+
 We are locked in by our vocabulary
 
-Current historiography is a myth
-* Simply isn't true
-* Has dire political implications
-* Makes the past needlessly dull ~ Actually more playful
+* Etymology of civilization is a man thing
 
-## Teleology: Thinking in terms of destiny or purpose
 
-* History is not teleological
-* History is not a progression or evolution ~ p18 any "laws" are made up. History is not stages of development
-* p450 we find it so difficult to imagine history that isn’t teleological – that is, to organize history in a way which does not imply that current arrangements were somehow inevitable.
-* the “marching forward” metaphor is silly and misleading, since it’s not necessarily accurate to think that our society is better than those that preceded it.
+## Current historiography is a myth
 
-## Creation Myth ~ Foundational Story: not true
+Accounts of human history, they
+1. Simply aren't true
+2. Has dire political implications
+3. Makes the past needlessly dull ~ Actually more playful
+
+### 1. Not true
+
+* "History" tends to cover important mrn fighting big battles
+* Actually peacetime and the collective, ongoing efforts of women may have produced more consequence
+
+### 2. political implications
+
+* history is about progress, evolution
+* p14 ~ past was nasty, brutish and short; no may well have been caring and nurturing
+* p10 ~ Myth: Diamond: hierarchy is inevitable; cannot live without decision-making executives
+
+### 3. Playful past
+
+## End of Book Myths
+
+A study that is rigorous in every other respect begins from the unexamined assumption
+* that there was some “original” form of human society
+* that its nature was fundamentally good or evil
+* that at a time before an inequality and political awareness existed
+* that something happened to change all this
+* that "civilization" and "complexity" always came at the price of human freedoms
+* that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state
+
+### Creation Myth ~ Foundational Story: not true
 
 * Fall from grace
 * No prospect of redemption
@@ -24,28 +47,29 @@ Current historiography is a myth
 * Rousseau & Hobbes: The path of least resistance leads to the hierarchical bureaucratic charismatic state
 * Pinker: more of the same as R & H ~ cities bring safety
 
-## Long Distance Trade Myth
+#### Teleology: Thinking in terms of destiny or purpose
+
+* History is not teleological
+* History is not a progression or evolution ~ p18 any "laws" are made up. History is not stages of development
+* p450 we find it so difficult to imagine history that isn’t teleological – that is, to organize history in a way which does not imply that current arrangements were somehow inevitable.
+* the “marching forward” metaphor is silly and misleading, since it’s not necessarily accurate to think that our society is better than those that preceded it.
+
+Wrong
+* That human societies can be arranged in stages of development - with th
 
 
-## Bullets
+## Long Distance Interaction ~ p 23
 
-foraging and agriculture ~ do not follow ~ they coexist
-hunter-gathers: heroic ~ farmers: peaceful
-Agriculture was not a revolution ~ it took thousands of years
-All cultures have critique ~ no stupidity
-Inequality is not inevitable ~ egalitarian hard to define
-Hierarchies are not required
-Seasonality and theater are strong elements of life
-Development of Science and Math may may have been by women
-
-Reviewer
-* Sapient Paradox brushed aside
-* Early societies more like high school gossip groups
-
-Long Distance Interaction ~ p 23
+Not necessarily trade-based
 * Dreams or vision Quests
 * Traveling healers and entertainers
 * Women's gambling
+
+## Hunter Gatherers
+
+p4
+* Bold social experiments
+* Carnival parade of political forms
 
 ## Agriculture
 p4
@@ -55,10 +79,16 @@ p4
 
 ## Cities
 
-## Hunter Gatherers
-p4
-* Bold social experiments
-* Carnival parade of political forms
+* Frequently organized along egalitarian lines
+* No rulers
+* Ambitious politicians
+* Bossy admins
+
+
+## Indigenous Critique
+
+* Taking seriously the social thought that comes from outside the European canon
+* Not casting outsiders as as either divine or devils
 
 ## State needs
 
@@ -66,7 +96,7 @@ p4
 * Sovereignty
 * Administration
 
-## Freedoms
+## Essential Freedoms
 
 * To move
 * To disobey
@@ -76,6 +106,19 @@ p4
 ## Inequality
 
 * p22 Trapped in conceptual shackles
+* Frames issues in such a way that people who currently benefit can see no meaningful solution
+
+Equality
+* Equality is not about about access to resources but our capacity to contribute to decisions
+
+Myth
+* p6 Everybody was equal because everybody was poor
+* P8 For thousands of years, everyone shared some idyllic form of organization
+
+Vision
+* What if we assume people as imaginative, intelligent, playful creatures
+
+## Democracy
 
 
 ## Narrative fails
@@ -90,7 +133,7 @@ p4
 ## Enlightenment defines
 
 
-## Myth
+## Myths
 
 * P2 the myth of progress
 * p69 Myth of the noble savage
@@ -113,16 +156,23 @@ p4
 * p524 the lines between myth, history and science become blurred
 * p525 Message the way in which human societies give structure and meaning to experience.
 
-### Myths
 
-a study that is rigorous in every other respect begins from the unexamined assumption
-* that there was some “original” form of human society
-* that its nature was fundamentally good or evil
-* that at a time before an inequality and political awareness existed
-* that something happened to change all this
-* that "civilization" and "complexity" always came at the price of human freedoms
-* that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state
 
+
+## Bullets
+
+foraging and agriculture ~ do not follow ~ they coexist
+hunter-gathers: heroic ~ farmers: peaceful
+Agriculture was not a revolution ~ it took thousands of years
+All cultures have critique ~ there is no stupidity
+Inequality is not inevitable ~ egalitarian hard to define
+Hierarchies are not required
+Seasonality and theater are strong elements of life
+Development of Science and Math may may have been by women
+
+Reviewer
+* Sapient Paradox brushed aside
+* Early societies more like high school gossip groups
 
 ## hopewell interaction sphere
 
