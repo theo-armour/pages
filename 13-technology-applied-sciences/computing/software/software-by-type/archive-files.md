@@ -1,5 +1,13 @@
 # Archive Files
 
+tags #archive #ia
+
+
+## Links of interest
+
+* https://longnow.org/ideas/very-long-term-backup/
+* https://news.ycombinator.com/item?id=34952950
+
 ## ace-it.us
 
 Cpanel
@@ -51,7 +59,7 @@ mailman data accessible only via admin
 ## Tips
 
 * Rename and move folders on old drives so they match the current hierarchy
-	* Simplifies amd automates verification a lot
+ Simplifies amd automates verification a lot
 
 
 ## Journal
@@ -91,9 +99,6 @@ On Thonelvo
 * D:\1811wdmp4tb\wdmycloud\Theo_Passport_2011_05_23 <> Z:\wdmycloud\Theo_Passport_2011_05_23 << verified light / rule compare
 * D:\1811wdmp4tb\wdmycloud\thheop <> Z:\wdmycloud\thheop << verified light
 
-
-
-
 On threodator
 
 * E:\1811wdmp3tb\1111wd1000\archive\verified\history <> F:\archive\verified << verified rule compare
@@ -105,8 +110,3 @@ On threodator
 * E:\1811wdmp3tb\1111wd1000\Users-archive << verified rule compare
 * E:\1811wdmp3tb\1111wd1000\xampp << verified rule compare
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTg2MjY2LDE4NDY3NjgxNDQsLTgwMD
-cwMTMyNCwtMTE4OTkyNzQ5MywxMTQ1OTc0OTA3LC02NDMwMzU3
-ODcsMTY4ODA0MDQwLDMzNjk4MDg2Ml19
--->
