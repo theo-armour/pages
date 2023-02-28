@@ -16,8 +16,9 @@ Accounts of human history, they
 
 ### 1. Not true
 
-* "History" tends to cover important mrn fighting big battles
+* "History" tends to cover important men fighting big battles
 * Actually peacetime and the collective, ongoing efforts of women may have produced more consequence
+* Social theory involves simplification; reduced to a cartoon; two-dimensional characters; slightly ridiculous = not real
 
 ### 2. political implications
 
@@ -26,6 +27,9 @@ Accounts of human history, they
 * p10 ~ Myth: Diamond: hierarchy is inevitable; cannot live without decision-making executives
 
 ### 3. Playful past
+
+* Simplification impoverishes history
+
 
 ## End of Book Myths
 
@@ -58,12 +62,18 @@ Wrong
 * That human societies can be arranged in stages of development - with th
 
 
-## Long Distance Interaction ~ p 23
+## Long Distance Interaction ~ "primitive trade" ~ p 23
+
+Evidence of objects moving around the word is evidence of trade ~ market economy
+
+But absence of evidence is not evidence of absence ~ Carl Sagan
 
 Not necessarily trade-based
 * Dreams or vision Quests
 * Traveling healers and entertainers
 * Women's gambling
+
+Our guesses are less interesting. less quirky. less human than what was likely going on
 
 ## Hunter Gatherers
 
@@ -85,11 +95,6 @@ p4
 * Bossy admins
 
 
-## Indigenous Critique
-
-* Taking seriously the social thought that comes from outside the European canon
-* Not casting outsiders as as either divine or devils
-
 ## State needs
 
 * Charismatic vision
@@ -106,6 +111,7 @@ p4
 ## Inequality
 
 * p22 Trapped in conceptual shackles
+* p28 New in 1700s
 * Frames issues in such a way that people who currently benefit can see no meaningful solution
 
 Equality
@@ -117,6 +123,18 @@ Myth
 
 Vision
 * What if we assume people as imaginative, intelligent, playful creatures
+
+## Egalitarianism
+
+
+## Great Men Theory of History
+
+
+
+## Indigenous Critique
+
+* Taking seriously the social thought that comes from outside the European canon
+* Not casting outsiders as as either divine or devils
 
 ## Democracy
 
@@ -155,8 +173,6 @@ Vision
 * p493 inquiring about origins of inequality means creating a myth - a fall from grace
 * p524 the lines between myth, history and science become blurred
 * p525 Message the way in which human societies give structure and meaning to experience.
-
-
 
 
 ## Bullets
