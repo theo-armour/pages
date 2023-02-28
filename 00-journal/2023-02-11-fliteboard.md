@@ -2,7 +2,7 @@
 
 ## My response to a comment about a new techie device I found interesting
 
-The following article is written from the perspective of a 76-year-old white man who is a partil-paraplegic with an amputated left hand. In other words, I will never operate the device I write about below. On the other hand, my disabilities may have brought sa consciousness of muscules, abilities, balance, poise anf more that is beyounf what most people require to live their daily lives.
+The following article is written from the perspective of a 76-year-old white man who is a partial-paraplegic with an amputated left hand. In other words, I will never operate the device I write about below. On the other hand, my disabilities may have brought a consciousness of muscles, abilities, balance, poise anf more that is beyond what most people require to live their daily lives.
 
 ***
 
