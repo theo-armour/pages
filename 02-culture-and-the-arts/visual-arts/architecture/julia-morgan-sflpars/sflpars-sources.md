@@ -268,11 +268,27 @@ The Ladies Protection and Relief Society of San Francisco established The Herita
 
 ## Founders & Benefactors
 
-## Major A B Eaton
+### Mrs. "Edwin Vernon Krick"
+
+Edwin Vernon Krick  1881 - 1952
+* https://cdnc.ucr.edu/?a=d&d=OT19520506.1.43&e=-------en--20--1--txt-txIN--------
+
+### Mrs James Henry Deering 1858-1953
+
+* http://worldcat.org/identities/lccn-n79063186/
+* https://www.plaintiffmagazine.com/recent-issues/item/the-san-francisco-law-library-a-noble-retrospective
+
+### Major A B Eaton
 
 * https://ia800202.us.archive.org/32/items/biostor-82679/biostor-82679.pdf
 * https://tile.loc.gov/storage-services//service/gdc/calbk/057.pdf >> sflpars ~ mrs eaton @@@
 * Many Google results
+
+### Nathanial Gray
+
+* https://camcca.wordpress.com/nathaniel-emeline-gray-faith-benevolence/
+* https://cdnc.ucr.edu/?a=d&d=DAC18890425.2.67&e=-------en--20--1--txt-txIN--------
+* https://www.findagrave.com/memorial/87848316/nathaniel-gray
 
 
 ### Horace May Hawes ~ 10 July 1813 - 12 March 1871
