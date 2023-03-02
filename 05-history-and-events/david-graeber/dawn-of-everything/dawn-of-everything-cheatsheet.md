@@ -108,11 +108,12 @@ p4
 * To rearrange social ties
   * p525 to create new and different forms of social reality
 
-## Inequality
+## Social Inequality
 
 * p22 Trapped in conceptual shackles
-* p28 New in 1700s
+* p28 New in 1700s ~ assumes a time before inequality
 * Frames issues in such a way that people who currently benefit can see no meaningful solution
+* Neutralizes indigenous critique
 
 Equality
 * Equality is not about about access to resources but our capacity to contribute to decisions
@@ -127,8 +128,12 @@ Vision
 ## Egalitarianism
 
 
-## Great Men Theory of History
+## Myth Great Men Theory of History
 
+* p40 All important ideas can be traced back to one or another extraordinary individual
+* Europe not really important
+* Western Arrogance of Western thought
+* Copied from other places without attribution
 
 
 ## Indigenous Critique

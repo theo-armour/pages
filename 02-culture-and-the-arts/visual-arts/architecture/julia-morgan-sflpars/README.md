@@ -25,6 +25,11 @@ San Francisco Ladies Protection and Relief Society
 * Earthquake resistant
 * Notable residents
 
+## Citizen Kane
+
+* https://www.phaidon.com/agenda/design/articles/2019/may/14/the-room-that-inspired-citizen-kane/
+* https://www.mynspr.org/show/up-the-road/2019-11-27/up-the-road-julia-morgan-and-the-enchantment-of-hearst-castle
+
 
 ## To Do / Wish List
 
@@ -36,6 +41,7 @@ San Francisco Ladies Protection and Relief Society
 
 ## Links of Interest
 
+* https://savingplaces.org/stories/victoria-kastner-explores-the-inner-world-of-architect-julia-morgan
 
 ## Change Log
 

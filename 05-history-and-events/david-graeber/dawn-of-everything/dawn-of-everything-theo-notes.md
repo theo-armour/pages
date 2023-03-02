@@ -178,8 +178,7 @@ Discover right questions
 Move from European thinkers to indigenous thinkers
 
 
-
-## p40 ~ Chapter 2 ~ Wicked liberty ~ the indigenous critique and the myth of progress. ~ p 27 ~ 4%
+## p27 ~ Chapter 2 ~ Wicked liberty ~ the indigenous critique and the myth of progress. ~ p 27 ~ 4%
 
 Rousseau: The story of humanity’s original innocence, and unwitting departure from a state of pristine simplicity on a voyage of technological discovery that would ultimately guarantee both our ‘complexity’ and our enslavement.
 
