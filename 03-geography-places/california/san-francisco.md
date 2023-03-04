@@ -11,11 +11,11 @@
 * Looka at walkd in Ealeanor's book. Add to Google Maps
 * https://en.wikipedia.org/wiki/Broderick%E2%80%93Terry_duel
 * https://en.wikipedia.org/wiki/Thomas_Starr_King
-	* https://www.findagrave.com/memorial/19375778/thomas-starr-king
-	* 1143 Franklin St, San Francisco, CA 94109
-	* Sicilian Sashimi
-	* Dozen Eggs
-	* Red-eye
+  * https://www.findagrave.com/memorial/19375778/thomas-starr-king
+  * 1143 Franklin St, San Francisco, CA 94109
+  * Sicilian Sashimi
+  * Dozen Eggs
+  * Red-eye
 
 ## Restaurants
 
@@ -69,3 +69,11 @@ Got to your app store and search for San Francisco Fleet Week
 
 https://fleetweeksf.org/#events
 https://fleetweeksf.org/air-show-schedules/
+
+## UPS Store
+
+#ups
+
+* https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st
+* 8 to 6
+* sat 9 to 5
