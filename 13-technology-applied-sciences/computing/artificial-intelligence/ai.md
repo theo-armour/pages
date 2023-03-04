@@ -16,6 +16,8 @@ tags #ai #sw
 
 ## articles
 
+2023-03-03 ~ https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
+
 2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
   * https://news.ycombinator.com/item?id=33982683
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
@@ -57,7 +59,16 @@ Dark Forest shows how advanced cryptography can be used in a game—and how bloc
 * https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
 * https://twitter.com/JacobWSmall/status/1600477115853737984
 
+Articles
+* https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
+* https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
+* https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507
+* https://github.com/pacholoamit/chatgpt-prompts
 
+
+## perplexity.ai
+
+* https://www.perplexity.ai/?uuid=2cb1dbfe-aed7-42a4-9a03-17638525d0fd
 
 
 ### hugging face
@@ -85,8 +96,6 @@ https://en.wikipedia.org/wiki/Foundation_models
 * The Stanford Institute for Human-Centered Artificial Intelligence's (HAI) Center for Research on Foundation Models (CRFM) popularized the term.
 
 https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
-
-
 
 
 ## Fiction
