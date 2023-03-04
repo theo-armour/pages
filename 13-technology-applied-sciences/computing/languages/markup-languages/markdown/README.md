@@ -1,6 +1,6 @@
 # Markdown Read Me
 
-tags: #markdown #notes #editors #code
+tags: #markdown #notes #editors #code #md
 
 
 
@@ -143,3 +143,12 @@ Self-rendering Markdown + LaTeX documents
 
 * https://github.com/susam/texme
 * https://susam.github.io/texme/examples/valid-html5.html
+
+## GitHub Markdown
+
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+* https://github.com/mundimark/awesome-markdown
+  * https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
+* * https://www.freewill.com/qcd/bbn?utm_source=partner&utm_medium=donatepage&utm_campaign=bbn_website_donate_page
