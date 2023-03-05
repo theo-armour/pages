@@ -60,6 +60,8 @@ lists of reviews
 ## Other Histories
 
 * https://www.pnas.org/doi/10.1073/pnas.2209613120
+* https://danwang.co/2022-letter/
+  * James C. Scott in The Art of Not Being Governed
 
 ## Places
 

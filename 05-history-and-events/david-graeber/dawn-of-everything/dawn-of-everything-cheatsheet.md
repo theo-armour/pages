@@ -20,6 +20,19 @@ Accounts of human history, they
 * Actually peacetime and the collective, ongoing efforts of women may have produced more consequence
 * Social theory involves simplification; reduced to a cartoon; two-dimensional characters; slightly ridiculous = not real
 
+***
+
+Myth: there was a arden of Eden, a time when humans lived in small hunter-gatherer units of a few dozen people where everybody was kind of equal and kind of happy. Actually life was as complicated the as it is now. Some places were small, some were huge. some groups were hierarchical, some groups were highly collaborative
+
+Myth: indigenous people were not as smart, knowledgeable and educated as we are
+
+Europe invented most anything important
+
+People wanted to become Europeans
+
+
+
+
 ### 2. political implications
 
 * history is about progress, evolution
