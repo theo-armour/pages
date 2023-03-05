@@ -105,7 +105,7 @@ fun look at issues
 * https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+
 
 
-# URL shortener github pages etc
+## URL shortener github pages etc
 
 http://git.io provides a URL shortener for your GitHub repos.
 

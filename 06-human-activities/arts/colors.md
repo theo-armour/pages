@@ -8,9 +8,8 @@ tags #color #beauty
   * https://news.ycombinator.com/item?id=32709947
 
 * https://filmcolors.org/
-  *https://filmcolors.org/
 
-  
+
 ## Less colorful
 
 Has the world become less colorful?

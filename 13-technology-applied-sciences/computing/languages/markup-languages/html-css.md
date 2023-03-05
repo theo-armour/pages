@@ -1,5 +1,7 @@
 ﻿# html css
 
+tags #hrml #css
+
 <link href="mystyle.css" rel="stylesheet" >
 
 It’s much easier to recover from no abstraction than the wrong abstraction
@@ -15,8 +17,8 @@ http://www.w3schools.com/howto/howto_js_animate.asp
 
 ## Colors
 
-https://www.w3schools.com/colors/colors_names.asp
-
+* https://www.w3schools.com/colors/colors_names.asp
+* https://www.w3schools.com/colors/colors_groups.asp
 
 ### CHARACTERS
 
@@ -264,8 +266,6 @@ root = document.querySelector(":root");
 getComputedStyle(element).getPropertyValue("--my-var");
 
 
-
-
 ### CSS Switch
 
 <link rel="stylesheet" id="stylesheet" type="text/css" href="style1.css">
@@ -335,10 +335,7 @@ https://www.sitepoint.com/a-primer-on-css3-transforms/
 	transform-origin: 0 0; }  // or  top left instead og 0 0
 
 
-
-
-
-**********
+*******
 
 ## HTML
 
