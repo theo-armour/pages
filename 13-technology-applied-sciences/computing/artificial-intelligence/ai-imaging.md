@@ -1,9 +1,6 @@
 # AI Imaging ~ gifs ~ videos ~ Creativity
 
 
-
-
-
 ## Articles
 
 ### Creating in The Era of Creative Confidence
@@ -23,11 +20,16 @@ Good responses with examples to many criticisms
 
 ## Sites
 
+## Open AI / DALL-E
 
-## midjourney
+* https://openai.com/dall-e-2/
+* https://imagen.research.google/
+* https://news.ycombinator.com/item?id=32589185
+* https://news.ycombinator.com/item?id=32586439
+* https://openart.ai/
 
-* https://www.midjourney.com/app/
-* https://midjourney.gitbook.io/docs/
+https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
+
 
 ## image edit
 
@@ -37,13 +39,7 @@ Good responses with examples to many criticisms
 
 * https://news.ycombinator.com/item?id=31699841
 
-## Open AI
 
-* https://openai.com/dall-e-2/
-* https://imagen.research.google/
-* https://news.ycombinator.com/item?id=32589185
-* https://news.ycombinator.com/item?id=32586439
-* https://openart.ai/
 
 ### dreamfusion3d
 
@@ -66,12 +62,20 @@ Demo only
 * https://gorgeous.adityashankar.xyz/
   * https://news.ycombinator.com/item?id=33055340
 
+## Hugging face
+
+* https://huggingface.co/spaces/weizmannscience/multidiffusion-region-based
 
 ### https://makeavideo.studio/
 
 pre-release
 
 * https://news.ycombinator.com/item?id=33020181
+
+## midjourney
+
+* https://www.midjourney.com/app/
+* https://midjourney.gitbook.io/docs/
 
 
 ### nijijourney ~ generate anime
