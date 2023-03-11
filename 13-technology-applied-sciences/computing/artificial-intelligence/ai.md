@@ -4,37 +4,40 @@ tags #ai #sw
 
 ## News
 
+## Lists
+
 * https://www.futurepedia.io/
-
-
-
-## Reference
-
-* https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
-  * https://news.ycombinator.com/item?id=33946720
 
 
 ## articles
 
-2023-03-03 ~ https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
 
-2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
-  * https://news.ycombinator.com/item?id=33982683
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
-2022-12-10 ~ https://github.com/f/awesome-chatgpt-prompts
-2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
 
-2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
-A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
 
-2022-12-09 ~ https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242
-
-With Stable Diffusion, you may never believe what you see online again
-* https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
-* https://prompthero.com/
 
 
 ## New
+
+
+## chatGPT
+
+* https://chat.openai.com/chat
+
+2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
+  * https://news.ycombinator.com/item?id=33982683
+* https://twitter.com/volodarik/status/1600854935515844610
+* https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
+* https://twitter.com/JacobWSmall/status/1600477115853737984
+* https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
+  * https://news.ycombinator.com/item?id=33946720
+* 2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
+
+### API
+
+* https://minimaxir.com/2023/03/new-chatgpt-overlord/
+
+## Mimosa
 
 * 2022-12-16 ~ https://mimosa.so/
   * Collaborative brainstorming. Supercharged with A.I.
@@ -42,47 +45,18 @@ Solve problems together effectively with design thinking best practices and A.I.
   * https://news.ycombinator.com/item?id=34018355
 
 
-## Games
-
-### Dark Forest: This sci-fi blockchain game could help create a metaverse that no one owns
-Dark Forest shows how advanced cryptography can be used in a game—and how blockchains might host decentralized digital worlds.
-* https://www.technologyreview.com/2022/11/10/1062981/dark-forest-blockchain-video-game-creates-metaverse/
-* https://twitter.com/darkforest_eth?lang=en
-* https://blog.zkga.me/
-
-
-## chatGPT
-
-* https://chat.openai.com/chat
-
-* https://twitter.com/volodarik/status/1600854935515844610
-* https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
-* https://twitter.com/JacobWSmall/status/1600477115853737984
-
-Articles
-* https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
-* https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
-* https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507
-* https://github.com/pacholoamit/chatgpt-prompts
-
-
 ## perplexity.ai
 
 * https://www.perplexity.ai/?uuid=2cb1dbfe-aed7-42a4-9a03-17638525d0fd
+* https://www.perplexity.ai/about
+* https://twitter.com/perplexity_ai
+* https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo
 
 
-### hugging face
 
-* https://huggingface.co/spaces/stabilityai/stable-diffusion
+## Reference
 
-## NLP
-
-* https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
-
-
-## reference
-
-Artificial general intelligence
+### AGI Artificial general intelligence
 
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
@@ -97,22 +71,22 @@ https://en.wikipedia.org/wiki/Foundation_models
 
 https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 
+### LLM
 
-## Fiction
+2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
+A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
 
-It Looks Like You’re Trying To Take Over The World
-* https://www.gwern.net/Clippy
->It might help to imagine a hard takeoff scenario using solely known sorts of NN & scaling effects… Below is a story which may help stretch your imagination and defamiliarize the 2022 state of machine learning.
->
->To read the annotated alternate version of this story, scroll to the end or manually disable ‘reader-mode’ (the book icons) in the theme toggle in the upper-right corner.
+### NLP
 
-MIRI announces new "Death With Dignity" strategy
-	#april-fools
-* https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy
->tl;dr:  It's obvious at this point that humanity isn't going to solve the alignment problem, or even try very hard, or even go out with much of a fight.  Since survival is unattainable, we should shift the focus of our efforts to helping humanity die with with slightly more dignity.
+* https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
 
 
 ## Smart People Talking
+
+## 2023-02
+
+* https://news.ycombinator.com/item?id=30939282
+	* https://spectrum.ieee.org/andrew-ng-data-centric-ai
 
 ### 2022-12-16 > The next decades might be wild
 
@@ -133,12 +107,24 @@ Hacker News > AGI
 Reddit
 * https://www.reddit.com/r/agi/
 
-## Prompts
 
-* https://www.gwern.net/docs/ai/nn/transformer/gpt/inner-monologue/index
+## Fiction
+
+It Looks Like You’re Trying To Take Over The World
+* https://www.gwern.net/Clippy
+>It might help to imagine a hard takeoff scenario using solely known sorts of NN & scaling effects… Below is a story which may help stretch your imagination and defamiliarize the 2022 state of machine learning.
+>
+>To read the annotated alternate version of this story, scroll to the end or manually disable ‘reader-mode’ (the book icons) in the theme toggle in the upper-right corner.
+
+MIRI announces new "Death With Dignity" strategy #april-fools
+* https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy
+>tl;dr:  It's obvious at this point that humanity isn't going to solve the alignment problem, or even try very hard, or even go out with much of a fight.  Since survival is unattainable, we should shift the focus of our efforts to helping humanity die with with slightly more dignity.
 
 
-## More
+## Games
 
-* https://news.ycombinator.com/item?id=30939282
-	* https://spectrum.ieee.org/andrew-ng-data-centric-ai
+### Dark Forest: This sci-fi blockchain game could help create a metaverse that no one owns
+Dark Forest shows how advanced cryptography can be used in a game—and how blockchains might host decentralized digital worlds.
+* https://www.technologyreview.com/2022/11/10/1062981/dark-forest-blockchain-video-game-creates-metaverse/
+* https://twitter.com/darkforest_eth?lang=en
+* https://blog.zkga.me/
