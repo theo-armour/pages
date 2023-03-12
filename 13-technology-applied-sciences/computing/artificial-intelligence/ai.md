@@ -7,14 +7,13 @@ tags #ai #sw
 ## Lists
 
 * https://www.futurepedia.io/
-
+* https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
+* https://www.howtogeek.com/875801/chatgpt-alternatives/
 
 ## articles
 
 
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
-
-
 
 
 ## New
@@ -24,6 +23,8 @@ tags #ai #sw
 
 * https://chat.openai.com/chat
 
+* https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/
+* https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
 2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
   * https://news.ycombinator.com/item?id=33982683
 * https://twitter.com/volodarik/status/1600854935515844610
@@ -83,7 +84,7 @@ A good discussion of how the pros and cons could be discussed when thw current r
 
 ## Smart People Talking
 
-## 2023-02
+### 2023-02
 
 * https://news.ycombinator.com/item?id=30939282
 	* https://spectrum.ieee.org/andrew-ng-data-centric-ai

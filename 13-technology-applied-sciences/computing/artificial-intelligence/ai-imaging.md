@@ -1,5 +1,13 @@
 # AI Imaging ~ gifs ~ videos ~ Creativity
 
+## lists
+
+* https://www.howtogeek.com/830870/best-ai-image-generators/
+* https://dataconomy.com/2023/01/best-ai-art-generator-ai-image-generation/
+* https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
+
+## Text to 3D
+
 
 ## Articles
 
@@ -29,8 +37,8 @@ Good responses with examples to many criticisms
 * https://news.ycombinator.com/item?id=32586439
 * https://openart.ai/
 * https://help.openai.com/en/articles/6582391-how-can-i-improve-my-prompts-with-dall-e
+* https://www.zdnet.com/article/how-to-use-dalloe-2-to-turn-your-wildest-imaginations-into-ai-generated-art/
 
-https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
 
 
 ## image edit
@@ -40,7 +48,7 @@ https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
 ## craiyon / dall-e mini
 
 * https://news.ycombinator.com/item?id=31699841
-
+* https://www.craiyon.com/
 
 
 ### dreamfusion3d
@@ -93,10 +101,11 @@ pre-release
 
 ## Stable Diffusion
 
+* https://www.howtogeek.com/832491/how-to-run-stable-diffusion-locally-with-a-gui-on-windows/
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
   * https://news.ycombinator.com/item?id=32710365
 * https://metaphysic.ai/stable-diffusion-is-video-coming-soon/
-* https://www.craiyon.com/
+
 * https://news.ycombinator.com/item?id=32658408
 * https://news.ycombinator.com/item?id=32634074
 * https://news.ycombinator.com/item?id=32651556
