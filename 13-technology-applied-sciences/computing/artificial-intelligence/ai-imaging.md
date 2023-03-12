@@ -1,7 +1,12 @@
 # AI Imaging ~ gifs ~ videos ~ Creativity
 
-## lists
+tags #ai #raster #art
 
+
+## Lists
+
+* 2023-03-12 ~ https://www.zdnet.com/article/best-ai-art-generator/
+* 2023-02-06 ~ https://www.howtogeek.com/830870/best-ai-image-generators/
 * https://www.howtogeek.com/830870/best-ai-image-generators/
 * https://dataconomy.com/2023/01/best-ai-art-generator-ai-image-generation/
 * https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
@@ -10,6 +15,8 @@
 
 
 ## Articles
+
+* https://www.creativebloq.com/news/weirdest-ai-art-from-dall-e-2
 
 ### Creating in The Era of Creative Confidence
 
@@ -29,27 +36,19 @@ Good responses with examples to many criticisms
 
 ## Sites
 
-## Open AI / DALL-E
+### DALL-E
 
-* https://openai.com/dall-e-2/
-* https://imagen.research.google/
-* https://news.ycombinator.com/item?id=32589185
-* https://news.ycombinator.com/item?id=32586439
-* https://openart.ai/
-* https://help.openai.com/en/articles/6582391-how-can-i-improve-my-prompts-with-dall-e
-* https://www.zdnet.com/article/how-to-use-dalloe-2-to-turn-your-wildest-imaginations-into-ai-generated-art/
+see dall-e.md
 
+### craiyon / dall-e mini
 
-
-## image edit
-
-* https://www.timothybrooks.com/instruct-pix2pix
-
-## craiyon / dall-e mini
-
-* https://news.ycombinator.com/item?id=31699841
 * https://www.craiyon.com/
+* https://news.ycombinator.com/item?id=31699841
 
+
+### Dream bt Wombo
+
+https://dream.ai/create
 
 ### dreamfusion3d
 
@@ -72,21 +71,35 @@ Demo only
 * https://gorgeous.adityashankar.xyz/
   * https://news.ycombinator.com/item?id=33055340
 
-## Hugging face
+### Hugging face
 
 * https://huggingface.co/spaces/weizmannscience/multidiffusion-region-based
 * https://huggingface.co/spaces/stabilityai/stable-diffusion
+* https://www.timothybrooks.com/instruct-pix2pix
 
-### https://makeavideo.studio/
+### Imagen
+
+* https://imagen.research.google/
+* https://news.ycombinator.com/item?id=32589185
+
+
+### makeavideo
+
+https://makeavideo.studio/
 
 pre-release
 
 * https://news.ycombinator.com/item?id=33020181
 
-## midjourney
+### midjourney
 
 * https://www.midjourney.com/app/
 * https://midjourney.gitbook.io/docs/
+
+
+### My Heritage
+
+* https://www.myheritage.com/ai-time-machine
 
 
 ### nijijourney ~ generate anime
@@ -94,12 +107,18 @@ pre-release
 * 2022-12-15 ~ https://nijijourney.com/en/getting-started/
   * https://news.ycombinator.com/item?id=33109243
 
+
+### openart
+
+* https://openart.ai/
+* https://news.ycombinator.com/item?id=32586439
+
 ### Stable Diffusion data set
 
 * https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
 * https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 
-## Stable Diffusion
+### Stable Diffusion
 
 * https://www.howtogeek.com/832491/how-to-run-stable-diffusion-locally-with-a-gui-on-windows/
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html

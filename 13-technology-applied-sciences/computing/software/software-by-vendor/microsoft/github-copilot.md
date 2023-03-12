@@ -4,6 +4,7 @@
 
 * https://en.wikipedia.org/wiki/GitHub_Copilot
 
+
 ## Links
 
 * https://github.com/features/copilot
@@ -13,9 +14,11 @@
 * https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code
 * https://github.com/features/copilot/#faq
 
-Others
+## Alternatives
+
 
 * https://www.tabnine.com/blog/github-copilot-alternatives/
+* https://designmodo.com/ai-tools-developers/
 
 ## Prompts
 

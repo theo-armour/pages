@@ -21,22 +21,7 @@ tags #ai #sw
 
 ## chatGPT
 
-* https://chat.openai.com/chat
 
-* https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/
-* https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
-2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
-  * https://news.ycombinator.com/item?id=33982683
-* https://twitter.com/volodarik/status/1600854935515844610
-* https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
-* https://twitter.com/JacobWSmall/status/1600477115853737984
-* https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698
-  * https://news.ycombinator.com/item?id=33946720
-* 2022-12-10 ~ https://news.ycombinator.com/item?id=33939805
-
-### API
-
-* https://minimaxir.com/2023/03/new-chatgpt-overlord/
 
 ## Mimosa
 

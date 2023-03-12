@@ -17,3 +17,7 @@
 ## for ChatGPT
 
 What would you enter as a text prompt for DALL-E 2?
+
+## Art
+
+* https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
