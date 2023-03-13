@@ -12,7 +12,8 @@ tags #ai #sw
 
 ## articles
 
-
+2023-03-12 ~ https://minimaxir.com/
+  * https://news.ycombinator.com/from?site=minimaxir.com
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
 
 
