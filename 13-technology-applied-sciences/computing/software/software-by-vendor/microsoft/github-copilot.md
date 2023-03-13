@@ -14,8 +14,8 @@
 * https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code
 * https://github.com/features/copilot/#faq
 
-## Alternatives
 
+## Lists of Alternatives
 
 * https://www.tabnine.com/blog/github-copilot-alternatives/
 * https://designmodo.com/ai-tools-developers/
@@ -46,3 +46,4 @@
 
 Keyboard shortcuts: https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code#keyboard-shortcuts-for-github-copilot
 
+### https://blog.infernored.com/how-to-improve-speed-and-code-quality-with-copilot/
