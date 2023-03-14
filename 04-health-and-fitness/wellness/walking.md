@@ -1,14 +1,15 @@
 # walking
 
+tags #walking #health #wellness #fitness
 
 ## Walkability
 
-## Reference
+### Reference
 
 * https://en.wikipedia.org/wiki/Walkability
   * Watershed article hacked to bitcoin ads
 
-## Walkscore
+### Walkscore
 
 https://www.walkscore.com/
 
@@ -30,6 +31,7 @@ Not much detail
 https://www.policymap.com/newmaps#/
 
 ## Articles
+
 
 ### 2022-12-23 ~ 50 Reasons Why Everyone Should Want More Walkable Streets << Yay!
 

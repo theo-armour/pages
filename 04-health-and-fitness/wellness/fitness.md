@@ -1,5 +1,22 @@
 # Fitness
 
+## Physical Activity
+
+### Effectiveness of physical activity interventions for improving depression, anxiety and distress: an overview of systematic reviews
+
+* Effectiveness of physical activity interventions for improving depression, anxiety and distress: an overview of systematic reviews
+
+What is already known
+* Previous research trials suggest that physical activity may have similar effects to psychotherapy and pharmacotherapy
+for patients with depression, anxiety or psychological distress.
+* Studies have evaluated different forms of physical activity, invarying dosages, in different population subgroups, and using different comparator groups, making it difficult for clinicians to understand the body of evidence for physical activity in the management of mental health disorders.
+
+What are the new findings
+* Results showed that physical activity is effective for reducing mild-to-moderate symptoms of depression, anxiety and
+psychological distress (median effect size range=−0.42 to –0.60), compared with usual care across all populations.
+* Our findings underscore the important role of physical activity in the management of mild-to-moderate symptoms of
+depression, anxiety and psychological distress.
+
 ## Breathing
 
 * https://chopra.com/articles/how-and-why-to-perform-bhastrika-breath
