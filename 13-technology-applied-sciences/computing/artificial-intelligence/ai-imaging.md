@@ -2,6 +2,14 @@
 
 tags #ai #raster #art
 
+## New
+
+### mirageme
+
+* https://app.mirageml.com/generate
+* Not fast
+* generates downloadable 3D asset!
+* https://app.mirageml.com/showcase?id=7087f5f3-203a-46d0-b923-c2b731a1cb1e
 
 ## Lists
 
@@ -13,6 +21,7 @@ tags #ai #raster #art
 
 ## Text to 3D
 
+https://www.futuretools.io/
 
 ## Articles
 
@@ -115,6 +124,7 @@ pre-release
 
 ### Stable Diffusion data set
 
+
 * https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
 * https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 
@@ -143,6 +153,15 @@ With Stable Diffusion, you may never believe what you see online again
 * https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
 * https://prompthero.com/
 
+### RunDiffusion
+
+Stable Diffusion in 90 seconds!
+Be a hero! Nothing to install. No code to run.
+Pay as you go and forget about credits!
+
+Starting at $0.50 /hr with 15 minutes free!
+
+* https://rundiffusion.com/\
 ## Links of interest
 
 * https://www.designboom.com/design/gaudi-zaha-hadid-midjourney-ai-generated-cars-starchitects-02-17-2023/

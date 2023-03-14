@@ -6,6 +6,7 @@ tags #ai #sw
 
 ## Lists
 
+* https://www.futuretools.io/ ~ many tools
 * https://www.futurepedia.io/
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
 * https://www.howtogeek.com/875801/chatgpt-alternatives/
@@ -22,7 +23,7 @@ tags #ai #sw
 
 ## chatGPT
 
-
+see Markdown file
 
 ## Mimosa
 
