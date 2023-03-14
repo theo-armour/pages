@@ -187,6 +187,9 @@ And I urge you to please notice when you are happy, and exclaim or murmur or thi
 * Doing the right thing is more important than doing the thing right
 * if you want something new, you have to stop doing something old.
 
+
+
+
 ## Phoenix LeFae
 
 * 2019: _What Is Remembered Lives: Developing Relationships with Deities, Ancestors & the Fae_

@@ -6,6 +6,7 @@ tags #ai #sw
 
 ## Lists
 
+* https://therundown.ai/
 * https://www.futuretools.io/ ~ many tools
 * https://www.futurepedia.io/
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
