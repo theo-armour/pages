@@ -47,7 +47,6 @@ The schemas are a set of 'types', each associated with a set of properties. The 
 The vocabulary currently consists of 792 Types, 1447 Properties 15 Datatypes, 83 Enumerations and 445 Enumeration members.
 
 
-
 ## Art
 
 http://searchcollection.asianart.org/search/advanced/objects

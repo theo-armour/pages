@@ -1,7 +1,6 @@
 # News Mental Models
 
 
-
 ## Quartz ~ https://qz.com/
 
 * https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/

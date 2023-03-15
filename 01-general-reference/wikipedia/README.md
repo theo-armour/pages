@@ -24,6 +24,7 @@ The DBpedia ontology is the heart of DBpedia. Having started as a manually creat
 * It wil be easier to find examples of usage since every article has categories.
 * Will be updated as new categories emerge
 
+
 ## https://en.wikipedia.org/wiki/Wikipedia:Contents
 
 > Wikipedia is a compendium of the world's knowledge. If you know what you are looking for, type it into Wikipedia's search box. If, however, you need a bird's eye view of what Wikipedia has to offer, see its main contents pages below, which in turn list more specific pages.

@@ -11,7 +11,10 @@ Popular culture
 Science and cultureTraditions
 
 The arts and Entertainment
-Arts and craftsCelebrityCensorship in the artsFestivalsHumorLiteratureMuseumsPartiesPoetry
+Arts and crafts
+Celebrity
+Censorship in the arts
+FestivalsHumorLiteratureMuseumsPartiesPoetry
 
 Performing arts
 CircusesDanceFilmMusicOperaStorytellingTheatre
@@ -32,6 +35,7 @@ BroadcastingFilmInternetMagazinesNewspapersPublicationsPublishingTelevisionRadio
 
 * https://ellen-heinrichs.medium.com/cha-ching-five-insights-into-how-constructive-journalism-pays-off-d7bcf5d1b0f9
 * [https://news.ycombinator.com/item?id=28413601](https://news.ycombinator.com/item?id=28413601)
+
 
 ### Bias
 
