@@ -21,12 +21,13 @@ tags #ai #sw
 
 ## New
 
+### https://www.anthropic.com/product
 
-## chatGPT
+### chatGPT
 
 see Markdown file
 
-## Mimosa
+### Mimosa
 
 * 2022-12-16 ~ https://mimosa.so/
   * Collaborative brainstorming. Supercharged with A.I.
