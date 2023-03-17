@@ -4,11 +4,15 @@ tags #ai #sw
 
 ## News
 
-## Lists
+## Publishers
 
+* https://medium.com/mlearning-ai
 * https://therundown.ai/
 * https://www.futuretools.io/ ~ many tools
 * https://www.futurepedia.io/
+
+## Lists
+
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
 * https://www.howtogeek.com/875801/chatgpt-alternatives/
 

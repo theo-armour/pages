@@ -1,5 +1,7 @@
 # 2021-03-10
 
+tags #sf
+
 ## Future SF
 
 * https://48hills.org/2021/02/we-can-reimagine-the-post-coivd-san-francisco/
