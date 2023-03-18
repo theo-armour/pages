@@ -16,6 +16,12 @@
 
 ## Lists
 
+### incredible things people are already doing with GPT-4
+
+
+https://twitter.com/LinusEkenstam/status/1635754587775967233
+
+
 ### The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.
 
 https://medium.com/mlearning-ai/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb
@@ -24,8 +30,9 @@ https://medium.com/mlearning-ai/the-chatgpt-list-of-lists-a-collection-of-1500-u
 
 ## for ChatGPT
 
-What would you enter as a text prompt for DALL-E 2?
+* What would you enter as a text prompt for DALL-E 2?
 
 ## Art
 
+* 2023-03-16 ~ https://substack.com/inbox/post/108730946
 * https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/

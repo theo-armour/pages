@@ -13,12 +13,15 @@ tags #ai #sw
 
 ## Lists
 
+* 2023-03-17 ~ https://aisafety.world/ ~ map
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
 * https://www.howtogeek.com/875801/chatgpt-alternatives/
 
 ## articles
 
-2023-03-12 ~ https://minimaxir.com/
+* 2023-03-17 ~ https://thenewstack.io/coding-sucks-anyway-matt-welsh-on-the-end-of-programming/
+  * Product managers + AI will replace coders
+* 2023-03-12 ~ https://minimaxir.com/
   * https://news.ycombinator.com/from?site=minimaxir.com
 2022-12-14 ~ https://www.worksinprogress.co/issue/ai-from-superintelligence-to-chatgpt/
 

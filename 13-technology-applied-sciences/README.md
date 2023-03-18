@@ -2,7 +2,8 @@
 
 tags #tech
 
-https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories#Technology_and_applied_sciences
 
 ## Categories
 
@@ -10,15 +11,43 @@ https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
 Agriculture
 Agronomy
-Architecture
+* **Architecture**
 Automation
 Biotechnology
 Cartography
 Chemical engineering
-Communication Media studiesTelecommunicationsConstructionControl theoryDesignDigital divideEarthquake engineeringEnergyErgonomicsFirefightingFire preventionForensic scienceForestryIndustryInformation scienceInternetManagementManufacturingMarketingMedicine Unsolved problems in neuroscience
+Communication
+Media studies
+Telecommunications
+Construction
+Control theory
+Design
+Digital divide
+Earthquake engineering
+EnergyErgonomics
+Firefighting
+Fire prevention
+Forensic science
+ForestryIndustry
+Information science
+Internet
+Management
+Manufacturing
+Marketing
+Medicine
+Unsolved problems in neuroscience
 Metalworking
 Microtechnology
-Military scienceMiningNanotechnologyNuclear technologyOpticsPlumbingRoboticsSound technologyTechnology forecastingTools
+Military science
+Mining
+Nanotechnology
+Nuclear technology
+Optics
+Plumbing
+Robotics
+Sound technology
+Technology forecasting
+Tools
 
 ### Computing
 
@@ -50,7 +79,9 @@ Product lifecycle management
 Programming
 Real-time computing
 **Software**
-Software engineering
+* https://en.wikipedia.org/wiki/Category:Software
+
+* Software engineering
 Unsolved problems in computer science
 
 
@@ -80,11 +111,21 @@ Surveillance
 Telecommunications
 
 ### Engineering
-Aerospace engineeringBioengineeringChemical engineering
-Civil engineeringElectrical engineeringEnvironmental engineeringMaterials scienceMechanical engineeringNuclear technologySoftware engineeringStructural engineeringSystems engineering
+Aerospace engineering
+BioengineeringChemical engineering
+Civil engineeringElectrical engineeringEnvironmental engineeringMaterials science
+Mechanical engineeringNuclear technologySoftware engineering
+Structural engineeringSystems engineering
 
 ### Transport
-By countryAviationCarsCyclingPublic transportRail transportRoad transportShippingSpaceflightVehiclesWater transport
+By country
+Aviation
+Cars
+Cycling
+Public transport
+Rail transport
+Road transport
+ShippingSpaceflightVehiclesWater transport
 See also: Technology timelines
 
 
