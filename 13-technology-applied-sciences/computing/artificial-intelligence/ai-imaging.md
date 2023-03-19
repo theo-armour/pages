@@ -13,6 +13,7 @@ tags #ai #raster #art
 
 ## Lists
 
+* 2023-03-18 ~ https://www.demandsage.com/ai-image-generators/
 * 2023-03-12 ~ https://www.zdnet.com/article/best-ai-art-generator/
 * 2023-02-06 ~ https://www.howtogeek.com/830870/best-ai-image-generators/
 * https://www.howtogeek.com/830870/best-ai-image-generators/
@@ -44,6 +45,7 @@ Good responses with examples to many criticisms
 
 
 ## Sites
+
 
 ### DALL-E
 
@@ -110,6 +112,8 @@ pre-release
 
 * https://www.myheritage.com/ai-time-machine
 
+### nightcafe.com
+
 
 ### nijijourney ~ generate anime
 
@@ -162,6 +166,10 @@ Pay as you go and forget about credits!
 Starting at $0.50 /hr with 15 minutes free!
 
 * https://rundiffusion.com/\
+
+### wombo.ai ~ https://dream.ai/create
+
+
 ## Links of interest
 
 * https://www.designboom.com/design/gaudi-zaha-hadid-midjourney-ai-generated-cars-starchitects-02-17-2023/
