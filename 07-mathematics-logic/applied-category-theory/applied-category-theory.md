@@ -1,6 +1,10 @@
 # Applied Category Theory
 
 
+## links
+
+* https://abuseofnotation.github.io/category-theory-illustrated/00_about/
+
 ## 2021-02-03
 
 * Category ~ Functor ~ Natural Transformation >> yet another triadic

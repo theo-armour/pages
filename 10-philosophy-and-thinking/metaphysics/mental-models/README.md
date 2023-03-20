@@ -3,7 +3,11 @@
 * This is about processes
 
 
+## Primitieves
 
+* https://subtract.substack.com/p/how-do-you-solve-world-class-problems
+  * https://news.ycombinator.com/item?id=35209085
+  
 ## Abduction
 
 * https://news.ycombinator.com/item?id=32161967

@@ -16,10 +16,18 @@
 
 ## Lists
 
+### architectural renderings
+
+* https://twitter.com/nickfloats/status/1635116672054079488
+
 ### incredible things people are already doing with GPT-4
 
-
 https://twitter.com/LinusEkenstam/status/1635754587775967233
+
+### Getting Questions
+
+* https://twitter.com/bitecode_dev/status/1637420579278954501
+  * https://news.ycombinator.com/item?id=35218302
 
 
 ### The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.
