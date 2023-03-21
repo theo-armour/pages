@@ -10,19 +10,28 @@
 * 2023-03-03 ~ https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
 * 2022-12-10 ~ https://github.com/f/awesome-chatgpt-prompts
 * https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
-* https://theconversation.com/how-to-perfect-your-prompt-writing-for-chatgpt-midjourney-and-other-ai-generators-198776
 * https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507
 * https://github.com/pacholoamit/chatgpt-prompts
 
+## MidJourney
+
+see midjourney.md
+
 ## Lists
+
+### PromptPal
+
+* https://www.promptpal.net/
 
 ### architectural renderings
 
 * https://twitter.com/nickfloats/status/1635116672054079488
 
+
 ### incredible things people are already doing with GPT-4
 
 https://twitter.com/LinusEkenstam/status/1635754587775967233
+
 
 ### Getting Questions
 
@@ -44,3 +53,4 @@ https://medium.com/mlearning-ai/the-chatgpt-list-of-lists-a-collection-of-1500-u
 
 * 2023-03-16 ~ https://substack.com/inbox/post/108730946
 * https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
+

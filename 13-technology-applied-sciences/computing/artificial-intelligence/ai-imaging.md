@@ -11,6 +11,7 @@ tags #ai #raster #art
 * generates downloadable 3D asset!
 * https://app.mirageml.com/showcase?id=7087f5f3-203a-46d0-b923-c2b731a1cb1e
 
+
 ## Lists
 
 * 2023-03-18 ~ https://www.demandsage.com/ai-image-generators/
@@ -34,6 +35,7 @@ https://www.futuretools.io/
 
 * https://scottbelsky.medium.com/creating-in-the-era-of-creative-confidence-b4e251d725f
   * https://news.ycombinator.com/item?id=34309649
+
 
 ## Are Human Designers Becoming Obsolete?
 
@@ -169,7 +171,3 @@ Starting at $0.50 /hr with 15 minutes free!
 
 ### wombo.ai ~ https://dream.ai/create
 
-
-## Links of interest
-
-* https://www.designboom.com/design/gaudi-zaha-hadid-midjourney-ai-generated-cars-starchitects-02-17-2023/
