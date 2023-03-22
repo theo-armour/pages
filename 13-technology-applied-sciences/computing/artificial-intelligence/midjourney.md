@@ -3,7 +3,7 @@
 * https://www.midjourney.com/app/
 * https://docs.midjourney.com/docs
 * https://discord.gg/midjourney
-https://discord.com/channels/662267976984297473/@home
+* https://discord.com/channels/662267976984297473/@home
 
 
 ## Articles
@@ -17,8 +17,6 @@ https://discord.com/channels/662267976984297473/@home
 ## Prompt tags
 
 * chaos
-
-
 
 ## Galleries
 

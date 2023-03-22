@@ -1,5 +1,16 @@
 # AI Journal
 
+
+## 2023-03-21
+
+https://en.wikipedia.org/wiki/Synthography
+
+
+https://discord.com/channels/662267976984297473/1084497199028772905/1084497199028772905
+
+
+https://discord.com/channels/662267976984297473/1084497199028772905
+
 ## 2023-03-20
 
 ## Midjourney
