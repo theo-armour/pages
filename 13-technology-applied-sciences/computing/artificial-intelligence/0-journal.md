@@ -1,5 +1,16 @@
 # AI Journal
 
+## 2023-03-23
+
+Picnic on a lawn with a view of the nearby French Gothic cathedral ##capturing rich tonality, exceptional sharpness,::1 High-resolution ::Shot from above, looking up, emphasizing emotion and vulnerability ::Wallpaper ratio, high-resolution, and dramatic contrast, worthy of a collector's edition prints :: --ar 1:2 --q 5 --v 5 --s 750
+
+Picnic lunch set on a lawn with a view of the nearby Chartres Cathedral in France ##capturing rich tonality, exceptional sharpness,::1 High-resolution ::Shot from above, looking up, emphasizing emotion and vulnerability, high-resolution, and dramatic contrast, worthy of a collector's edition prints :: --ar 1:2 --q 5 --v 5 --s 750
+
+https://discord.com/channels/662267976984297473/1038329663187062804/1088522629108998274
+
+
+une bande d'amis heureux qui boivent du pastis, style la trilogie marseillaise, style Pagnol, photo, octane render
+
 
 ## 2023-03-21
 

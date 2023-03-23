@@ -4,6 +4,13 @@ tags #ai #raster #art
 
 ## New
 
+### Adobe
+
+* https://firefly.adobe.com/
+* https://www.adobe.com/sensei/generative-ai/firefly.html
+
+
+
 ### mirageme
 
 * https://app.mirageml.com/generate

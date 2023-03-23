@@ -12,6 +12,9 @@
 * https://www.midlibrary.io/styles/chaim-soutine#hero
 * https://graphicsgurl.com/use-chatgpt-for-midjourney-image-prompts
 
+## Tips
+
+
 ## Commands
 
 ## Prompt tags
@@ -33,7 +36,7 @@
 
 ### https://www.reddit.com/r/midjourney/comments/11wa95h/i_asked_chatgpt4_to_generate_prompts_making_the/
 
-A photorealistic portrait of  woman ::Shot on a Canon EOS 5D Mark IV with a 200mm f/1.4L IS USM lens, capturing rich tonality, exceptional sharpness, and a smooth bokeh background ::1 High-resolution ::Shot from above, looking up, emphasizing her raw emotion and vulnerability ::Wallpaper ratio, high-resolution, and dramatic contrast, worthy of a collector's edition prints :: --ar 16:9 --q 5 --v 5 --s 750
+A photorealistic portrait of woman:: Shot on a Canon EOS 5D Mark IV with a 200mm f/1.4L IS USM lens, capturing rich tonality, exceptional sharpness, and a smooth bokeh background ::1 High-resolution ::Shot from above, looking up, emphasizing her raw emotion and vulnerability ::Wallpaper ratio, high-resolution, and dramatic contrast, worthy of a collector's edition prints :: --ar 16:9 --q 5 --v 5 --s 750
 
 
 
