@@ -1,12 +1,14 @@
-# San Francisco Ladies Protection and Relief Society: The Histories
+# San Francisco Ladies Protection and Relief Society: The Histories as the 170th Anniversary of the Founding of the Society Approaches
+
+Theo Armour, 2023-03-23
 
 ## Concept
 
 ### Goal
 
-* To celebrate the 170th anniversary of the founding of the San Francisco Ladies Protection and Relief Society
-* To preserve the history of the San Francisco Ladies Protection and Relief Society
-* To make the history of the San Francisco Ladies Protection and Relief Society freely available to the public
+* Celebrate the 170th anniversary of the founding of the San Francisco Ladies Protection and Relief Society
+* Preserve the history of the San Francisco Ladies Protection and Relief Society
+* Make the history of the San Francisco Ladies Protection and Relief Society freely available to the public
 
 ### Scope
 
@@ -17,8 +19,7 @@ Protection and Relief Society, 1853-1953_ by Rowena Beans, edited by Carol
 Green Wilson. Copyright 1953 San Francisco Ladies Protection and Relief
 Society
 2. _San Francisco Ladies' Protection and Relief Society_ by Carol Green Wilson,
-Copyright 1970 San Francisco Ladies Protection and Relief Society, San
-Francisco
+Copyright 1970 San Francisco Ladies Protection and Relief Society
 3. _Our Heritage: the San Francisco Ladies' Protection and Relief Society:
 1853-2003, the First 150 Years_ by Ashley Chase, Copyright 2003 San
 Francisco Ladies Protection and Relief Society
@@ -26,18 +27,27 @@ Francisco Ladies Protection and Relief Society
 Prepare and publish new documents
 
 * A wikipedia page for the San Francisco Ladies Protection and Relief Society
+  * **Draft version**: https://en.wikipedia.org/wiki/Draft:San_Francisco_Ladies_Protection_and_Relief_Society
 * A wikipedia page for Heritage on the Marina outlining the many facets of the Julia Morgan designed building and campus
+* Paper and PDF versions of the above documents that may be freely distributed
+
+Perhaps
+
+* A new work listing the board of directors, council offices and directors on board as of August 4, 2023
+* Also? List of residents, team members, volunteers, donors, contractors and other contributors to the project
+* Also? Obtain and add quotes from as many of the above as possible.
+* Collaborate and be in harmony with the look and feel of any effort to produce a new _Heritage Highlights_ publication
+
 
 ### Values
 
 * All publications to be licensed to the public under a Creative Commons Attribution 4.0 license enabling the public to share and adapt the work freely
-* All publications to be published in a format that is accessible to the visually and cognitively impaired
-* All publications to be published in a format that is accessible to the public on the internet in a format that is accessible to the visually and cognitively impaired
+* All publications to be published in formats - paper, digital & online - that are accessible to the visually and cognitively impaired
 
 
 ### Collaboration
 
-Organizations that may be interested in collaborating on this project include
+Potential collaborating organizations for this project include:
 
 * California Historical Society
 * Bancroft Library, UC Berkeley ~ Julia Morgan Collection
@@ -57,23 +67,17 @@ Organizations that may be interested in collaborating on this project include
 * Staff
 * The general public
 
+## Next Steps
 
-## To Do
-
-### Inasmuch
-
-* Colophon
-* Message to Mary, Jeff, Patty
-  * Add directors, Council offices and Directors on board as of August 4, 2023
-  * Add list of residents
-  * Add list of staff
-  * Add list of volunteers
-  * Add list of donors
-  * Collaborate and be in harmony with the look and feel of any effort to produce a new _Heritage Highlights_ publication
-
+* Summarize _Inasmuch_ using chatGPT and add the text to the draft wikipedia entry
+* Start the effort of revising the 1970 history
 
 
 ## Change Log
+
+### 2023-03-23
+
+* Pass the first draft of this text to chat GPT and revised accordingly.
 
 ### 2023-03-22
 
