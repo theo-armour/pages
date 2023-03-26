@@ -2,7 +2,6 @@
 
 tags #book #race #fiction
 
-
 By Harper Lee
 
 ## https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird

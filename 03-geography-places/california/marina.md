@@ -38,7 +38,7 @@ Joe
 Skyler
 * Man of color
 
-Anders
+Anders Grigel Thomsen ~ 559-476-6759
 * Danish ~ hearts Kierkegard
 
 ## Causewells
