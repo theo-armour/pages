@@ -119,6 +119,7 @@ Aspect ratios greater than 2:1 are experimental and may produce unpredicatble re
 
 
 ### Model Version Parameters
+
 Midjourney routinely releases new model versions to improve efficiency, coherency, and quality. Different models excel at different types of images.
 
 Niji
@@ -137,6 +138,7 @@ Version
 --version <1, 2, 3, 4, or 5> or --v <1, 2, 3, 4, or 5> Use a different version of the Midjourney algorithm. The current algorithm (V4) is the default setting.
 
 ### How to Find a Job's Seed Number
+
 aaadd reaction: envelope
 
 ### Upscaler Parameters
@@ -168,8 +170,6 @@ Sameseed
 
 Video
 --video Saves a progress video of the initial image grid being generated. Emoji react to the completed image grid with ✉️ to trigger the video being sent to your direct messages. --video does not work when upscaling an image.
-
-
 
 
 

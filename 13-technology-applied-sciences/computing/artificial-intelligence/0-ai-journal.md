@@ -1,5 +1,7 @@
 # AI Journal
 
+
+
 ## 2023-03-24
 
 red balls and blue cubes on a green surface --seed 0 --chaos 0 --stylize 0
