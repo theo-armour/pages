@@ -1,5 +1,9 @@
 # AI Prompts
 
+## 2023-04-02
+
+* https://twitter.com/HBCoop_
+* https://twitter.com/HBCoop_/status/1642604600158035968
 
 * https://twitter.com/rowancheung/status/1612482208673169408
 * https://twitter.com/rowancheung/status/1623321264759664644
@@ -12,6 +16,8 @@
 * https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
 * https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507
 * https://github.com/pacholoamit/chatgpt-prompts
+
+
 
 ## MidJourney
 

@@ -9,6 +9,7 @@ PAL	Lake house plans / Philippe & Bridget	6:43 PM	2 MB
 
 ## Architecture
 
+* Immersed in an Orthodox Church service, choir singing harmoniously, light streaming through stained glass windows, vibrant colors and sacred atmosphere, Illustration, digital art with vivid hues and detailed linework, --ar 1:1 --niji
 * Sea Container towers
 * Design concept sheet architectural, scale model, architectural project, anime style california hollywood hills mid century home, multi - level, metal mushroom tree sculpture jeff koons style art in garden yard, large amethyst crystal geodes, anime style, early morning light, springtime, drone photography, exterior, detailed, 8K --upbeta --ar 16:9 --q 2 --v 5
 * inside an ancient islamic temple with a tiled floor of an ancient temple styled with sacred geometry patters that repeat, sanskrit, iraq, antiquity
@@ -18,11 +19,15 @@ PAL	Lake house plans / Philippe & Bridget	6:43 PM	2 MB
 
 ## Art
 
-Render abstract colorful ,art painting, 8K
+Render abstract colorful, art painting, 8K
 
 ## Boats
 
 * Fisherman on a Chinese Junk catching a tuna fish with a net , minimalist, paper quilling, dynamic, greyscale, white background --ar 3:2 --v 5
+
+## Cityscap
+
+* Star Trek as imagined in 1890
 
 ## Colors
 
@@ -38,7 +43,7 @@ System blueprint, popcolor, illust ,colored bright and gorgeous
 
 ## Food
 
-* create an image of a home made artisinal loaf of rustic bread baked in a country kitchen. @djskee
+* create an image of a home made artisanal loaf of rustic bread baked in a country kitchen. @djskee
 
 ## Furniture
 
@@ -46,6 +51,9 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 
 ## Landscape
 
+* forest, cartoon
+* A cyberpunk version of Time Square. Bladerunner meets Fifth Element.
+* a panoramic view of a country garden in a medieval village with young women in the distance picking berries
 * City in the Ming dynasty, mountains+rivers, sayed in china martial arts novels, --q 2 --v 5 --s 750
 * fantasy landscape, sun set, ancient civilisation, dramatic scenery, yoshitaka amano, awe inspiring, cyberpunk colours,
 * oriental fantasy island, jurrasic era, there is a village and fishermen in on small boats, there is also a ship sailing towards the island, far distance view,
@@ -53,7 +61,7 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 
 ### mentions
 
-* mentions: nub#2798
+* nub#2798
 * imaxopal#2477
 * Heartfullofsun#3005
 
@@ -65,10 +73,13 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 *
 * A beautiful huge massive jumble of gold crowns inlaid with colored jewels and gold orbs inlaid with colored jewels and gold scepters inlaid with colored jewels, close-up, view from above looking down, hyper-realistic, capturing rich tonality and vibrant colors, exceptional sharpness, dramatic contrast, worthy of a collector's edition print --quality 2 --stylize 1000 --ar 1:2
 
+## Transpory
 
+simple flying boat, Ancient Roman battleship form , in the sky, made of white canvas, wood and a small amount of metal, buoyed by magic engine::10 powered by white canvas wings::3 , Studio Ghibli, colorful, besiege, Granblue Fantasy, fancy, best quality, masterpiece, concept art, pixel art, close-up --v 5 --s 750
 
 ## Women
 
+* Serendipity, portrait of old black woman --ar 3:2 --q 2 --s 250
 * alluring and beautiful elderly lady painted by chaim soutine --v 5 --ar 1:2
 * alluring and beautiful elderly lady painted by Barbara Takenaga --ar 1:2
 * alluring and beautiful elderly female cyberpunk character painted by Barbara Takenaga --ar 1:2
