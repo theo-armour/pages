@@ -1,4 +1,4 @@
-# bicop Read me
+# bipoc Read me
 
 Oakland cops spend little time on violent crime
 * https://48hills.org/2021/03/oakland-cops-spend-little-time-on-violent-crime/
@@ -13,6 +13,14 @@ Lower Black and Latino Pass Rates Don’t Make a Test Racist
 ## Dr Arline Geronimus
 
 https://en.wikipedia.org/wiki/Arline_Geronimus
+
+### Weathering
+
+* https://en.wikipedia.org/wiki/Weathering_hypothesis
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2790000/
+* https://lithub.com/how-stress-creeps-through-social-inequity-to-shorten-lives/
+* https://www.amazon.com/Weathering-Extraordinary-Stress-Ordinary-Society/dp/0316257974
+
 
 ### Papers
 
