@@ -2,6 +2,8 @@
 
 medium.com ways to split my writing personalities
 
+  
+
 * categorization: Use Wikipedia!
 * People don't write enough
 * Engineer & bricoleur vs architect and engineer
