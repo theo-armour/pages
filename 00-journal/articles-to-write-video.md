@@ -4,7 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
-* 2023-04-05 categorization: Use Wikipedia!
+* 2023-04-05 ~ categorization: Use Wikipedia!
 * People don't write enough
 * Engineer & bricoleur vs architect and engineer
 * "I have a vision" paper
