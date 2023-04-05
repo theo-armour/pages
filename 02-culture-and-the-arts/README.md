@@ -1,35 +1,72 @@
 # Culture Arts Read Me
 
-Main categories: Culture and The arts
+tags #02 #culture #arts
 
-Culture and Humanities
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Culture_and_the_arts
+
+## Main categories: Culture and The arts
+
+### Culture and Humanities
 Classics
-Critical theoryCultural anthropologyFolkloreFood cultureFood and drinkLanguageLiteratureMuseologyMythologyPhilosophy
+Critical theory
+Cultural anthropology
+Folklore
+Food culture
+Food and drink
+Language
+Literature
+Museology
+Mythology
+Philosophy
 Popular culture
-**Fads** ~ trends
+  **Fads** ~ trends
 
-Science and cultureTraditions
+Science and culture
+Traditions
 
-The arts and Entertainment
+### The arts and Entertainment
 Arts and crafts
 Celebrity
 Censorship in the arts
 FestivalsHumorLiteratureMuseumsPartiesPoetry
 
-Performing arts
-CircusesDanceFilmMusicOperaStorytellingTheatre
+### Performing arts
+Circuses
+Dance
+FilmMusicOperaStorytellingTheatre
 
-Visual arts
-ArchitectureComicsCraftsDesignDrawingFilm AnimationNew media artPaintingPhotographySculpture
+### Visual arts
+Architecture
+Comics
+Crafts
+Design
+Drawing
+Film Animation
+New media art
+Painting
+Photography
+Sculpture
 
-Games and Toys
-Board gamesCard gamesDollsPuppetryPuzzlesRole-playing gamesVideo games
+### Games and Toys
+Board games
+Card games
+Dolls
+Puppetry
+Puzzles
+Role-playing games
+Video games
 
-Sports and Recreation
-Air sportsAmerican footballAssociation footballAuto racingBaseballBasketballBoatingBoxingCanoeingCricketCyclingExerciseFishingGolfGymnasticsHobbiesHorse racingIce hockeyLacrosseOlympic GamesRugby leagueRugby unionSailingSkiingSwimmingTennisTrack and fieldWalking trailsWater sportsWhitewater sports
+### Sports and Recreation
+Air sports
+American footballAssociation footballAuto racingBaseballBasketballBoating
+BoxingCanoeingCricketCyclingExerciseFishingGolfGymnasticsHobbiesHorse racingIce hockeyLacrosseOlympic GamesRugby leagueRugby unionSailingSkiingSwimmingTennis
+Track and field
+Walking trailsWater sportsWhitewater sports
 
-Mass media
+### Mass media
 BroadcastingFilmInternetMagazinesNewspapersPublicationsPublishingTelevisionRadio
+
+***
 
 ## Media
 

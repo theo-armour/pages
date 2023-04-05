@@ -1,5 +1,9 @@
 # Human Activities read me
 
+tags #06 #human #activities
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
+
 ## Human activities
 Activism
 Agriculture
@@ -49,6 +53,7 @@ Human impact on the environment
 Human overpopulation
 Urbanization
 
+***
 
 
 ## Web3

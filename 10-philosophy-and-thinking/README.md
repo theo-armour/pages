@@ -1,6 +1,8 @@
 # Philosophy Thinking Read Me
 
-https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
+tags #10 #philosophy #thinking
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
 
 ## Philosophy
 Branches
@@ -34,6 +36,8 @@ Social philosophy
 Attention
 Cognition
 Cognitive biasesCreativityDecision theoryEmotionErrorImaginationIntelligence researchersLearningMemory biasesmnemonicsNootropics (smart drugs)Organizational thinking (strategic management)PerceptionProblem solvingPsychological adjustmentPsychometrics
+
+***
 
 ## links
 

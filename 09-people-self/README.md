@@ -1,5 +1,7 @@
 # People and Self Read Me
 
+tags #09 #people #self
+
 ## Wikipedia
 
 * https://en.wikipedia.org/wiki/People

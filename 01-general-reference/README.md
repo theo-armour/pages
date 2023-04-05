@@ -1,34 +1,33 @@
 # 01 General Reference Read Me
 
-## Careful Words
-
-Thesaurus?
-
-* https://carefulwords.com/stuff
-  * https://news.ycombinator.com/item?id=33226817
+tags #01 #reference
 
 
 ## General Reference
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference
+
 
 ### Main categories: Research and Library science
 
 ### Reference works
 
-Almanacs
-Atlases
-Biographical dictionaries
-Dictionaries online
-Directories online
-Encyclopedias online
-Glossaries
-Handbooks and manuals
-**Lists**
-Medical manuals
-Reference book stubs
-Reference works in the public domain
-Style guides
-Trivia books
-Web sites
+* Almanacs
+* Atlases
+* Biographical dictionaries
+* Dictionaries (online)
+* Directories (online)
+* Encyclopedias (online)
+* Glossaries
+* Handbooks and manuals
+* **Lists**
+* Medical manuals
+* Reference book stubs
+* Reference works in the public domain
+* Style guides
+* Trivia books
+* **Web sites** ~ by country, language, topic, etc.
+  * https://en.wikipedia.org/wiki/Category:Web_sites
 
 ### Further research tools and topics
 
@@ -46,7 +45,7 @@ Information
 **Knowledge**
 * Note-taking
 Letters
-Libraries digital
+Libraries (digital)
 Library cataloging and classification
 News agencies
 Periodic table

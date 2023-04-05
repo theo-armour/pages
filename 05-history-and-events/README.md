@@ -1,6 +1,6 @@
 # History and Events Read Me
 
-tags #history #time
+tags #05 #history #events #time
 
 ## Wikipedia
 
@@ -17,9 +17,17 @@ Historiography
 Timelines
 
 History by location
-* By continent Africa Asia Europe America
-* By regionN orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
-* By country By city Empires
+* By continent
+  * Africa
+  * Asia
+  * Europe
+  * America
+* By region
+  * N orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
+* By country
+* By city
+* Empires
+
 
 ## Time
 

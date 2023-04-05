@@ -1,6 +1,6 @@
 # Technology Applied Science Read Me
 
-tags #tech
+tags #13 #tech #applied-science
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories#Technology_and_applied_sciences
@@ -9,45 +9,45 @@ tags #tech
 
 ### Main categories: Technology and Applied sciences
 
-Agriculture
-Agronomy
+* Agriculture
+* Agronomy
 * **Architecture**
-Automation
-Biotechnology
-Cartography
-Chemical engineering
-Communication
-Media studies
-Telecommunications
-Construction
-Control theory
-Design
-Digital divide
-Earthquake engineering
-EnergyErgonomics
-Firefighting
-Fire prevention
-Forensic science
-ForestryIndustry
-Information science
-Internet
-Management
-Manufacturing
-Marketing
-Medicine
-Unsolved problems in neuroscience
-Metalworking
-Microtechnology
-Military science
-Mining
-Nanotechnology
-Nuclear technology
-Optics
-Plumbing
-Robotics
-Sound technology
-Technology forecasting
-Tools
+* Automation
+* Biotechnology
+* Cartography
+* Chemical engineering
+* Communication
+* Media studies
+* Telecommunications
+* Construction
+* Control theory
+* Design
+* Digital divide
+* Earthquake engineering
+* EnergyErgonomics
+* Firefighting
+* Fire prevention
+* Forensic science
+* ForestryIndustry
+* Information science
+* Internet
+* Management
+* Manufacturing
+* Marketing
+* Medicine
+* Unsolved problems in neuroscience
+* Metalworking
+* Microtechnology
+* Military science
+* Mining
+* Nanotechnology
+* Nuclear technology
+* Optics
+* Plumbing
+* Robotics
+* Sound technology
+* Technology forecasting
+* Tools
 
 ### Computing
 
