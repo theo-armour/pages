@@ -15,107 +15,54 @@ Start here
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference
 
 
-### Archives
-
-* archives.md
-* archiving.md
-
-### Books
-
-* books.md
-* repositories.md
-
-### Dictionary Lexicon
-
-### Knowledge
-* aphorisms
-* Note taking journalism
-
-### Lists
-
-### Reading
-
-### Web
-
-### Wikipedia
-
-### Writing
-
-* Checklists
-* Note-taking
-
-***
-
-
-*
 ## 02 Culture and the arts
 
-### Mass media
-
-#### Internet
-
-* Reddit
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Culture_and_the_arts
 
 ## 03 Geography and places
 
-### Cities
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Geography_and_places
 
 ## 04 Health and fitness
 
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Health_and_fitness
+
 ## 05 History and events
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/History_and_events
 
 ## 06 Human activities
 
-### Entertainment
-
-* Gaming
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
 
 ## 07 Mathematics and logic
 
-* Formal sciences
-* Mathematics
-* Mathematical sciences
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Mathematics_and_logic
 
 ## 08 Natural and physical sciences
 
-* Biology
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Natural_and_physical_sciences
 
 ## 09 People and self
 
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
 
 ## 10 Philosophy and thinking
 
-### Aesthetics
-
-* Beauty
-
-### Learning
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
 
 ## 11 Religion and belief systems
 
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Religion_and_belief_systems
+
 ## 12 Society and social sciences
 
-### Society
-
-* Law
-
-### Social Sciences
-
-* Linguistics
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Society_and_social_sciences
 
 ## 13 Technology and applied sciences
 
-### Computing
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
-#### Artificial Intelligence
-
-#### Software
-
-### Engineering
-
-***
-
-* https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories#Technology_and_applied_sciences
 
 ### https://en.wikipedia.org/wiki/Wikipedia:Categorization
 
