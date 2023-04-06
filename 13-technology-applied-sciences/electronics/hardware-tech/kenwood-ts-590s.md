@@ -7,3 +7,4 @@
 * https://manual.kenwood.com/files/4f46bfdf6b75c.pdf
 
 [virtual com port](https://www.kenwood.com/i/products/info/amateur/vcp_e.html)
+
