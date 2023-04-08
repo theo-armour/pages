@@ -14,7 +14,7 @@ tags #13 #tech #applied-science
 * **Architecture**
 * Automation
 * Biotechnology
-* Cartography
+* **Cartography**
 * Chemical engineering
 * Communication
 * Media studies
@@ -24,7 +24,9 @@ tags #13 #tech #applied-science
 * Design
 * Digital divide
 * Earthquake engineering
-* EnergyErgonomics
+* Energy
+* Environmental technology
+* Ergonomics
 * Firefighting
 * Fire prevention
 * Forensic science
@@ -51,73 +53,83 @@ tags #13 #tech #applied-science
 
 ### Computing
 
-Apps
-**Artificial intelligence**
-Classes of computers
-Companies
-Computer architecture
-Computer model
-Computer engineering
-Computer science
-Computer security
-**Computer Standards**
-Computing and society
-Data
-Embedded systems
-Free software
-Human–computer interaction
-Information systems
-Information technology
-**Internet**
-Mobile web
-**Languages**
-Multimedia
-Networks (Industrial)
-Operating systems
-Platforms
-Product lifecycle management
-Programming
-Real-time computing
-**Software**
-* https://en.wikipedia.org/wiki/Category:Software
-
-* Software engineering
-Unsolved problems in computer science
+* Apps
+* **Artificial intelligence**
+* Classes of computers
+* Companies
+* Computer architecture
+* Computer model
+* Computer engineering
+* Computer science
+* Computer security
+* **Computer Standards**
+* Computing and society
+* Data
+* Embedded systems
+* Free software
+* Human–computer interaction
+* Information systems
+* Information technology
+* **Internet**
+* Mobile web
+* **Languages**
+* Multimedia
+* Networks (Industrial)
+* Operating systems
+* Platforms
+* Product lifecycle management
+* Programming
+* Real-time computing
+* **Software**
+  * https://en.wikipedia.org/wiki/Category:Software
+  * Software engineering
+* Unsolved problems in computer science
 
 
 ### Electronics
-Avionics
-Circuits
-Companies
-Connectors
-Consumer electronics
-Digital electronics
-Digital media
-Electrical components
-Electronic design
-Electronics manufacturing
-Embedded systems
-Integrated circuits
-Microwave technology
-Molecular electronic
-sWater technology
-Optoelectronics
-Quantum electronics
-Radio-frequency identification RFID
-Radio electronics
-Semiconductors
-Signal cables
-Surveillance
-Telecommunications
+
+* Avionics
+* Circuits
+* Companies
+* Connectors
+* Consumer electronics
+* Digital electronics
+* Digital media
+* Electrical components
+* Electronic design
+* Electronics manufacturing
+* Embedded systems
+* Integrated circuits
+* Microwave technology
+* Molecular electronic
+* sWater technology
+* Optoelectronics
+* Quantum electronics
+* Radio-frequency identification RFID
+* Radio electronics
+* Semiconductors
+* Signal cables
+* Surveillance
+* Telecommunications
+  * **Amateur radio**
 
 ### Engineering
-Aerospace engineering
-BioengineeringChemical engineering
-Civil engineeringElectrical engineeringEnvironmental engineeringMaterials science
-Mechanical engineeringNuclear technologySoftware engineering
-Structural engineeringSystems engineering
+
+* Aerospace engineering
+* Bioengineering
+* Chemical engineering
+* Civil engineering
+* Electrical engineering
+* Environmental engineering
+* Materials science
+* Mechanical engineering
+* Nuclear technology
+* Software engineering
+* Structural engineering
+* Systems engineering
 
 ### Transport
+
 By country
 Aviation
 Cars
