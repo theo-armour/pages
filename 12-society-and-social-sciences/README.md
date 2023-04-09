@@ -10,7 +10,9 @@ Society
 Activism
 Business
 Communication
-CrimeEducation
+Crime
+Economy
+Education
 Ethnic groups
 Family
 Finance

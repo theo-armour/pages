@@ -4,6 +4,10 @@ tags #13 #tech #applied-science
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories#Technology_and_applied_sciences
+* https://en.wikipedia.org/wiki/Category:Technology
+* https://en.wikipedia.org/wiki/Outline_of_technology
+* https://en.wikipedia.org/wiki/Category:Applied_sciences
+* https://en.wikipedia.org/wiki/Category:Technology_by_type
 
 ## Categories
 
@@ -31,6 +35,7 @@ tags #13 #tech #applied-science
 * Fire prevention
 * Forensic science
 * ForestryIndustry
+* Glass engineering
 * Information science
 * Internet
 * Management
@@ -45,6 +50,7 @@ tags #13 #tech #applied-science
 * Nanotechnology
 * Nuclear technology
 * Optics
+* Optical devices
 * Plumbing
 * Robotics
 * Sound technology
