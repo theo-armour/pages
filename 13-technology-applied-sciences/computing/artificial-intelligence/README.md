@@ -2,7 +2,6 @@
 
 ## New
 
-* https://oneusefulthing.substack.com/p/a-quick-and-sobering-guide-to-cloning
 
 ## Reference
 
@@ -11,6 +10,7 @@ https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts
 
 ## Glossary
 
+Synthography ~ https://en.wikipedia.org/wiki/Synthography
 AI buzzwords include LLM, PaLM and GPT-3.
 AFI stands for artificial general intelligence.
 LLM stands for large language model.

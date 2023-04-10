@@ -1,0 +1,44 @@
+# ChatGPT ~ cheat sheet
+
+## Links
+
+2023-04-14
+* https://medium.com/easy-prompt/11-tips-to-elevate-your-chatgpt-prompts-f7f2733a3930
+* https://www.oneusefulthing.org/p/i-hope-you-werent-getting-too-comfortable
+
+## Prompts
+
+The “Act as…” hack ~ give it a specific persona to act as.
+* Fashion blogger, influencer, elon musk
+
+Get Your Answers in Tabular Format
+* The calendar should be in a table format.
+
+Output Text in the Style of Your Favorite Author
+* Hemingway, Dickens, Shakespeare
+
+Set Limits on the Answers You Get
+* Number of words, number of sentences, number of paragraphs
+* No jargon, no slang
+
+Keep Your Audience in Mind
+* speaking to a group of 10-year-olds, business entrepreneurs
+
+Copy and Paste Text into chatGPT
+* input limit of around 4,000 words
+
+Use Examples/Templates to Improve ChatGPT’s Responses
+* Example needed
+
+Hear Both Sides of an Argument with ChatGPT
+
+Use follow-up prompts to get more specific answers
+
+Summarize
+* Can you summarize the following article in 155 characters or less? https://www.nytimes.com/2021/04/13/technology/elon-musk-tesla.html
+* Can you think of some takeaways from... that might be useful to us in modern life?
+
+
+## Coding
+
+Write me a regular expression that finds characters after "H=" And before "&"

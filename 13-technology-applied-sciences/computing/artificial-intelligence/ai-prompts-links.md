@@ -2,8 +2,7 @@
 
 ## 2023-04-02
 
-* https://twitter.com/HBCoop_
-* https://twitter.com/HBCoop_/status/1642604600158035968
+
 
 * https://twitter.com/rowancheung/status/1612482208673169408
 * https://twitter.com/rowancheung/status/1623321264759664644
@@ -19,14 +18,10 @@
 
 
 
-## MidJourney
+## Prompts
 
-see midjourney.md
-
-## Lists
-
-### PromptPal
-
+* https://theresanaiforthat.com/ai/easyprompt/
+* https://easyprompt.ai/pricing
 * https://www.promptpal.net/
 
 ### architectural renderings

@@ -1,12 +1,28 @@
 # ChatGPT
 
 * https://chat.openai.com/chat
+* Chat Generative Pre-trained Transformer
+* https://en.wikipedia.org/wiki/ChatGPT
+* https://en.wikipedia.org/wiki/OpenAI
+
+## Links
+
+* https://chatgptwiki.com/
+
 
 ## Articles
 
+2023-04-09
+* https://www.techrepublic.com/article/chatgpt-cheat-sheet/ ~ background not prompts
+* https://beebom.com/how-use-chatgpt-4-free/
+* https://a-desk.org/en/magazine/post-human-otherness-the-language-artist-as-language-model/
+* https://stratechery.com/2023/chatgpt-learns-computing/
+
+2023-04
 * https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/
 * https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use
-2022-12-14 ~ ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
+2022-12-14
+* ways to get around ChatGPT's safeguards: https://twitter.com/davisblalock/status/1602600453555961856
   * https://news.ycombinator.com/item?id=33982683
 * https://twitter.com/volodarik/status/1600854935515844610
 * https://medium.com/@dreamferus/get-the-most-out-of-chatgpt-as-a-chrome-extension-app-or-api-be5f577a6f91
@@ -17,6 +33,7 @@
 
 ### API
 
+* https://platform.openai.com/docs/guides/chat
 * https://minimaxir.com/2023/03/new-chatgpt-overlord/
 
 ## 2023-01-09 ~ In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA
@@ -30,7 +47,7 @@
 * https://news.ycombinator.com/item?id=34291565
 
 
-## 11 ways ChatGPT saves me hours of work every day, and why you'll never outcompete those who use AI effectively.
+## 11 ways ChatGPT saves me hours of work every day, and why you'll never out-compete those who use AI effectively.
 
 * https://twitter.com/svpino/status/1611357154514186241
 

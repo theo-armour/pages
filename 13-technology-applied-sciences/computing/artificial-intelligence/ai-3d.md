@@ -4,7 +4,6 @@
 2022-12-14 ~ https://chrislueders.substack.com/p/let-chatgpt-design-an-app-for-you
 
 
-
 ## chatGPT ~ p5
 
 https://mlearning.substack.com/p/start-creating-3d-with-chatgpt

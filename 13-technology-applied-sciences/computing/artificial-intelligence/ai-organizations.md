@@ -1,5 +1,12 @@
 # AI Organizations
 
+
+## lists
+
+* https://www.makeuseof.com/online-ai-chat-companions/
+
+
+
 ## https://www.anthropic.com/
 
 >Building Reliable, Interpretable, and Steerable AI Systems
@@ -13,3 +20,8 @@
 ## https://ai.facebook.com/
 
 * https://ai.facebook.com/blog/
+
+## Replika
+
+* https://replika.ai/
+
