@@ -2,6 +2,7 @@
 
 tags #future #fad #trend #time #history
 
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Category:Cultural_trends

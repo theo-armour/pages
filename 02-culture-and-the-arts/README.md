@@ -19,7 +19,8 @@ Museology
 Mythology
 Philosophy
 Popular culture
-  **Fads** ~ trends
+Fads ~ trends ~ see 05-history and events
+
 
 Science and culture
 Traditions
@@ -36,6 +37,7 @@ Dance
 FilmMusicOperaStorytellingTheatre
 
 ### Visual arts
+
 Architecture
 Comics
 Crafts
@@ -57,14 +59,32 @@ Role-playing games
 Video games
 
 ### Sports and Recreation
+
 Air sports
 American footballAssociation footballAuto racingBaseballBasketballBoating
 BoxingCanoeingCricketCyclingExerciseFishingGolfGymnasticsHobbiesHorse racingIce hockeyLacrosseOlympic GamesRugby leagueRugby unionSailingSkiingSwimmingTennis
 Track and field
-Walking trailsWater sportsWhitewater sports
+Walking trails
+Water sports
+Whitewater sports
 
 ### Mass media
-BroadcastingFilmInternetMagazinesNewspapersPublicationsPublishingTelevisionRadio
+
+* https://en.wikipedia.org/wiki/Mass_media
+* https://en.wikipedia.org/wiki/Category:Main_topic_articles
+* https://en.wikipedia.org/wiki/Communication
+
+
+* Broadcasting
+* Film
+* Internet
+* Magazines
+* Newspapers
+* Publications
+* **Publishing**
+* Television
+* Radio
+
 
 ***
 
