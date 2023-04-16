@@ -1,5 +1,8 @@
 # Camera PTZ Telephoto
 
+https://www.kickstarter.com/projects/feiyutech/feiyu-pocket-3-compact-and-versatile-3-axis-gimbal-camera?ref=user_menu
+
+
 Ordered 2023-04-08
 * https://www.amazon.com/Wireless-Security-Zoom-Recording-E1/dp/B07Z841XYD
 
