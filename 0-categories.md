@@ -12,6 +12,11 @@ Start here
 
 > Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
 
+## regular expression to add a new line before any uppercase letters
+
+Find ([A-Z])
+\n$1
+
 ## 01 General reference
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference

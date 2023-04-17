@@ -25,7 +25,8 @@ Having skimmed through a number of articles related to "How to be a good patient
 
 ### Use your "Strengths of Justice"
 
-* Play fair: Plan your visit. Establish priorities. Remember there's another patient waiting.
+* Play fair: Plan your visit. Establish priorities.
+* Remember there's another patient waiting.
 * Be a good citizen.
 
 
