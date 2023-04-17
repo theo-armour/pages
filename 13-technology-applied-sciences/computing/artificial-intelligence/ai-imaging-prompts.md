@@ -59,7 +59,8 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 
 ## Garden
 
-* a cosmic garden with beautiful exotic and alien plants, imagined life, stars and galaxies in the sky, colorful, high quality, high definition, sci-fi, 4k --ar 16:9 
+* a cosmic garden with beautiful exotic and alien plants, imagined life, stars and galaxies in the sky, colorful, high quality, high definition, sci-fi, 4k --ar 16:9
+
 ## Landscape
 
 * 2023-04-09 ~ village with bridges paths streams flowers, Mandy jungens Thomas Kinkade Camilla D'Errico Marion Peck --ar 6:7 --s 750 --v 5 --q 2

@@ -1,5 +1,10 @@
 # AI Journal
 
+## 2023-04-16
+
+* Makoto Shinkai style illustration of an ancient garden with charming water and bridges，Traditional pavilions and towers nestled among lush green trees in the dreamy atmosphere of a Shinkai film，Lotus flowers blooming in a pond with delicate brushstrokes and dragonflies skimming the water, reminiscent of Makoto Shinkai's signature visual style，Winding stone path leading through a tranquil bamboo grove, captured in the enchanting aesthetic of Makoto Shinkai's artwork，Admiring unique rock formations in a classical garden depicted with the vibrant colors and dramatic lighting --ar 1:2 --stylize 750 --quality 2 
+
+* a dj table with built in amp rack on wheels made from organic forms inspired by chanterelle mushrooms and branch coral constructed using sheets of plywood designed for a record shop --v 5
 
 
 ## 2023-03-24
