@@ -47,7 +47,7 @@ dances with dragons
 
 ## Drawing
 
-System blueprint, popcolor, illust ,colored bright and gorgeous
+System blueprint, popcolor, illust, /colored bright and gorgeous
 
 ## Food
 

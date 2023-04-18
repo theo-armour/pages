@@ -1,8 +1,14 @@
 # AI Journal
 
+## 2023-04-17
+
+a messy jumble of dozen random feathers, each each feather painted with different neon colors and patterns --s 750 --q 2 --ar 1:2 --chaos 10 --stylize 1000
+
+A page full of drawings of randomly placed and rotated feathers with each feather painted with different popcolors and patterns --v 5 --s 750 --q 2 --ar 1:2 --chaos 10 --stylize 1000
+
 ## 2023-04-16
 
-* Makoto Shinkai style illustration of an ancient garden with charming water and bridges，Traditional pavilions and towers nestled among lush green trees in the dreamy atmosphere of a Shinkai film，Lotus flowers blooming in a pond with delicate brushstrokes and dragonflies skimming the water, reminiscent of Makoto Shinkai's signature visual style，Winding stone path leading through a tranquil bamboo grove, captured in the enchanting aesthetic of Makoto Shinkai's artwork，Admiring unique rock formations in a classical garden depicted with the vibrant colors and dramatic lighting --ar 1:2 --stylize 750 --quality 2 
+* Makoto Shinkai style illustration of an ancient garden with charming water and bridges，Traditional pavilions and towers nestled among lush green trees in the dreamy atmosphere of a Shinkai film，Lotus flowers blooming in a pond with delicate brushstrokes and dragonflies skimming the water, reminiscent of Makoto Shinkai's signature visual style，Winding stone path leading through a tranquil bamboo grove, captured in the enchanting aesthetic of Makoto Shinkai's artwork，Admiring unique rock formations in a classical garden depicted with the vibrant colors and dramatic lighting --ar 1:2 --stylize 750 --quality 2
 
 * a dj table with built in amp rack on wheels made from organic forms inspired by chanterelle mushrooms and branch coral constructed using sheets of plywood designed for a record shop --v 5
 
