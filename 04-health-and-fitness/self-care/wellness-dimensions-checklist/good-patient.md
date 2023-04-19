@@ -30,7 +30,16 @@ Having skimmed through a number of articles related to "How to be a good patient
 * Be a good citizen.
 
 
+
 ## Links of Interest
+
+* https://www.hopkinsmedicine.org/health/conditions-and-diseases
+
+### CDC
+
+* https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/post-COVID-appointment/index.html
+
+### Google
 
 The following search query brings up a number of links to useful reads:
 

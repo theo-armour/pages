@@ -12,6 +12,7 @@ tags #04 #health #fitness
 * https://en.wikipedia.org/wiki/Self-care
 * https://en.wikipedia.org/wiki/Health_science
 * https://en.wikipedia.org/wiki/Life_extension
+* https://en.wikipedia.org/wiki/Medical_specialty
 
 ## Outlines
 
@@ -97,7 +98,6 @@ tags #04 #health #fitness
 
 
 * Medicine
-*
 * Human medicine
 * Alternative medicine
 * Cardiology

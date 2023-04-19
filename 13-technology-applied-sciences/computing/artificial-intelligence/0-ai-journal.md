@@ -1,5 +1,18 @@
 # AI Journal
 
+## 2023-04-18
+
+
+Closeup, few very large feathers, rotated::2 to very different angles, painted with vivid neon colors and patterns --ar 1:2 --chaos 10 --stylize 1000 --quality 2
+
+
+A closeup of a few very large feathers, rotated::2 to a variety of angles, painted with vivid neon colors and patterns --ar 1:2 --stylize 1000 --quality 2
+
+A closeup of some very large feathers, arranged at a variety of angles, painted with vivid neon colors and patterns --ar 1:2
+
+A higgledy-piggledy array of very large feathers painted with vivid colors and patterns --ar 1:2
+
+
 ## 2023-04-17
 
 a messy jumble of dozen random feathers, each each feather painted with different neon colors and patterns --s 750 --q 2 --ar 1:2 --chaos 10 --stylize 1000
