@@ -2,6 +2,12 @@
 
 ## New
 
+## 2023-04-20
+
+LLaVA: Large Language and Vision Assistant
+* https://llava.hliu.cc/
+12 tentative ideas for US AI policy
+* https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/
 
 ## Reference
 

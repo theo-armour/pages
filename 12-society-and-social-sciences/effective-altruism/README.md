@@ -4,6 +4,12 @@ tags #philosophy #altruism #social-movement #effective-altruism #longtermism @ma
 
 * https://en.wikipedia.org/wiki/Effective_altruism
 
+## Open Philanthropy
+
+* https://www.openphilanthropy.org/
+* https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/
+
+
 ## Articles
 
 ### 2023-04-19 ~ The toxic ideology of longtermism
