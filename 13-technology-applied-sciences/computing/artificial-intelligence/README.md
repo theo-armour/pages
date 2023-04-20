@@ -4,10 +4,13 @@
 
 ## 2023-04-20
 
+Capabilities and alignment of LLM cognitive architectures
+* https://www.lesswrong.com/posts/ogHr8SvGqg9pW5wsT/capabilities-and-alignment-of-llm-cognitive-architectures
 LLaVA: Large Language and Vision Assistant
 * https://llava.hliu.cc/
 12 tentative ideas for US AI policy
 * https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/
+
 
 ## Reference
 
