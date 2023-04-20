@@ -6,6 +6,25 @@ tags #philosophy #altruism #social-movement #effective-altruism #longtermism @ma
 
 ## Articles
 
+### 2023-04-19 ~ The toxic ideology of longtermism
+
+* https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism
+* https://www.amazon.com/Good-Promises-Harm-Does-Effective/dp/019765570X
+
+Me
+* "The map is not the territory" - Alfred Korzybski
+* "The Communist Manifesto and the Communist Party are not the same"
+* Current AV companies and AV possibilities are not the same
+
+Similarly, the EA "manifesto" and the EA "organization" are not the same
+
+The manifesto may provide insights into identifying and highlighting altruistic tendencies that provide feel-good moments and naming opportunities for the donors that might be considered problematic by under-served segments of the general population
+
+* Animal sanctuaries serving organic food
+* Private schools with few students and huge assets
+* Most anything to do with the vast swaths of yachts sitting in marinas
+
+
 ### 2023-01-31 ~ My Model Of EA Burnout
 
 * https://www.lesswrong.com/posts/pDzdb4smpzT3Lwbym/my-model-of-ea-burnout
@@ -33,9 +52,8 @@ Should Values
 * Openness*
 * Collaboration*
 * Empiricism*
-* The Wellbeing Of Others
+* The Wellbeing of Others
 * Personal Longevity
-
 
 
 ### https://nautil.us/how-mental-time-travel-can-make-us-better-people-254241/
@@ -48,6 +66,7 @@ Should Values
 
 * https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried
 * https://www.wired.com/story/will-macaskill-longtermism/
+
 
 ## Elad Uzan
 

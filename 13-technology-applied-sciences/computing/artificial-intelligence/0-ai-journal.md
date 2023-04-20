@@ -2,6 +2,10 @@
 
 ## 2023-04-18
 
+https://s.mj.run/Wx8VCrg9PRE very large feathers, rotated to random angles, painted with vivid neon::2 colors and patterns, closeup --ar 1:2 --chaos 10 --stylize 1000
+
+
+very large feathers, rotated::2 to very different angles, painted with vivid neon colors and patterns, closeup --ar 1:2 --chaos 10 --stylize 1000 --quality 2
 
 Closeup, few very large feathers, rotated::2 to very different angles, painted with vivid neon colors and patterns --ar 1:2 --chaos 10 --stylize 1000 --quality 2
 
