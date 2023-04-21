@@ -24,6 +24,7 @@
 
 
 ### Mlearning
+
 The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources
 
 * https://medium.com/mlearning-ai
