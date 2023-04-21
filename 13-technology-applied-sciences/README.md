@@ -136,15 +136,15 @@ tags #13 #tech #applied-science
 
 ### Transport
 
-By country
-Aviation
-Cars
-Cycling
-Public transport
-Rail transport
-Road transport
-ShippingSpaceflightVehiclesWater transport
-See also: Technology timelines
+* By country
+* Aviation
+* Cars
+* Cycling
+* Public transport
+* Rail transport
+* Road transport
+* ShippingSpaceflightVehiclesWater transport
+* See also: Technology timelines
 
 
 ## About Computing

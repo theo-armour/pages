@@ -34,9 +34,11 @@ https://runwayml.com/pricing/
 
 https://www.futuretools.io/
 
+
 ## Articles
 
 * https://www.creativebloq.com/news/weirdest-ai-art-from-dall-e-2
+
 
 ### Creating in The Era of Creative Confidence
 
@@ -44,18 +46,6 @@ https://www.futuretools.io/
 
 * https://scottbelsky.medium.com/creating-in-the-era-of-creative-confidence-b4e251d725f
   * https://news.ycombinator.com/item?id=34309649
-
-
-## Are Human Designers Becoming Obsolete?
-
-Why AI design is unstoppable.
-CHRIS LÜDERS
->https://chrislueders.substack.com/p/are-human-designers-becoming-obsolete
-
-Good responses with examples to many criticisms
-
-
-## Sites
 
 
 ### DALL-E
@@ -123,6 +113,10 @@ pre-release
 
 * https://www.myheritage.com/ai-time-machine
 
+
+## https://www.mage.space/
+
+
 ### nightcafe.com
 
 
@@ -149,7 +143,6 @@ pre-release
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
   * https://news.ycombinator.com/item?id=32710365
 * https://metaphysic.ai/stable-diffusion-is-video-coming-soon/
-
 * https://news.ycombinator.com/item?id=32658408
 * https://news.ycombinator.com/item?id=32634074
 * https://news.ycombinator.com/item?id=32651556
@@ -168,6 +161,7 @@ With Stable Diffusion, you may never believe what you see online again
 * https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
 * https://prompthero.com/
 
+
 ### RunDiffusion
 
 Stable Diffusion in 90 seconds!
@@ -178,5 +172,12 @@ Starting at $0.50 /hr with 15 minutes free!
 
 * https://rundiffusion.com/\
 
+
 ### wombo.ai ~ https://dream.ai/create
+
+
+## Art
+
+* 2023-03-16 ~ https://substack.com/inbox/post/108730946
+* https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
 

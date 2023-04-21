@@ -2,39 +2,73 @@
 
 tags #02 #culture #arts
 
-* https://en.wikipedia.org/wiki/Wikipedia:Contents/Culture_and_the_arts
+* https://en.wikipedia.org/wiki/
+Wikipedia:
+Contents/
+Culture_and_the_arts
 
 ## Main categories: Culture and The arts
 
 ### Culture and Humanities
+
 Classics
+
 Critical theory
+
 Cultural anthropology
+
 Folklore
+
 Food culture
+
 Food and drink
+
 Language
+
 Literature
+
 Museology
+
 Mythology
+
 Philosophy
+
 Popular culture
+
 Fads ~ trends ~ see 05-history and events
 
 
+
 Science and culture
+
 Traditions
 
 ### The arts and Entertainment
+
 Arts and crafts
+
 Celebrity
+
 Censorship in the arts
-FestivalsHumorLiteratureMuseumsPartiesPoetry
+
+Festivals
+Humor
+Literature
+Museums
+Parties
+Poetry
 
 ### Performing arts
+
 Circuses
+
 Dance
-FilmMusicOperaStorytellingTheatre
+
+Film
+Music
+Opera
+Storytelling
+Theatre
 
 ### Visual arts
 
@@ -43,13 +77,15 @@ Comics
 Crafts
 Design
 Drawing
-Film Animation
+Film
+Animation
 New media art
 Painting
 Photography
 Sculpture
 
 ### Games and Toys
+
 Board games
 Card games
 Dolls
@@ -60,9 +96,35 @@ Video games
 
 ### Sports and Recreation
 
+
 Air sports
-American footballAssociation footballAuto racingBaseballBasketballBoating
-BoxingCanoeingCricketCyclingExerciseFishingGolfGymnasticsHobbiesHorse racingIce hockeyLacrosseOlympic GamesRugby leagueRugby unionSailingSkiingSwimmingTennis
+American football
+Association football
+Auto racing
+Baseball
+Basketball
+Boating
+
+Boxing
+Canoeing
+Cricket
+Cycling
+Exercise
+Fishing
+Golf
+Gymnastics
+Hobbies
+Horse racing
+Ice hockey
+Lacrosse
+Olympic
+Games
+Rugby league
+Rugby union
+Sailing
+Skiing
+Swimming
+Tennis
 Track and field
 Walking trails
 Water sports
@@ -73,7 +135,6 @@ Whitewater sports
 * https://en.wikipedia.org/wiki/Mass_media
 * https://en.wikipedia.org/wiki/Category:Main_topic_articles
 * https://en.wikipedia.org/wiki/Communication
-
 
 * Broadcasting
 * Film
@@ -98,16 +159,19 @@ Whitewater sports
 
 ### Things could be better
 
+
 Eight studies reveal a (possibly universal) bias in human imagination
 * https://experimentalhistory.substack.com/p/things-could-be-better
   * https://news.ycombinator.com/item?id=34125158
 
-### More
+###
+More
 
 * https://www.nytimes.com/2021/03/24/briefing/boulder-shooting-george-segal-astrazeneca.html
 * https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/2318/files/2021/03/Why-Is-All-Covid-News-Bad-News-3_22_21.pdf
 
-### Machine-Learning media bias
+###
+Machine-Learning media bias
 
 * https://arxiv.org/pdf/2109.00024.pdf
 
@@ -120,6 +184,7 @@ Eight studies reveal a (possibly universal) bias in human imagination
 https://stackfull.dev/
 
 Everything you need to start blogging as a developer!
+
 Own your content, share ideas, and
 connect with the global dev community!
 
@@ -129,12 +194,13 @@ connect with the global dev community!
 
 ## Selling
 
-* [https://gumroad.com/](https://gumroad.com/)
-* [https://www.litlovers.com/](https://www.litlovers.com/)
+* https://gumroad.com/
+* https://www.litlovers.com/
 
 ## Books
 
 [https://durmonski.com/category/book-summaries/](https://durmonski.com/category/book-summaries/)
+
 
 More
 

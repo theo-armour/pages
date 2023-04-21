@@ -4,11 +4,35 @@
 ## lists
 
 * https://www.makeuseof.com/online-ai-chat-companions/
+* 2023-03-17 ~ https://aisafety.world/ ~ map
+* https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
+* https://www.howtogeek.com/875801/chatgpt-alternatives/
+
+
+### chatGPT
+
+see Markdown file
+
+### Mimosa
+
+* 2022-12-16 ~ https://mimosa.so/
+  * Collaborative brainstorming. Supercharged with A.I.
+Solve problems together effectively with design thinking best practices and A.I. suggestions—no learning curve.
+  * https://news.ycombinator.com/item?id=34018355
+
+
+## perplexity.ai
+
+* https://www.perplexity.ai/?uuid=2cb1dbfe-aed7-42a4-9a03-17638525d0fd
+* https://www.perplexity.ai/about
+* https://twitter.com/perplexity_ai
+* https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo
 
 
 
 ## https://www.anthropic.com/
 
+https://www.anthropic.com/product
 >Building Reliable, Interpretable, and Steerable AI Systems
 
 >Anthropic is an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems. Large, general systems of today can have significant benefits, but can also be unpredictable, unreliable, and opaque: our goal is to make progress on these issues. For now, we’re primarily focused on research towards these goals; down the road, we foresee many opportunities for our work to create value commercially and for public benefit.

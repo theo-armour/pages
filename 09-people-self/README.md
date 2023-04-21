@@ -16,7 +16,18 @@ tags #09 #people #self
 Main categories: People, Personal life, Self and Surnames
 
 People
-Beginners and newcomersChildrenHeads of stateHumansPeople by legal statusMenOld agePolitical peopleRivalrySocial groupsSubculturesWomen
+Beginners and newcomers
+Children
+Heads of state
+Humans
+People by legal status
+Men
+Old age
+Political people
+Rivalry
+Social groups
+Subcultures
+Women
 
 People by
 city

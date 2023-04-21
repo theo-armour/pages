@@ -1,5 +1,10 @@
 # AI Journal
 
+
+## 2023-04-20
+
+Illustration of feathers. In a neon and cyberpunk, synthwave neon environment. The scene should be peaceful and shall present a beautiful environment. closeup --ar 1:2 --chaos 10 --stylize 1000 --v 5 --quality 2
+
 ## 2023-04-18
 
 https://s.mj.run/Wx8VCrg9PRE very large feathers, rotated to random angles, painted with vivid neon::2 colors and patterns, closeup --ar 1:2 --chaos 10 --stylize 1000
@@ -63,13 +68,9 @@ une bande d'amis heureux qui boivent du pastis, style la trilogie marseillaise, 
 
 ## 2023-03-21
 
-https://en.wikipedia.org/wiki/Synthography
-
-
-https://discord.com/channels/662267976984297473/1084497199028772905/1084497199028772905
-
-
-https://discord.com/channels/662267976984297473/1084497199028772905
+* https://en.wikipedia.org/wiki/Synthography
+* https://discord.com/channels/662267976984297473/1084497199028772905/1084497199028772905
+* https://discord.com/channels/662267976984297473/1084497199028772905
 
 ## 2023-03-20
 
@@ -82,7 +83,35 @@ A photorealistic portrait of alluring older woman giving the peace sign  ::Shot 
 
 ## Text-To-Video is Here (sort of)
 
-
 The model, available here to try on Hugging Face, is trained on a whopping 1.7 billion parameters.
 * https://link.mail.beehiiv.com/ss/c/HS41HluCip0lli5oKcLJSQ2BtWAtKYgiMmY2iZxNWs1ArfanDG8QwIkps-ZCOrgewRvvzha1moOfajw9wMwRaoRC2QIT5tMVQM0eUb5gDlQRoSxslWm7af0RaV0u9Ghf/3un/q-3r8IMaRwqH6jLwz005tA/h8/IcSJ2ioX_p2Yze1LKDW2hDX6kodgL5bNGmbtVrIGJtc
 * https://twitter.com/victormustar/status/1637461621541949441
+
+
+## 2023-03-12 ~ Dall-E Prompts
+
+What would you enter as a text prompt for DALL-E 2?
+As an AI language model, I don't have the ability to enter text prompts for DALL-E 2 myself, as it is a separate machine learning model developed by OpenAI. However, if you're looking for a prompt to use with DALL-E 2, you could try something like:
+
+"Create an image of a fantastical cityscape with towering skyscrapers made entirely out of plants and flowers."
+
+or
+
+"Generate a picture of a giant squid wearing a top hat and holding a cane, surrounded by a group of curious onlookers."
+
+Remember that DALL-E 2 is designed to create images based on text descriptions, so the more detailed and specific your prompt is, the better chance you have of getting a satisfying result.
+
+please create eight more prompts
+
+Certainly! Here are eight more prompts you could use with DALL-E 2:
+
+"Create an image of a mermaid riding a motorcycle along a beach at sunset."
+"Generate a picture of a treehouse that looks like a giant mushroom, with a spiral staircase and a balcony overlooking a river."
+"Create an image of a robot gardener tending to a garden of floating, glowing orbs."
+"Generate a picture of a dragon playing a game of chess with a knight in a medieval castle."
+"Create an image of a futuristic city with flying cars, holographic billboards, and giant neon-colored mushrooms growing out of the buildings."
+"Generate a picture of a group of penguins wearing backpacks and climbing a snow-covered mountain."
+"Create an image of a giant, three-headed dog guarding the entrance to an underground cave filled with treasure."
+"Generate a picture of a giant snail wearing a crown and holding a scepter, with a group of tiny knights riding on its back."
+
+Create an image of rolling hills on a dark and stormy night with a fantastical cityscape with towering skyscrapers made entirely out of plants and flowers.

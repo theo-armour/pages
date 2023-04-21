@@ -14,23 +14,6 @@
 * https://www.midlibrary.io/styles/chaim-soutine#hero
 * https://graphicsgurl.com/use-chatgpt-for-midjourney-image-prompts
 
-## Discord Emoji Reactions
-
-* ❌ Cancel and Delete
-* ✉️ Send to Direct Messages
-
-## Reactions
-
-
-
-## Galleries
-
-* https://www.designboom.com/design/gaudi-zaha-hadid-midjourney-ai-generated-cars-starchitects-02-17-2023/
-
-
-## Libraries
-
-* https://www.midlibrary.io/
 
 ## Prompts
 
@@ -49,11 +32,7 @@ A photorealistic portrait of woman:: Shot on a Canon EOS 5D Mark IV with a 200mm
 * Awesome chatGPT
 I want you to act as a prompt generator for Midjourney's artificial intelligence program. Your job is to provide detailed and creative descriptions that will inspire unique and interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: “[INSERT]”
 
-## https://linusekenstam.substack.com/p/tutorial-dynamic-prompting
 
-***
-* https://linusekenstam.substack.com/p/tutorial-how-to-create-consistent?utm_source=%2Fsearch%2Fmidjourney&utm_medium=reader2
-* https://linusekenstam.substack.com/p/mini-ai-tutorial-learn-how-to-turn?utm_source=%2Fsearch%2Fmidjourney&utm_medium=reader2
 
 ## https://weirdwonderfulai.art/general/using-chatgpt-to-create-prompts-for-ai-art/
 

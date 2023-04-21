@@ -1,4 +1,4 @@
-# Coding Read Me
+# Computing Read Me
 
 tags #13
 
@@ -7,6 +7,26 @@ What goes here?
 APIs, Libraries, Languages, Markup, Styling
 
 https://en.wikipedia.org/wiki/Software_categories
+
+
+## About Computing
+
+We are still early with the cloud: why software development is overdue for a change
+* https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html
+  * https://news.ycombinator.com/item?id=33269092
+
+The Moldable Development Environment
+Glamorous Toolkit is a multi-language notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. Free and open-source.
+* https://gtoolkit.com/
+  * https://news.ycombinator.com/item?id=33267518
+
+## Links
+
+* https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing
+  * https://news.ycombinator.com/item?id=33846104
+* https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
+  * https://news.ycombinator.com/item?id=33849068
+
 
 ## Lean
 

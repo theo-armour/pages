@@ -7,13 +7,22 @@ tags #07 #math #logic
 
 Formal sciences
 
-MathematicsMathematics educationEquationsHeuristicsMeasurementNumbersProofsTheorems
+Mathematics
+Mathematics education
+Equations
+Heuristics
+Measurement
+Numbers
+Proofs
+Theorems
 
-Fields of mathematicsArithmeticAlgebraGeometryTrigonometryMathematical analysisCalculus
+Fields of mathematics
+ArithmeticAlgebraGeometryTrigonometryMathematical analysisCalculus
 
 LogicDeductive reasoningInductive reasoningHistory of logicFallaciesMetalogicPhilosophy of logic
 
-Mathematical sciencesComputational scienceOperations researchTheoretical physics
+Mathematical sciences
+Computational scienceOperations researchTheoretical physics
 
 StatisticsAnalysis of varianceBayesian statisticsCategorical dataCovariance and correlationData analysisDecision theoryDesign of experimentsLogic and statisticsMultivariate statisticsNon-parametric statisticsParametric statisticsRegression analysisSamplingStatistical theoryStochastic processesSummary statisticsSurvival analysisTime series
 

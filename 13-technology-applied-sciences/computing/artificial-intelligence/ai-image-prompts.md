@@ -6,12 +6,12 @@
 * imaxopal#2477
 * Heartfullofsun#3005
 
-## Animals
-Godzilla fighting King Kong inside a gigantic Gothic cathedral --ar 1:2 --v 5
 
-*  lynx, watercolor, mixed media, in the style of Christine Rosamond --ar 3:4 --upbeta --s 250
-* From	Subject	Received	Size
-PAL	Lake house plans / Philippe & Bridget	6:43 PM	2 MB
+## Animals
+
+* Godzilla fighting King Kong inside a gigantic Gothic cathedral --ar 1:2 --v 5
+* lynx, watercolor, mixed media, in the style of Christine Rosamond --ar 3:4 --upbeta --s 250
+
 
 ## Architecture
 
@@ -26,7 +26,7 @@ PAL	Lake house plans / Philippe & Bridget	6:43 PM	2 MB
 
 ## Art
 
-Render abstract colorful, art painting, 8K
+Render abstract colorful, art painting,
 
 ## Boats
 

@@ -182,3 +182,8 @@ Add --v 1, --v 2, --v 3, --v 4, --v 4 --style 4a, --v4 --style 4b --test, --test
 Type /settings and select your preferred version from the menu.
 
 1️⃣ MJ Version 1 2️⃣ MJ Version 2 3️⃣ MJ Version 3 4️⃣ MJ Version 4 🌈 Niji Mode 🤖MJ Test 📷 MJ Test Photo
+
+## Discord Emoji Reactions
+
+* ❌ Cancel and Delete
+* ✉️ Send to Direct Messages
