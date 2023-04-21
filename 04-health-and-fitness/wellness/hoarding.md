@@ -4,5 +4,6 @@
 * https://news.ycombinator.com/item?id=32873726
 
 ### My bad habit of hoarding information
+
 * https://andreisurugiu.com/blog/bad-habit/
   * https://newrelic.com/blog/nerd-life/javascript-nodejs-experts

@@ -1,7 +1,6 @@
 # old and fit
 
 
-
 ## slogans
 
 * growing old is not a death knell. it's the call to a new adventure
@@ -20,8 +19,6 @@
 	* Pedro - kim breedon
 * https://journals.lww.com/oncology-times/fulltext/2019/10200/patient_handout__the_new_normal_for_now.8.aspx
 	* During and after cancer treatment, life may feel “not normal.” This handout explains how creating a new normal for now may help you deal with unwanted changes in healthy and hopeful ways.
-
-
 
 ## Names
 

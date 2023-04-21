@@ -23,9 +23,6 @@ The 25 to 50s
 * Envisage themselves as third-agers only
 
 
-
-
-
 ### Have you personally felt the sting of ageism inside or outside of a work environment? Please explain.
 
 * Oh you're that dude! when they see on me in real life after having known me only on the internet
