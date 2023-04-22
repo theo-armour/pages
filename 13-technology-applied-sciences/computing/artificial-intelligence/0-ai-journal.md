@@ -1,6 +1,15 @@
 # AI Journal
 
+## 2023-04-21
 
+prompt:closeup of a bunch of highly reflective, highly detailed giant gold feathers, exploding inside a casino full of poker games and roulette wheels --ar 1:2 --quality 2
+
+A room full of slot machines and roulette wheels, floating in the middle are highly reflective giant gold feathers, scattered by a puff of air, Each feather mirrors the inside a Las Vegas casino full of slot machines and roulette wheels --ar 1:2 --quality 2 -
+
+
+closeup of highly reflective giant gold feathers, scattered by a puff of air, that mirror the inside a Las Vegas casino full of slot machines and roulette wheels --ar 1:2 --chaos 30 --stylize 750 --quality 2 -
+
+closeup of a highly reflective giant gold feathers exploding that mirror the inside a Las Vegas casino full of slot machines and roulette wheels --ar 1:2 --chaos 30 --stylize 750 --quality 2
 ## 2023-04-20
 
 Illustration of feathers. In a neon and cyberpunk, synthwave neon environment. The scene should be peaceful and shall present a beautiful environment. closeup --ar 1:2 --chaos 10 --stylize 1000 --v 5 --quality 2
