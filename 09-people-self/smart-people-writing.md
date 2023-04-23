@@ -7,14 +7,15 @@
 ## Publishers
 
 * https://aeon.co/
+* https://laphamsquarterly.org/
 * https://lesswrong.com/
 * https://nautil.us/
 * https://noemamag.com/
 * https://quantamagazine.org/
 * https://theatlantic.com/
 * https://theconversation.com/us
+* https://themarginalian.org/
 * https://worksinprogress.co/
-( https://www.laphamsquarterly.org/)
 
 ## Simple News
 
@@ -47,11 +48,6 @@
 ## Mobile Apps
 
 * https://javascriptweekly.com/
-
-
-## Smart People
-
-* https://www.themarginalian.org/
 
 
 ## Organizations
