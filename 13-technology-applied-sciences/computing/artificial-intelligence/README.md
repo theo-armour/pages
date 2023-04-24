@@ -2,6 +2,10 @@
 
 ## New
 
+## 2023-04-23
+
+[label](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231)
+
 ## 2023-04-20
 
 Capabilities and alignment of LLM cognitive architectures
