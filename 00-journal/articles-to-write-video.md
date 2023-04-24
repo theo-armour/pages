@@ -4,7 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
-* 2023-04-23 ~ Economist/Brooks/Krugma: US GDP is the best ~ but is productivity in service indu
+* 2023-04-23 ~ Economist/Brooks/Krugma: US GDP is the best ~ but is productivity in service industries the same as priduction
 * 2023-04-05 ~ categorization: Use Wikipedia!
 * People don't write enough
 * Engineer & bricoleur vs architect and engineer
