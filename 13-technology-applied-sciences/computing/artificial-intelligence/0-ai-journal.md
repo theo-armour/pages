@@ -1,5 +1,9 @@
 # AI Journal
 
+## 2023-04-23
+
+feather my nest, vibrant popcolors --ar 1:2 --stylize 750 --quality 2
+
 ## 2023-04-21
 
 prompt:closeup of a bunch of highly reflective, highly detailed giant gold feathers, exploding inside a casino full of poker games and roulette wheels --ar 1:2 --quality 2
