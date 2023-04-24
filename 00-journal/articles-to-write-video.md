@@ -4,7 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
-* 2023-04-23 ~ Economist/Brooks/Krugma: US GDP is the
+* 2023-04-23 ~ Economist/Brooks/Krugma: US GDP is the best ~ but 
 * 2023-04-05 ~ categorization: Use Wikipedia!
 * People don't write enough
 * Engineer & bricoleur vs architect and engineer
