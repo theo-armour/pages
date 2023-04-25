@@ -1,5 +1,35 @@
 # AI Journal
 
+
+Feather in my cap and called it macaroni"
+
+## 2023-04-24
+
+"light as a feather"
+
+Archery  arrow has  gigantic, weird, flamboyant feathers with vibrant colors and patterns, three-quarter view, macro --ar 1:2 --chaos 40 --stylize 750 --v 5 --quality 2
+
+Outdoor archery target with arrows hitting the bullseye, each arrow has  gigantic, weird, flamboyant feathers with vibrant colors and patterns, three-quarter view, closeup --ar 1:2 --chaos 40 --stylize 750 --v 5 --quality 2
+
+Outdoor archery target with three arrows near the bullseye, arrows have gigantic, weird, flamboyant feathers with vibrant colors and patterns, three-quarter view, closeup --ar 1:2 --chaos 40 --stylize 750 --v 5 --quality 2
+
+Outdoor archery target with arrows near the bullseye, arrows have gigantic, flamboyant popcolor feathers --ar 4:5 --chaos 10 --stylize 1000 --quality 2
+
+
+## New Resident Bio
+
+We are residents of a non-profit retirement home in San Francisco. We publish a monthly newsletter. Every time a new resident moves in, we publish a short bio. We would like to use AI to generate a short bio for a new resident. Can you help us?
+
+
+
+### Residents & BoD Dinner Party
+
+We are residents of a non-profit retirement home in San Francisco. There will be a dinner party in the dining room. We will be seated at tables with 4 other residents and a member of the board of directors
+
+Can you prepare a list of ten engaging questions that we can ask the board member that will encourage a lively dialog?
+
+
+
 ## 2023-04-23
 
 feather my nest, vibrant popcolors --ar 1:2 --stylize 750 --quality 2
