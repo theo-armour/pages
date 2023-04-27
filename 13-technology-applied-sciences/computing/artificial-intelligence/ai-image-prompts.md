@@ -32,6 +32,10 @@ Render abstract colorful, art painting,
 
 * Fisherman on a Chinese Junk catching a tuna fish with a net , minimalist, paper quilling, dynamic, greyscale, white background --ar 3:2 --v 5
 
+## Ceremony
+
+* cacao ceremony, dance medicine, shamanic style, Hypermodernism, 4k, --ar 16:9
+
 ## Cityscape
 
 * Star Trek as imagined in 1890
@@ -53,6 +57,10 @@ System blueprint, popcolor, illust, /colored bright and gorgeous
 
 * create an image of a home made artisanal loaf of rustic bread baked in a country kitchen. @djskee
 
+## Forest
+
+A brightly colored forest with butterflies fluttering around, birds chirping and flying, and flowers blooming in full glory Style: Cartoonish.
+
 ## Furniture
 
 a dj table with built in amp rack on wheels made from organic forms inspired by chanterelle mushrooms and branch coral constructed using sheets of plywood designed for a record shop --v 5
@@ -62,6 +70,8 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 * a cosmic garden with beautiful exotic and alien plants, imagined life, stars and galaxies in the sky, colorful, high quality, high definition, sci-fi, 4k --ar 16:9
 
 ## Landscape
+
+* 2023-04-26 ~ a large landscape, with a group of medieval adventurers , miyazaki 1989 studio ghibli style, manga, illustration, retro, hard lines --ar 16:9 --v 5 --s 1000
 
 * 2023-04-09 ~ village with bridges paths streams flowers, Mandy jungens Thomas Kinkade Camilla D'Errico Marion Peck --ar 6:7 --s 750 --v 5 --q 2
 * forest, cartoon
@@ -80,11 +90,20 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 
 * epic photograph of AI smoking weed, highdef, highly detailed -
 
-## Objects
+## Object
+
 
 * Sceptre, Orb, Saint Edwards Crown, Imperial State Crown --ar 1:2 --tile
 * luxury art
 * A beautiful huge massive jumble of gold crowns inlaid with colored jewels and gold orbs inlaid with colored jewels and gold scepters inlaid with colored jewels, close-up, view from above looking down, hyper-realistic, capturing rich tonality and vibrant colors, exceptional sharpness, dramatic contrast, worthy of a collector's edition print --quality 2 --stylize 1000 --ar 1:2
+
+## Photo
+
+a photo fo Vancouver, British Columbia
+
+## Texture
+
+carbon fibre, close up, surface detail, lilac purple, light grey, black, white, high definition, ultra-realistic, hyper real
 
 ## Transportation
 

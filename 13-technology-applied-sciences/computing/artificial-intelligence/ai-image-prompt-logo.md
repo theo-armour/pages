@@ -11,3 +11,7 @@
 Styles
 * minimal line logo of a rose, vector
 * geometric minimal diamond, logo, line, simple
+
+## Midjourney examples
+
+png, black and white, flat circular minimalist logo with a carpenters hammer, a femur, a circular saw blade, carpentry
