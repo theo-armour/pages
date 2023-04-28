@@ -2,7 +2,7 @@
 
 ## 2023-04-18
 
-* https://aituts.com/midjourney-v5/
+
 
 ## 2023-04-02
 

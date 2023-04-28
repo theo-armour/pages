@@ -4,6 +4,11 @@
 "Feather in my cap and called it macaroni"
 
 
+## 2023-04-27
+
+* featherweight
+* featherweight --ar 4:5 --v 5 --quality 2
+
 ## 2023-04-26
 
 "Light as a feather" --ar 4:5 --chaos 2 --stylize 750 --v 5 --quality 2

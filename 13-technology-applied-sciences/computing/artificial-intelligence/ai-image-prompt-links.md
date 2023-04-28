@@ -1,5 +1,20 @@
 # AI Image Prompt Links
 
+
+## 2023-04-27
+
+* https://prompthero.com/midjourney-prompts
+
+
+* https://semicolon.dev/midjourney/best-prompts
+* https://www.aidemos.info/midjourney-prompts-for-realistic-photo-portraits/
+* https://medium.com/@ai.neuromind/hello-medium-and-5-of-my-amazing-prompts-part-1-94ffca82fad8
+* https://runtheprompts.com/category/prompts/midjourney/
+* https://docs.midjourney.com/docs/explore-prompting
+* https://prompt.noonshot.com/
+* https://aituts.com/midjourney-v5/
+* https://www.whytryai.com/p/best-midjourney-prompts
+
 ## 2023-04-25
 
 * https://prompts.aituts.com/

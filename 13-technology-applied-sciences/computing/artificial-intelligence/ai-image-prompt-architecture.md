@@ -1,5 +1,7 @@
 # ai-image-prompt-architecture.md
 
+## https://delightfuldesignstudio.com/midjourney-architecture-prompts/
+
 
 ## https://aituts.com/midjourney-architecture/ ~ good!
 

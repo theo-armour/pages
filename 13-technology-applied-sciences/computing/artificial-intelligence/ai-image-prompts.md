@@ -1,5 +1,9 @@
 # AI Imaging Prompts
 
+## Two word
+
+* https://runtheprompts.com/prompts/midjourney/two-word-masterpieces/
+
 ## mentions
 
 * nub#2798
