@@ -2,47 +2,24 @@
 
 tags: #markdown #notes #editors #code #md
 
-https://github.com/search?q=markdown&type=topics
+
+## Links of Interest
+
+
+* http://daringfireball.net/projects/markdown/syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://www.reddit.com/wiki/commenting
+* https://stackedit.io/
+* https://stackoverflow.com/questions/68782676/convert-html-anchors-to-markdown-link
+
 
 ## Markdown editor lists
 
+* https://github.com/search?q=markdown&type=topics
 * https://www.webfx.com/blog/web-design/online-markdown-editors/
 * https://stackedit.io/
-
-### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
-
-* last update 2016
-
-### tui-editor ~ https://ui.toast.com/tui-editor
-
-## Markdown editors ~ online ~ single-screen
-
-### EasyMDE ~ https://github.com/Ionaru/easy-markdown-editor
-
-### simpleMDE
-
-
-
-## Markdown editors online ~ two screens
-
-### Marcdoc
-
-* https://markdoc.io/
-
-> Markdoc is a powerful, flexible, Markdown-based authoring framework.
-
-> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
-
-
-### Substance ~ https://github.com/substance/substance
-
-* dead
-
-## Markdown Download
-
-### Typora
-
-https://typora.io/
+* https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
+  * last update 2016
 
 
 ## Markdown to HTML JavaScript
@@ -96,19 +73,39 @@ Others
 * https://github.com/BeneathTheInk/html2md
 
 
-## Links of Interest
 
-* https://help.github.com/articles/basic-writing-and-formatting-syntax/
-* https://guides.github.com/features/mastering-markdown/
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* https://help.github.com/articles/github-flavored-markdown
-* http://daringfireball.net/projects/markdown/syntax
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* http://www.reddit.com/wiki/commenting
+## Markdown editors ~ online ~ single-screen
 
-* https://stackedit.io/
-* https://stackoverflow.com/questions/68782676/convert-html-anchors-to-markdown-link
-*
+### EasyMDE ~ https://github.com/Ionaru/easy-markdown-editor
+
+### simpleMDE
+
+### tui-editor ~ https://ui.toast.com/tui-editor
+
+
+## Markdown editors online ~ two screens
+
+### Marcdoc
+
+* https://markdoc.io/
+
+> Markdoc is a powerful, flexible, Markdown-based authoring framework.
+
+> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
+
+
+### Substance ~ https://github.com/substance/substance
+
+* dead
+
+
+## Markdown Download
+
+### Typora
+
+https://typora.io/
+
+
 
 
 ## Alternatives
@@ -146,13 +143,4 @@ Self-rendering Markdown + LaTeX documents
 
 * https://github.com/susam/texme
 * https://susam.github.io/texme/examples/valid-html5.html
-
-
-## GitHub Markdown
-
-* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
-* https://github.com/mundimark/awesome-markdown
-  * https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools
 
