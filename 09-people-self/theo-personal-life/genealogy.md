@@ -1,5 +1,7 @@
 # genealogy
 
+taggs #hobby
+
 ## gedcom
 
 * https://en.wikipedia.org/wiki/GEDCOM
