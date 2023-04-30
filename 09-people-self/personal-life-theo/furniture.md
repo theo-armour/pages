@@ -1,7 +1,6 @@
 # Furniture
 
 
-
 ## Bidets
 
 * https://hellotushy.com/

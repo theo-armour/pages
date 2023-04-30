@@ -4,8 +4,9 @@ tags #09 #people #self
 
 ## Wikipedia
 
-* https://en.wikipedia.org/wiki/People
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines#People_and_self
+
+* https://en.wikipedia.org/wiki/People
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/People_and_self
 * https://en.wikipedia.org/wiki/Category:People
 * https://en.wikipedia.org/wiki/Category:Humans

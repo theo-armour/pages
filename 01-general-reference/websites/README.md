@@ -1,4 +1,10 @@
-# Web Read Me
+# Websites Read Me
+
+## Links
+
+* https://en.wikipedia.org/wiki/Category:Websites
+* https://en.wikipedia.org/wiki/Website
+* https://en.wikipedia.org/wiki/Category:Websites_by_topic
 
 ## Gumroad
 

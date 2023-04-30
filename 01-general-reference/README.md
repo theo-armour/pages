@@ -27,7 +27,7 @@ tags #01 #reference
 * Style guides
 * Trivia books
 * **Web sites** ~ by country, language, topic, etc.
-  * https://en.wikipedia.org/wiki/Category:Web_sites
+  * https://en.wikipedia.org/wiki/Category:Websites
 
 ### Further research tools and topics
 
