@@ -33,3 +33,9 @@ https://en.wikipedia.org/wiki/Category:Personal_life
 * Motivation
 * Personal development
 * Pets
+
+## Kits
+
+### Ask HN: Besides Legos, what’s the best kit for prototyping mechanical devices?
+
+* https://news.ycombinator.com/item?id=35767870
