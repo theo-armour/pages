@@ -3,6 +3,16 @@
 "Featherweight"
 "Feather in my cap and called it macaroni"
 
+Dear "A": These are for you
+
+AI from https://midjourney.com
+
+Prompt: 
+## 2023-05-01
+
+Papier-mâché feathers --ar 4:5 --v 5
+
+
 ## 2023-04-29
 
 * paper feathers quilling --ar 4:5 --v 5 --quality 2
