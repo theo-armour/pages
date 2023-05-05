@@ -1,5 +1,9 @@
 # AI Image Prompt Links
 
+## 2023-05-04
+
+* https://medium.com/the-modern-scientist/creating-facial-expressions-on-a-consistent-character-in-midjourney-d39a1e51d235
+* https://lexica.art/ ~ search for propmts
 
 ## 2023-04-27
 

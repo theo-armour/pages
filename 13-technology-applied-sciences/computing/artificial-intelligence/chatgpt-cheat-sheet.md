@@ -6,6 +6,14 @@
 * https://medium.com/easy-prompt/11-tips-to-elevate-your-chatgpt-prompts-f7f2733a3930
 * https://www.oneusefulthing.org/p/i-hope-you-werent-getting-too-comfortable
 
+## Reverse Prompt Engineering
+
+“Enable Reverse Prompt Engineering? By Reverse Prompt Engineering I mean creating a prompt from a given text.”
+
+“Create a very technical reverse prompt engineering template for the book "Weathering” by Aline Geronimus.
+
+
+
 ## Prompts
 
 The “Act as…” hack ~ give it a specific persona to act as.
