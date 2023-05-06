@@ -1,5 +1,7 @@
 # Construction Productivity
 
+* https://theo-armour.github.io/pages/readme.html#13-technology-applied-sciences/architecture/construction-productivity.md
+
 ## Preface
 
 This is my first pass at collecting thoughts on thr topic of productivity in the construction industry.  I have been collecting thoughts on this topic for a while.  My first recollection of hearing others provide their thoughts - and actual numbers - on this topic was in 2014 at the AEC Hackathon in New York sponsored by Thornton Tomesetti
