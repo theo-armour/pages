@@ -1,6 +1,4 @@
-# Construction Productivity
-
-* https://theo-armour.github.io/pages/readme.html#13-technology-applied-sciences/architecture/construction-productivity.md
+# [Construction Productivity]( https://theo-armour.github.io/pages/readme.html#13-technology-applied-sciences/architecture/construction-productivity.md )
 
 ## Preface
 

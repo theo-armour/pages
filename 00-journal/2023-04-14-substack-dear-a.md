@@ -1,7 +1,6 @@
 # SubStack Dear a
 
-Thhis is the beiginning of an explanation, that takes a lot time
-
+This is the beiginning of an explanation, that takes a lot time
 
 * After my accident grandma sends me a postcard every day
 * Went on for months
@@ -17,6 +16,7 @@ Thhis is the beiginning of an explanation, that takes a lot time
 * Much more than the pain and suffering I frequently felt
 * That experience can never be duplicated, but what can be learned from it?
 * What can I do to make another person feel something
+
 
 ## Time motion
 
@@ -34,6 +34,7 @@ Thhis is the beiginning of an explanation, that takes a lot time
 * Then I added doing a Kegel exercise
 * Turning a mindless exercise into something that that requires more mindfulness
 
+
 ## Substack articles
 
 * I want to share my efforts - words, images and software - with the world
@@ -50,5 +51,4 @@ Thhis is the beiginning of an explanation, that takes a lot time
 * When I was under 12, I was devoted to drawing. Did I produce a drawing a day? But, IIRC, no more than once a day. In my memory, iI took and endless amount of time on each drawing. Looking back, I think in actuality it might have bee ten to fifteen minutes. But it felt like an eternity. I was so focused on the drawing that I was not aware of the time passing. I was in the zone. I was in the flow. I was in the moment. I was in the present. I was in the now. I was in the here and there.
 
 When I went to SPS, the drawing motivation stopped - almost never to return. Reasons: drawing takes time. Hours and hours. Not having had guidance or mentoring the resukts were so often disappointing.
-
 

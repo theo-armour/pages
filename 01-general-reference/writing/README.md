@@ -1,6 +1,7 @@
 # Writing Read Me
 
 ## 3 rules to express your thoughts so that everyone will understand you
+
 Actor and science communicator Alan Alda shares his three rules of three for effective and empathic communication.
 
 * https://bigthink.com/the-learning-curve/3-rules-express-your-thoughts-clearly/
