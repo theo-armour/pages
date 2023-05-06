@@ -1,6 +1,5 @@
 # AI Journal
 
-"Featherweight"
 "Feather in my cap and called it macaroni"
 
 Dear "A": These are for you
@@ -9,13 +8,17 @@ AI from https://midjourney.com
 
 Prompt:
 
+## 2023-05-05
+
+Fire-breathing dragon feathers --ar 4:5 --v 5.1
+
 
 ## 2023-05-04
 
 What are some good tips and tricks for developing chatGPT prompt that generates a great summary of a complicated, technical and detailed non-fiction book?
 
 * https://chat.openai.com/c/a870720e-d5da-40d3-9edf-ceccf48f440c
-* https://chat.openai.com/c/a870720e-d5da-40d3-9edf-ceccf48f440c
+
 
 ## 2023-05-01
 
