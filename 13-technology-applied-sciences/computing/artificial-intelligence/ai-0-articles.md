@@ -39,6 +39,7 @@ Good responses with examples to many criticisms
 * https://news.ycombinator.com/item?id=30939282
 	* https://spectrum.ieee.org/andrew-ng-data-centric-ai
 
+
 ### 2022-12-16 > The next decades might be wild
 
 * https://www.lesswrong.com/posts/qRtD4WqKRYEtT5pi3/the-next-decades-might-be-wild
@@ -76,10 +77,4 @@ MIRI announces new "Death With Dignity" strategy #april-fools
 >tl;dr:  It's obvious at this point that humanity isn't going to solve the alignment problem, or even try very hard, or even go out with much of a fight.  Since survival is unattainable, we should shift the focus of our efforts to helping humanity die with with slightly more dignity.
 
 
-## Games
-
-### Dark Forest: This sci-fi blockchain game could help create a metaverse that no one owns
-Dark Forest shows how advanced cryptography can be used in a game—and how blockchains might host decentralized digital worlds.
-* https://www.technologyreview.com/2022/11/10/1062981/dark-forest-blockchain-video-game-creates-metaverse/
-* https://twitter.com/darkforest_eth?lang=en
-* https://blog.zkga.me/
+#
