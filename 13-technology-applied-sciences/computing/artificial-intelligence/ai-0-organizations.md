@@ -1,13 +1,30 @@
 # AI Organizations
 
 
-## lists
+## Directories / Lists
+
+
+## 2023-04-23
+
+### AI Infinity - AI Tools Directory
+
+Could be useful for finding tools to use in AI projects also for naming my own ai Markdown files
+
+* https://github.com/meetpateltech/AI-Infinity/
+* https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231
+
+### ??
 
 * https://www.makeuseof.com/online-ai-chat-companions/
-* 2023-03-17 ~ https://aisafety.world/ ~ map
+
+
+### 2023-03-17
+
+* https://aisafety.world/ ~ map
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
 * https://www.howtogeek.com/875801/chatgpt-alternatives/
 
+## Producers
 
 ### chatGPT
 
@@ -44,6 +61,7 @@ https://www.anthropic.com/product
 ## https://ai.facebook.com/
 
 * https://ai.facebook.com/blog/
+
 
 ## Replika
 

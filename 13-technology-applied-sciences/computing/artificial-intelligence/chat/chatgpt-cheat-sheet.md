@@ -16,6 +16,10 @@
 
 ## Prompts
 
+Get useful analogies for anything
+* What is an analogy for a computer? Can you give me some analogies for how to tie a shoelace?
+
+
 The “Act as…” hack ~ give it a specific persona to act as.
 * Fashion blogger, influencer, elon musk
 

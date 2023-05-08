@@ -1,5 +1,7 @@
 # Robots Auromated Vehicles Read Me
 
+## 2023-05-07
+
 ## Hands of gods ~ Anders ~ 2023-05-06
 
 * https://substack.com/inbox/post/119699258
@@ -36,7 +38,33 @@
 
 ### Love
 
-Gotta hand it to you! I welcome the fresh perspective ~ pointing to outside the box media paints ~
+Gotta hand it to you! You have a fresh perspective on AGI. Your fingers are pointing in directions outside the frame the mainstream media points to!
+
+Nonetheless I'd like to push back a bit on a few of your thoughts.
+
+### Dexterity
+
+>The superiority of human dexterity will not disappear anytime soon. One day robots might equal humans in physical ability. But this day is not today. It is not tomorrow either. _The time when robots will outdo humans physically is probably more centuries than decades away, if it ever comes._
+
+I am reminded of the quote apocryphally attributed to Henry Ford: "If I had asked my customers what they wanted they would have said a faster horse”.
+
+In other words, what happens when AI - as Ford did - changes the rules? For example, suppose AI enables better "just-in-time growing" where little robos bring ripe food from farm to your kitchen? No warehouse needed. Or bricks from the kiln directly to the building site? No hands needed!
+
+With actions like these the need for human dexterity is reduced. Thus, I've have no feeling that "disarming" society will take centuries.
+
+See also:
+
+* https://www.dexterity.ai/
+* https://www.universal-robots.com/
+* https://scitechdaily.com/columbia-engineers-create-highly-dexterous-human-like-robot-hand-that-can-operate-in-the-dark/
+
+### Persuasion
+
+
+
+
+
+
 
 ### "If I had asked my customers what they wanted they would have said a faster horse”
 
@@ -45,11 +73,11 @@ Gotta hand it to you! I welcome the fresh perspective ~ pointing to outside the 
 
 >The time when robots will outdo humans physically is probably more centuries than decades away, if it ever comes._
 
-### A disarming exprience
+### A disarming experience
 
-What happens when AI changes the rules. Suppuse AI enables better "just-in-time growing" where little robos bring ripe food from farm to yur kitchen? Or briscks from the kiln directly to the web site? No hands needed!
+What happens when AI changes the rules. Suppose AI enables better "just-in-time growing" where little robos bring ripe food from farm to yur kitchen? Or bricks from the kiln directly to the web site? No hands needed!
 
-I've have no feeling that this wil take centuries
+I've have no feeling that this will take centuries
 
 ### Who's in charge / The bane of the bullshitting class
 
@@ -60,4 +88,18 @@ I've have no feeling that this wil take centuries
 * Now Leaders and followers
 
 Bring in gaming
+
+## 2023-03-18
+
+### Drone Wars ~ Jacob Cannell
+
+* https://entersingularity.wordpress.com/2022/03/18/drone-wars/
+
+### Goodhart's law
+
+>"When a measure becomes a target, it ceases to be a good measure"
+>"Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes."
+
+* https://en.wikipedia.org/wiki/Goodhart's_law
+* https://en.wikipedia.org/wiki/Campbell%27s_law
 

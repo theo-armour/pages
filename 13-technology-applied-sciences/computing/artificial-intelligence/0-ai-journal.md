@@ -9,14 +9,14 @@ AI from https://midjourney.com
 
 Prompt:
 
-##
+## 2023-05-07
+
+Cute mouse covered in feathers
+
+## 2023-05-06
 
 -
-Dear "A": These are for you
-
-AI from https://midjourney.com
-
-Prompt: closeup of a royal crown of glorious, colorful feathers, front view --ar 4:5
+closeup of a royal crown of glorious, colorful feathers, front view --ar 4:5
 
 ## 2023-05-05
 

@@ -12,6 +12,12 @@ https://runwayml.com/pricing/
 * https://www.adobe.com/sensei/generative-ai/firefly.html
 
 
+## Microsoft
+
+* https://designer.microsoft.com/
+
+
+
 ### mirageme
 
 * https://app.mirageml.com/generate

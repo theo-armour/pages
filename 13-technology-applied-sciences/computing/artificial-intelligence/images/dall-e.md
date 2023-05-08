@@ -42,6 +42,7 @@ tags #ai #art #raster
 * 82 pages
 * https://www.howtogeek.com/836690/5-tips-to-get-the-best-results-from-dall-e-2/
 
+
 ### With  ChatGPT
 
 What would you enter as a text prompt for DALL-E 2?
