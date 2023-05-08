@@ -24,7 +24,6 @@ Questions
 
 * How tricky is it to place a crown of 2.2kg on a person's head when the crown is worth £3.5 billion?
 
-
 What I viewed
 
 * Mostly images of young people wearing unusual clothes and singing in high-pitched voices
@@ -60,7 +59,6 @@ What I feel
 
 
 ## Bing (ChatGPT 4) Compositions (Professional)
-
 
 What does Noam Chomsky think of the coronation?
 
