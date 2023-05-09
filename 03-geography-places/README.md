@@ -28,6 +28,9 @@ Territories
 Towns
 Villages
 
+## Roads scholar
+
+* [roadscholar](https://www.roadscholar.org/)
 
 ## Worldview
 
@@ -35,9 +38,7 @@ A worldview or world-view is the fundamental cognitive orientation of an individ
 
 Worldviews are often taken to operate at a conscious level, directly accessible to articulation and discussion, as opposed to existing at a deeper, pre-conscious level, such as the idea of "ground" in Gestalt psychology and media analysis.
 
-
 * https://en.wikipedia.org/wiki/Worldview
-
 
 According to Apostel, a worldview is an ontology, or a descriptive model of the world. It should comprise these six elements:
 

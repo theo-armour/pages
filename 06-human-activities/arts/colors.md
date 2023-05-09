@@ -12,6 +12,10 @@ tags #color #beauty
 
 ## Less colorful
 
+Color has been disappearing from the world
+[https://news.ycombinator.com/item?id=32548165](https://news.ycombinator.com/item?id=32548165)
+
+
 Has the world become less colorful?
 * https://twitter.com/culturaltutor/status/1551976051860963333
 

@@ -6,7 +6,10 @@ https://www.sunnysidesoft.com/virtualtablet/
 
 * Duet Display
 
+## Big Screen
 
+* https://dakboard.com/site
+> DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing.
 
 ## Monitors
 
