@@ -16,6 +16,10 @@
 
 ## Prompts
 
+Ask ChatGPT to pretend to be your favorite comedian
+
+Ask ChatGPT to act as the influencer in your niche
+
 Get useful analogies for anything
 * What is an analogy for a computer? Can you give me some analogies for how to tie a shoelace?
 
@@ -49,6 +53,10 @@ Use follow-up prompts to get more specific answers
 Summarize
 * Can you summarize the following article in 155 characters or less? https://www.nytimes.com/2021/04/13/technology/elon-musk-tesla.html
 * Can you think of some takeaways from... that might be useful to us in modern life?
+
+## Tips
+
+Use those ChatGPT hallucinations
 
 
 ## Coding

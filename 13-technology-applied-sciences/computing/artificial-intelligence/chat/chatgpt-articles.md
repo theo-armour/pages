@@ -12,11 +12,15 @@
 
 ## Articles
 
+## 2023-05-09
+
+
+
 ## 2023-05-07
 
 * https://blog.varunramesh.net/posts/chatgpt-role-playing/
   * https://news.ycombinator.com/item?id=35851114
-  
+
 > You can talk to the characters below by typing messages in the input box. You can also roleplay actions by typing things like [I pour some food pellets into the tank.] or [I pull out a gun and shoot you.].
 
 >For a limited time, I am running the demos with my own API key. After I exhaust my budget, this post will switch to requiring that you enter your own API Key.
