@@ -83,3 +83,26 @@ What does David Graeber, author of the book "Dawn of Everything" think of the co
 What does young Prince Lousi think of the coronation?
 
 > Young Prince Louis, who is third in line to the throne, has expressed his excitement for the upcoming coronation of his grandfather, King Charles. In a rare interview, the six-year-old prince said he was looking forward to seeing the crown and the carriage, and that he hoped to have some cake afterwards. He also said he loved his grandfather very much and wished him a long and happy reign.
+
+## Update 2023-05-11 ~ Why is the coronation important to me?
+
+* Actually, it is not important to me but I do find aspects of it interesting
+* I was informed a bit by the invisible technology used to produce the event
+* I was reminded of past experiences of my own by the ritual and ceremony
+  * Being installed as a godfather in the Tower of London
+  * The singing of the choir at SPS
+  * Dinners at the Travellers Club
+  * E II's coronation in 1953 on TV
+  * My limited memory of Westminster Abbey
+  * White's, Knickerbocker Club, Garrick Club, etc.
+  * Peggy Guggenheim Collection experiences
+* The more important aspect for me is the opportunity of looking at the world through the eyes of other people
+  * The coronation itself means little or nothing to me
+  * It's simply of trying to observe the different behaviors of different people - and their various biases
+  * Makes me think of Picasso's "Les Desmoiselles d'Avignon" ~ https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon ~ where he paints the women as if he is looking through the eyes of other artists
+  * I don't much enjoy baseball or football, but I will watch a game from time to time to try to understand/grok the people who do enjoy the participation
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
