@@ -13,9 +13,13 @@ _"Journal" in a resizable window_
 
 Drafts of files that I might like one day to publish. In other words documents with thoughts I feel might be shareable.
 
+This is my "original research" folder. The other folders tend to follow the Wikipedia of "no original research".
+
+
+
 ## Guidelines
 
-* Articles may be presented as APL problems that may have patterns
+* Articles may be presented as A Pattern Language (APL) problems that may have patterns
 * Articles may state the intention of what is trying to be helped
 * Articles are shared from the get-go
 * Articles provide connections to other articles, sources and inspirations
@@ -32,6 +36,10 @@ Drafts of files that I might like one day to publish. In other words documents w
 
 
 ## Change Log
+
+### 2023-05-11
+
+* Add original research notes
 
 ### 2023-02-19
 
