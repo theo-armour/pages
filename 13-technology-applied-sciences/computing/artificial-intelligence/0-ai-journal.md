@@ -14,23 +14,21 @@ Prompt:
 
 French feathers, color, surrealism, detailed --c 25 --ar 4:5
 
-
 ## 2023-05-09
 
 bring your eagle feathers to the powwow, color, surrealism, detailed --c 25 --ar 4:5 --v 5.1
+
 ## 2023-05-07
 
 Cute mouse covered in feathers
 
 ## 2023-05-06
 
--
 closeup of a royal crown of glorious, colorful feathers, front view --ar 4:5
 
 ## 2023-05-05
 
 Fire-breathing dragon feathers --ar 4:5 --v 5.1
-
 
 ## 2023-05-04
 
