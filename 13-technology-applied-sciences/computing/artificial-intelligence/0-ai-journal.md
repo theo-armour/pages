@@ -9,6 +9,12 @@ AI from https://midjourney.com
 
 Prompt:
 
+
+## 2023-05-11
+
+French feathers, color, surrealism, detailed --c 25 --ar 4:5
+
+
 ## 2023-05-09
 
 bring your eagle feathers to the powwow, color, surrealism, detailed --c 25 --ar 4:5 --v 5.1
