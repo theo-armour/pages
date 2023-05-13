@@ -9,6 +9,18 @@ AI from https://midjourney.com
 
 Prompt:
 
+## 2023-05-12
+
+- https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+
+Try
+
+* https://www.gitgab.ai/
+* text to 3D: https://twitter.com/rowancheung/status/1654580247180746753?s=20&
+* https://github.com/openai/shap-e
+* https://audiopen.ai/
+* https://ora.ai/abmoniable/historiangpt ~ it works
+- https://ora.ai/
 
 ## 2023-05-11
 
