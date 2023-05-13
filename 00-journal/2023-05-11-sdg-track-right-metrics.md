@@ -33,4 +33,7 @@ In order to comply with SDG 3 "Good health and well being", the organization sup
 * Identify ways that time sheets may be used to monitor and reduce gender inequalities
 
 
+## Links of interest
 
+Determining Gender Through Walking Styles With Machine Learning
+* https://www.unite.ai/determining-gender-through-gait-with-machine-learning/
