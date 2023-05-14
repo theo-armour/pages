@@ -9,18 +9,19 @@ AI from https://midjourney.com
 
 Prompt:
 
+## 2023-05-13
+
+* shap-e: looks like a long install
+
+a realistic photo of a feather glazed donuts ad, delicious, tasty sugar, dessert, feather-frosted doughnuts falling on, picnic plaid, feathers in park, pink background, ultra-realistic, photorealistic, ultra-detailed, depth of field, white lightning, 8k —upbeta —q 2 —s 250 --c 25 --ar 4:5
+
+So these are images that nobody would ever want to draw. They are nonsensical and if real would not be good to eat. Nonetheless, bad as they be, these images are kind of fun to look at. There are no mistakes.
+
 ## 2023-05-12
 
-- https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-
-Try
-
-* https://www.gitgab.ai/
-* text to 3D: https://twitter.com/rowancheung/status/1654580247180746753?s=20&
-* https://github.com/openai/shap-e
-* https://audiopen.ai/
+* https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 * https://ora.ai/abmoniable/historiangpt ~ it works
-- https://ora.ai/
+* https://ora.ai/
 
 ## 2023-05-11
 
