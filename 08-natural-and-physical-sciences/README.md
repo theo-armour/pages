@@ -2,51 +2,51 @@
 
 tags #08 #natural #physical #sciences
 
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Natural_and_physical_sciences
+* https://theo-armour.github.io/pages/#08-natural-and-physical-sciences/README.md
 
 See also the Health and fitness section above
-
 
 Main categories: Science, Natural sciences and Nature
 
 
 Biology
-Botany
-Ecology
-Health sciences
-Medicine
-Neuroscience
-Zoology
+* Botany
+* Ecology
+* Health sciences
+* Medicine
+* Neuroscience
+* Zoology
 
 
 Earth sciences
-Atmospheric sciences
-Geography
-Geology
-Geophysics
-
-Oceanography
+* Atmospheric sciences
+* Geography
+* Geology
+* Geophysics
+* Oceanography
 
 Nature
-Animals
-Environment
-Humans
-Life
-Natural resources
-Plants
-Pollution
+* Animals
+* Environment
+* Humans
+* Life
+* Natural resources
+* Plants
+* Pollution
 
 
 Physical sciences
-Astronomy
-Chemistry
-Climate
-Physics
-Space
-Universe
+* Astronomy
+* Chemistry
+* Climate
+* Physics
+* Space
+* Universe
 
 
 Scientific method
-Scientists
+# Scientists
 
 
 ## Scientific method
