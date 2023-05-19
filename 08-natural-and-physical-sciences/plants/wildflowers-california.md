@@ -1,4 +1,4 @@
-# Wildflowers California & San Francisco Bay Area
+# Wildflowers ~ California & San Francisco Bay Area
 
 
 
@@ -42,7 +42,6 @@ Millions of plants at your fingertips - if you are very patient.
 
 Trails and parks where you can find wildflowers
 
-
 ### Bay Area
 
 * https://www.grassrootsecology.org/from-the-field/2023/4/6/80l97z4mpeae9uc3sv8drff8q9au6f
@@ -78,7 +77,8 @@ Looks like this one is free and easy to use:
 
 ### 2023-05-19
 
-First post
+* First post
+* Prepared for "No Cookie"
 
 ***
 

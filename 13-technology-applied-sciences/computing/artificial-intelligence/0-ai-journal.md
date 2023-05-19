@@ -9,6 +9,13 @@ AI from https://midjourney.com
 
 Prompt:
 
+tags #ai #digitalart #midjourney #aiartcommunity #feathers 
+
+
+## 2023-05-19
+
+"Yankee Doodle went to town A-riding on a pony, Stuck a feather in his cap And called it macaroni." 8k --upbeta --q 2 --s 250 --c 25 --ar 4:5 --v 5.1
+
 ## 2023-05-13
 
 * shap-e: looks like a long install
