@@ -14,6 +14,7 @@ tags #sw #array #js # JavaScript
 
 * https://1loc.dev/
   * 222 JavaScript one liners
+  
 ### JavaScript Data Structures - The Associative Array
 
 https://www.i-programmer.info/programming/javascript/1441-javascript-data-structures-the-associative-array.html
