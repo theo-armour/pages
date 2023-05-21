@@ -1,11 +1,6 @@
 # Writing Tools
 
 
-# Smart People Writing
-
-* https://substack.com/
-	* https://astralcodexten.substack.com/
-* https://perell.com/notebook/
 
 
 ## Grammar

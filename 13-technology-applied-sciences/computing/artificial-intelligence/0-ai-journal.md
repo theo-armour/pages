@@ -9,7 +9,12 @@ AI from https://midjourney.com
 
 Prompt:
 
-tags #ai #digitalart #midjourney #aiartcommunity #feathers 
+tags #ai #digitalart #midjourney #aiartcommunity #feathers
+
+
+## 2023-05-20
+
+- https://preview.mailerlite.io/emails/webview/237685/88626549753906505
 
 
 ## 2023-05-19

@@ -1,14 +1,6 @@
 # Media Diet
 
 
-## Newsletter lists ~ curated lists of new sources
-
-Yikes! So many newsletters
-
-* https://bloomberg.com/account/newsletters
-* http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/
-* https://drudgereport.com/ ~ list many sources at bottom
-
 ## Reference
 
 * https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources
@@ -153,12 +145,6 @@ How To: Find Sources
 
 * https://lesswrong.com/
 * https://ted.com/ ??
-
-
-
-
-
-
 
 
 ## My Media Diet

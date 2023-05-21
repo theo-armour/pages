@@ -2,6 +2,12 @@
 
 tags #web #design #arts
 
+## Web Dev
+
+* https://blog.devgenius.io/10-awesome-free-resources-for-all-web-developers-a9f63855e97f
+* https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5
+
+
 
 ## Website Design Style Guides
 

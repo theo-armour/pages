@@ -1,7 +1,5 @@
 # Writing Read Me
 
-
-
 ## Wikipedia
 
 * https://en.wikipedia.org/wiki/Writing

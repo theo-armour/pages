@@ -2,8 +2,7 @@
 
 tags #02 #culture #arts
 
-* https://en.wikipedia.org/wiki/
-Wikipedia:
+* https://en.wikipedia.org/wiki/Wikipedia:
 Contents/
 Culture_and_the_arts
 
@@ -164,8 +163,7 @@ Eight studies reveal a (possibly universal) bias in human imagination
 * https://experimentalhistory.substack.com/p/things-could-be-better
   * https://news.ycombinator.com/item?id=34125158
 
-###
-More
+### More
 
 * https://www.nytimes.com/2021/03/24/briefing/boulder-shooting-george-segal-astrazeneca.html
 * https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/2318/files/2021/03/Why-Is-All-Covid-News-Bad-News-3_22_21.pdf
@@ -190,21 +188,6 @@ connect with the global dev community!
 * https://hashnode.com/
 * https://hashnode.com/explore
 * https://hashnode.com/n/threejs
-
-## Selling
-
-* https://gumroad.com/
-* https://www.litlovers.com/
-
-## Books
-
-[https://durmonski.com/category/book-summaries/](https://durmonski.com/category/book-summaries/)
-
-
-More
-
-* [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
-* [https://fromminstitute.org/](https://fromminstitute.org/)
 
 
 ### [Google arts and culture](https://artsandculture.google.com/)

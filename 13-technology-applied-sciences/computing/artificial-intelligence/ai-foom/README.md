@@ -75,6 +75,7 @@ Yudkowsky Contra Christiano On AI Takeoff Speeds
 >In 2008, thousands of blog readers - including yours truly, who had discovered the rationality community just a few months before - watched Robin Hanson debate Eliezer Yudkowsky on the future of AI.
 
 ### Axis of Ordinary
+
 * https://axisofordinary.substack.com/p/links-for-2022-04-04?s=r
 > A polished version of gwern’s AI-takeover short-story: “It might help to imagine a hard takeoff scenario using solely known sorts of NN & scaling effects… Below is a story which may help stretch your imagination and defamiliarize the 2022 state of machine learning.” https://www.gwern.net/Clippy
 
