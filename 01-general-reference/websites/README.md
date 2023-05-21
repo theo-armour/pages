@@ -1,20 +1,12 @@
 # Websites Read Me
 
+A website is a set of World Wide Web pages, usually written in HTML, that are viewed using a web browser. This category organizes articles relating to websites.
+
 ## Links
 
-* https://en.wikipedia.org/wiki/Category:Websites
 * https://en.wikipedia.org/wiki/Website
+* https://en.wikipedia.org/wiki/Category:Websites
 * https://en.wikipedia.org/wiki/Category:Websites_by_topic
-
-## Gumroad
-
-* https://gumroad.com/
-* https://en.wikipedia.org/wiki/Gumroad
-* https://www.podia.com/gumroad-alternative
-
-
-## Digital Gardens
-
-* https://nicolasbouliane.com/blog/digital-gardening
-  * https://news.ycombinator.com/item?id=33213753
+* https://en.wikipedia.org/wiki/Category:Lists_of_websites
+* https://en.wikipedia.org/wiki/Category:World_Wide_Web
 

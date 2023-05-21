@@ -66,3 +66,9 @@ Universities and colleges
 ## Wikis
 
 * https://wikiindex.org/Welcome
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+

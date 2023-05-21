@@ -1,9 +1,22 @@
 # Writing Skills
 
-## Grammar
 
-* https://www.grammarly.com/
-* https://hemingwayapp.com/
+
+## 3 rules to express your thoughts so that everyone will understand you
+
+Actor and science communicator Alan Alda shares his three rules of three for effective and empathic communication.
+
+* https://bigthink.com/the-learning-curve/3-rules-express-your-thoughts-clearly/
+* https://www.thinkoutsidetheslide.com/issue-291-july-23-2013/
+
+
+## Tell ’Em What You’re Going To Tell ’Em; Next, Tell ’Em; Next, Tell ’Em What You Told ’Em
+
+* https://quoteinvestigator.com/2017/08/15/tell-em/
+* https://www.inc.com/john-baldoni/deliver-a-great-speech-aristotle-three-tips.html
+* https://www.thinkoutsidetheslide.com/issue-291-july-23-2013/
+* https://bennettink.com/writing-rules/
+
 
 ## Writing at work
 

@@ -37,6 +37,7 @@ https://medium.com/menlo-office/medium-vs-substack-which-platform-is-best-to-mak
   * https://nancypeckenham.medium.com/
 * https://medium.com/mind-cafe
 
+
 ## Publishing
 
 * https://scroll.com/
@@ -70,3 +71,7 @@ The Washington Post has built a multi-publisher, shared-subscription system in i
   * Free is good
 * Best to learn to do it yourself
 
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

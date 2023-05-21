@@ -1,4 +1,4 @@
-# Writing Read Me
+# Writing Tools
 
 
 # Smart People Writing
@@ -8,7 +8,13 @@
 * https://perell.com/notebook/
 
 
-### https://en.wikipedia.org/wiki/Asemic_writing
+## Grammar
+
+* https://www.grammarly.com/
+* https://hemingwayapp.com/
+
+
+## https://en.wikipedia.org/wiki/Asemic_writing
 
 >Asemic writing is a wordless open semantic form of writing. The word asemic means "having no specific semantic content", or "without the smallest unit of meaning". With the non-specificity of asemic writing there comes a vacuum of meaning, which is left for the reader to fill in and interpret. All of this is similar to the way one would deduce meaning from an abstract work of art.
 
@@ -43,6 +49,7 @@ jsFiddle is best
 ### Airtable
 
 * https://prezi.com/slybmeadkxfm/omar-more/?present=1
+
 
 ### Presi
 
