@@ -1,4 +1,4 @@
-## Hyper-Productive Organizations
+# Hyper-Productive Organizations
 
 **A Charter, Credo, Constitution, Articles of Agreement or Manifesto**
 
@@ -25,7 +25,8 @@ This document is an outline of a:
 * [Code of conduct](https://en.wikipedia.org/wiki/Code_of_conduct)
 * [Code of behavior](http://www.thefreedictionary.com/code+of+behavior),
 * Compact. Compact as used in politics may refer broadly to a pact or treaty
-* Whatever.
+* Whatever
+*
 
 See also: [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
@@ -72,6 +73,7 @@ https://en.wikipedia.org/wiki/De_architectura
   * Email threads are inaccessible to non-recipients
 * Significant message threads from the past cannot be reconstituted
 * Meetings are held, things are decided and nobody takes notes
+* 
 
 ### Objectives
 
