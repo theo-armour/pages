@@ -1,6 +1,28 @@
 # AI Image Prompt Portait
 
 
+## 2023-05-23
+
+a vintage ad poster of a beautiful elderly woman with a feather in her cap drinking coffee in a French Cafe, Paris, vintage, travel, minimalistic --ar 4:5
+
+
+
+***
+
+https://decentralizedcreator.com/midjourney-photorealistic-portrait-prompts/
+
+Black and white Fashion shoot for French Vogue in the beautiful pedestrain steet of Paris, haute couture bohemian influenced, and flowers in planter underneath the pane glass windows next to French cafes and flower shops, influeneced by Avedon, --ar 4:6 --v 5 -
+
+1940s Paris, style of Brassaï
+
+0s movie still. fashion shot, editorial shot, clean and sharp details, depth of field, intricate details, photo realistic, shot with Hasselblad
+
+portrait photograph of a vintage parisian girl with captivating brown eyes sat outsite a french cafe holding a vintage lighter, in the background is a 1960s hippie man with long hair, background in focus, 1960s french film, ilford hp5, analog grain, vignette --s 50
+
+by Nick Knight
+
+a vintage ad poster of a beautiful woman drinking coffee ina French Cafe, Paris, vintage, travel, minimalistic
+
 ## 2023-04-27
 
 * https://www.aidemos.info/simple-chatgpt-formula-for-photo-realistic-midjourney-prompts/

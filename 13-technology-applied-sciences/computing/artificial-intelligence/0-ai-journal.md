@@ -11,6 +11,10 @@ Prompt:
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-05-23
+
+a vintage ad poster of a beautiful elderly woman with a feather in her cap drinking coffee in a French Cafe, Paris, vintage, travel, minimalistic --ar 4:5
+
 
 ## 2023-05-21
 
