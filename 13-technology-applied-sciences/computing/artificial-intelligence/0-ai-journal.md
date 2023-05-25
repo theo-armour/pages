@@ -9,7 +9,15 @@ AI from https://midjourney.com
 
 Prompt:
 
+A work in the: "Feathers by Residents" Exhibit
+
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
+
+
+## 2023-05-24
+
+Ozma of OZ, Princess of the Emerald City, waving her wand made with green feathers --ar 4:5 --seed 888 --v 5.1** - Image #4 <@409535642008027136>
+
 
 ## 2023-05-23
 
