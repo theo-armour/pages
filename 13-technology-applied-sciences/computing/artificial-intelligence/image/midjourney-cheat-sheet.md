@@ -174,7 +174,12 @@ Video
 * --uplight ~ adds a moderate amount of details and textures
 
 
+### How to Get a Midjourney Job ID
+
+* https://tokenizedhq.com/midjourney-job-id/
+
 ### How to Switch Models
+
 Use the Version or Test Parameter
 Add --v 1, --v 2, --v 3, --v 4, --v 4 --style 4a, --v4 --style 4b --test, --testp, --test --creative, --testp --creative or --niji to the end of your prompt.
 

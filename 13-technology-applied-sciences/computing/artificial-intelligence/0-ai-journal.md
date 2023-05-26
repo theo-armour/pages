@@ -13,6 +13,14 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-05-25
+
+an image of women sitting and eating white flowers, in the style of monochromatic elegance, warm color palette, mike campau, ceramic, lively tableaus, bright color palettes, nature-inspired compositions
+
+white acacia flowers with three beautiful and happy women in fashionable white dresses sitting at an intimate dinner party --seed 3446131743
+
+white acacia flowers with two beautiful women at an intimate dinner party --seed 3446131743
+
 
 ## 2023-05-24
 
