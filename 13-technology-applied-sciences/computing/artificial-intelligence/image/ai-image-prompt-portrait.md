@@ -1,6 +1,12 @@
 # AI Image Prompt Portait
 
 
+## 2023-05-27
+
+very loose painting of a beautiful woman red hair 3/4 pose ,high key lighting on the face ,beautiful small roses around the head --ar 3:2 --q 0.5 --upbeta --v 5
+
+https://discord.com/channels/662267976984297473/995431151084773486/1112087422776377431
+
 ## 2023-05-23
 
 a vintage ad poster of a beautiful elderly woman with a feather in her cap drinking coffee in a French Cafe, Paris, vintage, travel, minimalistic --ar 4:5

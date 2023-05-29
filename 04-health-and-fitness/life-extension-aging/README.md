@@ -1,11 +1,15 @@
 # Aging
 
+tags #aging #life-extension #health #fitness #habits
+
+
 ## Alzheimers
 
 * https://www.quantamagazine.org/what-causes-alzheimers-scientists-are-rethinking-the-answer-20221208/
   * https://news.ycombinator.com/item?id=33934228
 
   High fitness in middle age reduces the chance of dementia by ninety percent
+
 
 ## Books to read ~ chatGPT
 
@@ -19,3 +23,7 @@
 
 "The Gift of Years: Growing Older Gracefully" by Joan Chittister - This book offers a spiritual perspective on aging and provides guidance for finding purpose and meaning in later life.
 
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

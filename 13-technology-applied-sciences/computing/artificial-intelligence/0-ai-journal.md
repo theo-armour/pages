@@ -1,6 +1,5 @@
 # AI Journal
 
-"Feather in my cap and called it macaroni"
 
 -
 Dear "A": These are for you
@@ -12,6 +11,11 @@ Prompt:
 A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
+
+## 2023-05-27
+
+portrait happy female dragon with skin of feathers --ar 4:5
+
 
 ## 2023-05-25
 
@@ -29,7 +33,7 @@ Ozma of OZ, Princess of the Emerald City, waving her wand made with green feathe
 
 ## 2023-05-23
 
-a vintage ad poster of a beautiful elderly woman with a feather in her cap drinking coffee in a French Cafe, Paris, vintage, travel, minimalistic --ar 4:5
+a vintage ad poster of a beautiful elderly woman with a feather in her cap drinking coffee in a French Cafe, Paris, vintage, travel, minimalistic --ar 4:5 --c 25 --s 200
 
 
 ## 2023-05-21
