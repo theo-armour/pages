@@ -1,5 +1,8 @@
 # Podiatry
 
+tags #podiatry #feet #skin
+
+
 ## Links
 
 * https://en.wikipedia.org/wiki/Podiatry
@@ -8,7 +11,7 @@
 * https://www.apma.org/Patients/HealthyFeetTipsList.cfm?navItemNumber=31088
 * https://podiatryarena.com/
 
-Reference
+## Reference
 
 * https://www.livingstonchiropody.co.uk/difference-between-a-chiropodist-and-a-podiatrist/
 
@@ -35,6 +38,7 @@ Reference
 
 ## Treatment
 
+* Formula3
 * https://en.wikipedia.org/wiki/Ciclopirox
 * https://en.wikipedia.org/wiki/Ketoconazole
 
@@ -52,4 +56,9 @@ pincer nails: How to prevent toe nails from curling?
 Some parts of my nails are thicker than others. Should I file the thick parts?
 
 How to manage cuticles? Push them back?
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
 

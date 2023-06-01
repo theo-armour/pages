@@ -20,9 +20,11 @@ https://en.wikipedia.org/wiki/SOCRATES_(pain_assessment)
 * https://en.wikipedia.org/wiki/OPQRST
 
 ### Onset of the event
-  * What the patient was doing when it started (active, inactive, stressed), whether the patient believes that activity prompted the pain, and whether the onset was sudden, gradual or part of an ongoing chronic problem.
+
+* What the patient was doing when it started (active, inactive, stressed), whether the patient believes that activity prompted the pain, and whether the onset was sudden, gradual or part of an ongoing chronic problem.
 
 ### P ~ Provocation or palliation
+
 * Whether any movement, pressure (such as palpation) or other external factor makes the problem better or worse. This can also include whether the symptoms relieve with rest.
 
 ### Quality of the pain
