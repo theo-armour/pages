@@ -2,28 +2,9 @@
 
 tags #ai #raster #art
 
-## New
 
-https://runwayml.com/pricing/
+## Articles
 
-### Adobe
-
-* https://firefly.adobe.com/
-* https://www.adobe.com/sensei/generative-ai/firefly.html
-
-
-## Microsoft
-
-* https://designer.microsoft.com/
-
-
-
-### mirageme
-
-* https://app.mirageml.com/generate
-* Not fast
-* generates downloadable 3D asset!
-* https://app.mirageml.com/showcase?id=7087f5f3-203a-46d0-b923-c2b731a1cb1e
 
 
 ## Lists
@@ -35,22 +16,23 @@ https://runwayml.com/pricing/
 * https://dataconomy.com/2023/01/best-ai-art-generator-ai-image-generation/
 * https://mlearning.substack.com/p/state-of-the-ai-art-march-2023-3d-video-text
 
+
+## New
+
+https://runwayml.com/pricing/
+
+
+### Adobe
+
+* https://firefly.adobe.com/
+* https://www.adobe.com/sensei/generative-ai/firefly.html
+
+
+
 ## Text to 3D
 
 https://www.futuretools.io/
 
-
-## Articles
-
-* https://www.creativebloq.com/news/weirdest-ai-art-from-dall-e-2
-
-
-### Creating in The Era of Creative Confidence
-
-> It’s remarkable to watch a five-year-old draw, void of any anxiety about what the world will think. We all start our lives creatively confident, happy to create and share our work with pride. And then, as we age, our comfort with creative expression declines. We’re discouraged by the learning curve of creative skills and tools, by our tendency to compare ourselves to others, and by the harsh opinions of critics. As Picasso famously quipped, “All children are born artists, the problem is to remain an artist as we grow up.” It is a sad irony: As we age, our creative capabilities (and opportunities!) grow as we collect life experiences that inspire us — but our creative confidence shrinks. We are more creatively confident in kindergarten than we are as adults. Correcting this is among the greatest opportunities for the next generation of humankind.
-
-* https://scottbelsky.medium.com/creating-in-the-era-of-creative-confidence-b4e251d725f
-  * https://news.ycombinator.com/item?id=34309649
 
 
 ### DALL-E
@@ -99,6 +81,8 @@ Demo only
 * https://imagen.research.google/
 * https://news.ycombinator.com/item?id=32589185
 
+## https://www.mage.space/
+
 
 ### makeavideo
 
@@ -107,6 +91,20 @@ https://makeavideo.studio/
 pre-release
 
 * https://news.ycombinator.com/item?id=33020181
+
+
+## Microsoft
+
+* https://designer.microsoft.com/
+
+
+### mirageme
+
+* https://app.mirageml.com/generate
+* Not fast
+* generates downloadable 3D asset!
+* https://app.mirageml.com/showcase?id=7087f5f3-203a-46d0-b923-c2b731a1cb1e
+
 
 ### midjourney
 
@@ -118,8 +116,6 @@ pre-release
 
 * https://www.myheritage.com/ai-time-machine
 
-
-## https://www.mage.space/
 
 
 ### nightcafe.com
@@ -136,6 +132,18 @@ pre-release
 * https://openart.ai/
 * https://news.ycombinator.com/item?id=32586439
 
+
+### RunDiffusion
+
+Stable Diffusion in 90 seconds!
+Be a hero! Nothing to install. No code to run.
+Pay as you go and forget about credits!
+
+Starting at $0.50 /hr with 15 minutes free!
+
+* https://rundiffusion.com/\
+
+
 ### Stable Diffusion data set
 
 
@@ -144,6 +152,8 @@ pre-release
 
 ### Stable Diffusion
 
+* 2023-03-16 ~ https://substack.com/inbox/post/108730946
+* https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
 * https://www.howtogeek.com/832491/how-to-run-stable-diffusion-locally-with-a-gui-on-windows/
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
   * https://news.ycombinator.com/item?id=32710365
@@ -167,22 +177,6 @@ With Stable Diffusion, you may never believe what you see online again
 * https://prompthero.com/
 
 
-### RunDiffusion
-
-Stable Diffusion in 90 seconds!
-Be a hero! Nothing to install. No code to run.
-Pay as you go and forget about credits!
-
-Starting at $0.50 /hr with 15 minutes free!
-
-* https://rundiffusion.com/\
-
-
 ### wombo.ai ~ https://dream.ai/create
 
-
-## Art
-
-* 2023-03-16 ~ https://substack.com/inbox/post/108730946
-* https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/
 

@@ -5,6 +5,7 @@
 
 * <https://www.reddit.com/r/LifeProTips/comments/58hw8h/lpt_a_real_effective_apology_has_three_parts_1/>
 
+* https://www.cnbc.com/2023/03/29/never-use-these-words-when-saying-im-sorry-that-make-you-sound-fake-say-experts.html
 
 ## Reddit / LifeProTips
 
@@ -14,6 +15,7 @@
 
 
 ## How to say 'I'm sorry' -- and mean it
+
 * <http://www.chicagotribune.com/lifestyles/sc-apologizing-effectively-family-1006-20151001-story.html>
 1. An "I'm sorry" statement.
 2. Expression of regret for your mistake.

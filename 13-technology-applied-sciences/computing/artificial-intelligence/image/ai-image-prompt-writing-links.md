@@ -1,15 +1,13 @@
-# AI Image Prompt Links
+# AI Image Prompt Writing Links
 
 ## 2023-05-04
 
 * https://medium.com/the-modern-scientist/creating-facial-expressions-on-a-consistent-character-in-midjourney-d39a1e51d235
-* https://lexica.art/ ~ search for propmts
+* https://lexica.art/ ~ search for images get prompts
 
 ## 2023-04-27
 
 * https://prompthero.com/midjourney-prompts
-
-
 * https://semicolon.dev/midjourney/best-prompts
 * https://www.aidemos.info/midjourney-prompts-for-realistic-photo-portraits/
 * https://medium.com/@ai.neuromind/hello-medium-and-5-of-my-amazing-prompts-part-1-94ffca82fad8

@@ -4,11 +4,9 @@
 
 * https://runtheprompts.com/prompts/midjourney/two-word-masterpieces/
 
-## mentions
+## Action
 
-* nub#2798
-* imaxopal#2477
-* Heartfullofsun#3005
+* https://medium.com/ai-art-creators/experimenting-with-kinetic-action-photos-in-midjourney-v5-1-ee2a9a385e47
 
 
 ## Animals
@@ -16,17 +14,9 @@
 * Godzilla fighting King Kong inside a gigantic Gothic cathedral --ar 1:2 --v 5
 * lynx, watercolor, mixed media, in the style of Christine Rosamond --ar 3:4 --upbeta --s 250
 
-
 ## Architecture
 
-* a steampunk inspired time machine room in frank loyd wright mansion full of steampunk devices, dramatic lighting, sunny day outside, skylights, 25mm lens--ar 4:5 --stylize 1000 --q 2 --v 5
-* Immersed in an Orthodox Church service, choir singing harmoniously, light streaming through stained glass windows, vibrant colors and sacred atmosphere, Illustration, digital art with vivid hues and detailed linework, --ar 1:1 --niji
-* Sea Container towers
-* Design concept sheet architectural, scale model, architectural project, anime style california hollywood hills mid century home, multi - level, metal mushroom tree sculpture jeff koons style art in garden yard, large amethyst crystal geodes, anime style, early morning light, springtime, drone photography, exterior, detailed, 8K --upbeta --ar 16:9 --q 2 --v 5
-* inside an ancient islamic temple with a tiled floor of an ancient temple styled with sacred geometry patters that repeat, sanskrit, iraq, antiquity
-* ancient ruins of norman stone church in the countryside, stormy weather, oil painting, --ar 16:9 --v 5
-* regal balcony with view of the Emerald City, Wizard of Oz, fireflies, magical, fairytale aesthetic, sparklecore, fantasy mapping, fantastic realism, --v 5 --q 5 --ar 3:2
-* regal elegant castle interior, Emerald City, Wizard of Oz, fireflies, magical, fairytale aesthetic, sparklecore, fantasy mapping, fantastic realism, --v 5 --q 5 --ar 3:2
+See file
 
 ## Art
 
@@ -96,7 +86,6 @@ a dj table with built in amp rack on wheels made from organic forms inspired by 
 
 ## Object
 
-
 * Sceptre, Orb, Saint Edwards Crown, Imperial State Crown --ar 1:2 --tile
 * luxury art
 * A beautiful huge massive jumble of gold crowns inlaid with colored jewels and gold orbs inlaid with colored jewels and gold scepters inlaid with colored jewels, close-up, view from above looking down, hyper-realistic, capturing rich tonality and vibrant colors, exceptional sharpness, dramatic contrast, worthy of a collector's edition print --quality 2 --stylize 1000 --ar 1:2
@@ -112,6 +101,7 @@ carbon fibre, close up, surface detail, lilac purple, light grey, black, white, 
 ## Transportation
 
 simple flying boat, Ancient Roman battleship form , in the sky, made of white canvas, wood and a small amount of metal, buoyed by magic engine::10 powered by white canvas wings::3 , Studio Ghibli, colorful, besiege, Granblue Fantasy, fancy, best quality, masterpiece, concept art, pixel art, close-up --v 5 --s 750
+
 
 ## Women
 

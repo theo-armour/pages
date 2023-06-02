@@ -1,15 +1,27 @@
 # AI Publishers
 
+tags #ai #raster #art #publishers
+
+Publishers of articles relating to AI generated images, gifs, videos, and other media.
+
+## Publishers
+
+* https://medium.com/ai-art-creators
+
+
 ## AI tuts
+
 * https://aituts.com
 * https://aituts.com/midjourney/
 * https://aituts.com/midjourney-v4-prompts-to-try/
   https://aituts.com/midjourney-v5/
 * https://prompts.aituts.com/
 
+
 ## Graphics Girl
 
 * https://graphicsgurl.com/
+
 
 ## Inside My Head
 
@@ -17,6 +29,7 @@
 * https://linusekenstam.substack.com/p/tutorial-dynamic-prompting
 * https://linusekenstam.substack.com/p/tutorial-how-to-create-consistent
 * https://linusekenstam.substack.com/p/mini-ai-tutorial-learn-how-to-turn
+
 
 ## Midjourney
 
@@ -40,6 +53,7 @@ The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, t
 
 * https://prompthackers.substack.com/
 
+
 ## Reddit
 
 * https://www.reddit.com/r/midjourney/
@@ -48,6 +62,7 @@ The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, t
 ## The Rundown
 
 * https://www.therundown.ai/
+
 
 ## Weird Wonderful AI Art
 

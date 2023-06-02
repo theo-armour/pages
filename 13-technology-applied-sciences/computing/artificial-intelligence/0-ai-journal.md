@@ -12,6 +12,11 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-06-01
+
+a kinetic cinematic photo portrait of a smiling hippo with large angel wings of colored feathers, flying through the air --ar 4:5 --c 25
+
+
 ## 2023-05-27
 
 portrait happy female dragon with skin of feathers --ar 4:5
