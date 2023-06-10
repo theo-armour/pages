@@ -12,6 +12,27 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+
+## 2023-06-09
+
+Husk & Stone was created in the context of a desire for renewal, diligence, growth, and positive impact after spending over 12 years building urban mobility startups in Europe and the US. By way of consulting – or preferred word collaborating – we see this as an excellent opportunity to help existing teams do a deep dive on a project, accelerate growth, and bring an external perspective or fresh energy. With an entrepreneurial spirit at the core, we look to work with dynamic teams working on impactful projects who want sustainable growth, from an ESG perspective but especially on an operational level. 
+
+***
+
+The name Husk and stone is inspired by the beautiful contrast and natural value of corn or wheat husks and olive stones (or pits). These two materials together symbolize fragility as well as strength.
+
+While a husk is protective, temporary, encompassing, light, soft, and delicate- a stone is robust, at the core, hard, and foundational.
+
+Both have important values; energetic value as well as growth value. We chose these symbols for their contrast, how they relate to nature and the earth, as well as their value in renewable energy and circularity.
+
+Grit
+
+“Husks and stones are the grit used for creating energy, just as human grit is required for building a startup”
+
+***
+
+almond husk, walnut husk, hazelnut husk, olive pits, peach pits, avocado pits
+
 ## 2023-06-01
 
 a kinetic cinematic photo portrait of a smiling hippo with large angel wings of colored feathers, flying through the air --ar 4:5 --c 25
