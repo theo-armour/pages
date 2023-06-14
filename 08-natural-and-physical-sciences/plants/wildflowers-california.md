@@ -1,7 +1,6 @@
 # Wildflowers ~ California & San Francisco Bay Area
 
 
-
 ## Wikipedia Articles & Lists
 
 * https://en.wikipedia.org/wiki/Wildflower
@@ -50,27 +49,10 @@ Trails and parks where you can find wildflowers
 * https://www.berkeleyside.org/2023/04/10/best-wildflower-trails-bay-area-berkekey-oakland-marin
 * https://www.afar.com/magazine/california-wildflowers-where-and-when-to-find-them
 
-### San Francisco
+### San Francisco 1
 
 * https://www.alltrails.com/us/california/san-francisco/wild-flowers
 
-
-## Plant Identification Apps
-
-Lists of plant identification apps:
-
-* https://www.nytimes.com/wirecutter/reviews/best-plant-identification-app/
-* https://www.lifewire.com/best-plant-identification-apps-5083625
-* https://houseplantauthority.com/plant-identifier-apps/
-* https://backgarden.org/plant-identification-apps/
-* https://www.androidauthority.com/best-plant-apps-flower-identification-apps-android-806167/
-
-
-## Sharing Images
-
-Looks like this one is free and easy to use:
-
-* https://www.desertusa.com/wildflo/wildupdates.html
 
 
 ## Change log
