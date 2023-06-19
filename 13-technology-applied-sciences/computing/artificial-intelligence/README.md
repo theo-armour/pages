@@ -32,10 +32,35 @@ https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts
 
 ## Reference
 
+### Techcrunch
+
+https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/
+
+
+### AI ~ Artificial Intelligence
+
+* https://en.wikipedia.org/wiki/Artificial_intelligence
+
+
 ### AGI Artificial general intelligence
 
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
+
+## Diffusion model
+
+* https://en.wikipedia.org/wiki/Diffusion_model
+
+>In machine learning, diffusion models, also known as diffusion probabilistic models, are a class of latent variable models. They are Markov chains trained using variational inference. The goal of diffusion models is to learn the latent structure of a dataset by modeling the way in which data points diffuse through the latent space. In computer vision, this means that a neural network is trained to denoise images blurred with Gaussian noise by learning to reverse the diffusion process.[2][3] Three examples of generic diffusion modeling frameworks used in computer vision are denoising diffusion probabilistic models, noise conditioned score networks, and stochastic differential equations.
+
+techcrunch
+
+>Image generation can be done in numerous ways, but by far the most successful as of today is diffusion, which is the technique at the heart of Stable Diffusion, Midjourney, and other popular generative AIs. **Diffusion models are trained by showing them images that are gradually degraded by adding digital noise until there is nothing left of the original. By observing this, diffusion models learn to do the process in reverse as well, gradually adding detail to pure noise in order to form an arbitrarily defined image.** We’re already starting to move beyond this for images, but the technique is reliable and relatively well understood, so don’t expect it to disappear any time soon.
+
+
+## Foundation Models
+
+* GTP-4. Bard
 
 https://en.wikipedia.org/wiki/Foundation_models
 
@@ -47,7 +72,15 @@ https://en.wikipedia.org/wiki/Foundation_models
 
 https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 
-### LLM
+
+## Generative artificial intelligence
+
+* https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+>Generative artificial intelligence or generative AI is a type of artificial intelligence (AI) system capable of generating text, images, or other media in response to prompts. Generative AI models learn the patterns and structure of their input training data, and then generate new data that has similar characteristics.
+
+
+### LLM ~ Large Language Models
 
 2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
 A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
@@ -56,7 +89,13 @@ Capabilities and alignment of LLM cognitive architectures
 * https://www.lesswrong.com/posts/ogHr8SvGqg9pW5wsT/capabilities-and-alignment-of-llm-cognitive-architectures
 LLaVA: Large Language and Vision Assistant
 
-### NLP
+### NLP ~ Natural Language Processing
 
 * https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
+
+## Neural Network
+
+* https://en.wikipedia.org/wiki/Neural_network
+
+>A neural network can refer to either a neural circuit of biological neurons (sometimes also called a biological neural network), or a network of artificial neurons or nodes in the case of an artificial neural network.[1] Artificial neural networks are used for solving artificial intelligence (AI) problems
 
