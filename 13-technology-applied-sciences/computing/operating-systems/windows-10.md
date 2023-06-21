@@ -37,11 +37,13 @@ https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/can-no-
 
 To start dictating, select a text field and press the Windows logo key  + H to open the dictation toolbar. Then say whatever’s on your mind.  To stop dictating at any time while you're dictating, say “Stop dictation.”
 
+
 ### Table of Basic PowerShell Commands
 
 https://www.groovypost.com/howto/find-restore-open-command-prompt-windows-10/
 
 https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/
+
 
 ## Power Toys
 
@@ -50,12 +52,12 @@ https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-po
 * ColorPicker is a system-wide color picking utility activated with Win+Shift+C.
 * File Explorer add-ons enable preview pane rendering in File Explorer to display SVG icons (.svg) and Markdown (.md) file previews.
 
+
 ## Prompt
 
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_prompts?view=powershell-6
 
 function prompt {$null}
-
 
 https://lifehacker.com/how-to-turn-any-part-of-your-windows-desktop-into-a-gif-1825787640
 

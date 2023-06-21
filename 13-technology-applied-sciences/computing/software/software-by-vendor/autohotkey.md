@@ -2,7 +2,7 @@
 
 App available via Microsoft store
 
-### Create shortcut in Startup
+## Create shortcut in Startup
 
 C:\Users\tarmo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 

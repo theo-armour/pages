@@ -8,7 +8,9 @@
 * Beyond Compare
 * VS Code
 * Git
-* DropBox ~ takas hours to get everything. Start early
+
+
+* DropBox ~ takes hours to get everything. Start early
 * GDrive
 * Phone Link
 * Concepts
@@ -81,6 +83,7 @@ Select Sync across devices and toggle it on.
 
 Select Automatically sync text that I copy. The sync feature is tied to your Microsoft account, or your work account, so remember to use the same login information on all your devices.
 
+
 ## Cross-device copy and paste
 You can copy and paste content using the same shortcuts you normally use on your Android device and PC.
 
@@ -126,13 +129,15 @@ Wow!
 
 * https://www.microsoft.com/en-us/garage/workbench/
 
-Power Toys
+
+
 ### Power Toys
 
 * https://docs.microsoft.com/en-us/windows/powertoys/
 * Awake is designed to keep a computer awake without having to manage its power & sleep settings.
 * ColorPicker is a system-wide color picking utility activated with Win+Shift+C.
 * File Explorer add-ons enable preview pane rendering in File Explorer to display SVG icons (.svg) and Markdown (.md) file previews.
+
 
 ### SharpKeys
 

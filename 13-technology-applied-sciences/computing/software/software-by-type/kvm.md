@@ -21,14 +21,16 @@ tags #kvm #sw
 * WiFi + Bluetooth
 * File sharing and more
 
+
 ### Input Director
 
 Works just fine!
 
 * https://www.inputdirector.com/
 * https://inputdirector.com/faq.html
-* Copy & paste between machines
 
+Send %A_YYYY%-%A_MM%-%A_DD%
+return
 
 ### Synergy
 
@@ -38,6 +40,7 @@ Works just fine!
 * Linux
 * Raspberry Pi
 
+
 ### Stardock
 
 https://www.stardock.com/products/multiplicity/
@@ -46,7 +49,10 @@ https://www.stardock.com/products/multiplicity/
 * Copy and paste formatted text and images between two PCs
 * Listen to audio from multiple PCs through one PC
 
+
 ## Mouse Without Borders
+
+* Part of Powertoys
 
 * https://www.microsoft.com/en-us/download/details.aspx?id=35460
 * https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/

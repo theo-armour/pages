@@ -1,9 +1,9 @@
+# Windows
 
 
-### God Mode
+## God Mode
 
 http://www.howtogeek.com/howto/8711/stupid-geek-tricks-enable-the-secret-how-to-geek-mode-in-windows/
-
 
 
 ## Access Denied
@@ -22,7 +22,6 @@ Don't forget DropBox takes forever.
 Create a recovery drive in a USB drive
 
 * Needs 8GB
-
 
 
 ## windows find
@@ -45,6 +44,7 @@ homeGroup
 
 **window-R > shell:startup** <<<
 
+
 ## Startup
 
 C:\Users\tarmo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
@@ -58,6 +58,7 @@ Win + M = minimize windows
 Win + R = Run dialog
 Shift + Del = Bypass Recycle
 Control + Shift + Escape = Windows Task Manager
+
 
 ## Windows Shutdown
 
@@ -110,6 +111,7 @@ Go to Control Panel, and User Accounts. Click 'Change the way users log on or of
 Goto start then run and type control userpasswords2
 Untick the users must enter password & choose which user always logs on.
 
+
 ## background image
 
 http://www.sevenforums.com/tutorials/67200-remove-background-images-where-available.html
@@ -119,17 +121,19 @@ http://www.sevenforums.com/tutorials/67200-remove-background-images-where-availa
 
 Change My Documents: right-click My Documents icon > Properties
 
+
 ## Regedit
 
 windows keyboard shortcuts
 http://support.microsoft.com/kb/301583
+
 
 ## defaults
 
 Windows normal screen dark blue is RGB 58 110 165
 
 
-## Windows 8
+## Windows
 
 Turn off Thumbs.db
 
