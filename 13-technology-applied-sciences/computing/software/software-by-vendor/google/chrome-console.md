@@ -1,6 +1,7 @@
 
 # Chrome Developer
 
+tags #chrome
 
 ##  Links of interest
 
