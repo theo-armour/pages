@@ -90,6 +90,8 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 
 ## ???
 
+
+
 * I'd love to agree with you, but then we'd both be wrong
 * Quantity is no substitute for quality, but its the only one we've got.
 :- slashdot
@@ -147,6 +149,10 @@ Ashleigh's delightful illustrations are worth their weight in - words.
 ## Charlie Munger
 
 * Avoiding Stupidity is Easier than Seeking Brilliance ~ Munger https://constantrenewal.com/avoiding-stupidity/
+
+## David Allen
+
+* https://gettingthingsdone.com/
 
 ## Br David Steindl-Rast
 
