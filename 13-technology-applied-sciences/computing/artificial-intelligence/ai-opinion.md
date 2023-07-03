@@ -16,9 +16,9 @@ Links of interest
 
 Threats of AGI
 
-* A.G.I. will never overcome the market’s demands for profit.
-* A.G.I. will dull the pain of our thorniest problems without fixing them.
-* A.G.I. undermines civic virtues and amplifies trends we already dislike.
+* AGI will never overcome the market’s demands for profit
+* AGI will dull the pain of our thorniest problems without fixing them
+* AGI undermines civic virtues and amplifies trends we already dislike
 
 ## Policies
 
