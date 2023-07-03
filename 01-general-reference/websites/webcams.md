@@ -10,3 +10,8 @@ Live
 * https://www.fogcam.org/
 * https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php
   * https://news.ycombinator.com/item?id=33040505
+
+  ## Ships
+
+  https://www.princess.com/bridgecams/
+

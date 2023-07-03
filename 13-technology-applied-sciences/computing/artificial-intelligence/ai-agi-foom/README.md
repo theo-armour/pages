@@ -26,11 +26,16 @@
 * https://entersingularity.wordpress.com/
 
 
-## 2023-05-07
+## Articles
 
-## 2023-04-23
+## 2023-04
 
-## Contra Yudkowsky on Doom from Foom #2
+### What’s AGI, and Why Are AI Experts Skeptical
+ChatGPT and other bots have revived conversations on artificial general intelligence. Scientists say algorithms won’t surpass you any time soon.
+
+* https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/
+
+### Contra Yudkowsky on Doom from Foom #2
 
 * https://www.lesswrong.com/posts/LF3DDZ67knxuyadbm/contra-yudkowsky-on-doom-from-foom-2
 

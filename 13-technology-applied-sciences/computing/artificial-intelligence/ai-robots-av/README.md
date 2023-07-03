@@ -1,4 +1,4 @@
-# Robots Auromated Vehicles Read Me
+# Robots Automated Vehicles Read Me
 
 ## 2023-05-07
 
@@ -59,10 +59,6 @@ See also:
 * https://scitechdaily.com/columbia-engineers-create-highly-dexterous-human-like-robot-hand-that-can-operate-in-the-dark/
 
 ### Persuasion
-
-
-
-
 
 
 
