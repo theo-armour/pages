@@ -1,5 +1,12 @@
 # AI Detectors
 
+AI Detectors are AI that detects AI in text, images, video, audio, code, other AI
+
+## Introduction ~ 2023-07-02
+
+This is a first pass at gathering links and ideas regarding the detection of AI in various works.  This is a work in progress and will be updated as I find more information.
+
+
 ## Articles
 
 ### https://thezvi.substack.com/p/ai-16-ai-in-the-uk
@@ -48,3 +55,8 @@ We’re launching a classifier trained to distinguish between AI-written and hum
 * https://thehive.ai/
 * https://writer.com/ai-content-detector/
 * https://www.zerogpt.com/
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
