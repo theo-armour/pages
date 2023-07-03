@@ -11,9 +11,14 @@ Links of interest
 
 * https://en.wikipedia.org/wiki/Neoliberalism
 * https://www.nytimes.com/2022/02/16/business/neoliberalism-free-market-research.html
+* https://a16z.com/2023/06/06/ai-will-save-the-world/
 * https://www.nytimes.com/2013/03/03/opinion/sunday/the-perils-of-perfection.html
 
+Threats of AGI
+
 * A.G.I. will never overcome the market’s demands for profit.
+* A.G.I. will dull the pain of our thorniest problems without fixing them.
+* A.G.I. undermines civic virtues and amplifies trends we already dislike.
 
 ## Policies
 
