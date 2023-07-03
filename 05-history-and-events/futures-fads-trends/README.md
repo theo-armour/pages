@@ -43,10 +43,9 @@ tags #future #fad #trend #time #history
 >Each year, we ask some of the smartest people in journalism and media what they think is coming in the next 12 months. At the end of a trying 2022, here’s what they had to say.
 
 
-
 ## 2022
 
-### 2022-12-18 ~ Alexander Kruel ~ The Future Is Now ~We live in a world we once dreamed of
+### 2022-12-18 ~ Alexander Kruel ~ The Future Is Now ~ We live in a world we once dreamed of
 > When I was young, the 2020s sounded like science fiction. Now the time has arrived, and it actually feels like science fiction!
 
 https://axisofordinary.substack.com/p/the-future-is-now-750
@@ -64,3 +63,11 @@ And yet I still put on my jeans one leg at a time and eat egss and bacon. _Plus 
 
 * https://semiwiki.com/eda/321247-a-crash-course-in-the-future-of-technology/
   * https://news.ycombinator.com/item?id=33854173
+
+## 1967
+
+The Year 2000: A Framework for Speculation on the Next Thirty-Three Years", by Herman Kahn and A. J. Wiener. It was published in 1967
+
+* https://www.crummy.com/writing/hosted/The%20Year%202000.html?
+
+> One Hundred Technical Innovations Very Likely in the Last Third of the Twentieth Century

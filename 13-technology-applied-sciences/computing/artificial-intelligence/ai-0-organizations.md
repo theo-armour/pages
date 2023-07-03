@@ -24,6 +24,8 @@ Could be useful for finding tools to use in AI projects also for naming my own a
 * https://designmodo.com/ai-tools-developers/ ~ 10 Best AI Tools for Web Developers
 * https://www.howtogeek.com/875801/chatgpt-alternatives/
 
+
+
 ## Producers
 
 ### chatGPT

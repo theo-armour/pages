@@ -60,7 +60,8 @@ Oral culture and the rise of literacy
 The rise of clubhouse - and a return to oral culture. Literacy enfranchises some previously excluded elements of society, and this is a trend to watch.
 https://www.sealjay.com/oral-culture-and-the-rise-of-literacy/
 
-Oral Culture, Literate Culture, Twitter Culture
+### Oral Culture, Literate Culture, Twitter Culture
+
 The study of oral culture helps us understand the dynamics at play in social media, but no one knows what the move to skywriting means
 
 https://www.theatlantic.com/technology/archive/2011/05/oral-culture-literate-culture-twitter-culture/239697/

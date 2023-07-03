@@ -57,4 +57,15 @@ The DBpedia ontology is the heart of DBpedia. Having started as a manually creat
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
 * https://en.wikipedia.org/wiki/Category:Lists
 
-## my lists
+
+## Wikipedia biography of a living person
+
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons/Help
+* https://en.wikipedia.org/wiki/Wikipedia_talk:Biographies_of_living_persons
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons_dos_and_don%27ts
+
+##Wikipedia Templates
+
+* https://en.wikipedia.org/wiki/Template:Biography
+* https://en.wikipedia.org/wiki/Category:People_and_person_templates

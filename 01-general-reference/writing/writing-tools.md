@@ -1,8 +1,6 @@
 # Writing Tools
 
 
-
-
 ## Grammar
 
 * https://www.grammarly.com/

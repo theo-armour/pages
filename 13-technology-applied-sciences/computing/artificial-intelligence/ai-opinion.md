@@ -23,7 +23,7 @@ Threats of AGI
 
 ## Policies
 
-### Governance of superintelligence
+### Governance of super-intelligence
 
 Now is a good time to start thinking about the governance of superintelligence—future AI systems dramatically more capable than even AGI.
 

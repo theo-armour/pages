@@ -10,4 +10,10 @@ Daily journal prompts and the 5 minute journal have been helpful to improve my w
 ## The Memex Method
 
 When your commonplace book is a public database
+
 https://doctorow.medium.com/the-memex-method-238c71f2fb46
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
