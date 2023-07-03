@@ -5,6 +5,7 @@
 
 * https://qz.com/1606423/the-two-types-of-creativity-peak-at-very-different-ages/
 
+
 ## Dense Discovery
 
 Weekly newsletter helping you feel inspired, be productive & think critically.

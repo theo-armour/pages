@@ -20,6 +20,7 @@ Threats of AGI
 * AGI will dull the pain of our thorniest problems without fixing them
 * AGI undermines civic virtues and amplifies trends we already dislike
 
+
 ## Policies
 
 ### Governance of superintelligence
@@ -35,3 +36,8 @@ Now is a good time to start thinking about the governance of superintelligence‚Ä
 
 12 tentative ideas for US AI policy
 * https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ‚ù¶ </a></center>

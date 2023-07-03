@@ -1,5 +1,8 @@
 # Epistemology
 
+Epistemology is the study of knowledge and how we acquire it. It deals with questions such as what does it mean to know something, how do we justify our beliefs, and what are the sources and limits of knowledge
+
+* https://en.wikipedia.org/wiki/Epistemology
 * https://en.wikipedia.org/wiki/Category:Epistemology
 * https://en.wikipedia.org/wiki/Outline_of_epistemology
 

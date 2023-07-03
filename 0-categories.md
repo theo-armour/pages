@@ -86,6 +86,7 @@ Find ([A-Z])
 
 philosophy > metaphysics > categorization
 
+
 ## Wikipedia Topics
 
 ### https://en.wikipedia.org/wiki/Category:Main_topic_articles

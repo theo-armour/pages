@@ -1,4 +1,6 @@
-# AI FOOM / AGI
+# AI FOOM / Artificial General Inteligence (AGI)
+
+**Foom** is a term coined by Eliezer Yudkowsky in 2008 to describe a scenario in which an artificial general intelligence, or AGI, recursively self-improves into superintelligence and quickly takes over the world, leaving humans behind.
 
 ## Reference
 
@@ -31,6 +33,7 @@
 ## 2023-04
 
 ### What’s AGI, and Why Are AI Experts Skeptical
+
 ChatGPT and other bots have revived conversations on artificial general intelligence. Scientists say algorithms won’t surpass you any time soon.
 
 * https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/
@@ -91,3 +94,7 @@ Yudkowsky Contra Christiano On AI Takeoff Speeds
 
 * https://davidmanheim.medium.com/a-tentative-typology-of-ai-foom-scenarios-54ff20c906c3
 
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
