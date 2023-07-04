@@ -1,5 +1,4 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) [Theo Armour Pages]( https://theo-armour.github.io/pages/ "2023-02-19" )
-
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) Theo Armour Pages
 
 ## Concept
 
@@ -46,6 +45,7 @@ You are looking at the latest incantation.
 
 * Format is GitHub flavored Markdown
 * Categories follow Wikipedia categories
+  * https://theo-armour.github.io/pages/#00-journal/2022-12-06-notes-catalogs-tags.md
 * Standards generally follow Wikipedia standards
 * User interface is HTML, CSS and plain JavaScript
 
@@ -53,6 +53,7 @@ You are looking at the latest incantation.
 ## To Do / Wish List
 
 * Transform my categories used elsewhere to Wikipedia categories
+* Update TooToo - the content management system (CMS) used to build this site
 * update: grv-github-repo-tree-view.html
 
 
