@@ -25,6 +25,7 @@ I have been creating, editing and hoarding digital knowledge since the early 180
 * Instagram
 * Flickr
 * YouTube
+* Chat GPT
 * And probably elsewhere as well
 
 You are looking at the latest incantation.

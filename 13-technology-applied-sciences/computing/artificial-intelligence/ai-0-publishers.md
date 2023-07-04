@@ -2,7 +2,7 @@
 
 tags #ai #sw #news
 
-Just a start
+Just a start. More to be added, especially on Twitter
 
 ## News
 
@@ -14,7 +14,7 @@ In alpha order ignoring the "www."
 
 * https://www.aitimejournal.com/
 * https://alphasignal.ai/
-* https://axisofordinary.substack.com/
+* https://axisofordinary.substack.com/ ~ I look at this one most every day
 * https://www.futuretools.io/ ~ many tools
 * https://www.futurepedia.io/
 * https://importai.substack.com/
@@ -30,3 +30,8 @@ In alpha order ignoring the "www."
 * https://therundown.ai/
 * https://thezvi.substack.com/
 * https://www.whytryai.com/
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
