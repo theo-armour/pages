@@ -1,6 +1,6 @@
-# SubStack Dear a
+# SubStack Dear A
 
-This is the beiginning of an explanation, that takes a lot time
+This is the beginning of an explanation, that takes a lot time
 
 * After my accident grandma sends me a postcard every day
 * Went on for months

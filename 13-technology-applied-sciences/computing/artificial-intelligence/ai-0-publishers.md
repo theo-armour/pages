@@ -1,4 +1,4 @@
-# ai
+# AI Publishers
 
 tags #ai #sw #news
 
