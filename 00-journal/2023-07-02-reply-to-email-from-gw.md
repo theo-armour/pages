@@ -14,11 +14,11 @@ Can do!
 
 >I believe that AI (in all of the current nomenclature and specifics that entails) has the potentially to truly revolutionize Wxx in a way that would make us crazy to not dig deeper into it especially with someone experienced and understanding about it like you!
 
->> AI (in **all** of the current nomenclature and specifics that entails)
+ \> AI (in **all** of the current nomenclature and specifics that entails)
 
 Not a small number: https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
 
->> AI has the potentially to truly revolutionize Wxx
+\> AI has the potentially to truly revolutionize Wxx
 
 Agreed. Questions:
 
@@ -66,6 +66,7 @@ FOOM / AGI
 >
 >Thank you.
 
+https://theo-armour.github.io/pages/#00-journal/2023-07-03-ai-current-uses.md
 
 
 ## Next actions

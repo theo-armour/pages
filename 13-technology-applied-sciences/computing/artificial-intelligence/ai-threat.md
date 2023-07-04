@@ -4,9 +4,11 @@
 
 ### The True Threat of Artificial Intelligence
 
+This article is my preferred short clear summary of possible outcomes realting to the current state of AI threats
+
 * https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html
 
-Links of interest
+Links of interest relating to the article
 
 * https://en.wikipedia.org/wiki/Neoliberalism
 * https://www.nytimes.com/2022/02/16/business/neoliberalism-free-market-research.html
@@ -18,6 +20,7 @@ Threats of AGI
 * AGI will never overcome the market’s demands for profit
 * AGI will dull the pain of our thorniest problems without fixing them
 * AGI undermines civic virtues and amplifies trends we already dislike
+
 
 ### 8 Risks and Dangers of Artificial Intelligence (AI)
 
@@ -47,6 +50,7 @@ Risks of artificial intelligence
 * Autonomous weapons powered by artificial intelligence
 * Financial crises brought about by ai algorithms
 
+
 ### One Hundred Year Study on Artificial Intelligence (AI100)
 
 * https://ai100.stanford.edu/
@@ -62,6 +66,7 @@ As AI systems prove to be increasingly beneficial in real-world applications, th
 * Dangers of Adopting a Statistical Perspective on Justice
 * Disinformation and Threat to Democracy
 * Discrimination and Risk in the Medical Setting
+
 
 ### What Exactly Are the Dangers Posed by A.I
 
