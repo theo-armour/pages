@@ -71,9 +71,9 @@ https://theo-armour.github.io/pages/#00-journal/2023-07-03-ai-current-uses.md
 
 ## Next actions
 
-* Copy the Meeting spreadsheet
-* Eat your own dogfood
-* Use the force, Luke (chatGPT 4 of course )
+* Copy the Wxx Weekly Meeting spreadsheet and us it as the basis for brainstorming AI applications
+* Eat your own dogfood: Use AI everyday somewhere in your life
+* Use the force, Luke (chatGPT 4 of course ): use AI to help create the Wxx AI strategy
 
 
 ***

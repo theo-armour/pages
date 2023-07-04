@@ -24,6 +24,7 @@ I have been creating, editing and hoarding digital knowledge since the early 180
 * LinkedIn
 * Instagram
 * Flickr
+* Geni
 * YouTube
 * Chat GPT
 * And probably elsewhere as well
