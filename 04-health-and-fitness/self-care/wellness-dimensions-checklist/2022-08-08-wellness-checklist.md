@@ -110,7 +110,6 @@ exercise ~ flexibility
 weight ~ diet ~ vitamins
 
 
-
 _Things where I have less control or are less observable_
 
 ## Internals
