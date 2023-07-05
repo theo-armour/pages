@@ -4,6 +4,15 @@ tags #skin #health #dermatology
 
 ## websites
 
+### Wikipedia
+
+* https://en.wikipedia.org/wiki/Dermatology
+* https://en.wikipedia.org/wiki/Skin_condition
+* https://en.wikipedia.org/wiki/Category:Dermatology
+* https://en.wikipedia.org/wiki/Category:Integumentary_system
+* https://en.wikipedia.org/wiki/Category:Cutaneous_conditions
+
+
 ### American Academy of Dermatology
 
 * https://www.aad.org/
