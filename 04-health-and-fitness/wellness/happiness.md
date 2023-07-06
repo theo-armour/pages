@@ -35,7 +35,11 @@ Different orientations to happiness and their association with life satisfaction
 
 ## Links of Interest
 
+* https://www.cbc.ca/radio/tapestry/happy-happy-joy-joy-1.3804787/joy-on-demand-the-three-second-fix-1.3804789
 
+* Exercise #1: Look for thin slices of joy
+* Exercise #2: 10 seconds of loving kindness
+* Exercise #3: One mindful breath
 
 ***
 

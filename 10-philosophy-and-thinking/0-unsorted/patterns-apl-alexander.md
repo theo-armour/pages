@@ -9,7 +9,7 @@ The Timeless Way of Programming
 * http://tomasp.net/blog/2022/timeless-way/
 * The Timeless Way of Programming
 
-## Defintion
+## Definition
 
 > "A pattern is a careful description of a perennial solution to a recurring problem within a building context, describing one of the configurations that brings life to a building. Each pattern describes a problem that occurs over and over again in our environment, and then describes the core solution to that problem, in such a way that you can use the solution a million times over, without ever doing it the same way twice."
 

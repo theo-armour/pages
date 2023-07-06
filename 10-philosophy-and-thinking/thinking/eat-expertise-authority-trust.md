@@ -4,6 +4,7 @@
 * https://moz.com/blog/google-e-a-t
 
 ## Debunking Google E-A-T Misconceptions
+
 * https://www.linkedin.com/pulse/debunking-google-e-a-t-misconceptions-web-marketing-expert-/?trk=pulse-article_more-articles_related-content-card
 >Google has been using E-A-T (Expertise, Authoritativeness, and Trustworthiness) criteria as a means and guideline to evaluate search quality and related content since 2014. The purpose of E-A-T is to identify and distinguish high-quality content that pertains to specific search queries. Over the years, Google has become increasingly strict with the type of content that websites are allowed to produce. Search query results are becoming increasingly specialized to ensure the quality of the responses yield favourable and useful answers for users. Unfortunately, there are still a lot of misconceptions about how Google search engine E-A-T works and the role that search engine optimization (SEO) and digital marketing play.
 

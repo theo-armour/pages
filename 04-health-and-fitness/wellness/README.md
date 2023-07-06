@@ -49,14 +49,13 @@ So looking at Dominique, I feel she is still here with us yet fading quietly and
 
 ***
 
-Dominiqua Gaspar died at 5:25 pm.
+Dominique Gaspar died at 5:25 pm.
 
 After dinner, I read the message from Edina. I went down and sat next to Dominique's bed. Mostly I looked at her face - just slightly gaunt and gray. I put my hand on her knee. Even through the blanket, her knee was still warm. A few times I sang the "Tender Shepherd" lullaby to her. Mostly I looked at her face and my mind's eye flashed on images of her from the past few months.
 
 I talked with Roxanna, Dominique's caregiver. She said that Dominique slipped away calmly. Edina and Flora were both there.
 
 Goodbye Dominique. You have left me a legacy replete with the twists and turns of friendly new connections in my life. Thank you.
-
 
 
 
@@ -81,6 +80,7 @@ Elizabeth
 * https://www.founderlibrary.com/categories/self-care
 
 * https://loveyourlife.co/
+
 
 ## Friends Socializing
 
