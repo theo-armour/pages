@@ -1,4 +1,7 @@
-# architecture
+# Architecture Read Me
+
+
+Various notes on architecture.
 
 ## Lists
 
@@ -28,7 +31,13 @@ Oscar Niemeyer’s French Communist Party Headquarters Brings a Sensual Brazilia
 * https://interiordesign.net/projects/oscar-niemeyer-s-french-communist-party-headquarters-brings-a-sensual-brazilian-lilt-to-paris/
 * https://news.ycombinator.com/item?id=32809056
 
+
 ## Construction Physics: Balloon Framing is Worse is Better
 
 * https://constructionphysics.substack.com/p/balloon-framing-is-worse-is-better
   * https://news.ycombinator.com/item?id=33974720
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

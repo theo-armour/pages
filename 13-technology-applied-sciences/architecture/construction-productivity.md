@@ -1,4 +1,4 @@
-# [Construction Productivity]( https://theo-armour.github.io/pages/readme.html#13-technology-applied-sciences/architecture/construction-productivity.md )
+# Construction Productivity
 
 ## Preface
 
@@ -52,6 +52,9 @@ This is one of a number of articles on the topic of construction productivity.  
 
 >In the New York Times, Ezra Klein investigated the recent Goolsbee and Syverson paper on construction productivity we recently looked at. Klein suggests that the stagnation in construction productivity might be the result of organized special interests increasingly leveraging their influence over various parts of the construction process. This shows up as more complex and difficult to accommodate regulations, and groups whose approval must be secured (often at great expense) to get something built. While all sectors display this to some extent, construction, by virtue of the number of stakeholders involved (local residents, politicians, zoning boards, etc.) might show it more than others.
 
+> If we add up the required on-site hours in my 2022 Construction Estimator, we get…86.5 hours. So over 50+ years, the number of labor hours required on-site to construct a single-family home in the US actually increased by about 5%.
+
+
 ## Seizing opportunity in today’s construction technology ecosystem
 
 * https://www.mckinsey.com/capabilities/operations/our-insights/seizing-opportunity-in-todays-construction-technology-ecosystem
@@ -59,6 +62,16 @@ This is one of a number of articles on the topic of construction productivity.  
 >After decades of under-digitization, the engineering and construction (E&C) sector is making bold moves in a new era. Last year, we mapped the industry’s technology ecosystem with a focus on the solutions that are proliferating in the construction phase of the project life cycle. The research shed light on the emergence of technology clusters, industry-wide technology investment of more than $10 billion in less than a decade, and the lack of integrated solutions that span three identified use case clusters: on-site execution (“field”), digital collaboration (“team”), and back-office and adjacencies (“office”).
 >
 >This year, we expanded the study to include the entire asset life cycle—concept and feasibility, design and engineering, preconstruction, construction, and operations and maintenance—across more than 2,400 technology solutions companies, creating the most comprehensive database of the construction ecosystem worldwide. In this article, we explore three key topics based on our latest
+
+## What happened to construction productivity?  2021-09-29
+
+> What happened to construction productivity? Part 1: Measurement
+> How do we know what's actually happening to construction productivity?
+> Construction productivity is not doing well. Now it’s time to figure out why, and what can be done to improve it. Stay tuned for the next post.
+
+* https://noahpinion.substack.com/p/what-happened-to-construction-productivity
+
+
 
 ## Improving construction productivity ~ July 18, 2017
 
@@ -68,3 +81,6 @@ This is one of a number of articles on the topic of construction productivity.  
 >
 >The report confirmed many reasons for this persistently poor performance, including stringent regulations and dependence on public-sector demand, informality and sometimes corruption, industry fragmentation, and mismatches in risk allocations and rewards. In addition, project owners reported that it can be hard to navigate the opaque construction marketplace—particularly when they do not frequently manage major projects. This struggle often results in subpar project management and execution, inadequate design processes, and underinvestment in skills development, R&D, and innovation.
 
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
