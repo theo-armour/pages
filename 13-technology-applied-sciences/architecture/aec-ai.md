@@ -1,5 +1,8 @@
 # AEC AI
 
+A first pass at checking out the AEC AI scene.
+
+
 ## AEC Sites of interest
 
 * https://www.alicetechnologies.com/
