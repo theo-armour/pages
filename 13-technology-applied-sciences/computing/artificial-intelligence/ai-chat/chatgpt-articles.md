@@ -12,7 +12,6 @@
 
 ## Articles
 
-## 2023-05-09
 
 
 
@@ -50,6 +49,7 @@
 * https://platform.openai.com/docs/guides/chat
 * https://minimaxir.com/2023/03/new-chatgpt-overlord/
 
+
 ## 2023-01-09 ~ In honor of Weizenbaum's Centenary, I asked ChatGPT to program ELIZA
 
 * https://news.ycombinator.com/item?id=34305518
@@ -59,8 +59,6 @@
 
 * https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/
 * https://news.ycombinator.com/item?id=34291565
-
-
 
 
 ## https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
