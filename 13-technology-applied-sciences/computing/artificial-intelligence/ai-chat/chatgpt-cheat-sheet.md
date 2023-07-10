@@ -12,10 +12,11 @@
 
 “Create a very technical reverse prompt engineering template for the book "Weathering” by Aline Geronimus.
 
-## Spefify forma
+## Specify forma
 
 * Bullets
 * Tables
+
 ## Prompts
 
 Ask ChatGPT to pretend to be your favorite comedian
