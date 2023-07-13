@@ -1,9 +1,9 @@
 # 2023-05-22 Black Cleverness
 
-Bigger brain size is robustly related to higher intelligence
+Bigger brain size is robustly related to higher intelligence says:
 https://royalsocietypublishing.org/doi/10.1098/rsos.211621
 
-
+But
 
 3 of top 4 NFL quarterbacks are black; 10 out of 32
 
@@ -28,3 +28,7 @@ https://www.pewresearch.org/social-trends/fact-sheet/facts-about-the-us-black-po
 The Black or African American alone non-Hispanic population was the third-largest group at 12.1%.
 
 https://www.census.gov/library/stories/2021/08/2020-united-states-population-more-racially-ethnically-diverse-than-2010.html
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
