@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Robert_D._Putnam
 
 >Robert David Putnam (born 1941) is an American political scientist specializing in comparative politics. He is the Peter and Isabel Malkin Professor of Public Policy at the Harvard University John F. Kennedy School of Government. Putnam developed the influential two-level game theory that assumes international agreements will only be successfully brokered if they also result in domestic benefits. His most famous (and controversial) work, Bowling Alone, argues that the United States has undergone an unprecedented collapse in civic, social, associational, and political life (social capital) since the 1960s, with serious negative consequences. In March 2015, he published a book called Our Kids: The American Dream in Crisis that looked at issues of inequality of opportunity in the United States. According to the Open Syllabus Project, Putnam is the fourth most frequently cited author on college syllabi for political science courses.
 
+
 ## Bowling Alone
 
 >https://en.wikipedia.org/wiki/Bowling_Alone

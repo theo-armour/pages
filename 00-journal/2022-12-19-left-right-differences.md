@@ -9,6 +9,7 @@
 * Meetings in police stations and libraries
 
 ## Left
+
 * No inclusive local gatherings
 * Emails repeatedly asking for money but no other effort
 * Use of jargon and complicated words
