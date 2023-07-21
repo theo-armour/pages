@@ -12,9 +12,6 @@ Various notes on architecture.
 
 * https://www.domusweb.it/en/architecture/2022/03/18/the-signs-of-neglect-on-aldo-loris-rossis-architecture.html
 
-## Domus
-
-* https://www.domusweb.it/
 
 
 ## Palm Springs / Michael Howard

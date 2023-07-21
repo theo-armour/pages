@@ -95,9 +95,10 @@ ideie
 
 ## Others
 
+* https://agilicity.com/
 * https://www.bentley.com/software/openbuildings-designer/
   * Bentley AECosim
-* https://agilicity.com/
+* https://www.bricsys.com/bricscad-bim
 * https://blokable.com/
 * https://www.deepblocks.com/
 * https://www.getcodesign.co/

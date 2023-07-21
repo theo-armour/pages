@@ -6,6 +6,12 @@
 * https://www.zdnet.com/article/how-to-check-up-and-fix-your-internet-connection/
 * https://www.pcworld.com/article/447638/how-to-test-your-home-internet-speed.html
 
+## Signal Strength / decibels
+
+* https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/wireless/ap_wireless_signalstrength_c.html
+* https://www.howtogeek.com/426642/how-to-check-your-wi-fi-signal-strength/
+
+
 ## WiFi Speed Tests
 
 ### Most Useful
