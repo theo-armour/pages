@@ -2,14 +2,14 @@
 
 ## Artificial Intelligence (AI) in Architecture, Engineering, and Construction (AEC)
 
-A first pass at checking out the AI in AEC scene.
+A first pass at checking out the AI scene in AEC.
 
 For AEC matters that are not AI related, see the [AEC Read Me](https://theo-armour.github.io/pages/#13-technology-applied-sciences/architecture/README.md ).
 
-
-To be read in conjunction with:
+This Read Me is intended be read in conjunction with:
 
 * https://raindrop.io/TheoA/ai-aec-35784921/sort=title
+
 
 ## AI AEC Sites of interest
 
@@ -17,28 +17,35 @@ The following categories are first pass, and will be refined over time.
 
 ## Articles
 
-Articles culled from regularly published sources.
+Links to articles culled from regularly published AEC sources.
+
+This category includes articles that discuss things such
+
+* The possible uses of AI in AEC
+* Lists of projects to watch
+* Prompt suggestions relating to AEC
+
 
 * https://www.archdaily.com/tag/artificial-intelligence
 
 
 ## Design
 
-Links to AI sites that help with design in architecture
+Links to AI sites that help with design in architecture and includes sites that cover topics like these:
 
 * BIM process
 * Design-Build
 * Design optimization
 * Early stage design
 * Feasibility studies
-* Generative Design
+* Generative design
 * Optimized floor plans
 * Real time design of buildings
 * Space planning
 * Speech to text to design
-* Virtual Design and Construction (VDC)
+* Virtual design and construction (VDC)
 
-Some links
+A selection of the links:
 
 ### Architext
 
