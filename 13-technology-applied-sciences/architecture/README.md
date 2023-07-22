@@ -1,17 +1,27 @@
 # Architecture Read Me
 
-
 Various notes on architecture.
+
+This is the first pass at a read me. It will be refined over time.
+
+It mostly has links that wil be moved to other folders over time.
+
+
+## Energy analysis
+
+* equest
+* ideie
+
 
 ## Lists
 
 30 Of The Most Stunning Examples Of Modernist Architecture Admired On This Online Group
 * https://www.boredpanda.com/modernist-architecture-pics/?utm_source=com.google.android
 
+
 ## Aldo Rossi
 
 * https://www.domusweb.it/en/architecture/2022/03/18/the-signs-of-neglect-on-aldo-loris-rossis-architecture.html
-
 
 
 ## Palm Springs / Michael Howard

@@ -4,7 +4,7 @@
 
 A first pass at checking out the AI in AEC scene.
 
-For AEC matters that are not AI related, see the [AEC Read Me](../README.md).
+For AEC matters that are not AI related, see the [AEC Read Me](https://theo-armour.github.io/pages/#13-technology-applied-sciences/architecture/README.md ).
 
 
 ## AI AEC Sites of interest
@@ -20,7 +20,7 @@ Articles culled from regularly published sources.
 
 ## Design
 
-Links to sites that help with design
+Links to AI sites that help with design in architecture
 
 * BIM process
 * Design-Build
@@ -34,6 +34,7 @@ Links to sites that help with design
 * Speech to text to design
 * Virtual Design and Construction (VDC)
 
+Some links
 
 ### Architext
 
@@ -41,7 +42,24 @@ Links to sites that help with design
 
 Streamline your architectural design process
 
-Instantly turn natural language into full-featured layouts with Architext APIs and plugins
+Instantly turn natural language into full-featured layouts with APIs and plugins
+
+### Finch3D
+
+* https://www.finch3d.com/
+
+Your design, optimized
+
+Finch utilizes AI, graph technology, and advanced algorithms to optimize and challenge your design – Taking it to the next level. It continuously enhances your input, allowing you to achieve the exact design you want. Optimized.
+
+### Hypar ~ Aec
+
+* https://hypar.io
+
+HyparSpace is a new workflow for space planning, built with Hypar.
+
+Create test fits by drawing your floor plate, tracing over an image, or importing from DXF, Revit, or Rhino. Create space layouts including open office areas, meeting rooms, employee lounges, and much more, right out of the box.
+
 
 
 ## Publishers
@@ -126,27 +144,15 @@ Commercial buildings emit a large portion of global GHGs. Our autonomous decarbo
 
 
 ### DBF
+
 * https://www.digitalbluefoam.com/
 
 There's a better way to Design-Build
 
 As a design-build leader you want it all — Seamless data-driven workflows in an AI-powered, one-stop, user-friendly, online building platform. Join the movement for better buildings today!
 
-### Finch3D
 
-* https://www.finch3d.com/
-
-Your design, optimized
-
-Finch utilizes AI, graph technology, and advanced algorithms to optimize and challenge your design – Taking it to the next level. It continuously enhances your input, allowing you to achieve the exact design you want. Optimized.
-
-### Hypar ~ Aec
-
-* https://hypar.io
-
-HyparSpace is a new workflow for space planning, built with Hypar.
-
-Create test fits by drawing your floor plate, tracing over an image, or importing from DXF, Revit, or Rhino. Create space layouts including open office areas, meeting rooms, employee lounges, and much more, right out of the box.
+## Others
 
 * http://intsite.ai/
 * https://www.kwant.ai/
@@ -158,8 +164,7 @@ Create test fits by drawing your floor plate, tracing over an image, or importin
 * https://testfit.io
 * https://www.twinup.co/
 
-equest
-ideie
+
 
 ## Articles
 
