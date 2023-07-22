@@ -7,6 +7,10 @@ A first pass at checking out the AI in AEC scene.
 For AEC matters that are not AI related, see the [AEC Read Me](https://theo-armour.github.io/pages/#13-technology-applied-sciences/architecture/README.md ).
 
 
+To be read in conjunction with:
+
+* https://raindrop.io/TheoA/ai-aec-35784921/sort=title
+
 ## AI AEC Sites of interest
 
 The following categories are first pass, and will be refined over time.
