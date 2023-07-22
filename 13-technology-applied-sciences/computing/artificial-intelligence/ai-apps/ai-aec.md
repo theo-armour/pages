@@ -1,9 +1,94 @@
-# AEC AI
+# Theo ~ AI AEC Read Me
 
-A first pass at checking out the AEC AI scene.
+## Artificial Intelligence (AI) in Architecture, Engineering, and Construction (AEC)
+
+A first pass at checking out the AI in AEC scene.
+
+For AEC matters that are not AI related, see the [AEC Read Me](../README.md).
 
 
-## AEC Sites of interest
+## AI AEC Sites of interest
+
+The following categories are first pass, and will be refined over time.
+
+## Articles
+
+Articles culled from regularly published sources.
+
+* https://www.archdaily.com/tag/artificial-intelligence
+
+
+## Design
+
+Links to sites that help with design
+
+* BIM process
+* Design-Build
+* Design optimization
+* Early stage design
+* Feasibility studies
+* Generative Design
+* Optimized floor plans
+* Real time design of buildings
+* Space planning
+* Speech to text to design
+* Virtual Design and Construction (VDC)
+
+
+### Architext
+
+* https://architext.ai/
+
+Streamline your architectural design process
+
+Instantly turn natural language into full-featured layouts with Architext APIs and plugins
+
+
+## Publishers
+
+Links to sites that regularly publish articles on AI in AEC
+
+
+## Reference
+
+* Lists of plugins
+* Cheat sheets
+* Manuals
+
+
+## Render
+
+Links to sites that provide renderings from 3D models or photos
+
+May not always be AI involved
+
+
+## Workflow
+
+Links to sites that provide workflow assistance
+
+Aspects such as the following will eventually break out into their own categories:
+
+* Acoustics
+* BIM
+* Building codes
+* Building materials
+* Project management
+* Civil
+* Cost estimation
+* Construction issues
+* Fire protection
+* HVAC
+* Interior design
+* Landscape
+* Lighting
+* Mechanical & Electrical
+* Plumbing
+* Scheduling
+* Structural
+* Urban planning
+
+
 
 ### Alice Technologies
 
@@ -23,14 +108,6 @@ Add transparency to your planning process by connecting your design with your sc
 Samm (APE Mobile) is a site intelligence platform for excellence in construction.
 
 Construction companies rely on our mobile and web application to capture and manage site-related data in real time. This enables everyone in the field and in the office to know what’s going on, make better decisions and get more done. Reduce rework. Be more productive. Achieve construction excellence.
-
-### Architext
-
-* https://architext.ai/
-
-Streamline your architectural design process
-
-Instantly turn natural language into full-featured layouts with Architext APIs and plugins
 
 ### Augmenta
 

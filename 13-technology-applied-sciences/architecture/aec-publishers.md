@@ -8,8 +8,8 @@ Online Media Santiago, Región Metropolitana 1,127,816 followers 667 employees
 
 ## Architizer
 
-* https://www.linkedin.com/company/architizer/
 * https://architizer.com/
+* https://www.linkedin.com/company/architizer/
 * https://www.linkedin.com/in/paul-keskeys-a1959292/
 
 ## Domus
