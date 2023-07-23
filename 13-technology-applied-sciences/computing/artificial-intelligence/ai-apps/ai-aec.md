@@ -13,7 +13,7 @@ This Read Me is intended be read in conjunction with:
 
 ## AI AEC Sites of interest
 
-The following categories are first pass, and will be refined over time.
+The following six categories of types of links are a first pass, and will be refined over time.
 
 ## Articles
 
@@ -26,12 +26,10 @@ This category includes articles that discuss things such
 * Prompt suggestions relating to AEC
 
 
-* https://www.archdaily.com/tag/artificial-intelligence
-
 
 ## Design
 
-Links to AI sites that help with design in architecture and includes sites that cover topics like these:
+Links to AI sites that assist with design in architecture. They include sites that cover topics such as these:
 
 * BIM process
 * Design-Build
@@ -45,7 +43,7 @@ Links to AI sites that help with design in architecture and includes sites that 
 * Speech to text to design
 * Virtual design and construction (VDC)
 
-A selection of the links:
+A selection of Design links:
 
 ### Architext
 
@@ -80,16 +78,18 @@ Links to sites that regularly publish articles on AI in AEC
 
 ## Reference
 
+Links to sites that provide reference material such as these:
+
 * Lists of plugins
 * Cheat sheets
 * Manuals
-
+* https://www.archdaily.com/tag/artificial-intelligence
 
 ## Render
 
 Links to sites that provide renderings from 3D models or photos
 
-May not always be AI involved
+The sites may not always be AI involved
 
 
 ## Workflow
@@ -117,7 +117,7 @@ Aspects such as the following will eventually break out into their own categorie
 * Structural
 * Urban planning
 
-
+A selection of Workflow links:
 
 ### Alice Technologies
 
