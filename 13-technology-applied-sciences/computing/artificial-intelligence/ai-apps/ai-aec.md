@@ -13,7 +13,9 @@ This Read Me is intended be read in conjunction with:
 
 ## AI AEC Sites of interest
 
-The following six categories of types of links are a first pass, and will be refined over time.
+The following six categories of types of links are a first pass. These categories will be refined over time.
+
+It mey be better to have Read Me diles for each category. For now, they are all in this one file.
 
 ## Articles
 
@@ -25,7 +27,10 @@ This category includes articles that discuss things such
 * Lists of projects to watch
 * Prompt suggestions relating to AEC
 
+### Agenda
 
+* Now we know the AEC publishers we can start to look for articles
+* The we can gauge the quality of the articles and select the best ones
 
 ## Design
 
@@ -42,6 +47,11 @@ Links to AI sites that assist with design in architecture. They include sites th
 * Space planning
 * Speech to text to design
 * Virtual design and construction (VDC)
+
+### Agenda
+
+* Begin to gauge the quality of the offerings
+
 
 A selection of Design links:
 
@@ -80,6 +90,31 @@ Sources
 * https://blog.feedspot.com/architecture_magazines/
 * https://blog.enscape3d.com/top-architecture-magazines-and-blogs-2023
 
+### Publishers with dedicated AI sections
+
+* https://aec-business.com/topics/artificial-intelligence/
+* https://aecmag.com/ai/
+* https://www.canadianarchitect.com/tag/ai/
+* https://www.dezeen.com/tag/ai/
+
+
+### Publishers where search results include a good number of AI articles
+
+* https://www.google.com/search?sitesearch=aecbytes.com&q=ai
+* https://architecturenow.co.nz/search/?q=ai
+* https://architizer.com/blog/?s=artificial+intelligence
+* https://www.archpaper.com/?s=artificial+intelligence&submit=Search
+* https://www.designboom.com/search-result/?q=artificial+intelligence
+* https://www.domusweb.it/en.html
+* https://metropolismag.com/?s=artificial+intelligence
+* https://www.ribaj.com/archive#search=artificial%20intelligence
+
+### Publishers Agenda
+
+* First pass is looking at the "A" in AEC, next look at the "E" and "C" aspects
+* Travel through the publishers and see what they have to offer in terms of articles to list and vendors to highlight
+
+
 ## Reference
 
 Links to sites that provide reference material such as these:
@@ -88,6 +123,7 @@ Links to sites that provide reference material such as these:
 * Cheat sheets
 * Manuals
 * https://www.archdaily.com/tag/artificial-intelligence
+
 
 ## Render
 

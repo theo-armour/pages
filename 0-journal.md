@@ -6,9 +6,18 @@ Move from Read Me / Change Log to here
 
 ### AI AEC ~ First curated collection
 
-* https://raindrop.io/TheoA/ai-aec-35784921
-
 My first curated Raindrop share
+
+* https://raindrop.io/TheoA/ai-aec-35784921
+* Appears both in Pages and Raindrop
+* Pages Read me and Raindrop Share link to each other
+
+Want
+* Every Raindrop collection to have a Pages Read Me in the equivalent Pages folder
+* Every Pages folder to have a Raindrop Share link in the equivalent Raindrop collection
+
+Questions
+* Where to keep notes and indication as as to best links to look at in the category
 
 
 ### Combine with Raindrop.io
