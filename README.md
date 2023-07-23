@@ -1,5 +1,9 @@
 # [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) Theo Armour Pages
 
+To be read in conjunction with:
+
+https://raindrop.io/TheoA/01-general-reference-29388251
+
 ## Concept
 
 My digital commonplace book
@@ -61,26 +65,17 @@ You are looking at the latest incantation.
 
 ## Issues
 
+* Investigate best header system
+* AI to help with tagging
+* AI to help with categorizing
+
+
 ## Links of Interest
 
 
 ## Change Log
 
-### 2023-07-03
-
-* Many updates
-
-### 2022-10-05
-
-* Moved pages to its own repository
-
-### 2021-01-03
-
-* Add links
-
-### 2021-12-31
-
-* First commit
+See 0-journal.md
 
 
 ***
