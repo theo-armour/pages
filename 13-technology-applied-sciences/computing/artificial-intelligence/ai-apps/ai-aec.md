@@ -75,6 +75,10 @@ Create test fits by drawing your floor plate, tracing over an image, or importin
 
 Links to sites that regularly publish articles on AI in AEC
 
+Sources
+* https://www.archisoup.com/the-best-architecture-magazines
+* https://blog.feedspot.com/architecture_magazines/
+* https://blog.enscape3d.com/top-architecture-magazines-and-blogs-2023
 
 ## Reference
 
