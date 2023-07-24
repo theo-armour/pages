@@ -9,6 +9,7 @@ For AEC matters that are not AI related, see the [AEC Read Me](https://theo-armo
 This Read Me is intended be read in conjunction with:
 
 * https://raindrop.io/TheoA/ai-aec-35784921/sort=title
+* https://theo-armour.github.io/pages/#13-technology-applied-sciences/computing/artificial-intelligence/ai-apps/ai-aec-journal.md
 
 
 ## AI AEC Sites of interest

@@ -1,6 +1,14 @@
 # AI AEC Journal
 
+See also:
+
+* https://theo-armour.github.io/pages/#13-technology-applied-sciences/computing/artificial-intelligence/ai-apps/ai-aec.md
+* https://app.raindrop.io/my/35784921
+
+
 ## 2023-07-22
+
+First post on AI in AEC
 
 ### Publishers
 
