@@ -15,7 +15,7 @@ tags #wellness #health #checklist
 
 ### Livestrong
 
-*  https://livestrong.com/ ~ WSD ~ looks like they publish a lot of good stuff
+* https://livestrong.com/ ~ WSD ~ looks like they publish a lot of good stuff
 >LIVESTRONG.com delivers trusted health, nutrition and fitness information. For all.
 
 >We strive to give you the tools and knowledge you need to live a happier, healthier life.
