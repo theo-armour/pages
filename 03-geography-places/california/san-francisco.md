@@ -72,9 +72,8 @@ Got to your app store and search for San Francisco Fleet Week
 https://fleetweeksf.org/#events
 https://fleetweeksf.org/air-show-schedules/
 
-## UPS Store
 
-#ups
+## UPS Store
 
 * https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st
 * 8 to 6
