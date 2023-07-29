@@ -1,4 +1,4 @@
-# AI ~ Artificial Intelligence Reference 
+# AI ~ Artificial Intelligence Reference
 
 ## References
 
@@ -45,17 +45,19 @@ A list of AI terms I started
 * AI buzzwords include LLM, PaLM and GPT-3.
 * Synthography ~ https://en.wikipedia.org/wiki/Synthography
 * AFI stands for artificial general intelligence.
-* LLM stands for large language model.
+* LLM stands for large language model
 * PaLM stands for paraphrase language model.
 * GPT-3 stands for generative pre-trained transformer
 * RCI stands for recursive conditional inference
 * SOTA stands for state of the art
 * Ablation ~ https://en.wikipedia.org/wiki/Ablation_(artificial_intelligence)
 * LLaMa stands for large language model of the arts
-
 I expect that every specific endeavor into AI will require its own glossary and timeline.
 
+* Layers
 
+* attention heads
+* Word Vectors ~ https://en.wikipedia.org/wiki/Word_embedding ~ word2vec ~ 2013
 ### AGI Artificial general intelligence
 
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
