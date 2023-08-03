@@ -4,6 +4,16 @@ Theo Armour, 2023-03-23
 
 ## Concept
 
+The founding text
+
+https://cdn.lbryplayer.xyz/api/v3/streams/free/173436/a9dd1e2fbe001db521c2fac30b2049088b56f2e8/d87b8d
+
+
+https://cdnc.ucr.edu/?a=d&d=DAC18550422.2.11&e=-------en--20--1--txt-txIN--------
+
+https://cdnc.ucr.edu/?a=d&d=DAC18540627.2.10&srpos=1&e=------185-en--20-DAC-1--txt-txIN-San+Francisco+Ladies+Protection+and+Relief+Society----1854---
+
+
 ### Goal
 
 * Celebrate the 170th anniversary of the founding of the San Francisco Ladies Protection and Relief Society
