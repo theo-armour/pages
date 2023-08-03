@@ -18,7 +18,7 @@ The girl knew immediately had that this was no place for a lady.
 Alone and friendless, she wandered the streets in mounting panic;
 The she noticed a woman observing her from the window of her home.
 
-Mrs. Eaton’s friendly face in the window gave the girl courage to ask for help.
+Mrs Eaton’s friendly face in the window gave the girl courage to ask for help.
 She asked Mrs Eaton to give her protection until they could trace her brother?
 
 The girl had come to the right place. Mrs Eaton’s husband, a major in the Army - stationed in the Presidio.
