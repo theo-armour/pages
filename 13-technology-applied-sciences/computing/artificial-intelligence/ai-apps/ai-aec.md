@@ -53,7 +53,6 @@ Links to AI sites that assist with design in architecture. They include sites th
 
 * Begin to gauge the quality of the offerings
 
-
 A selection of Design links:
 
 ### Architext

@@ -23,6 +23,8 @@ Every AI glossary has a different list of terms. Each one has its own point of v
 * https://coe.int/en/web/artificial-intelligence/glossary
 * https://www.geeky-gadgets.com/chatgpt-glossary/
 
+{{term|[[xxxxxx]]}}
+{{defn|zzzzzz}}
 
 ### Timelines
 
@@ -44,7 +46,7 @@ A list of AI terms I started
 
 * AI buzzwords include LLM, PaLM and GPT-3.
 * Synthography ~ https://en.wikipedia.org/wiki/Synthography
-* AFI stands for artificial general intelligence.
+* AGI stands for artificial general intelligence.
 * LLM stands for large language model
 * PaLM stands for paraphrase language model.
 * GPT-3 stands for generative pre-trained transformer
@@ -58,6 +60,7 @@ I expect that every specific endeavor into AI will require its own glossary and 
 
 * attention heads
 * Word Vectors ~ https://en.wikipedia.org/wiki/Word_embedding ~ word2vec ~ 2013
+
 ### AGI Artificial general intelligence
 
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
@@ -96,6 +99,7 @@ https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 >Generative artificial intelligence or generative AI is a type of artificial intelligence (AI) system capable of generating text, images, or other media in response to prompts. Generative AI models learn the patterns and structure of their input training data, and then generate new data that has similar characteristics.
 
 
+
 ### LLM ~ Large Language Models
 
 2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
@@ -111,10 +115,19 @@ LLaVA: Large Language and Vision Assistant
 
 ## Neural Network
 
+{{term|[[neural network]]}}
+{{defn|zzzzzz}}
 * https://en.wikipedia.org/wiki/Neural_network
 
 >A neural network can refer to either a neural circuit of biological neurons (sometimes also called a biological neural network), or a network of artificial neurons or nodes in the case of an artificial neural network.[1] Artificial neural networks are used for solving artificial intelligence (AI) problems
 
+
+{{term|[[neural network]]}}
+{{defn|A '''neural network''' can refer to {{em|either}} a [[neural circuit]] of biological [[neuron]]s (sometimes also called a ''biological neural network''), {{em|or}} a network of [[artificial neuron]]s or [[node (computer science)|node]]s in the case of an [[artificial neural network]].<ref>{{cite journal |first=J. J. |last=Hopfield |title=Neural networks and physical systems with emergent collective computational abilities |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=79 |issue= 8|pages=2554–2558 |year=1982 |doi=10.1073/pnas.79.8.2554 |pmc=346238 |pmid=6953413|bibcode=1982PNAS...79.2554H |doi-access=free }}</ref> Artificial neural networks are used for solving [[artificial intelligence]] (AI) problems; they model connections of biological neurons as weights between nodes. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. All inputs are modified by a weight and summed. This activity is referred to as a [[linear combination]]. Finally, an activation function controls the [[amplitude]] of the output. For example, an acceptable range of output is usually between 0 and 1, or it could be −1 and 1.}}
+
+
+{{term|[[neural network]]}}
+{{defn|zzzzzz}}
 
 ***
 
