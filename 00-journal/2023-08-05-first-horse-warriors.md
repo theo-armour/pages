@@ -45,12 +45,13 @@ The Botai people were a remarkable group of people who made a significant contri
 
 Here are some additional facts about the Botai people:
 
-They lived in a region that is now known as the Kazakh steppes.
-They were hunter-gatherers who also domesticated horses.
-They were skilled horse trainers and riders.
-They made pottery and textiles from horsehair and wool.
-They built large pit houses for shelter and storage.
-They disappeared from the archaeological record around 3,100 BC.
+* They lived in a region that is now known as the Kazakh steppes.
+* They were hunter-gatherers who also domesticated horses.
+* They were skilled horse trainers and riders.
+* They made pottery and textiles from horsehair and wool.
+* They built large pit houses for shelter and storage.
+* They disappeared from the archaeological record around 3,100 BC.
+
 The Botai people are an important part of human history, and their legacy continues to this day. The invention of horse domestication by the Botai people had a profound impact on the development of human civilization, and it allowed people to travel long distances more quickly and easily, which facilitated trade and communication. They also made it possible to herd livestock more effectively, which led to increased food production. And, perhaps most importantly, horses gave people a powerful new weapon in warfare.
 
 The advent of horse riding had a profound impact on the development of human civilization. It allowed people to expand their territory, trade more goods, and conquer new lands. It also led to the rise of powerful horse-based empires, such as the Scythians and the Mongols. In short, the invention of horse riding was a major step in the evolution of humankind.
@@ -73,11 +74,11 @@ The Scythians were a powerful force in the ancient world. They conquered much of
 
 Here are some additional facts about the Scythians:
 
-They were originally from Siberia, but they migrated to the steppes of Central Asia in the 7th century BCE.
-They were skilled horsemen and archers, and they were feared by their enemies for their ferocity in battle.
-They were wealthy people who traded with other cultures for goods such as gold, silver, and silk.
-They buried their dead with elaborate grave goods, including gold jewelry, weapons, and chariots.
-They were a powerful force in the ancient world, but they were eventually displaced by the Sarmatians in the 3rd century BCE.
+* They were originally from Siberia, but they migrated to the steppes of Central Asia in the 7th century BCE.
+* They were skilled horsemen and archers, and they were feared by their enemies for their ferocity in battle.
+* They were wealthy people who traded with other cultures for goods such as gold, silver, and silk.
+* They buried their dead with elaborate grave goods, including gold jewelry, weapons, and chariots.
+* They were a powerful force in the ancient world, but they were eventually displaced by the Sarmatians in the 3rd century BCE.
 
 
 ## What about the spread of disease?
