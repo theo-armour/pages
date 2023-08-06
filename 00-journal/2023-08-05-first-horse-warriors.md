@@ -4,7 +4,7 @@
 * https://hdclump.com/first-horse-warriors/
 * https://g.co/bard/share/568f4f584075
 
-Please provide a detailed summary of the PBS show "First Horse Warriors"
+## Please provide a detailed summary of the PBS show "First Horse Warriors"
 
 The PBS show "First Horse Warriors" explores the mystery of who first tamed and rode horses, and how this invention changed the course of human history. The show follows Canadian anthropologist Niobe Thompson as she travels to Kazakhstan, Denmark, and Russia to investigate the latest archaeological and genetic evidence.
 
@@ -22,8 +22,8 @@ In addition to its historical significance, "First Horse Warriors" is also a vis
 
 Overall, "First Horse Warriors" is an excellent documentary that provides a fascinating glimpse into the history of horse riding. The show is informative, well-paced, and visually stunning. It is a must-watch for anyone interested in history, anthropology, or the natural world.
 
-profile picture
-Tell me more about the ancient Botai people
+
+## Tell me more about the ancient Botai people
 
 The Botai people were a group of hunter-gatherers who lived in what is now northern Kazakhstan around 5,500 years ago. They are best known for their mastery of horse domestication, and are considered to be the earliest known horse riders.
 
@@ -47,8 +47,7 @@ The Botai people are an important part of human history, and their legacy contin
 
 The advent of horse riding had a profound impact on the development of human civilization. It allowed people to expand their territory, trade more goods, and conquer new lands. It also led to the rise of powerful horse-based empires, such as the Scythians and the Mongols. In short, the invention of horse riding was a major step in the evolution of humankind.
 
-profile picture
-Tell me more about the Scythians, their horses and their travels
+## Tell me more about the Scythians, their horses and their travels
 
 The Scythians were a group of nomadic people who lived in the steppes of Central Asia from the 7th to the 3rd centuries BCE. They were skilled horsemen and archers, and they were feared by their enemies for their ferocity in battle.
 
@@ -71,12 +70,9 @@ They were skilled horsemen and archers, and they were feared by their enemies fo
 They were wealthy people who traded with other cultures for goods such as gold, silver, and silk.
 They buried their dead with elaborate grave goods, including gold jewelry, weapons, and chariots.
 They were a powerful force in the ancient world, but they were eventually displaced by the Sarmatians in the 3rd century BCE.
-Scythian horsemanOpens in a new window
-www.reddit.com
-Scythian horseman
-profile picture
-What about the spread of dosease?
-View other drafts
+
+
+## What about the spread of disease?
 
 
 The Scythians were also known for their role in the spread of disease. They were nomadic people who traveled widely, and they often came into contact with other cultures. This put them at risk of contracting diseases from other people, and they also spread diseases to other cultures.
