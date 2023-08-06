@@ -4,6 +4,14 @@
 * https://hdclump.com/first-horse-warriors/
 * https://g.co/bard/share/568f4f584075
 
+## Botai
+
+* https://en.wikipedia.org/wiki/Botai_culture
+
+## Horses
+
+* https://en.wikipedia.org/wiki/Domestication_of_the_horse
+
 ## Please provide a detailed summary of the PBS show "First Horse Warriors"
 
 The PBS show "First Horse Warriors" explores the mystery of who first tamed and rode horses, and how this invention changed the course of human history. The show follows Canadian anthropologist Niobe Thompson as she travels to Kazakhstan, Denmark, and Russia to investigate the latest archaeological and genetic evidence.
