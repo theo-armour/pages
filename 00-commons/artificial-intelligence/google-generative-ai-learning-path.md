@@ -1,14 +1,27 @@
 # Google Generative AI Learning Path
 
-https://www.cloudskillsboost.google/course_templates/536
+* https://www.cloudskillsboost.google/journeys/118
+* https://www.cloudskillsboost.google/course_templates/536
 
-## Intro to Generative AI Video
+## Intro to Generative AI
+
+This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods. It also covers Google Tools to help you develop your own Gen AI apps.This course is estimated to take approximately 45 minutes to complete.
+
+Objectives
+* Define Generative AI
+* Explain how Generative AI works
+* Describe Generative AI Model Types
+* Describe Generative AI Applications
+
+### Video
 
 Define Generative AI
 
 AI is a discipline. AI is the theory and development of computer systems able to perform tasks normally requiring human intelligence
 
 Machine Learning Gives computers the ability to learn without explicit programming
+
+***
 
 Unsupervised ML models
 * Unsupervised learning implies the data is not labeled
@@ -21,6 +34,8 @@ Supervised ML models
 
 Reinforcement Learning
 
+***
+
 Deep Learning Is a subset of machine learning
 
 Deep learning uses artificial neural networks - allowing them to process more complex patterns than traditional machine learning
@@ -30,6 +45,8 @@ Semi supervised learning
 Generative AI is a subset of deep learning
 
 Large language models are also a subset of deep learning
+
+***
 
 Deep learning model types
 
@@ -44,15 +61,17 @@ Generative
 * Predict next word in a sequence
 
 Not GenAI when response is a
-number
-Discrete
-Class
-Probability
+* number
+* Discrete
+* Class
+* Probability
 
 Is GenAI when answer is
 * Natural language
 * Image
 * Audio
+
+***
 
 Classical supervised and unsupervised learning
 
@@ -70,7 +89,7 @@ Generate new content > image generation
 
 What is generative AI?
 
-* GenAI is a type of artificial intelligence that creates new content based on what it has learned from existing contentn
+* GenAI is a type of artificial intelligence that creates new content based on what it has learned from existing content
 * The process of learning from existing content is called training and results in the creation of a statistical model
 * When given a prompt GenAI uses this statistical model to predict what an expected response might be - and this generates new content
 
@@ -145,6 +164,8 @@ Vision Foundations
 * OWL VIT
 * ViT GPT 2
 
+***
+
 Model Garden Task Specific Models
 
 Language
@@ -157,6 +178,7 @@ Vision
 * Classification - object detector
 * Detection - occupancy Analytics, Persian vehicle detector, PPE detector, person blur
 
+***
 
 The generative ai application landscape
 
@@ -199,9 +221,10 @@ maker suite
 * Iterate on prompts, augment your data set with synthetic data, tune custom models
 
 
-
-
-
-## Readings
+### Readings
 
 * https://www.cloudskillsboost.google/course_sessions/4206797/documents/384244
+
+
+
+#
