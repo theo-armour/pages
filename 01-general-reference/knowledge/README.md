@@ -1,5 +1,7 @@
 # Knowledge Read Me
 
+Knowledge is a familiarity, awareness or understanding of someone or something, such as facts, information, descriptions, or skills, which is acquired through experience or education by perceiving, discovering, or learning.
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Category:Main_topic_classifications

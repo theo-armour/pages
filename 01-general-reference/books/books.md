@@ -9,9 +9,9 @@ tags #books #reading # ref
 > The printed page is giving way to the networked screen. The Institute for the Future of the Book seeks to chronicle this shift, and impact its development in a positive direction. The Institute is a project of the Annenberg Center for Communication at the University of Southern California, and is based in Brooklyn, New York.
 
 
-## Books
+## Summaries
 
-[https://durmonski.com/category/book-summaries/](https://durmonski.com/category/book-summaries/)
+https://durmonski.com/category/book-summaries/
 
 
 More
