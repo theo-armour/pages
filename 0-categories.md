@@ -82,6 +82,8 @@ Find ([A-Z])
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents
 
+Nice summaries of each category
+
 > Wikipedia is a compendium of the world's knowledge. If you know what you are looking for, type it into Wikipedia's search box. If, however, you need a bird's eye view of what Wikipedia has to offer, see its main contents pages below, which in turn list more specific pages.
 
 philosophy > metaphysics > categorization
