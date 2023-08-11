@@ -1,5 +1,9 @@
 # Artificial Intelligence
 
+* https://fleuret.org/public/lbdl.pdf
+* https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
+8 https://www.techopedia.com/dictionary
+
 ## FreeCodeCamp
 
 * https://www.freecodecamp.org/news/tag/artificial-intelligence/
@@ -9,8 +13,6 @@
 * https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/
 * https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/
 * https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
-
-
 
 
 ## LinkedIn Microsoft
