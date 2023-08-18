@@ -61,10 +61,14 @@ I expect that every specific endeavor into AI will require its own glossary and 
 * attention heads
 * Word Vectors ~ https://en.wikipedia.org/wiki/Word_embedding ~ word2vec ~ 2013
 
-### AGI Artificial general intelligence
+## AGI Artificial general intelligence
 
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
+
+## Attention
+
+Attention is the principal element of transformer architecture. In essence, attention is a mechanism that can allow the neural network to pay more attention to the part of input data that contains meaningful information and pay less attention to the rest of the input.
 
 ## Diffusion model
 
@@ -99,7 +103,6 @@ https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 >Generative artificial intelligence or generative AI is a type of artificial intelligence (AI) system capable of generating text, images, or other media in response to prompts. Generative AI models learn the patterns and structure of their input training data, and then generate new data that has similar characteristics.
 
 
-
 ### LLM ~ Large Language Models
 
 2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
@@ -108,6 +111,11 @@ A good discussion of how the pros and cons could be discussed when thw current r
 Capabilities and alignment of LLM cognitive architectures
 * https://www.lesswrong.com/posts/ogHr8SvGqg9pW5wsT/capabilities-and-alignment-of-llm-cognitive-architectures
 LLaVA: Large Language and Vision Assistant
+
+* https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/
+LLMs can be built using frameworks besides transformers. But LLMs using frameworks, like a recurrent neural network or long short-term memory, struggle with processing long sentences and paragraphs. They also typically require training on labeled data (making training a labor-intensive process). This limits the complexity and relevance of their outputs, and the data they can learn from.
+
+**Transformer LLMs, on the other hand, can train themselves on unlabeled data.** Once they’re given basic learning objectives, LLMs take a part of the new input data and use it to practice their learning goals. Once they’ve achieved these goals on that portion of the input, they apply what they’ve learned to understand the rest of the input. This self-supervised learning process is what allows transformer LLMs to analyze massive amounts of unlabeled data—and the larger the dataset an LLM is trained on, the more they scale by processing that data.
 
 ### NLP ~ Natural Language Processing
 
