@@ -58,8 +58,8 @@ See also:
 * https://www.universal-robots.com/
 * https://scitechdaily.com/columbia-engineers-create-highly-dexterous-human-like-robot-hand-that-can-operate-in-the-dark/
 
-### Persuasion
 
+### Persuasion
 
 
 ### "If I had asked my customers what they wanted they would have said a faster horse”
@@ -90,6 +90,7 @@ Bring in gaming
 ### Drone Wars ~ Jacob Cannell
 
 * https://entersingularity.wordpress.com/2022/03/18/drone-wars/
+
 
 ### Goodhart's law
 

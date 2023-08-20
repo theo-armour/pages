@@ -10,7 +10,7 @@ My digital commonplace book
 
 * https://en.wikipedia.org/wiki/Commonplace_book
 
-I have been creating, editing and hoarding digital knowledge since the early 180s. Sadly. I hoarded the data using whatever system was most popular at the time the data was recorded. Currently I have stuff on the following platforms:
+I have been creating, editing and hoarding digital knowledge since the late 1970s. Sadly. I hoarded the data using whatever system was most popular at the time the data was recorded. Currently I have stuff on the following platforms:
 
 * Text files maintained using PGP
 * Evernote
@@ -32,8 +32,10 @@ I have been creating, editing and hoarding digital knowledge since the early 180
 * YouTube
 * Chat GPT
 * And probably elsewhere as well
+* And not including stuff stored on Palm Pilots, Blackberries anf countless other devices
+* And not including paper pages in FiloFax and other formats
 
-You are looking at the latest incantation.
+You are looking at the latest incantation. Only notes starting from sometime in 2022 have been added here.
 
 ## Vision
 
@@ -58,6 +60,7 @@ You are looking at the latest incantation.
 
 ## To Do / Wish List
 
+* Brin over notes from all the other older data hoards
 * Transform my categories used elsewhere to Wikipedia categories
 * Update TooToo - the content management system (CMS) used to build this site
 * update: grv-github-repo-tree-view.html

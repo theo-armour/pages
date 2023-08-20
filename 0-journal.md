@@ -1,5 +1,9 @@
 # Theo Pages Journal
 
+## 2023-08-19
+
+Add some details to main readme
+
 ## 2023-07-23
 
 Move from Read Me / Change Log to here
