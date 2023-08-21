@@ -1,5 +1,10 @@
 # 2023-08-18 David Pertiz AI
 
+see also
+
+* https://raindrop.io/TheoA/ai-robots-av-36112435
+* https://theo-armour.github.io/pages/#13-technology-applied-sciences/computing/artificial-intelligence/ai-robots-av/README.md
+
 Socrates ~ selfie only onself
 
 slides too small
@@ -14,7 +19,7 @@ science fiction to reality
 
 LLM ~ study and learn ~ NLP
 
-* GoFAI ~ good fashioned AI ~ too brittle ~ too indeterminite
+* GoFAI ~ good fashioned AI ~ too brittle ~ too indeterminate
 * dispersed neural network computing
 * Model on human brain
 * distinguish cat and dogs
