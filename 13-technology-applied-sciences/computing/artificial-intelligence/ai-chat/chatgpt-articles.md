@@ -4,6 +4,9 @@
 * Chat Generative Pre-trained Transformer
 * https://en.wikipedia.org/wiki/ChatGPT
 * https://en.wikipedia.org/wiki/OpenAI
+* https://www.reddit.com/r/LocalLLaMA/comments/14wbmio/gpt4_details_leaked/
+* https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
+
 
 ## Links
 

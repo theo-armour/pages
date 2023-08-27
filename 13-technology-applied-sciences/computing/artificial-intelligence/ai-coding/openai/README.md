@@ -2,12 +2,15 @@
 
 * https://openai.com/
 * https://platform.openai.com/playground?mode=chat
+* https://platform.openai.com/docs/guides/chat
+* https://minimaxir.com/2023/03/new-chatgpt-overlord/
 
 
 ## Docs
 
 * https://platform.openai.com/docs/introduction
 * https://platform.openai.com/docs/guides/gpt
+
 
 ## Plugins examples
 

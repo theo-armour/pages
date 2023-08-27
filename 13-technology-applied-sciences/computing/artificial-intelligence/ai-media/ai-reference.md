@@ -105,6 +105,10 @@ https://hai.stanford.edu/news/introducing-center-research-foundation-models-crfm
 
 ### LLM ~ Large Language Models
 
+* https://en.wikipedia.org/wiki/Language_model
+* https://en.wikipedia.org/wiki/Large_language_model
+
+
 2022-12-09 ~ https://www.wired.com/story/large-language-models-critique/
 A good discussion of how the pros and cons could be discussed when thw current reality is mired down with peeps taking pleasure in gaming the system. In any modern discussion there people for and people against and people gaming
 
@@ -117,9 +121,15 @@ LLMs can be built using frameworks besides transformers. But LLMs using framewor
 
 **Transformer LLMs, on the other hand, can train themselves on unlabeled data.** Once they’re given basic learning objectives, LLMs take a part of the new input data and use it to practice their learning goals. Once they’ve achieved these goals on that portion of the input, they apply what they’ve learned to understand the rest of the input. This self-supervised learning process is what allows transformer LLMs to analyze massive amounts of unlabeled data—and the larger the dataset an LLM is trained on, the more they scale by processing that data.
 
+
+## https://en.wikipedia.org/wiki/Mixture_of_experts
+
+
+
 ### NLP ~ Natural Language Processing
 
 * https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
+
 
 ## Neural Network
 
@@ -132,6 +142,13 @@ LLMs can be built using frameworks besides transformers. But LLMs using framewor
 
 {{term|[[neural network]]}}
 {{defn|A '''neural network''' can refer to {{em|either}} a [[neural circuit]] of biological [[neuron]]s (sometimes also called a ''biological neural network''), {{em|or}} a network of [[artificial neuron]]s or [[node (computer science)|node]]s in the case of an [[artificial neural network]].<ref>{{cite journal |first=J. J. |last=Hopfield |title=Neural networks and physical systems with emergent collective computational abilities |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=79 |issue= 8|pages=2554–2558 |year=1982 |doi=10.1073/pnas.79.8.2554 |pmc=346238 |pmid=6953413|bibcode=1982PNAS...79.2554H |doi-access=free }}</ref> Artificial neural networks are used for solving [[artificial intelligence]] (AI) problems; they model connections of biological neurons as weights between nodes. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. All inputs are modified by a weight and summed. This activity is referred to as a [[linear combination]]. Finally, an activation function controls the [[amplitude]] of the output. For example, an acceptable range of output is usually between 0 and 1, or it could be −1 and 1.}}
+
+
+## Transformer (machine learning model)
+
+* https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+
+A transformer is a deep learning architecture that relies on the parallel multi-head attention mechanism.[1] The modern transformer was proposed in the 2017 paper titled 'Attention Is All You Need' by Ashish Vaswani et al., Google Brain team. It is notable for requiring less training time than previous recurrent neural architectures, such as long short-term memory (LSTM),[2] and its later variation has been prevalently adopted for training large language models on large (language) datasets, such as the Wikipedia corpus and Common Crawl, by virtue of the parallelized processing of input sequence.[3] Input text is split into n-grams encoded as tokens and each token is converted into a vector via looking up from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism allowing the signal for key tokens to be amplified and less important tokens to be diminished
 
 
 {{term|[[neural network]]}}

@@ -21,7 +21,7 @@ I want you to act as a self-help book. You will provide me advice and tips on ho
 ## Learning new topics
 I am interested in learning about the prehistoric archaeology of India, but I have no previous knowledge or experience in this subject. I have two free days a week, each for four hours, for the next three months. Can you help me create a crash study plan to understand prehistoric archaeology in India better? Please provide me with a clear and structured study plan that outlines what topics I should focus on, recommended resources to read or watch, and any other tips or advice to help me achieve my goal.
 
-Prepare Your ChatGPT For Generating Prompts
+## Prepare Your ChatGPT For Generating Prompts
 First, activate the reverse prompt engineering.
 
 Type the following prompt: “Enable Reverse Prompt Engineering? By Reverse Prompt Engineering I mean creating a prompt from a given text.”

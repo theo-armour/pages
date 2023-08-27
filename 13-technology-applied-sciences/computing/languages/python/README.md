@@ -8,15 +8,9 @@
 * https://docs.python.org/3.11/using/windows.html
 
 
+## jupyter notebook
 
-python -m venv venv
-. venv/bin/activate
-pip install -r requirements.txt
-flask run
-
-python -m venv venv
-venv/Scripts/activate
-pip install flask
-pip install openai
-pip install -r requirements.txt
-flask run
+* https://jupyter.org/
+* https://github.com/jupyter
+* https://jupyter-tutorial.readthedocs.io/en/latest/
+* https://en.wikipedia.org/wiki/Project_Jupyter
