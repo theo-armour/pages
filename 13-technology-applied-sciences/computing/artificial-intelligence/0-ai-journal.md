@@ -18,6 +18,11 @@ Old peoples home, 3D cutaway, red brick Tudor mansion, Pieter Bruegel the Elder
 
 Old peoples home, meal time, 3D cutaway, red brick Tudor mansion, three story, Pieter Bruegel the Elder,  Golden Gate Bridge San Francisco background
 
+
+Drawing of an imaginary Heritage
+
+I experiment with various applications of artificial intelligence (AI). I asked the "Midjourney" application to create a drawing with these instructions: "Old peoples home, 3D cutaway, red brick Tudor mansion, Style of Pieter Bruegel the Elder". I think she did a pretty good job. What do you think?
+
 ## 2023-06-09
 
 Husk & Stone was created in the context of a desire for renewal, diligence, growth, and positive impact after spending over 12 years building urban mobility startups in Europe and the US. By way of consulting – or preferred word collaborating – we see this as an excellent opportunity to help existing teams do a deep dive on a project, accelerate growth, and bring an external perspective or fresh energy. With an entrepreneurial spirit at the core, we look to work with dynamic teams working on impactful projects who want sustainable growth, from an ESG perspective but especially on an operational level.
