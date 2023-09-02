@@ -6,6 +6,10 @@
 * https://docs.python.org/3/
 * https://docs.python.org/3/tutorial/index.html
 * https://docs.python.org/3.11/using/windows.html
+* https://code.visualstudio.com/docs/python/python-tutorial
+* https://www.w3schools.com/python/
+
+
 
 ## Act as an Instructor in a School
 Contributed by: @omt66

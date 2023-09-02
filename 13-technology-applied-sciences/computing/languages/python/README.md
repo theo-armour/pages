@@ -1,11 +1,5 @@
 # Python Read Me
 
-## Links
-
-* https://www.python.org/
-* https://docs.python.org/3/
-* https://docs.python.org/3/tutorial/index.html
-* https://docs.python.org/3.11/using/windows.html
 
 
 ## jupyter notebook
@@ -32,7 +26,7 @@ python install jupyter
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * https://realpython.com/jupyter-notebook-introduction/
 
-## https://colab.research.google.com/ ~ Vish 
+## https://colab.research.google.com/ ~ Vish
 
 * https://colab.research.google.com/drive/1nIGz4Y_z1U-rR33tf5c405jvqYdTGuPt#scrollTo=1caGS4meNNqi
 
