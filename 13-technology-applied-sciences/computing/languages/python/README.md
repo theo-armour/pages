@@ -30,3 +30,7 @@ python install jupyter
 
 * https://colab.research.google.com/drive/1nIGz4Y_z1U-rR33tf5c405jvqYdTGuPt#scrollTo=1caGS4meNNqi
 
+## Cookbooks
+
+* https://github.com/openai/openai-cookbook
+
