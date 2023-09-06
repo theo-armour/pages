@@ -4,17 +4,17 @@
 
 We are locked in by our vocabulary
 
-* Etymology of civilization is a man thing
+* Etymology of "civilization" is a man/male thing
 
 
 ## Current historiography is a myth
 
-Accounts of human history, they
+Accounts of human history
 1. Simply aren't true
-2. Has dire political implications
-3. Makes the past needlessly dull ~ Actually more playful
+2. Have dire political implications
+3. Make the past needlessly dull ~ Actually more playful
 
-### 1. Not true
+### 1. The history we are taught is not true
 
 * "History" tends to cover important men fighting big battles
 * Actually peacetime and the collective, ongoing efforts of women may have produced more consequence
@@ -22,13 +22,19 @@ Accounts of human history, they
 
 ***
 
-Myth: there was a arden of Eden, a time when humans lived in small hunter-gatherer units of a few dozen people where everybody was kind of equal and kind of happy. Actually life was as complicated the as it is now. Some places were small, some were huge. some groups were hierarchical, some groups were highly collaborative
+Myth: there was a garden of Eden, a time when humans lived in small hunter-gatherer units of a few dozen people where everybody was kind of equal and kind of happy. Actually life was as complicated the as it is now. Some places were small, some were huge. some groups were hierarchical, some groups were highly collaborative
 
 Myth: indigenous people were not as smart, knowledgeable and educated as we are
 
-Europe invented most anything important
+Myth: Europe invented most anything important
 
-People wanted to become Europeans
+Myth: People wanted to become Europeans
+
+Myth: hierarchy is inevitable
+
+Myth: the state is a natural form of human organization
+
+
 
 
 

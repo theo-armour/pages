@@ -21,7 +21,7 @@ tags #history #graeber #dawnOfEverything #anthropology
 * https://docdrop.org/download_annotation_doc/The-Dawn-of-Everything-by-David-Graeber-David-Wengrow-z-lib.-zmbbo.pdf
 * https://en.wikipedia.org/wiki/The_Dawn_of_Everything ~ a good summary to start with
 
-## Summary
+## Summaries
 
 * https://paminy.com/book-summary-dawn-everything-david-graeber-david-wengrow-new-history-humanity/*
 * https://www.blinkist.com/en/books/the-dawn-of-everything-en
