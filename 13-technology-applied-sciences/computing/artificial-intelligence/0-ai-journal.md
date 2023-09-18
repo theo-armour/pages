@@ -12,6 +12,72 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+
+## 2023-09-11 Alix
+
+
+## Chirp 1
+
+- https://twitter.com/suno_ai_/status/1699170056851411282
+- https://suno-ai.notion.site/Chirp-v1-Examples-cc71e6c0c79f4e03acf39aa5d5a3dd09
+- https://discord.com/channels/1069381916492562582/@home
+
+
+### Prompt 1
+
+My Energy has a color which is dark purple, with shapes of very sharp triangles. The movement of the energy is very fast, the music style that would resemble it is heavy metal.
+
+### Chirp Generated Text 1
+
+[verse]
+My energy has a color, dark purple it may be
+Sharp triangles shape the essence flowing free
+With speed and might, it's a force without fear
+In heavy metal, its music is clear
+
+[chorus]
+Dark purple energy, sharp triangles ride
+Fast movement through time, no one can hide
+Heavy metal roar, as the power takes hold
+In this world of darkness, my energy unfolds
+
+Style of Music: heavy metal
+
+
+### Chirp Generated Songs 1
+
+- https://media.discordapp.net/attachments/1135903449314238464/1151015765386989688/chirp.mp4
+- https://media.discordapp.net/attachments/1135903449314238464/1151015765923856574/chirp.mp4
+
+## Chirp 2
+
+### Prompt 2
+
+Today I would describe my energy color as pastel pinks and purples, with shapes similar to soft clouds, floating, the speed of the energy is slow and the music that would resemble it is slow classical piano.
+
+### Chirp Generated Text 2
+
+[Verse]
+Today, my energy's hues shine bright
+Pastel pinks and purples, soft and light
+Like drifting clouds, I gracefully soar
+A gentle breeze, slow, forevermore
+
+[Chorus]
+In this world of calm, my spirit roams
+Through melodies on keys, my energy flows
+In shades of pinks and purples, I find peace
+With slow-paced piano, all worries cease
+Style of Music
+classical piano
+
+### Chirp Generated Songs 2
+
+- https://media.discordapp.net/attachments/1135903449314238464/1151020921759469638/chirp.mp4
+- https://media.discordapp.net/attachments/1135903449314238464/1151020922279559290/chirp.mp4
+
+
+
 ## 2023-09-06
 
 Old peoples home, meal time, 3D cutaway, one half side vermeer, other side Italian Brutalist,background Golden Gate Bridgein San Francisco
