@@ -54,6 +54,7 @@ A list of AI terms I started
 * SOTA stands for state of the art
 * Ablation ~ https://en.wikipedia.org/wiki/Ablation_(artificial_intelligence)
 * LLaMa stands for large language model of the arts
+
 I expect that every specific endeavor into AI will require its own glossary and timeline.
 
 * Layers

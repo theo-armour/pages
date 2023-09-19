@@ -1,6 +1,7 @@
 # AI Journal
 
 
+## Boilerplate
 -
 Dear "A": These are for you
 
@@ -13,8 +14,16 @@ A work in the: "Feathers by Residents" Exhibit
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 
-## 2023-09-11 Alix
+## 2023-09-18
 
+I want to learn more about AI. Can you help me?
+
+Let's think step by step.
+
+
+
+
+## 2023-09-11 Alix / Mood Mirrors
 
 ## Chirp 1
 

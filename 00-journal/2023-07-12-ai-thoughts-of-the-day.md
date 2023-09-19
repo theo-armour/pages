@@ -147,7 +147,6 @@ Your new best friend will become best friends with your significant other's new 
 ## chatGPT plugins
 
 
-
 ## WSD
 
 * AI blog Post

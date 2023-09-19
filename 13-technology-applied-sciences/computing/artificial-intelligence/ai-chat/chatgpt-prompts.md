@@ -1,5 +1,7 @@
 # ChatGPT ~ prompts
 
+Let's think step by step.
+
 ## Links
 
 2023-04-14
@@ -17,6 +19,7 @@
 “Enable Reverse Prompt Engineering? By Reverse Prompt Engineering I mean creating a prompt from a given text.”
 
 “Create a very technical reverse prompt engineering template for the book "Weathering” by Aline Geronimus.
+
 
 ## Specify format
 

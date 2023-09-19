@@ -1,5 +1,7 @@
 # Prompt Engineering
 
+* Let's think step by step.
+
 ## Links
 
 * https://www.promptingguide.ai/

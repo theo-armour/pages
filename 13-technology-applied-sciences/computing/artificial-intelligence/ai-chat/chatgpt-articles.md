@@ -1,7 +1,7 @@
 # ChatGPT
 
-* https://chat.openai.com/chat
 * Chat Generative Pre-trained Transformer
+* https://chat.openai.com/chat
 * https://en.wikipedia.org/wiki/ChatGPT
 * https://en.wikipedia.org/wiki/OpenAI
 * https://www.reddit.com/r/LocalLLaMA/comments/14wbmio/gpt4_details_leaked/
@@ -14,8 +14,6 @@
 
 
 ## Articles
-
-
 
 
 ## 2023-05-07
