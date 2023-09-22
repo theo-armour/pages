@@ -86,6 +86,11 @@ classical piano
 - https://media.discordapp.net/attachments/1135903449314238464/1151020922279559290/chirp.mp4
 
 
+## 2023-09-21
+
+Red brick Tudor mansion, old peoples home, 3D, section, style of Pieter Bruegel the Elder
+
+
 
 ## 2023-09-06
 
@@ -93,7 +98,7 @@ Old peoples home, meal time, 3D cutaway, one half side vermeer, other side Itali
 
 ## 2023-08-29
 
-Old peoples home, 3D cutaway, red brick Tudor mansion, Pieter Bruegel the Elder
+Red brick Tudor mansion, old peoples home, 3D, section, style of Pieter Bruegel the Elder
 
 Old peoples home, meal time, 3D cutaway, red brick Tudor mansion, three story, Pieter Bruegel the Elder,  Golden Gate Bridge San Francisco background
 
