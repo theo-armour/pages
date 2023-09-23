@@ -14,6 +14,15 @@ A work in the: "Feathers by Residents" Exhibit
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 
+## 2023-09-22
+
+https://substack.com/inbox/post/137193161
+
+A row of houses along the South Hill Blvd is like a village of Lego houses The remnants of pastel stripes where the wind has passed— mint taupe peach lavender azure, I’m walking along, following after a butterfly carrying sunset on the back At this pace, I’m likely to reach the sunset on the horizon and coalesce with it Even if colored clouds swallow me at the end, It does not matter at all. Vanishing into thin air against catastrophe seemed not strange, likewise It had better not to say good-bye In our country, good-bye looks just like hello1 A series of chimneys look like hands of greeting to a nobody, walking in tears In the city built on sand The future is fluttering one step ahead, Hands stored in the wind long ago are lifting me up now
+
+https://youtu.be/aSfdFbnD1Cw
+
+
 ## 2023-09-18
 
 I want to learn more about AI. Can you help me?
