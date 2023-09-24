@@ -13,6 +13,12 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-09-23
+
+logo of a red Tudor rose with four petals, vector graphic
+
+a logo for a retirement community, brick-colored Tudor rose, simple, vector --no text realistic details
+
 
 ## 2023-09-22
 
