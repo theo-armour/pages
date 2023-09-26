@@ -13,6 +13,15 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-09-25
+
+This is extremely dangerous. Having me alone is extremely dangerous. Someone must be in the house at once and we must get me medicated. You guys are flagrantly risking my livelihood and existence with your naive stubbornness. I am going to be be dead soon. I cannot make this more clear. You need to assist with the psychiatrist appointment tomorrow and you need to have some one living with me. This has been an emergency for a long time and you are risking human life imminently.
+
+Ralph Steadman, Egon Schiele
+
+Giovanni Piranese, Gustave Daumier
+
+
 ## 2023-09-23
 
 logo of a red Tudor rose with four petals, vector graphic
