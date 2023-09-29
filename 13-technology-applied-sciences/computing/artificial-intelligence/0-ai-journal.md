@@ -13,6 +13,19 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
+## 2023-09-28
+
+A charming ten year old English girl, waving at a Spitfire in the sky, back garden of fancy English country house, lots of flowers, Battle of Britain, vintage photograph, black and white, sepia, --ar 2:1
+
+A charming ten year old English girl, waving at a Spitfire in the sky, back garden of fancy English country house, lots of flowers, small corrugated iron shelter buried in the ground, Battle of Britain, vintage photograph, black and white, sepia, --ar 2:1
+
+
+A charming ten year old English girl, 1939, pointing at the fighter planes in the sky, small corrugated iron shelter buried in the ground, back garden of fancy English country house, lots of flowers, Spitfires and Messerschmitts, vintage photograph, black and white, sepia, --ar 2:1
+
+A charming ten year old English girl,1939, staring up into the sky, pointing at the fighter planes in the sky, small corrugated iron shelter buried in the ground, back garden of manor house in England, lots of flowers, vintage photograph, black and white, sepia, --ar 2:1
+
+A ten year old English girl, standing in front of an Anderson Shelter half buried in the back garden in the Essex, England country side. It's 1939 and the girl is looking up at a fighter plane dogfight between the English and Germans, vintage photograph, black and white, sepia, --ar 2:1
+
 ## 2023-09-25
 
 This is extremely dangerous. Having me alone is extremely dangerous. Someone must be in the house at once and we must get me medicated. You guys are flagrantly risking my livelihood and existence with your naive stubbornness. I am going to be be dead soon. I cannot make this more clear. You need to assist with the psychiatrist appointment tomorrow and you need to have some one living with me. This has been an emergency for a long time and you are risking human life imminently.
