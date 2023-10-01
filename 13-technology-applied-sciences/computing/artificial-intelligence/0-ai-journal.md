@@ -13,12 +13,26 @@ A work in the: "Feathers by Residents" Exhibit
 
 tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
-# villa #villadesign #architecture #archilovers #interior #interiordesign #zenstyle #zen #design #archidaily #midjourney #architecturephotography #architectural #interiors #dezeen #designboom #ignant #rock #archdaily #arches #rammedearth #midjourneyarchitecture
+#villa #villadesign #architecture #archilovers #interior #interiordesign #zenstyle #zen #design #archidaily #midjourney #architecturephotography #architectural #interiors #dezeen #designboom #ignant #rock #archdaily #arches #rammedearth #midjourneyarchitecture
+
+#ai
+#aiart
+#aicommunity
+#aiartist
+
+#newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
+
+#retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 ## 2023-09-29
 
+- https://discord.com/channels/@me/1156079333132214302
+
+
+https://en.wikipedia.org/wiki/W._B._Yeats
+
 The Second Coming
-BY WILLIAM BUTLER YEATS
+By William Butler Yeats
 Turning and turning in the widening gyre
 The falcon cannot hear the falconer;
 Things fall apart; the centre cannot hold;
@@ -43,6 +57,16 @@ Were vexed to nightmare by a rocking cradle,
 And what rough beast, its hour come round at last,
 Slouches towards Bethlehem to be born?
 
+* #1 https://kaiber.ai/share/8bdc2763-d303-4ac3-9722-6cfc311948fa
+  * Style of John Butler Yeats
+* #2 https://kaiber.ai/share/84f7aa24-2612-4b3a-9542-21f8864e3c9f
+  * Style of Augustus John
+
+These two videos are examples of what I call "cubism 2.0 efforts". They may begin to be interesting. But are they worthy pointers to "cubism 3.9 efforts"?
+
+All this and more: to be described in more detail as time and wine permit.
+
+"Make art not talk farts."
 
 ## 2023-09-28
 
@@ -61,9 +85,11 @@ A ten year old English girl, standing in front of an Anderson Shelter half burie
 
 This is extremely dangerous. Having me alone is extremely dangerous. Someone must be in the house at once and we must get me medicated. You guys are flagrantly risking my livelihood and existence with your naive stubbornness. I am going to be be dead soon. I cannot make this more clear. You need to assist with the psychiatrist appointment tomorrow and you need to have some one living with me. This has been an emergency for a long time and you are risking human life imminently.
 
-Ralph Steadman, Egon Schiele
+* #1 https://kaiber.ai/share/f52b2a66-d653-48ec-861c-e616a3a11ec2
+  * Ralph Steadman, Egon Schiele
 
-Giovanni Piranese, Gustave Daumier
+* #2 https://kaiber.ai/share/4c6e9cf5-de43-4986-ae93-4727951c1539
+  * Giovanni Piranese, Gustave Daumier
 
 
 ## 2023-09-23
