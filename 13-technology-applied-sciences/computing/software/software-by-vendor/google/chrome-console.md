@@ -3,7 +3,7 @@
 
 tags #chrome
 
-##  Links of interest
+## Links of interest
 
 * https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript
 * https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4

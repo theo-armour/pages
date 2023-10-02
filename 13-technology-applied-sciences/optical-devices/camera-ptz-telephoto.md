@@ -6,8 +6,8 @@ https://www.kickstarter.com/projects/feiyutech/feiyu-pocket-3-compact-and-versat
 Ordered 2023-04-08
 * https://www.amazon.com/Wireless-Security-Zoom-Recording-E1/dp/B07Z841XYD
 
-## PTZ 20X Zoom
 
+## PTZ 20X Zoom
 
 BZBGEAR PTZ Full HD 1080P HDMI/SDI/USB 3.0 Live Streaming Camera with POE (30X Optical Zoom)
 * 12X / 20X / 30X Universal PTZ HDMI / SDI / USB 3.0 IP Live Streaming Camera Series
