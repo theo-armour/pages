@@ -90,8 +90,6 @@ https://www.marieclaire.com/celebrity/royals/queens-motto-critical-to-reign/
 
 ## ???
 
-
-
 * I'd love to agree with you, but then we'd both be wrong
 * Quantity is no substitute for quality, but its the only one we've got.
 :- slashdot

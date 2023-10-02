@@ -1,5 +1,6 @@
 # 2020-02-29 Worrying about bad things
 
+tags #
 Concept / Mission
 
 * Is this article about control what you believe and what you do by controlling what you read?
@@ -11,7 +12,6 @@ Concept / Mission
 ***
 
 ## Worrying about bad things
-
 
 A friend of mine writes
 

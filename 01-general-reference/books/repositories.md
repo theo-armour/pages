@@ -2,7 +2,6 @@
 
 tabs #books #ref #list
 
-
 Gutenberg etc
 
 
@@ -14,12 +13,9 @@ Listing over 3 million free books on the Web - Updated Thursday, June 15, 2023
 * https://babel.hathitrust.org/cgi/pt?id=coo.31924000299598&view=1up&seq=19
 
 
-
-
-
 ## Libby / https://www.overdrive.com/apps/libby
 
-Libby any book 
+Libby any book
 
 Borrow ebooks, audiobooks, magazines, and more from your local library for free! Libby is the newer library reading app by OverDrive, loved by millions of readers worldwide.
 

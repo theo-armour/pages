@@ -1,6 +1,8 @@
 # 2023-07-12 AI Thoughts of the Day
 
- "Happy families are all alike; every unhappy family is unhappy in its own way."
+# tags
+
+"Happy families are all alike; every unhappy family is unhappy in its own way."
 
 ## Fashion
 

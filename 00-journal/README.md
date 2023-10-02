@@ -16,7 +16,6 @@ Drafts of files that I might like one day to publish. In other words documents w
 This is my "original research" folder. The other folders tend to follow the Wikipedia of "no original research".
 
 
-
 ## Guidelines
 
 * Articles may be presented as A Pattern Language (APL) problems that may have patterns

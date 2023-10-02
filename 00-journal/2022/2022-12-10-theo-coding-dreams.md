@@ -60,8 +60,8 @@ As and when the Revit file is updated, the electrical schematic, the pipeline di
 ## Twenty Teens
 
 The things I worked included
-*
 
+* Helped Three.js get off the ground
 * Realtime 3D map traversal
 * 3D City maps with 3D terrain
 * 3D Map data insertable into other 3D apps
@@ -79,3 +79,10 @@ As you saw in my demos:
 * What you draw is what you get
 * 3D project management
 * "Rubber" (procedural) building designs
+
+## Eighties
+
+* Helped China build factories
+* Helped China build things with their factories that they could sell to the world
+* Helped China build things with their factories that they could sell to the world that were not just copies of what the world was already making
+* Helped China design and create

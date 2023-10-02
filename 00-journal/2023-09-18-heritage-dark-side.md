@@ -1,5 +1,7 @@
 # What does it mean to have a “dark side?”
 
+
+
 Gentleman's Club topic
 
 See shatGPt dialog

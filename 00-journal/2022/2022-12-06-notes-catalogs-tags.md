@@ -1,5 +1,8 @@
 # 2022-12-06 Notes, Catalogs and Tags
 
+tags #notes #bookmarks #tags #catalogs #categoriea #ontology
+
+
 I have been taking notes for something like sixty years.
 
 10 notes of 10 words for 365 days for 60 years = 2,190,000 words.
