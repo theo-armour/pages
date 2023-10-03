@@ -1,4 +1,6 @@
-# Fame & Privacy
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/blob/main/00-journal/2023-10-02-fame-privacy.md)  Fame & Privacy
+
+tags #privacy #fame #open-source #collaboration #dialog
 
 ## Preface 2023-10-02
 
@@ -124,6 +126,15 @@ https://www.instagram.com/psychoanalysisforartists/
 Best of both: micro-fame
 
 * https://en.wikipedia.org/wiki/Micro-celebrity
+
+## Closing
+
+I hope this has been useful. I hope that it literally, opens up our discussions.
+
+Bye for now...
+
+Theo
+
 
 
 ***
