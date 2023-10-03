@@ -101,7 +101,9 @@ It means that researchers are no longer working in isolation. They are able to w
 * Technology is open and accessible to all. It is not proprietary and closed.
 * Technology is becoming more productive, cheaper, faster
 
-Let us encourage artists to imagine the future the arts with similar mission, vision, values - benefits
+The proof is the speed, depth and breadth of the advances in AI and machine learning in the past year.
+
+Let us encourage artists to imagine the future the arts with similar mission, vision, values - and benefits.
 
 
 ## Fame & Privacy Observations
@@ -115,7 +117,7 @@ My feeling
 
 If you want to be discoverable, lean hard toward public conversations
 
-* the more complex issues are discussed in public, the more likely they are to be discovered - simply because they are the interesting aspects of the work.
+* The more complex issues are discussed in public, the more likely they are to be discovered - simply because they are the interesting aspects of the work.
 
 Learn to think in public. Learn to work in public. Learn to share in public.
 
