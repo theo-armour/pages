@@ -78,6 +78,8 @@ Discovery is the key to fame. It is difficult to be discovered if you keep yours
 * https://en.wikipedia.org/wiki/Notability
 * https://en.wikipedia.org/wiki/Celebrity
 * https://www.nytimes.com/2014/03/23/opinion/sunday/the-geography-of-fame.html
+* https://lethain.com/building-prestige/
+  * https://news.ycombinator.com/item?id=37752622
 
 ### Fame is a team sport
 
@@ -139,6 +141,13 @@ I hope this has been useful. I hope that it literally, opens up our discussions.
 Bye for now...
 
 Theo
+
+## Links of Interest
+
+
+
+* https://www.nytimes.com/2014/03/23/opinion/sunday/the-geography-of-fame.html
+
 
 
 
