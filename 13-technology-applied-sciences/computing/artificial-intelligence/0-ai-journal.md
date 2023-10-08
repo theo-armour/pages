@@ -24,6 +24,11 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
+
+## 2023-10-07
+
+A man who is about to die
+
 ## 2023-09-29
 
 - https://discord.com/channels/@me/1156079333132214302
