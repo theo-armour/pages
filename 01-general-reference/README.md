@@ -4,11 +4,15 @@ tags #01 #reference
 
 
 ## General Reference
-
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference
+* https://en.wikipedia.org/wiki/Category:Research
+
 
 
 ### Main categories: Research and Library science
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
 
 ### Reference works
 
