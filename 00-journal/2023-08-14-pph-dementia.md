@@ -1,6 +1,7 @@
 # 2023-08-14 PPH dementia ~ Kari Cedillo
 
-Preentation
+Presentation
+
 * Text too small
 * Saying OK
 
@@ -10,13 +11,12 @@ Modifiable Risk Factors
 
 ## 4 Ms
 
-
 * What matters to you: Joy, safety, indepence, something else
 * Mind
 * Medication
 * mobility
 
-Cognitive decline inevitale
+Cognitive decline inevitable
 
 Dementia ~ many types
 
