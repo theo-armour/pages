@@ -60,7 +60,8 @@ You are looking at the latest incantation. Only notes starting from sometime in 
 
 ## To Do / Wish List
 
-* Brin over notes from all the other older data hoards
+* 2023-10-12 ~ fix document title
+* Bring over notes from all the other older data hoards
 * Transform my categories used elsewhere to Wikipedia categories
 * Update TooToo - the content management system (CMS) used to build this site
 * update: grv-github-repo-tree-view.html
