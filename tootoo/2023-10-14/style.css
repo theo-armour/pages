@@ -1,0 +1,443 @@
+/* Copyright 2023 Theo Armour. MIT License */
+
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+:root {
+	font-size: 100%;
+	--mnu-width: 19rem;
+	--main-hue: 206;
+	/* 0 to 360 0=red 120=green 240=blue */
+	--margin: 0.5rem;
+	--saturation: 89%;
+	--lightness0: 1% --lightness1: 20%;
+	--lightness2: 30%;
+	--lightness3: 50%;
+	--lightness4: 80%;
+	--lightness5: 99.9%;
+	--color-active: #ff0;
+	--color-0-background: #fff;
+	--color-1-text: hsl(var(--main-hue), var(--saturation), 1%);
+	--color-1-background: hsl(var(--main-hue), var(--saturation), 99.9%);
+	--color-2-text: hsl(var(--main-hue), var(--saturation), 30%);
+	--color-2-background: hsl(var(--main-hue), var(--saturation), 90%);
+	--color-3-text: hsl(var(--main-hue), var(--saturation), 40%);
+	--color-3-background: hsl(var(--main-hue), var(--saturation), 95%);
+	--color-4-text: hsl(var(--main-hue), var(--saturation), 40%);
+	--color-4-background: hsl(var(--main-hue), var(--saturation), 98%);
+}
+
+* {
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+	scroll-behavior: smooth;
+	/* margin: 0;
+	padding: 0; */
+}
+
+body {
+	background-color: var(--color-0-background);
+	color: var(--color-1-text);
+	margin: 0;
+	/* overflow: hidden; */
+}
+
+header h1 {
+	margin-bottom: 0;
+}
+
+body::-webkit-scrollbar, #navMenu::-webkit-scrollbar, .select-resize::-webkit-scrollbar {
+	width: 1.25rem;
+	/* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track, #navMenu::-webkit-scrollbar-track, .select-resize::-webkit-scrollbar-track {
+	background: var(--color-0-background);
+	/* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb, #navMenu::-webkit-scrollbar-thumb, .select-resize::-webkit-scrollbar-thumb {
+	background-color: var(--color-2-background);
+	/* color of the scroll thumb */
+	border-radius: var( --margin);
+	/* roundness of the scroll thumb */
+	border: 3px solid var(--color-0-background);
+	/* creates padding around scroll thumb */
+}
+
+/* tags in abc order */
+
+a {
+	color: var(--color-2-text);
+	font-weight: 800;
+	text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+	background-color: var(--color-active);
+	color: var(--color-2-text);
+	text-decoration: underline;
+}
+
+aside {
+	border: 1px solid lightgray;
+	font-weight: 300;
+	margin-top: 1rem;
+	padding: 1rem;
+	float: right;
+	max-width: 20rem;
+}
+
+blockquote {
+	background-color: #ddd;
+	padding: 1rem;
+}
+
+button, input[type="button"] {
+	background-color: var(--color-2-background);
+	/* border: none; */
+	border: solid 1px;
+	border-radius: var(--margin);
+	color: var(--color-1-text);
+	cursor: pointer;
+	padding: 3px 5px;
+}
+
+button:hover {
+	background-color: var(--color-active);
+	color: var(--color-2-text);
+}
+
+button:active {
+	background-color: var(--color-active);
+	color: var(--color-2-text);
+}
+
+code {
+	background-color: #eee;
+}
+
+img {
+	vertical-align: middle;
+}
+
+input[type="range"] {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background-color: var(--color-2-background);
+	border-radius: 2px;
+	height: 1.7ch;
+	width: 98%;
+}
+
+input[type="range"]::-moz-range-thumb {
+	background-color: var(--color-2-text);
+	border-radius: 2;
+	height: 3ch;
+	width: 10px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	background-color: var(--color-2-text);
+	height: 3ch;
+	width: 10px;
+}
+
+input, select, option {
+	background-color: var(--color-3-background);
+}
+
+pre {
+	background-color: #eee;
+	padding: var(--margin);
+}
+
+ul {
+	list-style-position: inside;
+	padding: 0 0.5rem;
+}
+
+ul li:before {
+	content: "";
+	margin-left: -0.5rem;
+}
+
+/* classes */
+
+.active {
+	background-color: var(--color-3-background);
+}
+
+.aDingbat {
+	font-size: 2rem;
+	text-decoration: none;
+}
+
+		.ck-content {
+			border: 0px solid red !important;
+			height: 91vh;
+			overflow: auto;
+		}
+
+		.ck-source-editing-area {
+
+			border: 0px solid red !important;
+			height: 91vh;
+			overflow: auto;
+		}
+
+.feature {
+	font-weight: bold;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.highlight {
+	background-color: var(--color-2-background);
+}
+
+.iframe-resize {
+	height: 400px;
+	overflow: hidden;
+	resize: both;
+	width: 100%;
+}
+
+.resize {
+	border-right: 1px solid teal;
+	overflow: auto;
+	resize: vertical;
+}
+
+.select-resize {
+	/* overflow: hidden; */
+	resize: both;
+	width: 100%;
+}
+
+.subheading {
+	font-style: italic;
+	margin: 0 0 1.5rem 0;
+}
+
+/* Details & Summary */
+
+.summary-primary {
+	background-color: var(--color-2-background);
+	border-radius: 0.5rem;
+	color: var(--color-2-text);
+	cursor: pointer;
+	outline: none;
+	margin: 0 0 0.5rem 0;
+	padding: var( --margin);
+}
+
+.summary-secondary {
+	background-color: var(--color-3-background);
+	color: var(--color-3-text);
+	border-radius: 0.5ch;
+	cursor: pointer;
+	outline: none;
+	margin: 0.5rem;
+	padding: 0.3rem 0.2rem;
+}
+
+.summary-tertiary {
+	background-color: var(--color-4-background);
+	color: var(--color-4-text);
+	border-radius: 0.2ch;
+	cursor: pointer;
+	outline: none;
+	margin: 0.2rem 0 0.5rem 0.5rem;
+}
+
+/* specials */
+
+/* CKEditor */
+
+.ck-content {
+	border: 0px solid red !important;
+	height: 91vh;
+	overflow: auto;
+}
+
+.ck-source-editing-area {
+	border: 0px solid red !important;
+	height: 91vh;
+	overflow: auto;
+}
+
+/* Track */
+
+/* ::-webkit-scrollbar-track {
+	background: var(--color-1-background);
+} */
+
+/* Handle */
+
+/* ::-webkit-scrollbar-thumb {
+	background: var(--color-3-background);
+} */
+
+/* gmd = Google Material Design */
+
+.gmd-1 {
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+	transition: all 0.25s ease-in-out;
+}
+
+.gmd-1:hover {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.gmd-2 {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.gmd-3 {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.gmd-4 {
+	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.gmd-5 {
+	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+/* info box ~ See mnu-menu.js */
+
+.info {
+	cursor: pointer;
+	float: right;
+	position: relative;
+}
+
+.info:hover {
+	background-color: yellow;
+}
+
+.infoImg {
+	opacity: 0.5;
+	width: 1rem;
+}
+
+.infoTooltip {
+	border: 1px double #888;
+	border-radius: var( --margin);
+	background: white;
+	display: none;
+	font: 100% monospace;
+	font-size: 1rem;
+	font-weight: normal;
+	right: 0;
+	padding: var( --margin);
+	position: absolute;
+	width: calc( 0.75 * var(--mnu-width));
+	z-index: 1000;
+}
+
+.info:hover>.infoTooltip {
+	display: block;
+}
+
+/* IDs */
+
+#main {
+	border: 0px solid red;
+	/* height: 100vh; */
+	left: calc( var(--mnu-width) + 1.5rem);
+	position: absolute;
+	width: calc(100% - var(--mnu-width) - 2rem);
+}
+
+#detNavMenu {
+	/* max-height: 90vh;
+	position: fixed;
+	resize: both; */
+	z-index: 1;
+}
+
+#navMenu {
+	/* padding: 0 var( --margin); */
+	/* width */
+	background-color: var(--color-1-background);
+	border: 1px solid #8a8;
+	border-radius: var( --margin);
+	left: 0.25rem;
+	max-height: calc( 100vh - 2rem);
+	padding: var( --margin);
+	position: fixed;
+	top: 1rem;
+	overflow: auto;
+	resize: both;
+	width: var(--mnu-width);
+	z-index: 1;
+}
+
+#sumNavMenu {
+	/* display: none; */
+	background-color: var(--color-1-background);
+	border: 1px solid #8a8;
+	color: var(--color-3-text);
+	border-radius: var( --margin);
+	cursor: pointer;
+	left: var( --margin);
+	outline: none;
+	/* padding: var( --margin); */
+	padding: 0 0 0 0.2rem;
+	position: fixed;
+	top: var( --margin);
+	width: 13rem;
+	z-index: 2;
+}
+
+@media all and (max-width: 800px) {
+	#main {
+		left: 0;
+		padding: var( --margin);
+		width: 100%;
+	}
+	/* #navMenu {
+		display: block;
+	} */
+	#spnMenuHelp {
+		display: none;
+	}
+	#sumNavMenu {
+		font-size: 120%;
+		padding: var( --margin);
+		width: 3.5rem;
+	}
+}
+
+@media all and (max-height: 500px) {
+	#main {
+		left: 0;
+		padding: var( --margin);
+		width: 100%;
+	}
+	/* #navMenu {
+		display: block;
+	} */
+	#spnMenuHelp {
+		display: none;
+	}
+	#sumNavMenu {
+		font-size: 120%;
+		padding: var( --margin);
+		width: 4rem;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		background-color: #1e1f23;
+		color: #aaa;
+	}
+	#navMenu {
+		background-color: #555;
+	}
+}
