@@ -24,7 +24,7 @@ FRX.init = function () {
 	//FRX.pathHandlers = FRX.pathTooToo + `lib02/frx-file-read-xhr/${ FRX.release }/`;
 	//FRX.pathHandlers = `./`;
 
-	FRX.pathHandlers = "https://pushme-pullyou.github.io/tootoo-2023/tootoo/2023-10-14/handlers/";
+	FRX.pathHandlers = "https://theo-armour.github.io/pages/tootoo/2023-10-14/handlers/";
 
 	FRX.defaultUrl = COR.pathContent + COR.defaultFile;
 

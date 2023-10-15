@@ -520,7 +520,7 @@ GRV.getRepos = function () {
 GRV.getRepoNew = function ( obj = {} ) {
 
 	COR.user = obj.user || "theo-armour";
-	COR.repo = obj.repo || "2022";
+	COR.repo = obj.repo || "2023";
 	COR.branch = obj.branch || "main";
 
 	COR.filesAll = obj.menu || true;

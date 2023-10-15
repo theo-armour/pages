@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) Theo Armour Pages
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/pages/ "Source code on GitHub" ) [Theo Armour Pages]( https://theo-armour.github.io/pages/ )
 
 To be read in conjunction with:
 
