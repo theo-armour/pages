@@ -10,7 +10,7 @@ This Read Me is intended be read in conjunction with:
 
 In a recent discussion with a friend, my friend indicated that robotics is currently a machine learning programming task the AI has not been able to "conquer".
 
-Here is a handy link that concurs with the idea that robotcis is still unconquerable:
+Here is a "handy" link that concurs with the unconquorable:
 
 ### Hands of Gods
 
