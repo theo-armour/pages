@@ -4,8 +4,11 @@ tags #01 #reference
 
 
 ## General Reference
+
+Access comprehensive information collections compiled for easy retrieval.
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
-* https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference < good place to start
 * https://en.wikipedia.org/wiki/Category:Research
 
 

@@ -1,10 +1,18 @@
 # Website Essentials
 
+## Introduction
+
+This is a list of essential elements that should be included in every website.
+
+* > copyright &copy 2023 Theo Armour. MIT license.
+* A copyright notice that is current
+* Control-U to view source. The source should be readable and well organized
+
 ## Features & Benefits
 
 Here are three links that discuss Features and Benefits
 
-* Features make engineers happt
+* Features make engineers happy
 * Benefits make managers happy
 
 A good website sends out both messages
@@ -43,4 +51,44 @@ Again, is the page includes links I have more ability to gauge the trush of the 
 
 A good website a page with links of interest that are cataloged and ordered to mirror the perspective of the whole site.
 
+## Example
 
+### Wikipedia Contents
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents
+
+### Wikipedia Contents / Categories
+
+Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
+
+General reference
+Culture and the arts
+Geography and places
+Health and fitness
+History and events
+Human activities
+Mathematics and logic
+Natural and physical sciences
+People and self
+Philosophy and thinking
+Religion and belief systems
+Society and social sciences
+Technology and applied sciences
+
+### Wikipedia Contents / Indices
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Indices
+
+### Wikipedia Contents / Lists
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+
+### Wikipedia Directories and indexes
+
+* https://en.wikipedia.org/wiki/Wikipedia:Directories_and_indexes
+
+* https://en.wikipedia.org/wiki/Wikipedia:List_of_policies
+
+* https://en.wikipedia.org/wiki/Wikipedia:List_of_guidelines
+
+* https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Contents

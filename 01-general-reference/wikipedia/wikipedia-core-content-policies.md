@@ -32,7 +32,7 @@ See also Google E-A-T “Expertise, authoritativeness, and trustworthiness"
 * https://tacomacc.libguides.com/credible
 
 
-## Wikipedia:Core content policies
+## Wikipedia: Core content policies
 
 * https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies
 	* [Neutral point of view]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – All Wikipedia articles and other encyclopedic content must be written from a neutral point of view, representing significant views fairly, proportionately and without bias.
