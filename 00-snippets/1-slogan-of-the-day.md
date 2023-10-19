@@ -1,10 +1,18 @@
 # Slogan of the Day
 
-* https://app.raindrop.io/my/36615030
+* [https://app.raindrop.io/my/36615030](https://app.raindrop.io/my/36615030)
 * Newest at top
 
 ## ToMatto
 
+* Aphorisms happen
+  
+* Let the good times roll
+  
+* When I go, let it be with peace - but with my boots on
+  
+* All the desserts on the menu please
+  
 * If I want to get anything done, I mustn't do anything
 * The more I do the less I do
 * Aphorisms happen
@@ -26,11 +34,11 @@
 * Slow down // and enjoy life
 * Admire beauty!
 * Feel secure
-* "If this isn't Happiness…"  //  "…then what is?"
+* "If this isn't Happiness…" // "…then what is?"
 * Stand from sitting hands-free
 * Even the littlest task counts
 * Left leg workout
-* Walk with cane //  "…and a smile"
+* Walk with cane // "…and a smile"
 * Walker walk with left leg
 * Four thousand weeks in a life ~ use 'em or lose'em //
 * Be happy
