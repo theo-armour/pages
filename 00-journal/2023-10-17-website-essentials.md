@@ -8,6 +8,40 @@ This is a list of essential elements that should be included in every website.
 * A copyright notice that is current
 * Control-U to view source. The source should be readable and well organized
 
+## Concept
+
+### Articles and stories
+
+### Stories
+
+One of the great things about the internet is that there are a lot of great stories that are published daily. There's a lot of rubbish as well, but that's another story.
+
+For this discussion, "stories" refers to content created by writers whose prime jub is writing stories on a regular bases in return of a salary. But it could also ne the marketing pages of a webb site
+
+### Articles
+
+One of the great things about the internet is that there are a lot of great articles that are published daily. There's a lot of rubbish as well, but that's another story.
+
+For this discussion "articles" refers to content created by professionals in a variety of disciplines. The articles are published in journals and magazines. The articles are peer reviewed and edited by professionals.
+
+### Comparison of stories and articles
+
+"Stories" are for the fun of it. Stories are what you read in a magazine or newspaper - digital or online. Articles are, fingers crossed, verifiable, authoritative and trustworthy. Articles are what you read in an academimi journal or Wikipedia..
+
+## Conclusion
+
+When you are buildong a web site, which is it? A story or an article?
+
+If it is a story, then you can write whatever you want. You can make up stuff. You can be funny. You can be serious. You can be whatever you want.
+
+If it is an article, then you need to be careful. You need to be accurate. You need to be authoritative. You need to be trustworthy.
+
+This article is about helping you design websites that are articles.
+
+
+
+
+
 ## Features & Benefits
 
 Here are three links that discuss Features and Benefits
