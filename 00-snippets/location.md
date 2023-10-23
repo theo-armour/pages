@@ -4,7 +4,7 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-* https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
+* [https://en.wikipedia.org/wiki/List\_of\_IBA\_official\_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
 
 ## Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
@@ -43,27 +43,40 @@ Events
 Staff
 
 * Stephanie
+  
 * Chloe ~ Greg's daughter ~ Mill Valley
+  
 * Greg O'Flynn ~ owner
+  
 * Jake
+  
 * Joe (Original Joe)
+  
 * Also at Plumpjack
+  
 * Delivers wine for Terry
+  
 * Likes Ridgewood wine
+  
 * Joe (Little Joe)
+  
 * Creative things
+  
 * Kyler ~ PT wannabe ~ Man of color
+  
 * Tony
-
+  
 * Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus
-  * Danish ~ hearts Kierkegard
-  * Wife Sarah producer \_Carnival Row\_
+  
+* Danish ~ hearts Kierkegard
+  
+* Wife Sarah producer \_Carnival Row\_
+  
 
 Regulars
 
 * Gary ~ social worker
 * Alan Larson
-
 
 ## Causewells
 
@@ -71,7 +84,7 @@ Regulars
 
 ## Cultivar
 
-* Nick knows Clapham
+* Nick ~ knows Clapham
 * Aselia
 
 Try the Caesar salad or Tuna Tartare
@@ -81,7 +94,8 @@ Try the Caesar salad or Tuna Tartare
 * Ebenezer
 
 Cocktail: naked and famous
-* https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail)
+
+* [https://en.wikipedia.org/wiki/Naked\_and\_famous\_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
 
 ## Horseshoe
 
@@ -108,7 +122,6 @@ Regulars
 * My friend: Dylan
 * 4 locations
 * lafromageriesf.com
-
 
 ## Mamo ~ [mamosf](https://mamosf.com)
 
@@ -155,8 +168,8 @@ Regulars
 
 ## [The Interval](https://theinterval.org/) ~ long now
 
-* 10a-midnight
-    Saturday & Sunday 3-11p
+* 10a-midnight  
+  Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
 * Sophie
 * Cecelia
@@ -165,11 +178,10 @@ Regulars
 * Steven
 * Eddie ~ Korean
 
-## Union Street Inn ~ https://unionstreetinn.com/
+## Union Street Inn ~ [https://unionstreetinn.com/](https://unionstreetinn.com/)
 
 * 415.346.0424
 * 2229 Union St
-
 
 ## United Dumplings
 
