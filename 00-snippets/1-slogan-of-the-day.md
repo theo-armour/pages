@@ -6,13 +6,9 @@
 ## ToMatto
 
 * Aphorisms happen
-  
 * Let the good times roll
-  
 * When I go, let it be with peace - but with my boots on
-  
 * All the desserts on the menu please
-  
 * If I want to get anything done, I mustn't do anything
 * The more I do the less I do
 * Aphorisms happen
@@ -44,6 +40,6 @@
 * Be happy
 * Sit, slide, lean
 * Learn to smile
-* It's more fun to be happy
+* * It's more fun to be happy
 * A doctor visiting you is better than you visiting a doctor!
 * Visiting doctors help people live better and therefore longer
