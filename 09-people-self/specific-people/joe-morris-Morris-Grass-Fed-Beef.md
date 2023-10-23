@@ -6,7 +6,10 @@ Where to begin
 
 the land ~ the animals ~ the ideas
 
-Rancho Santa Margarita >> wikipedia
+## Rancho Santa Margarita
+
+* https://en.wikipedia.org/wiki/Rancho_Mission_Viejo,_California
+* https://en.wikipedia.org/wiki/Rancho_Santa_Margarita_y_Las_Flores
 
 ## Reference
 
