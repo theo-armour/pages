@@ -24,6 +24,9 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
+## 2023-10-29
+
+"Day of the Dead" alter in the old people's home --ar 2:1
 
 ## 2023-10-07
 
