@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* One of each please. Try them all. Every dessert on the menu, please
+* Design your life
 * Aphorisms happen
 * Let the good times roll
 * When I go, let it be with peace - but with my boots on
@@ -40,6 +42,6 @@
 * Be happy
 * Sit, slide, lean
 * Learn to smile
-* * It's more fun to be happy
+* \* It's more fun to be happy
 * A doctor visiting you is better than you visiting a doctor!
 * Visiting doctors help people live better and therefore longer
