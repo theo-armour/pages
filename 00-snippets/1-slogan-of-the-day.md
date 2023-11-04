@@ -5,6 +5,10 @@
 
 ## ToMatto
 
+* 2023-11-04 A webpage without a link is like a room without a window
+  
+* The meaning of life is described somewhere in Wikipedia
+  
 * One of each please. Try them all. Every dessert on the menu, please
 * Design your life
 * Aphorisms happen
