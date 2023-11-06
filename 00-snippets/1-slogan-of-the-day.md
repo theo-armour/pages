@@ -5,7 +5,19 @@
 
 ## ToMatto
 
-* 2023-11-06 ~ 2023-11-04 A webpage without a link is like a room without a window
+* 2023-11-06
+  
+  
+  
+  \* Did I hear what you said from my point of view or your point of view?
+  
+  \* Better is the enemy of good. Or not
+  
+  \* On the Internet, nobody knows you are a dog
+  
+* Entropy is your new friend  
+  
+* 2023-11-04 A webpage without a link is like a room without a window
   
 * The meaning of life is described somewhere in Wikipedia
   
