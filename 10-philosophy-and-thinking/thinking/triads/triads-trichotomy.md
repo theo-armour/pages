@@ -164,7 +164,13 @@ Code, get stuck, research (repeat)
 
 ## Grace Cathedral
 
-Mind, Body and Spirit
+Mind, Body and Spirit = knowing, doing, being
 
 https://gracecathedral.org/
+
+
+## Transcendentals
+
+* Truth, Goodness, and Beauty ~ knowing, doing, being
+* https://en.wikipedia.org/wiki/Transcendentals
 
