@@ -18,6 +18,6 @@ https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDeskt
 * Always add headers
   * "Start Date","Start Time","Location","Subject"
   * "Start date","Subject","All Day Event","Description"
-* Cannot import recurring events. must add each year. This is probably a good thing.
+* Cannot import recurring events. Must add each year. This is probably a good thing.
 * If only a start time is entered, an end time of one hour later is assumed
 

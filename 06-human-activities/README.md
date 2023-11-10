@@ -43,6 +43,7 @@ War
 Work
 
 ## Impact of human activity
+
 Human impact on the environment
 * Climate change
 * Nature conservation
