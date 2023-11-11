@@ -3,18 +3,24 @@
 * https://en.wikipedia.org/wiki/Category:Main_topic_classifications
 * https://en.wikipedia.org/wiki/Category:Main_topic_articles
 
-A
+## A
+
 * Academic discipline
 
-B
+
+## B
+
 * Business
 
-C
+
+## C
+
 * Communication
 * Concept
 * Culture
 
-E
+## E
+
 * Economy
 * Education
 * Energy
@@ -23,13 +29,17 @@ E
 * Entity
 * Ethics
 
-F
+## F
+
 * Food and drink
 
 G
+
 * Geography
 * Government
-* H
+
+## H
+
 * Health
 * History
 * Human behavior

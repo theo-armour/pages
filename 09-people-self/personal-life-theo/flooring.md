@@ -14,6 +14,7 @@ Search terms
 
 * vinyl plank flooring metallic tile effect
 
+## Suppliers
 
 * https://www.lowes.com/pd/Armstrong-Flooring-Imperial-Texture-1-Piece-12-in-x-12-in-Blue-Gray-Glue-Adhesive-Speckle-Commercial-VCT-Tile/999978386
 

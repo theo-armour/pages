@@ -1,5 +1,7 @@
 # Location
 
+tags: #asilomar #birds #fish
+
 ## Asilomar
 
 * https://www.visitasilomar.com/
@@ -44,3 +46,27 @@ Birds
 * White-tailed Kite ~
 
 irruption year ~ https://www.allaboutbirds.org/news/what-is-an-irruption/
+
+
+## Fish
+
+### Wikipedia
+
+* https://en.wikipedia.org/wiki/Category:Fish_of_the_Pacific_Ocean
+* https://en.wikipedia.org/wiki/Category:Fish_of_the_North_Pacific
+* https://en.wikipedia.org/wiki/Category:Fish_of_the_Gulf_of_California
+* https://en.wikipedia.org/wiki/List_of_freshwater_fish_in_California
+* https://en.wikipedia.org/wiki/List_of_sharks_in_California
+
+### FishBase
+
+252 fish have "rockfish" in their common name
+
+* https://www.fishbase.org.au/ComNames/CommonNameSearchList.php?resultPage=2&Crit1_FieldName=ComNames.ComName&Crit1_FieldType=Char&crit1_operator=CONTAINS&CommonName=rockfish&sp=n&sortby=Country
+
+
+### various
+
+* https://marinespecies.wildlife.ca.gov/ ~ search on "rockfish" in left column
+* https://www.sfbaywildlife.info/species/fish.htm
+* https://www.fisheries.noaa.gov/species-directory?oq=&field_species_categories_vocab=1000000031&field_region_vocab=1000001126&items_per_page=350

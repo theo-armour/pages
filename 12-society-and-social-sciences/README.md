@@ -6,34 +6,43 @@ tags #12 #society #social
 
 Main categories: Society and Social sciences
 
-Society
-Activism
-Business
-Communication
-Crime
-Economy
-Education
-Ethnic groups
-Family
-Finance
-Globalization
-Government
-Health
-Home
-Industries
-Infrastructure
-**Law**
-Mass media
-Military
-Money
-Organizations
-Peace
-Politics
-Real estate
-Rights
-War
+## Additions
 
-Social sciences
+* Forestry
+
+
+## Society
+
+A society is a grouping of individuals, which is characterized by common interest and may have distinctive culture and institutions. Society can also be explained as an organized group of people associated together for religious, benevolent, cultural, scientific, political, patriotic, recreational, or other purposes.
+
+* Activism
+* Business
+* Communication
+* Crime
+* Economy
+* Education
+* Ethnic groups
+* Family
+* Finance
+* Globalization
+* Government
+* Health
+* Home
+* Industries
+* Infrastructure
+* **Law**
+* Mass media
+* Military
+* Money
+* Organizations
+* Peace
+* Politics
+* Real estate
+* Rights
+* War
+
+## Social sciences
+
 Anthropology
 Archaeology
 Cultural studies

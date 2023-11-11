@@ -1,6 +1,6 @@
 # genealogy
 
-taggs #hobby
+tags #hobby
 
 ## gedcom
 

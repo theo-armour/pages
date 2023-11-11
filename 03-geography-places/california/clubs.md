@@ -1,5 +1,7 @@
 # Clubs
 
+tags #clubs #sorority #fraternity #co-living #assisted-living #schools
+
 * https://www.metropolitanclubsf.org/
 * https://www.franciscaclub.com/
 * https://www.berkeleycityclub.com/
