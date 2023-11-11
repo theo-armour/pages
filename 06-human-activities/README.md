@@ -4,6 +4,8 @@ tags #06 #human #activities
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
 
+This cataegory is about people doing things, organizations, lists
+
 ## Human activities
 Activism
 Agriculture

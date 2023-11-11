@@ -6,9 +6,10 @@ tags #12 #society #social
 
 Main categories: Society and Social sciences
 
-## Additions
+## About
 
-* Forestry
+This category is about analysis, overviews, abstractions, and generalizations about society and social sciences.
+
 
 
 ## Society
