@@ -5,7 +5,15 @@
 
 ## ToMatto
 
-*   2023-11-12 ~ 
+*   2023-11-12 ~ Consistently boring days make for extraordinary decades ~[https://fs.blog/brain-food/november-12-2023/](https://fs.blog/brain-food/november-12-2023/) ~ 
+    
+*   Draw a face every day?
+    
+*   Every ointment has a fly in it.
+    
+*   Every silver lining has a cloud
+    
+*   To travel or not to travel
     
 *   2023-11-06
     
