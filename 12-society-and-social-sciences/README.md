@@ -10,7 +10,9 @@ Main categories: Society and Social sciences
 
 This category is about analysis, overviews, abstractions, and generalizations about society and social sciences.
 
+This category is broader and usually encompasses articles dealing with the structure and behavior of society as a whole. This includes topics related to sociology, anthropology, politics, economics, and history.
 
+If the article is primarily about an activity or task that individuals or groups engage in, it likely belongs in "Human Activities."
 
 ## Society
 

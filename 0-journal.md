@@ -1,5 +1,13 @@
 # Theo Pages Journal
 
+
+## 2023-11-11
+
+Wikipedia has categories titled "Human Activities" and "Society and Social Sciences".
+
+What are some tips for deciding which category to use for new articles?
+
+
 ## 2023-08-19
 
 Add some details to main readme

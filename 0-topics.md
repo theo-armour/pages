@@ -33,7 +33,7 @@
 
 * Food and drink
 
-G
+## G
 
 * Geography
 * Government
@@ -44,33 +44,61 @@ G
 * History
 * Human behavior
 * Humanities
-* I
+
+## I
+
 * Information
 * Internet
-* K
+
+## K
+
 * Knowledge
-* L
+
+
+## L
+
 * Language
 * Law
 * Life
-* M
+
+
+## M
+
 * Mass media
 * Mathematics
 * Military
-* N
+
+
+## N
+
 * Nature
-* P
+
+
+## P
+
 * Person
 * Philosophy
 * Politics
-* R
+
+
+## R
+
 * Religion
-* S
+
+
+## S
+
 * Science
 * Society
 * Sport
-* T
+
+
+## T
+
 * Technology
 * Time
-* U
+
+
+## U
+
 * Universe

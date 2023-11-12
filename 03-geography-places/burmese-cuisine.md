@@ -1,7 +1,7 @@
-# San Francisco Culinary
+# Burmese cuisine
 
-## Burmese
-
+* https://en.wikipedia.org/wiki/Burmese_cuisine
+* https://en.wikipedia.org/wiki/Meeshay
 
 ### Mandalay ~ https://www.mandalaysf.com/
 
@@ -14,33 +14,35 @@ Appetizers
 * Fried eggplant
 
 Soup
+
 * Jia San Hinga (black Pepper Soup)
 
 Salad
+
 * Tea leaf salad
 
 Noodle
+
 * Mandalay Special Noodle (available With Tofu)
 * Burmese Style Noodle (Kaw Soi Dok):
 
 Main
+
 * Mango chicken
+* mohinga
+* Mandalay Misha
 
 Fish
+
 * Fish filet with black bean sauce.
 * Rangoon Spicy fish
 
 Veggies
+
 * Pan-Fried String Beans
 * Mandalay Eggplant
 
 ### Burma Superstar ~ https://www.burmasuperstar.com/
 
 * https://www.yelp.com/biz/burma-superstar-san-francisco-2
-
-
-## Coaching
-
-* https://www.nextgenchef.com/mentors
-* https://lacocinasf.org/comofuncionaelprograma
 
