@@ -5,6 +5,16 @@
 
 ## ToMatto
 
+*   2023-11-14~ 
+    
+*   Change the place is stronger than changing places
+    
+*   Disrupting the routine disrupts the routine of disrupting
+    
+*   Move those arms all day long
+    
+*   My next five-year plan is all about bringing completion to my life's efforts in a beautiful way. After that, let's go off and have some fun!
+    
 *   2023-11-12 ~ Consistently boring days make for extraordinary decades ~[https://fs.blog/brain-food/november-12-2023/](https://fs.blog/brain-food/november-12-2023/) ~ 
     
 *   Draw a face every day?
