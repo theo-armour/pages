@@ -1,6 +1,14 @@
 # AI Journal
 
 
+## AI Questions
+
+* Toes & cuticles
+* Hunching over
+* Old age & anger
+* ?
+
+
 ## Boilerplate
 -
 Dear "A": These are for you
@@ -23,6 +31,11 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
+
+
+## 2023-11-16
+
+What is the URL that obtains the list of all GitHub repositories for a user?
 
 ## 2023-10-29
 
