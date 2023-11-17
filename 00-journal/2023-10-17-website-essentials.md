@@ -1,6 +1,6 @@
 # Website Essentials
 
-!["happy website"](00-journal/2023/images/happy-website.webp "Happy Website")
+!["happy website: a surprisingly ugly DALL E3 image"](00-journal/2023/images/happy-website.webp "Happy Website")
 
 ## Introduction
 
