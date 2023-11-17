@@ -6,10 +6,7 @@
 
 This is a list of essential elements that should be included in every website.
 
-* > copyright &copy 2023 Theo Armour. MIT license.
-* A copyright notice that is current.
-* A suitable license ~ as open as possible or needed
-* Control-U to view source. The source should be readable and well organized
+
 
 ## Concept
 
@@ -27,9 +24,10 @@ One of the great things about the internet is that there are a lot of great arti
 
 For this discussion "articles" refers to content created by professionals in a variety of disciplines. The articles are published in journals and magazines. The articles are peer reviewed and edited by professionals.
 
-### Comparison of stories and articles
+### Comparison of Stories and Articles
 
 "Stories" are for the fun of it. Stories are what you read in a magazine or newspaper - digital or online. Articles are, fingers crossed, verifiable, authoritative and trustworthy. Articles are what you read in an academic journal or Wikipedia..
+
 
 ### From Bing Chat
 
@@ -43,7 +41,7 @@ Source: Conversation with Bing, 11/16/2023
 (4) Feature and opinion writing | The Guardian Foundation. https://theguardianfoundation.org/programmes/behind-the-headlines/secondary-teaching-resources/feature-and-opinion-writing.
 
 
-## Conclusion
+### Articles and Stories Conclusion
 
 When you are building a web site, which is it? A story or an article?
 
@@ -56,9 +54,7 @@ This article is about helping you design websites that are articles.
 
 ## Features & Benefits
 
-Here are three links that discuss Features and Benefits
-
-Links
+Here are three links that discuss features and benefits:
 
 ### A Simple Trick to Turn Features Into Benefits (and Seduce Readers to Buy)
 
@@ -110,11 +106,15 @@ Answer: this is not an issue if the page includes links.
 
 Again, is the page includes links I have more ability to gauge the truth of the statements.
 
+
+### 12 Critical Elements Every Website Homepage Must Have
+
 * https://blog.hubspot.com/blog/tabid/6307/bid/31097/12-Critical-Elements-Every-Homepage-Must-Have-Infographic.aspx
 
-### GitHub Copilot
 
-Me; how important are links in a good webpage?
+### GitHub Copilot Response
+
+Me: how important are links in a good webpage?
 
 GitHub Copilot: Links are crucial in a good webpage for several reasons:
 
@@ -130,9 +130,25 @@ GitHub Copilot: Links are crucial in a good webpage for several reasons:
 
 Remember, while links are important, they should be used appropriately. Too many links can distract and frustrate users, and links to irrelevant or low-quality sites can harm your site's SEO.
 
+
+## Appendix
+
+* > copyright &copy 2023 Theo Armour. MIT license.
+* A copyright notice that is current.
+* A suitable license ~ as open as possible or needed
+* Control-U to view source. The source should be readable and well organized
+
+
 ## Images
 
 A picture is worth a thousand words
+
+
+## Call to Action
+
+A good webpage is a good reflection of you.
+
+Choosing to do good work is choosing to be a good person.
 
 
 ## Links of Interest Page / Resources Page
@@ -144,18 +160,6 @@ A picture is worth a thousand words
 
 A good website a page with links of interest that are cataloged and ordered to mirror the perspective of the whole site.
 
-
-## Call to Action
-
-A good webpage is a good reflection of you.
-
-Choosing to do good work is choosing to be a good person.
-
-
-
-***
-
-### Appendix
 
 ### Wikipedia Contents
 
@@ -179,6 +183,7 @@ Religion and belief systems
 Society and social sciences
 Technology and applied sciences
 
+
 ### Wikipedia Contents / Indices
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Indices
@@ -187,6 +192,7 @@ Technology and applied sciences
 ### Wikipedia Contents / Lists
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+
 
 ### Wikipedia Directories and indexes
 

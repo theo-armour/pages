@@ -1,6 +1,6 @@
-# 2022-12-06 Notes, Catalogs and Tags
+# 2022-12-06 Notes, Catalogs and Tags & Wikipedia
 
-tags #notes #bookmarks #tags #catalogs #categoriea #ontology
+tags #notes #bookmarks #tags #catalogs #categories #ontology #Wikipedia
 
 
 I have been taking notes for something like sixty years.

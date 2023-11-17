@@ -1,5 +1,8 @@
 # Wikipedia Topics
 
+tags #topics
+
+See: https://theo-armour.github.io/pages/#0-topics.md
 
 ## https://en.wikipedia.org/wiki/Category:Main_topic_articles
 
@@ -16,4 +19,5 @@
 
 
 ## https://en.wiktionary.org/wiki/Category:List_of_topics
+
 

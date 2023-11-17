@@ -18,6 +18,7 @@ My job is to help you tailor mission and vision statements that are more than be
 * Our vision is to create a world where people, planet, and prosperity are in balance, by adopting best ESG practices and continuously improving our performance.
 * Our vision is to inspire and empower our stakeholders, employees, and partners, to join us on our journey towards a more sustainable future.
 
+
 ## "Where do I begin? I have no idea about any of this stuff! I don't even know where to start!"
 
 Having a mission and vision is really nice, but it's not enough. You need to have a plan to achieve your goals. Here are some examples of how I can help you do that:
@@ -45,7 +46,9 @@ Part 2: building a core team.
 
 I will help you develop a plan to achieve your goals. I will help you identify the key stakeholders that you need to engage with, and the best way to engage with them. I will help you identify the best practices that you can adopt, and the best way to implement them. I will help you identify the best metrics to measure your progress, and the best way to report on your progress.
 
+
 ## "Okay, I know what I want to do, and I know how to do it, but I don't know how to get started."
+
 
 ## "You can't tell if you are losing weight if you don't step on the scales"
 
@@ -54,6 +57,7 @@ My report will highlight organizations that are already gathering a sharing stat
 
 ## "There's an app for that"
 Once you know about organizations you want to collaborate with and what sorts of things you might want to have measurable targets and metrics for, you will want o get all the team members involved. If yu have team members that have good "eyes and ears" regarding you business, I will discuss ways of implementing their good suggestions. Regular feedback on progress using dashboards, messages, and other means of communication will help to keep everyone on track.
+
 
 ## "Okay, I know what I want to do, and I know how to do it, and I know how to get started, but I don't know how to keep going."
 

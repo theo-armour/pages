@@ -5,33 +5,34 @@
 
 ## A
 
-* Academic discipline
+* https://en.wikipedia.org/wiki/Academicydiscipline
+
 
 
 ## B
 
-* Business
+* https://en.wikipedia.org/wiki/Business
 
 
 ## C
 
-* Communication
-* Concept
-* Culture
+* https://en.wikipedia.org/wiki/Communication
+* https://en.wikipedia.org/wiki/Concept
+* https://en.wikipedia.org/wiki/Culture
 
 ## E
 
-* Economy
-* Education
-* Energy
-* Engineering
-* Entertainment
-* Entity
-* Ethics
+* https://en.wikipedia.org/wiki/Economy
+* https://en.wikipedia.org/wiki/Education
+* https://en.wikipedia.org/wiki/Energy
+* https://en.wikipedia.org/wiki/Engineering
+* https://en.wikipedia.org/wiki/Entertainment
+* https://en.wikipedia.org/wiki/Entity
+* https://en.wikipedia.org/wiki/Ethics
 
 ## F
 
-* Food and drink
+* https://en.wikipedia.org/wiki/Food_and_drink
 
 ## G
 
@@ -101,4 +102,4 @@
 
 ## U
 
-* Universe
+* https://en.wikipedia.org/wiki/Universe

@@ -32,6 +32,7 @@
 * Pogo: "We have met the enemy, and he is us"
 * "Happiness is a choice, not a condition" ~ many sources
 
+
 ## Concept
 
 Responding to questions is easier when you have good templates to build upon.
@@ -125,19 +126,19 @@ Effective altruism is a philosophy and social movement that advocates using evid
 
 * [https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism)
 
-> William MacAskill’s movement set out to help the global poor. Now his followers fret about runaway A.I. Have they seen our threats clearly, or lost their way?  
+> William MacAskill’s movement set out to help the global poor. Now his followers fret about runaway A.I. Have they seen our threats clearly, or lost their way?
 > “The world’s long-run fate depends in part on the choices we make in our lifetimes,” the philosopher William MacAskill writes.
 
 * [https://en.wikipedia.org/wiki/William\_MacAskill](https://en.wikipedia.org/wiki/William_MacAskill)
-    
+
 * [https://www.williammacaskill.com/](https://www.williammacaskill.com/)
-    
+
 * [https://80000hours.org/](https://80000hours.org/)
-    
+
 * [https://www.effectivealtruism.org/people/will-macaskill](https://www.effectivealtruism.org/people/will-macaskill)
-    
+
 * [https://en.wikipedia.org/wiki/Famine,\_Affluence,\_and\_Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
-    
+
 
 > "Famine, Affluence, and Morality" is an essay written by Peter Singer in 1971 and published in Philosophy and Public Affairs in 1972. It argues that affluent persons are morally obligated to donate far more resources to humanitarian causes than is considered normal in Western cultures. The essay was inspired by the starvation of Bangladesh Liberation War refugees, and uses their situation as an example, although Singer's argument is general in scope and not limited to the example of Bangladesh. The essay is anthologized widely as an example of Western ethical thinking.
 
@@ -182,7 +183,7 @@ Much of my behavior is determined by desires to increase pleasure and to decreas
 
 At the same time, I feel the need for meaning, purpose and being useful.
 
-[https://en.wikipedia.org/wiki/Hedonism](https://en.wikipedia.org/wiki/Hedonism)  
+[https://en.wikipedia.org/wiki/Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 [https://en.wikipedia.org/wiki/Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 
 How can you be happy when others are unhappy?
@@ -216,7 +217,7 @@ For me it’s doing nice things - things that are simultaneously nice for me and
 * [https://www.visualcapitalist.com/12-ways-smarter-mental-models/](https://www.visualcapitalist.com/12-ways-smarter-mental-models/)
 * [https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html](https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html)
 * [https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c](https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
-* [https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh)  
+* [https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh)
     [https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05](https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05)
 
 Theo
@@ -267,7 +268,7 @@ patterns are descriptions of common problems and proposal for the solutions that
 
 [https://succeedfeed.com/peter-drucker-quotes/](https://succeedfeed.com/peter-drucker-quotes/)
 
-* That business purpose and business mission are so rarely given adequate thought is  
+* That business purpose and business mission are so rarely given adequate thought is
     perhaps the most important cause of business frustration and failure.
 * What gets measured gets improved
 * You can’t manage what you don’t measure.
@@ -293,8 +294,8 @@ Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
 ## Serenity Prayer ~ [https://en.wikipedia.org/wiki/Serenity\_Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
-> God, grant me the serenity to accept the things I cannot change,  
-> courage to change the things I can,  
+> God, grant me the serenity to accept the things I cannot change,
+> courage to change the things I can,
 > and wisdom to know the difference.
 
 ## Simple Living ~ Simplicity

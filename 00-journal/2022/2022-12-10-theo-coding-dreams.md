@@ -12,11 +12,11 @@
 
   * Myths, theater, Seasonality, Role-playing, Performances, Liveness, Twitch
 * Data Viz
-
   * Agreement & Collaboration visualization
   * APL
   * Constitutions / Rights
   * Wellness
+
 
 ### CAD  ~ More than digital twins
 
@@ -69,7 +69,7 @@ The things I worked included
 * Easy-peasy content management
 * Realtime online generative 3D art
 
-I accomplished most of the above. My scripts are out there. The thing is that the world has caught up, people are now making a living out what I was loving. They now do it much better than I can,
+I accomplished most of the above. My scripts are out there. The thing is that the world has caught up, people are now making a living out what I was loving. They now do it much better than I can.
 
 ## Nineties
 
@@ -79,6 +79,7 @@ As you saw in my demos:
 * What you draw is what you get
 * 3D project management
 * "Rubber" (procedural) building designs
+
 
 ## Eighties
 

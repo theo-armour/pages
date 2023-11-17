@@ -38,15 +38,7 @@ The DBpedia ontology is the heart of DBpedia. Having started as a manually creat
 ## https://en.wikipedia.org/wiki/Wikipedia:Contents/Overviews
 
 
-
 ## https://en.wiktionary.org/wiki/Category:World_Wide_Web
-
-\
-
-## Wikipedia Lists
-
-* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
-* https://en.wikipedia.org/wiki/Category:Lists
 
 
 ## Wikipedia biography of a living person
