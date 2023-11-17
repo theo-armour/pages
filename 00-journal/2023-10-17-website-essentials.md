@@ -130,7 +130,7 @@ GitHub Copilot: Links are crucial in a good webpage for several reasons:
 
 Remember, while links are important, they should be used appropriately. Too many links can distract and frustrate users, and links to irrelevant or low-quality sites can harm your site's SEO.
 
-### Images
+## Images
 
 A picture is worth a thousand words
 
