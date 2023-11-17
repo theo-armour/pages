@@ -54,11 +54,9 @@ If it is an article, then you need to be careful. You need to be accurate. You n
 This article is about helping you design websites that are articles.
 
 
-
 ## Features & Benefits
 
 Here are three links that discuss Features and Benefits
-
 
 Links
 
@@ -137,7 +135,6 @@ Remember, while links are important, they should be used appropriately. Too many
 A picture is worth a thousand words
 
 
-
 ## Links of Interest Page / Resources Page
 
 * Finding good links takes time
@@ -148,11 +145,17 @@ A picture is worth a thousand words
 A good website a page with links of interest that are cataloged and ordered to mirror the perspective of the whole site.
 
 
+## Call to Action
+
+A good webpage is a good reflection of you.
+
+Choosing to do good work is choosing to be a good person.
+
 
 
 ***
 
-### Example
+### Appendix
 
 ### Wikipedia Contents
 
