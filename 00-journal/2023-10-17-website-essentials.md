@@ -1,6 +1,6 @@
 # Website Essentials
 
-!["happy website"](images/happy-website.webp "Happy Website")
+!["happy website"](00-journal/images/happy-website.webp "Happy Website")
 
 ## Introduction
 
