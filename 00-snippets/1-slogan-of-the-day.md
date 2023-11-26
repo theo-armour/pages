@@ -5,6 +5,16 @@
 
 ## ToMatto
 
+*   2023-11-26
+    
+*   Everything I own is visible
+    
+*   It's about what is happening right now
+    
+*   Telling me about what happened yesterday is very yesterday
+    
+*   Complexity is good, but simple is nice
+    
 *   2023-11-14~ 
     
 *   Change the place is stronger than changing places
