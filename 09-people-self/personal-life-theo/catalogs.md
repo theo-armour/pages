@@ -1,5 +1,6 @@
 # Catalogs
 
+tags #catalogs
 
 Catalogs are listed in alphabetical order
 
@@ -68,6 +69,7 @@ Catalogs are listed in alphabetical order
 Reviews
 
 * https://kk.org/cooltools/
+
 >Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love.
 
 * https://www.nytimes.com/wirecutter/
@@ -80,6 +82,7 @@ List of catalogs
 Posts
 
 * https://ask.metafilter.com/349807/the-most-fun-PAPER-mail-order-catalogs-for-browsing-not-buying#bottom-of-content
+
 
 ## To Do
 
