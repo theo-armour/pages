@@ -2,6 +2,10 @@
 
 tags #02 #culture #arts
 
+* https://theo-armour.github.io/pages/#02-culture-and-the-arts/README.md
+
+## wikipedia
+
 * https://en.wikipedia.org/wiki/Wikipedia:
 Contents/
 Culture_and_the_arts
@@ -35,8 +39,6 @@ Philosophy
 Popular culture
 
 Fads ~ trends ~ see 05-history and events
-
-
 
 Science and culture
 

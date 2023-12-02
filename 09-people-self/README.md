@@ -2,6 +2,8 @@
 
 tags #09 #people #self
 
+* https://theo-armour.github.io/pages/#10-philosophy-and-thinking/README.md
+
 ## Wikipedia
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines#People_and_self

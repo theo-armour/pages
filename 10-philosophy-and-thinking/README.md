@@ -2,6 +2,10 @@
 
 tags #10 #philosophy #thinking
 
+* https://theo-armour.github.io/pages/#10-philosophy-and-thinking/philosophy/README.md
+
+## wikipedia
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
 
 ## Philosophy

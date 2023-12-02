@@ -1,4 +1,4 @@
-# bookmarking appa
+# bookmarking apps
 
 * https://news.ycombinator.com/item?id=31848210
 * https://lifehacker.com/the-ultimate-guide-to-organizing-your-messy-chrome-book-1826770044
@@ -7,10 +7,10 @@
 	* http://saved.io/
 * http://bookmark.saved.io/
 
-## About
+## Ask HN: Why haven't bookmarks been re-invented?
 
-### Ask HN: Why haven't bookmarks been re-invented?
 * https://news.ycombinator.com/item?id=34176035
+
 
 ## deprecated
 

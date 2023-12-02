@@ -6,3 +6,7 @@
 * https://www.nytimes.com/interactive/2023/11/12/magazine/andrew-wylie-interview.html?unlocked_article_code=1.-Ew.JwBI.UEr6QZvXoCq0&smid=url-share
 * https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business
 * https://news.ycombinator.com/item?id%253D38242992
+
+Jorge Luis Borges and the Labyrinths of Copyright
+
+* https://archive.is/dG278

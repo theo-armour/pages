@@ -2,6 +2,9 @@
 
 tags #12 #society #social
 
+* https://theo-armour.github.io/pages/#12-society-and-social-sciences/README.md
+
+
 ## https://en.wikipedia.org/wiki/Wikipedia:Contents/Society_and_social_sciences
 
 Main categories: Society and Social sciences

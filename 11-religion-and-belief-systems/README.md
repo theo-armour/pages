@@ -2,6 +2,10 @@
 
 tags #11 #religion #belief
 
+* https://theo-armour.github.io/pages/#11-religion-and-belief-systems/README.md
+
+## wikipedia
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
 
 Main categories: Religion and Belief

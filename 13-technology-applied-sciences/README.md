@@ -2,6 +2,12 @@
 
 tags #13 #tech #applied-science
 
+* https://theo-armour.github.io/pages/#13-technology-applied-sciences/README.md
+
+
+
+## wikipedia
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories#Technology_and_applied_sciences
 * https://en.wikipedia.org/wiki/Category:Technology

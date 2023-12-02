@@ -2,6 +2,11 @@
 
 tags #08 #natural #physical #sciences
 
+* https://theo-armour.github.io/pages/#08-natural-and-physical-sciences/README.md
+
+
+## wikipedia
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Natural_and_physical_sciences
 * https://theo-armour.github.io/pages/#08-natural-and-physical-sciences/README.md
 
