@@ -26,9 +26,19 @@ Know your leaders
 ## Mothers
 
 * Mothers are on your team
+* Mothers are your go-betweens; will intercede on your behalf better than you can
 * Use your mother to your advantage
 
 ## Sex
 
 * Anything goes
+
+## People outside your network but inside your culture
+
+* You can trust them, and you can lie to them
+
+## Clothes make the man
+
+
+
 
