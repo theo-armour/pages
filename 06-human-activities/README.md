@@ -3,6 +3,7 @@
 tags #06 #human #activities
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
+* https://theo-armour.github.io/pages/#06-human-activities/README.md
 
 This cataegory is about people doing things, organizations, lists
 
@@ -51,6 +52,7 @@ Work
 ## Impact of human activity
 
 Human impact on the environment
+
 * Climate change
 * Nature conservation
 * Deforestation
