@@ -59,6 +59,9 @@ You remind me of a man.
 
 ## Virtues
 
+* https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
+* https://positivepsychology.com/classification-character-strengths-virtues/
+
 ### 1. Wisdom and Knowledge
 
 * creativity (personified for example by Albert Einstein)
