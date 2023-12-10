@@ -1,132 +1,137 @@
 # Slogan of the Day
 
-*   [https://app.raindrop.io/my/36615030](https://app.raindrop.io/my/36615030)
-*   Newest at top
+* [https://app.raindrop.io/my/36615030](https://app.raindrop.io/my/36615030)
+* Newest at top
 
 ## ToMatto
 
-*   2023-11-26
+* 2023-12-10
     
-*   Everything I own is visible
+* Establish consistency
+* drink, drank, drunk
+* happy
+* 2023-11-26
     
-*   It's about what is happening right now
+* Everything I own is visible
     
-*   Telling me about what happened yesterday is very yesterday
+* It's about what is happening right now
     
-*   Complexity is good, but simple is nice
+* Telling me about what happened yesterday is very yesterday
     
-*   2023-11-14~ 
+* Complexity is good, but simple is nice
     
-*   Change the place is stronger than changing places
+* 2023-11-14~ 
     
-*   Disrupting the routine disrupts the routine of disrupting
+* Change the place is stronger than changing places
     
-*   Move those arms all day long
+* Disrupting the routine disrupts the routine of disrupting
     
-*   My next five-year plan is all about bringing completion to my life's efforts in a beautiful way. After that, let's go off and have some fun!
+* Move those arms all day long
     
-*   2023-11-12 ~ Consistently boring days make for extraordinary decades ~[https://fs.blog/brain-food/november-12-2023/](https://fs.blog/brain-food/november-12-2023/) ~ 
+* My next five-year plan is all about bringing completion to my life's efforts in a beautiful way. After that, let's go off and have some fun!
     
-*   Draw a face every day?
+* 2023-11-12 ~ Consistently boring days make for extraordinary decades ~[https://fs.blog/brain-food/november-12-2023/](https://fs.blog/brain-food/november-12-2023/) ~ 
     
-*   Every ointment has a fly in it.
+* Draw a face every day?
     
-*   Every silver lining has a cloud
+* Every ointment has a fly in it.
     
-*   To travel or not to travel
+* Every silver lining has a cloud
     
-*   2023-11-06
+* To travel or not to travel
     
-*   On the Internet, nobody knows you are a dog
+* 2023-11-06
     
-*   Better is the enemy of good. Or not
+* On the Internet, nobody knows you are a dog
     
-*   Did I hear what you said from my point of view or your point of view?
+* Better is the enemy of good. Or not
     
-*   Entropy is your new friend  
+* Did I hear what you said from my point of view or your point of view?
     
-*   2023-11-04
+* Entropy is your new friend  
     
-*   A webpage without a link is like a room without a window
+* 2023-11-04
     
-*   The meaning of life is described somewhere in Wikipedia
+* A webpage without a link is like a room without a window
     
-*   One of each please. Try them all. Every dessert on the menu, please
+* The meaning of life is described somewhere in Wikipedia
     
-*   Design your life
+* One of each please. Try them all. Every dessert on the menu, please
     
-*   Aphorisms happen
+* Design your life
     
-*   Let the good times roll
+* Aphorisms happen
     
-*   When I go, let it be with peace - but with my boots on
+* Let the good times roll
     
-*   All the desserts on the menu please
+* When I go, let it be with peace - but with my boots on
     
-*   If I want to get anything done, I mustn't do anything
+* All the desserts on the menu please
     
-*   The more I do the less I do
+* If I want to get anything done, I mustn't do anything
     
-*   Aphorisms happen
+* The more I do the less I do
     
-*   "Happiness is a choice, not a condition"
+* Aphorisms happen
     
-*   My three treasures
+* "Happiness is a choice, not a condition"
     
-*   One simplicity task a day
+* My three treasures
     
-*   Let your body evolve your schedule
+* One simplicity task a day
     
-*   Nap exercises
+* Let your body evolve your schedule
     
-*   Non-exercise activity thermogenesis (NEAT) is the energy expended by the body during all physical activities that are not planned exercise or sports, sleeping, breathing, or eating
+* Nap exercises
     
-*   Stand up twice
+* Non-exercise activity thermogenesis (NEAT) is the energy expended by the body during all physical activities that are not planned exercise or sports, sleeping, breathing, or eating
     
-*   Rave! ~ "ichi-go ichi-e" "once in a lifetime"
+* Stand up twice
     
-*   In the absence of any other desired activity, just start writing
+* Rave! ~ "ichi-go ichi-e" "once in a lifetime"
     
-*   Do something physical or active (tidying) every morning and afternoon
+* In the absence of any other desired activity, just start writing
     
-*   Simplicity // is the ultimate sophistication
+* Do something physical or active (tidying) every morning and afternoon
     
-*   Relax
+* Simplicity // is the ultimate sophistication
     
-*   Gratitude // is the best attitude
+* Relax
     
-*   Stand up straight
+* Gratitude // is the best attitude
     
-*   Stop Look Go
+* Stand up straight
     
-*   Slow down // and enjoy life
+* Stop Look Go
     
-*   Admire beauty!
+* Slow down // and enjoy life
     
-*   Feel secure
+* Admire beauty!
     
-*   "If this isn't Happiness…" // "…then what is?"
+* Feel secure
     
-*   Stand from sitting hands-free
+* "If this isn't Happiness…" // "…then what is?"
     
-*   Even the littlest task counts
+* Stand from sitting hands-free
     
-*   Left leg workout
+* Even the littlest task counts
     
-*   Walk with cane // "…and a smile"
+* Left leg workout
     
-*   Walker walk with left leg
+* Walk with cane // "…and a smile"
     
-*   Four thousand weeks in a life ~ use 'em or lose'em //
+* Walker walk with left leg
     
-*   Be happy
+* Four thousand weeks in a life ~ use 'em or lose'em //
     
-*   Sit, slide, lean
+* Be happy
     
-*   Learn to smile
+* Sit, slide, lean
     
-*   \* It's more fun to be happy
+* Learn to smile
     
-*   A doctor visiting you is better than you visiting a doctor!
+* \* It's more fun to be happy
     
-*   Visiting doctors help people live better and therefore longer
+* A doctor visiting you is better than you visiting a doctor!
+    
+* Visiting doctors help people live better and therefore longer
