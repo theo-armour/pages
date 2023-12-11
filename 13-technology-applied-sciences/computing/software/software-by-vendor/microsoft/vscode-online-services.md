@@ -5,8 +5,6 @@
 ## Code Anywhere
 
 
-
-
 ### Pin-up
 
 * JSON file saved to folder at top of the workspace

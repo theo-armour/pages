@@ -1,6 +1,7 @@
 # Microsoft
 
-GitHub
+## GitHub Microsoft
+
 * https://github.com/microsoft
 * https://github.com/microsoft/opensource.microsoft.com
 

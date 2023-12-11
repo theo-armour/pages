@@ -6,6 +6,11 @@ latest: ckeditor5-34.1.0-uwwc7n1tkaz7
 
 https://cke5-online-builder.cke-cs.com/download/ysf9zv6tt76x-jm4c4cgln2q9/ckeditor5.zip
 
+## About
+
+* 2023-12-10 ~ Just too complicated for me ~ too Nod oriented
+
+
 ## pretty print output
 
 https://github.com/ckeditor/ckeditor5/issues/8668
