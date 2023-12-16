@@ -6,8 +6,9 @@
 ## ToMatto
 
 * 2023-12-16
-*   
-    
+* Establish consistency
+* drink, drank, drunk
+* happy
 * 2023-12-10
 * Establish consistency
 * drink, drank, drunk
