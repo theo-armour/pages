@@ -5,6 +5,9 @@
 
 ## ToMatto
 
+* 2023-12-16
+*   
+    
 * 2023-12-10
 * Establish consistency
 * drink, drank, drunk
@@ -68,7 +71,7 @@
 * Four thousand weeks in a life ~ use 'em or lose'em //
 * Be happy
 * Sit, slide, lean
-* Learn to smile   
+* Learn to smile
 * It's more fun to be happy
 * A doctor visiting you is better than you visiting a doctor!
 * Visiting doctors help people live better and therefore longer
