@@ -43,35 +43,21 @@ Events
 Staff
 
 * Stephanie
-  
 * Chloe ~ Greg's daughter ~ Mill Valley
-  
 * Greg O'Flynn ~ owner
-  
 * Jake
-  
 * Joe (Original Joe)
-  
 * Also at Plumpjack
-  
 * Delivers wine for Terry
-  
 * Likes Ridgewood wine
-  
 * Joe (Little Joe)
-  
 * Creative things
-  
 * Kyler ~ PT wannabe ~ Man of color
-  
 * Tony
-  
 * Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus
-  
 * Danish ~ hearts Kierkegard
-  
 * Wife Sarah producer \_Carnival Row\_
-  
+
 
 Regulars
 
@@ -168,7 +154,7 @@ Regulars
 
 ## [The Interval](https://theinterval.org/) ~ long now
 
-* 10a-midnight  
+* 10a-midnight
   Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
 * Sophie
