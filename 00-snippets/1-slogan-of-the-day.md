@@ -6,6 +6,12 @@
 ## ToMatto
 
 * 2023-12-17
+* Excel in the 24 virtues
+    
+* Help prevent falling. Do one thing at a time.
+    
+* What was god doing before he said, "Let there be light"?
+    
 * 2023-12-16
 * Establish consistency
 * drink, drank, drunk
