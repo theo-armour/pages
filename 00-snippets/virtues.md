@@ -1,5 +1,12 @@
 # Virtues
 
+## Actions
+
+* add links to wikipedia definitions of each virtue
+* Add examples where I have personified a virtue
+
+
+## Links
 * https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
 * https://positivepsychology.com/classification-character-strengths-virtues/
 

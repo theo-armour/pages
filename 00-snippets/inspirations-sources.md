@@ -56,6 +56,7 @@ Abstraction is a conceptual process wherein general rules and concepts are deriv
 
 * [https://en.wikipedia.org/wiki/First\_principle](https://en.wikipedia.org/wiki/First_principle)
 
+
 ## Aphorisms
 
 Will be adding my favs
@@ -63,6 +64,7 @@ Will be adding my favs
 * Those who do not learn from history are doomed to repeat it
 * Those who do not record their history are doomed to forget they are repeating it.
 * [https://en.wiktionary.org/wiki/Category:English\_proverbs](https://en.wiktionary.org/wiki/Category:English_proverbs)
+
 
 ## Burning Man > The 10 Principles of Burning Man
 
@@ -91,6 +93,7 @@ Will be adding my favs
 * [https://en.wikipedia.org/wiki/Time\_management#Task\_list\_organization](https://en.wikipedia.org/wiki/Time_management#Task_list_organization)
 * [https://en.wikipedia.org/wiki/Category:Checklists](https://en.wikipedia.org/wiki/Category:Checklists)
 
+
 ## Diet
 
 Heros
@@ -117,10 +120,11 @@ Category philosophy and thinking > virtue > altruism
 
 [https://en.wikipedia.org/wiki/Effective\_altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 
-Effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others. Altruism refers to improving the lives of others—as opposed to egoism, which emphasizes only self-interest. Effectiveness refers to doing the most good with whatever resources are available—as opposed to only doing some amount of good—as well as determining what is the most good by using evidence and reasoning—as opposed to only doing what feels good or appears intuitively appealing.
+>Effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others. Altruism refers to improving the lives of others—as opposed to egoism, which emphasizes only self-interest. Effectiveness refers to doing the most good with whatever resources are available—as opposed to only doing some amount of good—as well as determining what is the most good by using evidence and reasoning—as opposed to only doing what feels good or appears intuitively appealing.
 
 * [https://www.effectivealtruism.org/](https://www.effectivealtruism.org/)
 * [https://en.wikipedia.org/wiki/Category:Effective\_altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
+
 
 ### William MacAskill
 
@@ -143,6 +147,7 @@ Effective altruism is a philosophy and social movement that advocates using evid
 > "Famine, Affluence, and Morality" is an essay written by Peter Singer in 1971 and published in Philosophy and Public Affairs in 1972. It argues that affluent persons are morally obligated to donate far more resources to humanitarian causes than is considered normal in Western cultures. The essay was inspired by the starvation of Bangladesh Liberation War refugees, and uses their situation as an example, although Singer's argument is general in scope and not limited to the example of Bangladesh. The essay is anthologized widely as an example of Western ethical thinking.
 
 [https://resist.org/radical-philanthropy/](https://resist.org/radical-philanthropy/)
+
 
 ## Features & Benefits
 
@@ -177,6 +182,7 @@ Glossary of Stand Up Comedy Terms
 
 * [https://news.ycombinator.com/item?id=19063053](https://news.ycombinator.com/item?id=19063053)
 
+
 ## Happiness, Hedonism
 
 Much of my behavior is determined by desires to increase pleasure and to decrease pain. I am a regular hedonist.
@@ -190,6 +196,7 @@ How can you be happy when others are unhappy?
 
 * [https://www.reddit.com/r/askphilosophy/comments/dq46g6/how\_to\_be\_happy\_in\_an\_unjust\_world/](https://www.reddit.com/r/askphilosophy/comments/dq46g6/how_to_be_happy_in_an_unjust_world/)
 
+
 ## Meaning of Life
 
 [https://en.wikipedia.org/wiki/Meaning\_of\_life](https://en.wikipedia.org/wiki/Meaning_of_life)
@@ -199,6 +206,9 @@ Finding meaning in life is a very tricky thing indeed, Fortunately and similarly
 [https://en.wikipedia.org/wiki/Turtles\_all\_the\_way\_down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
 
 For me it’s doing nice things - things that are simultaneously nice for me and good for the world.
+
+I care therefore I am.
+
 
 ## Lessons Learned
 
@@ -210,6 +220,7 @@ For me it’s doing nice things - things that are simultaneously nice for me and
 * If it bleeds it leads
 * The stories of happy people are all the same, the stories of unhappy people are all different
 * [https://en.wikipedia.org/wiki/If\_it\_bleeds,\_it\_leads](https://en.wikipedia.org/wiki/If_it_bleeds,_it_leads)
+
 
 ## Mental Models
 
