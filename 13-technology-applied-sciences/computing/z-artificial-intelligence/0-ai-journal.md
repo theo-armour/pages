@@ -35,7 +35,7 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 ## 2023-12-20
 
-Black and white line drawing of Frosty the Snowman, flying with wings, blowing a trumpet
+Black and white line drawing of Frosty the Snowman, flying with wings, blowing a trumpe
 
 Black and white line drawing of Frosty the Snowman as a flying herald, with wings, blowing a medieval trumpet, renaissance
 
