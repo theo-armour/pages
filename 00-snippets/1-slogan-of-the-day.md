@@ -5,9 +5,14 @@
 
 ## ToMatto
 
+* 2023-12-16: I care therefore I am ~ I am what I think ~ I am what I drink
+    
 * 2023-12-01: Finish the design
+    
 * 2023-12-04: Implement subtraction
+    
 * 2023-12-04: Subtract in such a way that adds understanding (complexity) ~ adds value
+    
 * 2023-12-17
     
 * Excel in the 24 virtues
