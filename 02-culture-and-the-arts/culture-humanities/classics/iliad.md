@@ -3,7 +3,7 @@
 Alternate tiles
 
 * Operating Manual for Ruling Classes
-* Handbook of the Olb Boys Network
+* Handbook of the Old Boys Network
 * Bible for the Aristocracy
 
 Bullets
