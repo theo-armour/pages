@@ -25,6 +25,7 @@ Know your leaders
 
 ## Mothers
 
+* Mothers who are goddesses are the best
 * Mothers are on your team
 * Mothers are your go-betweens; will intercede on your behalf better than you can
 * Use your mother to your advantage
@@ -42,3 +43,6 @@ Know your leaders
 
 
 
+## AI
+
+Homer in the Iliad lists many skills that are required to be a leader. Can you list them? Before you start, please ask me any questions you have about this so I can give you more context. Be extremely comprehensive.
