@@ -58,7 +58,6 @@ Staff
 * Danish ~ hearts Kierkegard
 * Wife Sarah producer \_Carnival Row\_
 
-
 Regulars
 
 * Gary ~ social worker
@@ -138,6 +137,10 @@ Regulars
 * 415.922.9022 ~ union & ~ no reservations
 * Emily
 
+## Radhaus
+
+\* Mark: burly bearded Bartender
+
 ## Ristobar
 
 * Danny ~ wife from 12th ~ born Costa Rica ~ came to US wanting to join Military
@@ -154,8 +157,7 @@ Regulars
 
 ## [The Interval](https://theinterval.org/) ~ long now
 
-* 10a-midnight
-  Saturday & Sunday 3-11p
+* 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
 * Sophie
 * Cecelia
@@ -173,13 +175,13 @@ Regulars
 
 * Steven ~ speaks Mandarin
 
-* * *
+***
 
 ## Cafe Terminus
 
 * Ryan
 
-* * *
+***
 
 ## Irving Street
 
