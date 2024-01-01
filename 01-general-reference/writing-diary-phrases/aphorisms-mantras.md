@@ -166,18 +166,43 @@ Stop Look Go: A Grateful Practice Workbook and Gratitude JournalA Grateful Pract
 * https://www.gutenberg.org/files/9105/9105-h/9105-h.htm
 * https://www.goodreads.com/work/quotes/783296-r-flexions-ou-sentences-et-maximes-morales
 
-## Grace Hopper
+## (Grace Hopper](https://en.wikiquote.org/wiki/Grace_Hopper)
 
-* https://en.wikiquote.org/wiki/Grace_Hopper
-* It's easier to ask forgiveness than it is to get permission.
+* "It's easier to ask forgiveness than it is to get permission."
 
 ## Harry Copland
 
-* Apple pie without cheese is like a kiss without a squeeze
+* "Apple pie without cheese is like a kiss without a squeeze"
 
 ## HL Mencken
 
 * "I go on working for the same reason a hen goes on laying eggs." - H. L. Mencken
+
+## [John Heywood](https://en.wikipedia.org/wiki/John_Heywood)
+
+* What you have, hold.
+* Haste maketh waste. (1546)
+* Out of sight out of mind. (1542)
+* When the sun shineth, make hay. (1546)
+* Look ere ye leap. (1546)
+* Two heads are better than one. (1546)
+* Love me, love my dog. (1546)
+* Beggars should be no choosers. (1546)
+* All is well that ends well. (1546)
+* The fat is in the fire. (1546)
+* I know on which side my bread is buttered. (1546)
+* One good turn asketh another. (1546)
+* A penny for your thought. (1546)
+* Rome was not built in one day. (1546)
+* Better late than never. (1546)
+* An ill wind that bloweth no man to good. (1546)
+* The more the merrier. (1546)
+* You cannot see the wood for the trees. (1546)
+* This hitteth the nail on the head. (1546)
+* No man ought to look a given horse in the mouth. (1546)
+* Tread a woorme on the tayle and it must turne agayne. (1546)
+* Wolde ye bothe eate your cake and haue your cake? (1562)
+* When he should get aught, each finger is a thumb. (1546)
 
 ## Kurt Vonnegut
 
