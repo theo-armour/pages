@@ -5,8 +5,17 @@ medium.com ways to split my writing personalities
 newest at top
 
 * 2024-01-01 ! My bathroom basin
-*   
-    
+* pills on shelf
+* hole on pills
+* Comb behind mirror
+* Savon de Marseille
+* Soup holder
+* Turning soap over daily
+* Bottle on bumb
+* Glass on bottle
+* Two toothpastes
+* Toothbrish on tubes
+* Logos facing away
 * 2023-09-15 ~ Changes I have effected on the world ;-) factories in China ~ drawing boards to computers ~ three.js everywhere 
 * 2023-09-10 ~ long wait for the weight loss
 * 2023-08-12 ~ Angels & reflexive contrarians ~ reflection on Margaret Jacobs personality
