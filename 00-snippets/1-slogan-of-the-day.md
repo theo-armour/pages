@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* 2023-12-2: I care for others by listening and elucidating and then acting accordingly. In return I do not demand, I do not "require", I don't even ask, but I do inform people of my concerns, worries and needs ~ I enable people to care for me.
+    
 * 2023-12-16: I care therefore I am ~ I am what I think ~ I am what I drink
     
 * 2023-12-01: Finish the design
