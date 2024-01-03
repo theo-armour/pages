@@ -40,6 +40,7 @@ Create a recovery drive in a USB drive
 
 win start > cmd (admin ) > sfc /snannow
 
+
 ## keyboard reassign
 
 Not with surface 9!
@@ -53,6 +54,7 @@ https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a
 
 Shift + Del = Bypass Recycle
 Control + Shift + Escape = Windows Task Manager
+
 
 ### Windows Logo Key Speed Keys
 
@@ -127,6 +129,8 @@ System Update
 
 Wow!
 
+But not well maintained.
+
 * https://www.microsoft.com/en-us/garage/workbench/
 
 
@@ -152,3 +156,14 @@ https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-
 In windows open a command line as Admin, and use the following command:
 
 mklink Link Target. This will create a (soft) symbolic link. Example: mklink C:\Development\cic.evaluate.antlr\JavaScript\src\Tests\ClarionExprParser.Debugger.txt C:\Development\cic.evaluate.antlr\Tests\ClarionExprParser_Debugger.txt
+
+## Context Menu
+
+List
+
+* https://www.thewindowsclub.com/remove-click-context-menu-items-editors
+
+Apps
+
+* https://www.sordum.org/7615/easy-context-menu-v1-6/
+
