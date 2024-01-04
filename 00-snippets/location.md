@@ -30,6 +30,10 @@ Closed Sunday & Monday
 * Sebastian
 * Manager: Guillaume
 
+## Brazen head
+
+\* Daniel ~ gigondas
+
 ## Bus Stop ~ Union & Laguna
 
 * Owner: Jesse
@@ -139,7 +143,7 @@ Regulars
 
 ## Radhaus
 
-\* Mark: burly bearded Bartender
+* Mark: burly bearded Bartender
 
 ## Ristobar
 
