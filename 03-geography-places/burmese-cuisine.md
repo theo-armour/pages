@@ -3,7 +3,7 @@
 * https://en.wikipedia.org/wiki/Burmese_cuisine
 * https://en.wikipedia.org/wiki/Meeshay
 
-### Mandalay ~ https://www.mandalaysf.com/
+## Mandalay ~ https://www.mandalaysf.com/
 
 * https://www.yelp.com/biz/mandalay-san-francisco
 
