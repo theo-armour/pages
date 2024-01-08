@@ -8,7 +8,7 @@
 * Knowledge management
 * Truth, beauty, goodness
 * Triads
-* RLS: 12 Rules for Life
+* RLS: 12 Rules for Life ~ [Content in a Cottage: 12 Rules to Live By - Robert Louis Stevenson](https://contentinacottage.blogspot.com/2008/11/12-rules-to-live-by-robert-louis.html)
 * No phones in the dining room
 * Hyperlinks everywhere
 * who, what, when, where, & why ~ people, products, markets, strategies & financials
@@ -28,10 +28,9 @@
 * Complex vs Complexity / simple as possible but no simpler / 
 * Using the same tools / helping others because they use the same tools / 
 * Mailing list ~ benefits of history
-* Every file has a single home ! multiple duplicates still too difficult to manage in this era
+* Every file has a single home ~ multiple duplicates still too difficult to manage in this era
 * Pogo: "We have met the enemy, and he is us"
 * "Happiness is a choice, not a condition" ~ many sources
-
 
 ## Concept
 
@@ -56,7 +55,6 @@ Abstraction is a conceptual process wherein general rules and concepts are deriv
 
 * [https://en.wikipedia.org/wiki/First\_principle](https://en.wikipedia.org/wiki/First_principle)
 
-
 ## Aphorisms
 
 Will be adding my favs
@@ -64,7 +62,6 @@ Will be adding my favs
 * Those who do not learn from history are doomed to repeat it
 * Those who do not record their history are doomed to forget they are repeating it.
 * [https://en.wiktionary.org/wiki/Category:English\_proverbs](https://en.wiktionary.org/wiki/Category:English_proverbs)
-
 
 ## Burning Man > The 10 Principles of Burning Man
 
@@ -93,7 +90,6 @@ Will be adding my favs
 * [https://en.wikipedia.org/wiki/Time\_management#Task\_list\_organization](https://en.wikipedia.org/wiki/Time_management#Task_list_organization)
 * [https://en.wikipedia.org/wiki/Category:Checklists](https://en.wikipedia.org/wiki/Category:Checklists)
 
-
 ## Diet
 
 Heros
@@ -120,34 +116,26 @@ Category philosophy and thinking > virtue > altruism
 
 [https://en.wikipedia.org/wiki/Effective\_altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 
->Effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others. Altruism refers to improving the lives of others—as opposed to egoism, which emphasizes only self-interest. Effectiveness refers to doing the most good with whatever resources are available—as opposed to only doing some amount of good—as well as determining what is the most good by using evidence and reasoning—as opposed to only doing what feels good or appears intuitively appealing.
+> Effective altruism is a philosophy and social movement that advocates using evidence and reasoning to determine the most effective ways to benefit others. Altruism refers to improving the lives of others—as opposed to egoism, which emphasizes only self-interest. Effectiveness refers to doing the most good with whatever resources are available—as opposed to only doing some amount of good—as well as determining what is the most good by using evidence and reasoning—as opposed to only doing what feels good or appears intuitively appealing.
 
 * [https://www.effectivealtruism.org/](https://www.effectivealtruism.org/)
 * [https://en.wikipedia.org/wiki/Category:Effective\_altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
-
 
 ### William MacAskill
 
 * [https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism)
 
-> William MacAskill’s movement set out to help the global poor. Now his followers fret about runaway A.I. Have they seen our threats clearly, or lost their way?
-> “The world’s long-run fate depends in part on the choices we make in our lifetimes,” the philosopher William MacAskill writes.
+> William MacAskill’s movement set out to help the global poor. Now his followers fret about runaway A.I. Have they seen our threats clearly, or lost their way? “The world’s long-run fate depends in part on the choices we make in our lifetimes,” the philosopher William MacAskill writes.
 
 * [https://en.wikipedia.org/wiki/William\_MacAskill](https://en.wikipedia.org/wiki/William_MacAskill)
-
 * [https://www.williammacaskill.com/](https://www.williammacaskill.com/)
-
 * [https://80000hours.org/](https://80000hours.org/)
-
 * [https://www.effectivealtruism.org/people/will-macaskill](https://www.effectivealtruism.org/people/will-macaskill)
-
 * [https://en.wikipedia.org/wiki/Famine,\_Affluence,\_and\_Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
-
 
 > "Famine, Affluence, and Morality" is an essay written by Peter Singer in 1971 and published in Philosophy and Public Affairs in 1972. It argues that affluent persons are morally obligated to donate far more resources to humanitarian causes than is considered normal in Western cultures. The essay was inspired by the starvation of Bangladesh Liberation War refugees, and uses their situation as an example, although Singer's argument is general in scope and not limited to the example of Bangladesh. The essay is anthologized widely as an example of Western ethical thinking.
 
 [https://resist.org/radical-philanthropy/](https://resist.org/radical-philanthropy/)
-
 
 ## Features & Benefits
 
@@ -166,10 +154,10 @@ hero
 
 ## Improv ~ Tina Fey ~ Four Rules of Improv
 
-1. You must agree
-2. “Yes” isn’t enough, you must “yes, and…”
-3. Make statements.
-4. There are no mistakes!
+1.  You must agree
+2.  “Yes” isn’t enough, you must “yes, and…”
+3.  Make statements.
+4.  There are no mistakes!
 
 About
 
@@ -182,20 +170,17 @@ Glossary of Stand Up Comedy Terms
 
 * [https://news.ycombinator.com/item?id=19063053](https://news.ycombinator.com/item?id=19063053)
 
-
 ## Happiness, Hedonism
 
 Much of my behavior is determined by desires to increase pleasure and to decrease pain. I am a regular hedonist.
 
 At the same time, I feel the need for meaning, purpose and being useful.
 
-[https://en.wikipedia.org/wiki/Hedonism](https://en.wikipedia.org/wiki/Hedonism)
-[https://en.wikipedia.org/wiki/Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+[https://en.wikipedia.org/wiki/Hedonism](https://en.wikipedia.org/wiki/Hedonism) [https://en.wikipedia.org/wiki/Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 
 How can you be happy when others are unhappy?
 
 * [https://www.reddit.com/r/askphilosophy/comments/dq46g6/how\_to\_be\_happy\_in\_an\_unjust\_world/](https://www.reddit.com/r/askphilosophy/comments/dq46g6/how_to_be_happy_in_an_unjust_world/)
-
 
 ## Meaning of Life
 
@@ -209,7 +194,6 @@ For me it’s doing nice things - things that are simultaneously nice for me and
 
 I care therefore I am.
 
-
 ## Lessons Learned
 
 * [https://en.wikipedia.org/wiki/Lessons\_learned](https://en.wikipedia.org/wiki/Lessons_learned)
@@ -221,15 +205,13 @@ I care therefore I am.
 * The stories of happy people are all the same, the stories of unhappy people are all different
 * [https://en.wikipedia.org/wiki/If\_it\_bleeds,\_it\_leads](https://en.wikipedia.org/wiki/If_it_bleeds,_it_leads)
 
-
 ## Mental Models
 
 * [https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c](https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c)
 * [https://www.visualcapitalist.com/12-ways-smarter-mental-models/](https://www.visualcapitalist.com/12-ways-smarter-mental-models/)
 * [https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html](https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html)
 * [https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c](https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
-* [https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh)
-    [https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05](https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05)
+* [https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh) [https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05](https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05)
 
 Theo
 
@@ -279,8 +261,7 @@ patterns are descriptions of common problems and proposal for the solutions that
 
 [https://succeedfeed.com/peter-drucker-quotes/](https://succeedfeed.com/peter-drucker-quotes/)
 
-* That business purpose and business mission are so rarely given adequate thought is
-    perhaps the most important cause of business frustration and failure.
+* That business purpose and business mission are so rarely given adequate thought is perhaps the most important cause of business frustration and failure.
 * What gets measured gets improved
 * You can’t manage what you don’t measure.
 * There is nothing so useless as doing efficiently that which should not be done at all.
@@ -305,9 +286,7 @@ Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
 ## Serenity Prayer ~ [https://en.wikipedia.org/wiki/Serenity\_Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
-> God, grant me the serenity to accept the things I cannot change,
-> courage to change the things I can,
-> and wisdom to know the difference.
+> God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
 ## Simple Living ~ Simplicity
 
@@ -414,6 +393,6 @@ Looking back at the way things were done in the past may not always help you cre
 
 * [https://en.wiktionary.org/wiki/if\_it\_ain%27t\_broke,\_don%27t\_fix\_it](https://en.wiktionary.org/wiki/if_it_ain%27t_broke,_don%27t_fix_it)
 
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
