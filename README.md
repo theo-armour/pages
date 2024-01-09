@@ -67,6 +67,12 @@ You are looking at the latest incantation. Only notes starting from sometime in 
 * update: grv-github-repo-tree-view.html
 
 
+## Tips
+
+Good place to help decide where to place article is
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+
 ## Issues
 
 * Investigate best header system
