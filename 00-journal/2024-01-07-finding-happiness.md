@@ -1,16 +1,29 @@
-# 2024-01-07 Better or Worse ~
-
-## Finding happiness in a world of suffering
+# 2024-01-07 Finding happiness in a world of suffering
 
 
-## Preface
+## Preface 2024-01-09
+
+I start with stating a problem and establish a mission and vision.
+
+
+
+## Contents
+
+## 1.0 Problem Statement
+
+* Setting the context
+* Establishing the concept
+* Stating the mission and vision
+
+
+## 1.1The problem of suffering
 
 The other day I was chatting with Eloise and David about life, the future, the world situation, having children and things like that. I can readily understand why it is not easy to feel optimistic about the future and quite easy to feel pessimistic. I can also understand that it can feel that having children in this era may not be a not a good idea.
 
 At my end, my choice is to be happy. As I like to say: "My ship came in on the sunny side of Easy Street." In talking to Eloise and David, I tried to point out all the good things that are happening in the world despite all the suffering. They were not convinced. I can understand why. And this made me think about ways of responding to the pessimism that many people feel. I am not sure that I will have a good response. But I do have some thoughts.
 
 
-## Introduction: The problem of suffering
+## 1.1 Mission: Finding happiness in a world of suffering
 
 How do you find happiness in a world full of suffering?
 
@@ -25,7 +38,7 @@ Nonetheless, for most people, but not all people, happiness is a choice.
 This paper proposes some actions that can be taken that may help steer you away from pessimism and towards happiness.
 
 
-## Premise: Happiness is a choice
+## 1.2 Premise or vision: Happiness is a choice you can make
 
 * Seeking happiness is a worthy human endeavor
 * The endeavor toward happiness is a combination of state of mind, knowledge, and action
@@ -43,7 +56,11 @@ Links of interest
 * https://www.psychologytoday.com/us/blog/spotting-opportunity/201705/is-happiness-a-choice
 
 
-## There is plenty of Good News
+## 2.0 Background
+
+It describes the empirical background of the pattern, the evidence for its validity, the range of different ways the pattern can be manifested in the building, and so on.
+
+Background #1: There is plenty of Good News
 
 To Eloise and David, I tried to point out the good things that are happening in the world. The lives of people all over the world is better than what they when I was young. I talked about housing, food, healthcare. [Of course, none of this countered that fact that there still is a lot of suffering in the world. And that the future may be worse than the present.]
 
@@ -58,7 +75,7 @@ I am not the only one to feel some optimism about the the current situation. For
 As we shall see, my efforts to list all manner of happy things were doomed to failure. But I have learned a lot in the process - as you shall see.
 
 
-## All it takes is: One Bad Apple
+## 2.1 All it takes is: One Bad Apple
 
 The problem with the listing all good news items is that it only takes a single counter example to mess things up. For example:
 
@@ -75,7 +92,7 @@ Link of Interest
 * https://en.wikipedia.org/wiki/Attribution_bias?
 
 
-## How many good experiences finally outweigh a bad one?
+## 2.2 Question: How many good experiences finally outweigh a bad one?
 
 The idea that a number of good experiences cannot outweigh a bad one does not work in this case because we are discussing deep human suffering. A million nice experiences cannot compensate for the wrongful death a single human.
 
@@ -83,7 +100,7 @@ The idea that a number of good experiences cannot outweigh a bad one does not wo
 * https://www.seekingbalance.com.au/wp-content/uploads/2016/06/BadStrongerThanGood.pdf
 
 
-## The Bad News
+## 2.3 Background #2: The Bad News
 
 In the Krugman article mentioned above, he also understands the pessimism. He points to the negative economic sentiment index: https://fred.stlouisfed.org/series/UMCSENT
 
@@ -100,9 +117,11 @@ See the original article for the graph: https://www.researchgate.net/publication
 Pessimism is everywhere! Why?
 
 
-## Negativity Bias
+## 3.0 Analysis
 
-Here's why!
+## 3.1 Negativity Bias
+
+Here's a reason why there is so much pessimism!
 
 Links of interest
 
@@ -118,7 +137,8 @@ Links of interest
 * https://12ft.io/https://www.economist.com/books-and-arts/2020/01/11/it-takes-four-good-things-to-overcome-one-bad-thing
 * https://www.amazon.com/Power-Bad-Negativity-Effect-Rules/dp/1594205523
 
-### "If it bleeds, it leads"
+
+## 3.2 "If it bleeds, it leads"
 
 * https://tvtropes.org/pmwiki/pmwiki.php/Main/IfItBleedsItLeads
 
@@ -130,20 +150,23 @@ Links of interest
 >
 >Fear-based news stories prey on the anxieties we all have and then hold us hostage. Being glued to the television, reading the paper, or surfing the Internet increases ratings and market shares — but it also raises the probability of depression relapse.
 
-
 * https://thehill.com/opinion/technology/506947-news-industrys-bleeding-leads-good-for-business-bad-for-the-country/
 
 >Crime stories ask nothing of us. They are emotion-based only. Like a good horror movie, they play with your sense of fear and keep you engaged until the monster is trapped and the end-credits roll. Too many newsrooms are just like movie studios, serving up new monsters, fresh sequels, to make sure you don’t change the channel or cancel your subscription.
 
 
-## Negative Visualization
+## 4.0 Looking for solutions
+
+## 4.1 Negative Visualization
+
+_Question: If negativity bias is a thing, then how can you use it to your advantage?_
 
 Even while talking to Eloise and David, I was aware that I was not offering a good response to their pessimism. They know about al the good things as much as I do. Where we differ is where and how we give weight or emphasis to all good things and bad things that are happening.
 
-A few days later I came across the article below. It offers an alternative way of thinking about the world called negative visualization. It is a technique that the Stoics used to help them appreciate the good things in their lives. It is a technique that I have used for many years. I did not know that it had a name.
+A few days later I came across the article below. It offers an alternative way of thinking about the world called negative visualization. \<ai>It is a technique that the Stoics used to help them appreciate the good things in their lives. It is a technique that I have used for many years. I did not know that it had a name.\</ai>
 
 
-### Links of interest
+Links of interest
 
 * https://www.psychologytoday.com/us/blog/between-cultures/202401/5-strategies-for-flourishing-from-the-stoic-pharmacy
 
@@ -154,9 +177,9 @@ A few days later I came across the article below. It offers an alternative way o
 >Negative visualization is the practice of imagining worst-case scenarios, popularized by the Stoics of ancient Rome. Negative visualization exercises can help you be grateful for what you have and appreciate the shortness of life.
 
 
-### My take on negative visualization
+## 4.2 My take on negative visualization
 
-I feel that I am a "frequent flyer" with negative visualization. Som examples:
+I feel that I am a "frequent flyer" with negative visualization. Some examples:
 
 I am disabled. I am partially paralyzed, and my left hand was amputated. I could not dream of running a mile or playing in a tennis match or of the innumerable things people do to find happiness.
 
@@ -169,27 +192,27 @@ Unlike my parents' acrimonious divorce, my separation from my wife has been amic
 I establish my personal gratitude and happiness out of all the bad things that have happened to me. This has allowed me to disengage my own personal suffering from the suffering of others. I can feel compassion for others without feeling that I am suffering myself.
 
 
-## Where to draw the line?
+### 4.3 Question: Where to draw the line?
 
 Suffering is everywhere. How many bugs have I killed each time I crossed a lawn. How many lives could I save if I donated all my money to causes that treat malaria?
 
 Where does self-interest end and altruism begin?
 
-### Link of interest
+Link of interest
 
 * Serenity prayer ~  https://en.wikipedia.org/wiki/Serenity_Prayer
 
 >God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.
 
 
-### My take on where to draw the line
+### 4.3.1 My take on where to draw the line
 
 The number of things I can do to alleviate the suffering of others is limited. \<ai>I can donate money to charities. I can volunteer. I can vote for politicians who will help the poor. I can write letters to politicians. I can write articles like this one. I can talk to people. I can be kind to people. I can be kind to myself. I can be kind to Eloise and David. I can be kind to my family. I can be kind to my friends. I can be kind to strangers. I can be kind to myself.\</ai>
 
 I keep my boundaries as close as possible to myself. I cannot save the world.
 
 
-## I care therefor I am
+## 4.4 I care therefor I am
 
 Just because I cannot save the world does not mean that I do not care.
 
@@ -200,8 +223,7 @@ I heard the following prayer so often in six years at SPS that begin to that I b
 >"Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen.
 
 
-## Attention
-
+## 4.5 Attention
 
 I can be thinking of all the suffering in South Sudan, for example, and the next second be thinking about what I am going to be having for dinner then thinking about whether the any crawling on the windowsill will ever find its way home.
 
@@ -214,13 +236,13 @@ Links of interest
 * https://en.wikipedia.org/wiki/Metacognition
 
 
-## But
+## 5.0 But ~ Other considerations
 
 * **Hope for the best, prepare for the worst** Anticipating future negative events can lessen the blow if and when they happen
 * **Understand risks so you’re not blindsided by reality** Much of our hardships come from adapting to the new reality of a negative event
 
 
-## Children
+## 6.0 Question: Why have Children?
 
 In many parts of the world, particularly in developed countries, there is a trend where lower socio-economic groups tend to have higher fertility rates compared to those in higher socio-economic groups. On the other hand, individuals with substantial wealth may find it more feasible to have children, given their ability to manage the associated financial responsibilities more comfortably. Not having children is what educated, selfless middle-class people do.
 
@@ -235,7 +257,7 @@ Links of interest
 * https://forum.effectivealtruism.org/posts/LSWa5quwGiP9fhgM7/tentative-reasons-you-might-be-underrating-having-kids
 
 
-## Conclusion
+## 7.0 Conclusion
 
 Finding happiness and joy, expressing gratitude, creating beauty, seeking security and safety, and being kind to others are all worthy human endeavors. They are all choices that we can make.
 

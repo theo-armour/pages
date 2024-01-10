@@ -48,6 +48,9 @@ SMART goals are:
 * When: When do I want to achieve this goal?
 * Why: Why do I want to achieve this goal?
 
+* https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/
+
+Accountability partner
 
 ## Links of interest
 
@@ -57,11 +60,7 @@ Weekly review
 * https://doist.com/blog/weekly-review/
   * Lots nice David Allen / GTD items
 
-SMART
 
-* https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/
-
-Accountability partner
 
 ## INVEST
 
@@ -80,6 +79,7 @@ S Small PBIs should not be so big as to become impossible to plan/task/prioritiz
 T Testable The PBI or its related description must provide the necessary information t
 o make test development possible.
 
+
 ## Patterns
 
 ### Issues / Problems
@@ -89,6 +89,7 @@ The general format is an adaptation of the ideas developed in Alexander's _et al
 Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 
 patterns are descriptions of common problems and proposal for the solutions that can be used repeatedly every time the problem is encountered and producing an different outcome.
+
 
 ### Mission
 

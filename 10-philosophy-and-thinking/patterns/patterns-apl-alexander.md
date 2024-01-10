@@ -43,6 +43,7 @@ First, to present each pattern connected to the other patterns, so that you gras
 
 Second, to present the problem and solution of each pattern in such a way that you can judge it for yourself and modify it without losing the essence that is central to it.
 
+
 ## Links
 
 * https://en.wikipedia.org/wiki/Pattern_language
@@ -53,6 +54,7 @@ A Pattern Language - Towns, Buildings, Construction - Christopher Alexander - Go
 
 * http://books.google.com/books?id=hwAHmktpk5IC&pg=PA10
 * http://books.google.com/books?id=hwAHmktpk5IC&lpg=PP1&pg=PR12#v=onepage&q&f=false
+
 
 ## Comments
 
