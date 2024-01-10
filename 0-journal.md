@@ -7,7 +7,6 @@ Here I am at Mamo eating a delicious breakfast burrito and drinking a delicious 
 I am talking with m new friend Eddy.
 
 
-
 ## 2023-11-11
 
 Wikipedia has categories titled "Human Activities" and "Society and Social Sciences".
