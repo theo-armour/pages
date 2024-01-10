@@ -1,5 +1,12 @@
 # Theo Pages Journal
 
+## 2024-01-09
+
+Here I am at Mamo eating a delicious breakfast burrito and drinking a delicious coffee. I am thinking about how to organize my life. I have been using Pages for a long time. I have been using Raindrop.io for a long time. I have been using GitHub for a long time. I have been using Google Drive for a long time. I have been using Google Docs for a long time. I have been using Google Sheets for a long time. I have been using Google Slides for a long time. I have been using Google Forms for a long time. I have been using Google Keep for a long time. I have been using Google Calendar for a long time. I have been using Google Photos for a long time. I have been using Google Maps for a long time. I have been using Google Search for a long time. I have been using Google Translate for a long time. I have been using Google Scholar for a long time. I have been using Google Books for a
+
+I am talking with m new friend Eddy.
+
+
 
 ## 2023-11-11
 
