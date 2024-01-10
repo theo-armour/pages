@@ -24,7 +24,8 @@
 * Join the laughing and singing club
 * It is difficult to be famous if you are hidden under a rock
 * "Happy families are all alike; every unhappy family is unhappy in its own way." ~ [Anna Karenina principle - Wikipedia](https://en.wikipedia.org/wiki/Anna_Karenina_principle)
-* "If it bleeds it leads" ~ unintended consequences of greedy media: rampant unhappiness\* Micro-fame
+* "If it bleeds it leads" ~ unintended consequences of greedy media: rampant unhappiness ~ https://tvtropes.org/pmwiki/pmwiki.php/Main/IfItBleedsItLeads
+* Micro-fame
 * Complex vs Complexity / simple as possible but no simpler / 
 * Using the same tools / helping others because they use the same tools / 
 * Mailing list ~ benefits of history
