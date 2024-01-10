@@ -21,6 +21,7 @@ See https://chat.openai.com/c/7766f174-57f6-4004-b1cb-e9f97307cfea
 
 ## More
 
+* I care therefor I am
 * Be objective
 * Be efficient
 * Be kind
@@ -40,17 +41,19 @@ SMART goals are:
 * Realistic: Within reach, realistic, and relevant to your life purpose
 * Timely: With a clearly defined timeline, including a starting date and a target date.
 
-* Goals that are specific have a significantly greater chance of being accomplished. To make a goal specific,
-* the five “W” questions must be considered:
+Goals that are specific have a significantly greater chance of being accomplished. To make a goal specific, the five “W” questions must be considered:
+
 * Who: Who is involved in this goal?
 * What: What do I want to accomplish?
 * Where: Where is this goal to be achieved?
 * When: When do I want to achieve this goal?
 * Why: Why do I want to achieve this goal?
 
+Link to SMART goals
+
 * https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/
 
-Accountability partner
+
 
 ## Links of interest
 
@@ -60,6 +63,7 @@ Weekly review
 * https://doist.com/blog/weekly-review/
   * Lots nice David Allen / GTD items
 
+Accountability partner?
 
 
 ## INVEST

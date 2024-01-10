@@ -1,15 +1,34 @@
-# A Pattern Language
+# A Pattern Language ~ APL ~ Christopher Alexander
 
 tags #apl #patterns
 
-## Links of Interest
+## Pages
 
-The Timeless Way of Programming
+* https://theo-armour.github.io/pages/#https://theo-armour.github.io/pages/10-philosophy-and-thinking/patterns/patterns-apl-alexander.md
 
-* http://tomasp.net/blog/2022/timeless-way/
-* The Timeless Way of Programming
 
-## Definition
+## Links
+
+* https://en.wikipedia.org/wiki/Pattern_language
+* http://www.patternlanguage.com/
+* https://books.google.com/books?id=hwAHmktpk5IC&amp;pg=PR10#v=onepage&amp;q&amp;f=false
+
+A Pattern Language - Towns, Buildings, Construction - Christopher Alexander - Google Books
+
+* http://books.google.com/books?id=hwAHmktpk5IC&pg=PA10
+* http://books.google.com/books?id=hwAHmktpk5IC&lpg=PP1&pg=PR12#v=onepage&q&f=false
+
+
+## Patterns in Computer Science
+
+* https://en.wikipedia.org/wiki/Software_design_pattern
+* https://en.wikipedia.org/wiki/Architectural_pattern
+* The Timeless Way of Programming ~ http://tomasp.net/blog/2022/timeless-way/
+* 2022-12-16 ~ https://beautiful.software/
+* https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/
+
+
+## Definition ~ APL page 10
 
 > "A pattern is a careful description of a perennial solution to a recurring problem within a building context, describing one of the configurations that brings life to a building. Each pattern describes a problem that occurs over and over again in our environment, and then describes the core solution to that problem, in such a way that you can use the solution a million times over, without ever doing it the same way twice."
 
@@ -43,17 +62,6 @@ First, to present each pattern connected to the other patterns, so that you gras
 
 Second, to present the problem and solution of each pattern in such a way that you can judge it for yourself and modify it without losing the essence that is central to it.
 
-
-## Links
-
-* https://en.wikipedia.org/wiki/Pattern_language
-* http://www.patternlanguage.com/
-* https://books.google.com/books?id=hwAHmktpk5IC&amp;pg=PR10#v=onepage&amp;q&amp;f=false
-
-A Pattern Language - Towns, Buildings, Construction - Christopher Alexander - Google Books
-
-* http://books.google.com/books?id=hwAHmktpk5IC&pg=PA10
-* http://books.google.com/books?id=hwAHmktpk5IC&lpg=PP1&pg=PR12#v=onepage&q&f=false
 
 
 ## Comments
