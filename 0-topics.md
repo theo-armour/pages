@@ -1,7 +1,9 @@
-# [Topics]( https://theo-armour.github.io/pages/#0-topics.md)
+# Topics ~ https://theo-armour.github.io/pages/#0-topics.md
 
 * https://en.wikipedia.org/wiki/Category:Main_topic_classifications
 * https://en.wikipedia.org/wiki/Category:Main_topic_articles
+
+Another of organizing the world's knowledge is by topic.
 
 ## A
 

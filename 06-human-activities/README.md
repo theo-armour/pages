@@ -5,13 +5,16 @@ tags #06 #human #activities
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
 * https://theo-armour.github.io/pages/#06-human-activities/README.md
 
-This cataegory is about people doing things, organizations, lists
+This category is about people doing things, organizations, lists
 
 This category typically includes articles that are directly related to actions or tasks performed by humans. It might cover a wide range of topics like hobbies, sports, occupations, and daily routines.
 
 If the article is primarily about an activity or task that individuals or groups engage in, it likely belongs in "Human Activities."
 
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
+
 ## Human activities
+
 Activism
 Agriculture
 **Arts**

@@ -49,23 +49,24 @@ A society is a grouping of individuals, which is characterized by common interes
 
 ## Social sciences
 
-Anthropology
-Archaeology
-Cultural studies
-Demographics
-Economics
-Information science
-International relations
-Linguistics
-Media studies
-Political science
-Psychology
-Public administration
-Sexology
-Social scientists
-Sociology
-Social work
-Systems theory
+* Anthropology
+* Archaeology
+* Cultural studies
+* Demographics
+* Economics
+* Information science
+* International relations
+* Linguistics
+* Media studies
+* Political science
+* Psychology
+* Public administration
+* Sexology
+* Social scientists
+* Sociology
+* Social work
+* Systems theory
+
 
 ***
 

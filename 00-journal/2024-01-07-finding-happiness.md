@@ -255,7 +255,7 @@ What I seem to be doing is creating a negative visualization or opposite of a ne
 
 Links of interest
 
-* Multiply two negatives and you get a positive 
+* Multiply two negatives and you get a positive
 * lemons into lemonade ~ https://en.wikipedia.org/wiki/When_life_gives_you_lemons%2C_make_lemonade
 * "Seize the day" ~ https://en.wikipedia.org/wiki/Carpe_diem
 * "Gather ye Rose-buds while ye may" ~ https://en.wikipedia.org/wiki/To_the_Virgins,_to_Make_Much_of_Time
@@ -345,6 +345,15 @@ In the book _A Patten Language_, one of the things you must do is link to simila
 Finding happiness and joy, expressing gratitude, creating beauty, seeking security and safety, and being kind to others are all worthy human endeavors. They are all choices that we can make.
 
 Achievement of these is helped immensely by assiduously avoiding pessimism and negativity while at the same time being aware of the suffering of others and accepting who we are and what we can do.
+
+
+ON BEING ONESELF
+Good resolution grook by Piet Hein
+
+If virtue
+can't be mine alone
+at least my faults
+can be my own.
 
 
 ## Apendix 1~  Question: Why have Children

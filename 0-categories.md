@@ -4,10 +4,19 @@ tags #category
 
 ## Wikipedia Category
 
+* https://en.wikipedia.org/wiki/Category:Main_topic_classifications
+
 Start here
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Glossaries
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Indices
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Overviews
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals
+* https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
 
 
 > Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
@@ -20,7 +29,7 @@ Find ([A-Z])
 ## 01 General reference
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Reference
-
+* https://en.wikipedia.org/wiki/Reference_work
 
 ## 02 Culture and the arts
 
@@ -40,7 +49,9 @@ Find ([A-Z])
 
 ## 06 Human activities
 
+* Human activities are the various actions for recreation, living, or necessity done by people. For instance it includes leisure, entertainment,
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Human_activities
+* https://en.wikipedia.org/wiki/Category:Human_activities
 
 ## 07 Mathematics and logic
 
