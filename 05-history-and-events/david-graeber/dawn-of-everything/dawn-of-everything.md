@@ -28,12 +28,14 @@ tags #history #graeber #dawnOfEverything #anthropology
 * https://www.supersummary.com/the-dawn-of-everything/summary/
 
 ## Reviews
+
 * 2023-01-22 ~ https://www.middleeasteye.net/opinion/david-graeber-vs-yuval-harari-forgotten-cities-myths-how-civilisation-began
   * https://news.ycombinator.com/item?id=34480653
 * https://www.journals.uchicago.edu/doi/10.1086/720603
 * https://www.nytimes.com/2021/10/31/arts/dawn-of-everything-graeber-wengrow.html
 * https://www.nytimes.com/2021/11/04/opinion/graeber-wengrow-dawn-of-everything-history.html
 * https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/
+
 > Graeber and Wengrow offer a history of the past 30,000 years that is not only wildly different from anything we’re used to, but also far more interesting: textured, surprising, paradoxical, inspiring.
 
 >The authors introduce us to sumptuous Ice Age burials (the beadwork at one site alone is thought to have required 10,000 hours of work), as well as to monumental architectural sites like Göbekli Tepe, in modern Turkey, which dates from about 9000 B.C. (at least 6,000 years before Stonehenge) and features intricate carvings of wild beasts.
@@ -51,6 +53,7 @@ Crits
 * https://leiterreports.typepad.com/blog/2022/01/do-graeber-and-wengrow-know-what-theyre-talking-about-in-the-dawn-of-everything.html
 * https://www.wsj.com/articles/the-dawn-of-everything-book-review-prehistoric-man-graeber-wengrow-wrong-from-the-start-11639168007
 * https://newpol.org/review/a-new-human-history/
+
 >In their quest to challenge any notion that human societies arose out of phases of technological and economic development and resulting social organization, they present a confused picture of humanity forming different social structures, religions and economic strategies completely out of conscious choices, playful experimentation and free will—until at some unknown period for unexplained reasons, we got stuck in our current predicament of rigid class inequality. As a result, the book fails to explain why societies formed under oppressive elites and class exploitation or the conflicts and contradictions associated with it.
 
 lists of reviews

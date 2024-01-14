@@ -14,7 +14,7 @@ The intolerable inequalities we take for granted.
 * https://blog.jse.li/posts/software/
 * https://news.ycombinator.com/item?id=33961251
 
-## 1491 _ NEW REVELATIONS OF THE AMERICAS BEFORE COLUMBUS
+## 1491 _ New Revelations Of The Americas Before Columbus
 
 * https://www.kirkusreviews.com/book-reviews/charles-c-mann/1491/
   * https://news.ycombinator.com/item?id=34161180

@@ -4,15 +4,17 @@
 
 We are locked in by our vocabulary
 
-* Etymology of "civilization" is a man/male thing
+* Example: Etymology of "civilization" is a man/male thing
 
 
 ## Current historiography is a myth
 
 Accounts of human history
+
 1. Simply aren't true
 2. Have dire political implications
 3. Make the past needlessly dull ~ Actually more playful
+
 
 ### 1. The history we are taught is not true
 
@@ -35,15 +37,12 @@ Myth: hierarchy is inevitable
 Myth: the state is a natural form of human organization
 
 
-
-
-
-
 ### 2. political implications
 
 * history is about progress, evolution
 * p14 ~ past was nasty, brutish and short; no may well have been caring and nurturing
 * p10 ~ Myth: Diamond: hierarchy is inevitable; cannot live without decision-making executives
+
 
 ### 3. Playful past
 
@@ -53,12 +52,14 @@ Myth: the state is a natural form of human organization
 ## End of Book Myths
 
 A study that is rigorous in every other respect begins from the unexamined assumption
+
 * that there was some “original” form of human society
 * that its nature was fundamentally good or evil
 * that at a time before an inequality and political awareness existed
 * that something happened to change all this
 * that "civilization" and "complexity" always came at the price of human freedoms
 * that participatory democracy is natural in small groups, but cannot possibly scale up to anything like a city or a nation state
+
 
 ### Creation Myth ~ Foundational Story: not true
 
@@ -88,11 +89,13 @@ Evidence of objects moving around the word is evidence of trade ~ market economy
 But absence of evidence is not evidence of absence ~ Carl Sagan
 
 Not necessarily trade-based
+
 * Dreams or vision Quests
 * Traveling healers and entertainers
 * Women's gambling
 
 Our guesses are less interesting. less quirky. less human than what was likely going on
+
 
 ## Hunter Gatherers
 
