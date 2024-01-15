@@ -1,15 +1,39 @@
 # 2024-01-07 Find happiness in a world of suffering
 
 
+## Preface 2024-01-14
+
+Is this paper finished or not?
+
+### Examples needed
+
+Currently, I think not. What it needs is a goode set odf examples of how to use negative visualization to find happiness. I have a few examples. But I need to create more.
+
+A nice progression would be to start with a set of questions based on Pillars of Wellness a simple example and then build up to more complex examples.
+
+* https://mywellness.ucsf.edu/#/
+
+### Ethical Considerations
+
+A deeper dive into the ethics of happiness in the midst of suffering would make me happy.
+
+### Uncertainty and confusion
+
+This is an adjacent topic. See the comments on solving problems by creating solutions to patterns below.
+
+I would, of course respond, with ideas from "designing your life" and "design thinking" and "design patterns" andf creating your five year plan and so on.
+
+
 ## Preface 2024-01-09
 
+### Methodology
 I start with stating a problem and establish a mission and vision toward finding the solution to the problem.I describe the background to the problem. I then explore the problem and the solution. I end with a conclusion.
 
 See: https://theo-armour.github.io/pages/#https://theo-armour.github.io/pages/10-philosophy-and-thinking/patterns/patterns-apl-alexander.md
 
 Paraphrasing Alexander: "A pattern is a careful description of a perennial solution to a recurring problem within an established context, describing one of the configurations that brings a new life to the discussion. Each pattern describes a problem that occurs over and over again in society, and then describes the core solution to that problem, in such a way that you can use the solution a million times over, without ever doing it the same way twice.
 
-## Asides & jumps or leaps in the text
+### Asides & jumps or leaps in the text
 
 As I write, I ask myself questions about what I am writing about and because if the Internet I can immediately try to find answers. I have included some of these questions and answers in the text. I have also included some of the links that I found interesting.
 
@@ -23,13 +47,14 @@ links of interest
 * https://en.wikipedia.org/wiki/Inductive_reasoning
 
 
-## Disclosure of use of AI
+### Disclosure of use of AI
 
 GitHub Copilot is completing my sentences. I accept quite a few of the suggestions.
 
 As and when I accept a lengthier suggestion I bracket the text with \<ai> and \</ai> tags.
 
-## Imprecise language
+
+### Imprecise language
 
 This is a paper about suffering, pessimism and happiness.
 
@@ -56,7 +81,7 @@ At my end, my choice is to be happy. As I like to say: "My ship came in on the s
 
 How do you find happiness in a world full of suffering?
 
-In a world devoid of actual meaning, finding happiness in the midst of suffering can be tricky.
+In a world devoid of actual meaning (from my atheist point-of-view), finding happiness in the midst of suffering can be tricky.
 
 Despite many nice things happening, many people are pessimistic.
 
