@@ -1,13 +1,14 @@
 # 2024-01-07 Find happiness in a world of suffering
 
 
+
 ## Preface 2024-01-14
 
 Is this paper finished or not?
 
 ### Examples needed
 
-Currently, I think not. What it needs is a goode set odf examples of how to use negative visualization to find happiness. I have a few examples. But I need to create more.
+Currently, I think not. What it needs is a goode set of examples of how to use negative visualization to find happiness. I have a few examples. But I need to create more.
 
 A nice progression would be to start with a set of questions based on Pillars of Wellness a simple example and then build up to more complex examples.
 
