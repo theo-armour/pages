@@ -34,11 +34,6 @@ Here are a few sample suggestions:
 * [How I Stumbled Upon The Internet’s Biggest Blind Spot]( https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58 ) ~  insightful investigation on the status of funding for open source projects
 
 
-
-
-
-
-
 # 2017-03-13
 
 Is OSG an effort to create an online more or less static document - similar to ... guide but deeper and more comprehensive or is this an effort create create an ongoing online open source community
