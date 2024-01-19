@@ -5,6 +5,9 @@
 
 ## ToMatto
 
+* 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
+* Example: Nature abhors a double negative
+* Find happiness: is a thing
 * 2023-12-23: 31. Simplicity does not precede complexity, but follows it. [https://cpsc.yale.edu/epigrams-programming](https://cpsc.yale.edu/epigrams-programming)
 * 2023-12-2: I care for others by listening and elucidating and then acting accordingly. In return I do not demand, I do not "require", I don't even ask, but I do inform people of my concerns, worries and needs ~ I enable people to care for me.
 * 2023-12-16: I care therefore I am ~ I am what I think ~ I am what I drink
