@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* If there's an issue to nip in the bud, then throw money at it
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happines is a thing
