@@ -8,6 +8,7 @@
 
 
 ## Google Canvas ~ https://canvas.apps.chrome/
+
 * Touch but not pressure
 * Bitmap only, save as png
 * Can export png to Google Drive
@@ -29,6 +30,7 @@
 
 * Up to third grade
 
+Hor d'oeuvres
 
 ***
 
