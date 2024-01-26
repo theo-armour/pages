@@ -33,9 +33,15 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-01-25
+
+Black and white line drawing of Valentine's Day hearts behind Cupid, flying with wings, blowing a trumpet, --v 6.0
+
+Black and white line drawing of Cupid, flying with wings, blowing a trumpet, Valentine's Day --v 6
+
 ## 2023-12-20
 
-Black and white line drawing of Frosty the Snowman, flying with wings, blowing a trumpe
+Black and white line drawing of Frosty the Snowman, flying with wings, blowing a trumpet
 
 Black and white line drawing of Frosty the Snowman as a flying herald, with wings, blowing a medieval trumpet, renaissance
 
