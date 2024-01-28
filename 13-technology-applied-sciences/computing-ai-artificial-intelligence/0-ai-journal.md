@@ -33,6 +33,10 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-01-27
+
+Black and white line drawing of a Chinese New Year Dragon, flying with wings, blowing a trumpet, --v 6.0
+
 ## 2024-01-25
 
 Black and white line drawing of Valentine's Day hearts behind Cupid, flying with wings, blowing a trumpet, --v 6.0
