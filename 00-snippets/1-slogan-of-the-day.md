@@ -5,6 +5,14 @@
 
 ## ToMatto
 
+* 2024-01-19 ~ If you see something, say something ~ Michael Howard
+* If you see something, say something
+* If you think something, write something
+* If you hear something, sing something
+* If you taste something, digest something
+* If you smell something, remember something
+* If you touch something, feel something
+* ??
 * If there's an issue to nip in the bud, then throw money at it
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
