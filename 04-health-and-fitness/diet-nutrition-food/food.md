@@ -8,14 +8,12 @@
 
 ## Links of Interest
 
-
 https://skillet.lifehacker.com/ingredients-that-add-flavor-without-adding-salt-1821660877
 * Nutritional yeast
 * Umami ~ https://en.wikipedia.org/wiki/Umami
 
 
 ## Seaweed
-
 
 * https://www.amazon.com/b/ref=wpshort?ie=UTF8&node=13854994011
 * https://www.amazon.com/Wickedly-Prime-Organic-Roasted-Seaweed/dp/B0722W7DDD/ref=lp_13854994011_1_18_s_it?
@@ -24,18 +22,20 @@ https://skillet.lifehacker.com/ingredients-that-add-flavor-without-adding-salt-1
 
 ## Apple Cider is good
 
-
 Vendor / Bragg
+
 * father Bragg married the daughter-in-law etc
 
 
 Reviews
+
 * http://bragg.com/products/bragg-organic-apple-cider-vinegar.html
 * http://www.naturallivingideas.com/drinking-apple-cider-vinegar-benefits/
 * https://www.healthline.com/nutrition/6-proven-health-benefits-of-apple-cider-vinegar#section1
 
 
 Side effects
+
 * Could cause diarrhea / WebMD
 
 
@@ -46,19 +46,12 @@ Horseradish on Bran Buds with high-protein almond milk- very interesting
 
 ## Beverages
 
-broths are good
-popcorn in soup is good
-
-vinegar drinks are good
-* 0ml apple cider vinegar
+* broths are good
+* popcorn in soup is good
+* vinegar drinks are good
+* apple cider vinegar
 * Dash of Sriracha
 * Dollop of ginger paste
-
-### Beer
-
-* 2022-12-15 ~ https://www.atlasobscura.com/articles/what-is-cervois
-> The Brewer Updating an Ancient French Beer for Modern Drinkers. Thomas Deck’s cervoise-inspired brew is herbal and delicious.
-* https://thetakeout.com/5-beer-styles-recommendation-for-total-newbies-1830591759
 
 
 ## Vegetables

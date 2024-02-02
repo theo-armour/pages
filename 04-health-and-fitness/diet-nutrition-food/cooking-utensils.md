@@ -1,5 +1,20 @@
 # Cooking
 
+
+### Containers
+
+* Get food out of plastic and into glass as soon as open
+  * Makes it pretty to bring to desk
+  * Makes faster to get out and put back
+  * Do transfer at sink to make it easier to pick up drips and spills
+
+
+### Microwave
+
+* Never wave plastic
+
+
+
 ## Ekobo
 
 * https://by-ekobo.us/

@@ -1,22 +1,5 @@
-# Food Eat Diet
+# Alcohol
 
-## New
-
-https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html
-* https://news.ycombinator.com/item?id=33140927
-
-## Mission and vision
-
-* Avoiding bad food ~ nitrites
-* Recipes for one person
-* Actual products you can buy ~ that are readily obtainable
-* A diet that supplies all needed nutrients
-* Food that tastes good
-* Food that is filling
-* Food that supports a health microbiome all the way down and out
-* A diet that helps weight loss
-* Meals that are prepared quickly
-* A diet that travels
 
 ## Alcohol Addiction
 
@@ -29,17 +12,20 @@ The relationship between alcohol use and dementia in adults aged more than 60 
 In dose–response analyses, moderate drinking up to 40 g/day was associated with a lower risk of dementia when compared with lif-time abstaining.
 
 ### Conclusions
+
 Abstinence from alcohol appears to be associated with an increased risk for all-cause dementia. Among current drinkers, there appears to be no consistent evidence to suggest that the amount of alcohol consumed in later life is associated with dementia risk.
 
 ## Standard Drink
 
 1 oz = 29.5735 ml
 
+
 ### National Institute on Alcohol Abuse and Alcoholism / https://www.niaaa.nih.gov/
 
 In the United States, one "standard" drink (or one alcoholic drink equivalent) contains roughly 14 grams of pure alcohol, which is found in:
+
 * 12 ounces or 355 ml of regular beer, which is usually about 5% alcohol = 17.75 grams
-* 5 ounces of wine, which is typically about 12% alcohol ~ 5 oz @ 13.5 = 20 gm ~ 6 * 29.6 * 0.135 = 24 grams!!
+* 5 ounces of wine, which is typically about 12% alcohol ~ 5 oz @ 13.5 = 20 gm ~ 6 *29.6* 0.135 = 24 grams!!
 * 1.5 ounces of distilled spirits, which is about 40% alcohol ~ 45 * 0.4 = 18 gm
 
 In reality one standard drink may be closer to 20 grams than to 14 grams
@@ -48,6 +34,7 @@ In reality one standard drink may be closer to 20 grams than to 14 grams
 ### https://www.rethinkingdrinking.niaaa.nih.gov/
 
 Nice stats and thoughts
+
 
 ## Beer
 
@@ -59,41 +46,10 @@ Nice stats and thoughts
 * Slighty Mighty IPA 4% ~ 95 calories
 * https://www.thedrinksbusiness.com/2020/04/10-of-the-worlds-lowest-calorie-beers-2020/
 
+### Cervoise
 
-### Containers
+* 2022-12-15 ~ https://www.atlasobscura.com/articles/what-is-cervois
 
-* Get food out of plastic and into glass as soon as open
-  * Makes it pretty to bring to desk
-  * Makes faster to get out and put back
-  * Do transfer at sink to make it easier to pick up drips and spills
+> The Brewer Updating an Ancient French Beer for Modern Drinkers. Thomas Deck’s cervoise-inspired brew is herbal and delicious.
 
-
-### Microwave
-
-* Never wave plastic
-
-
-### Buying food
-
-* Never buy much more than you will eat in a day or two
-
-
-***
-
-## Tips
-
-* 2019-10-31 ~ stopping cheese produced a significant overnight weight loss / or stopping omeprazole?
-
-## Kim Bauer ~ Items for discussion ~ 2019
-
-https://www.steppingstone-wellness.com/
-
-### Questions
-
-* meetup?
-* price
-* paypal?
-* Access to MyChart?
-* What to know about me
-* Posts by email
-* Cold-smoked salmon OK?
+* https://thetakeout.com/5-beer-styles-recommendation-for-total-newbies-1830591759
