@@ -275,7 +275,10 @@ patterns are descriptions of common problems and proposal for the solutions that
 
 ## Saint Paul’s School ~ The School Prayer
 
-[https://www.sps.edu/living/chapel-program](https://www.sps.edu/living/chapel-program)
+see sps-school-prayer.md
+
+https://www.sps.edu/living/chapel-program
+
 
 Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
@@ -283,7 +286,10 @@ Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
 ## Separation of Concerns
 
-* [https://en.wikipedia.org/wiki/Separation\_of\_concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+See file
+
+* https://en.wikipedia.org/wiki/Separation_of_concerns
+
 
 ## Serenity Prayer ~ [https://en.wikipedia.org/wiki/Serenity\_Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
@@ -310,6 +316,8 @@ If you live in a 15’ x 15’ space, are you part of the “Tiny House” movem
 * [https://en.wikipedia.org/wiki/Social\_capital](https://en.wikipedia.org/wiki/Social_capital)
 
 ## “Standing on the shoulders of giants”
+
+see file
 
 "If I have seen further it is by standing on the shoulders of Giants"
 
