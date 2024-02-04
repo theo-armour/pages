@@ -1,5 +1,7 @@
 # bureacracy-polarization
 
+* https://www.nytimes.com/2024/02/03/opinion/bureaucracy.html
+
 * American politics are becoming increasingly polarized.
 * Polarization is pronounced with observing college educated versus non-college educated voters.
 * Dealing with long lines, filling in paper forms, understanding technical terms can be frustrating for the non-college educated.

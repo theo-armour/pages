@@ -92,7 +92,7 @@ A good website sends out both messages
 
 ## Links in the Content
 
-"A webapage without links is like a room without windows" :- Theo Armour
+"A webpage without links is like a room without windows" :- Theo Armour
 
 If a webpage is interesting how do I continue the engagement that I have with the content on tht specific page? Answer: this is not an issue if the page includes links to other resources.
 
