@@ -30,7 +30,7 @@
 * Using the same tools / helping others because they use the same tools / 
 * Mailing list ~ benefits of history
 * Every file has a single home ~ multiple duplicates still too difficult to manage in this era
-* Pogo: "We have met the enemy, and he is us"
+* Pogo: "We have met the enemy, and he is us" ~ look in the mirror
 * "Happiness is a choice, not a condition" ~ many sources
 
 ## Concept
@@ -103,7 +103,7 @@ Heros
 * Michael Pollen
 * Warren Willets
 
-## EEAT ~ Experience, Expertise, authoritativeness, trustworthiness
+## EEAT ~ Experience, Expertise, Authoritativeness, Trustworthiness
 
 Experience, Expertise, authoritativeness, trustworthiness
 
