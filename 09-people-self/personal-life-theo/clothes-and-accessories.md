@@ -23,5 +23,5 @@ LifeArt Anti Fog Cloth for Eyeglasses, Microfiber Cleaning Cloth for Screen, Gog
 
 ## Hats
 
-https://wazoosurvivalgear.com/collections/all-products/products/cache-cap
 * Cap with pockets $30
+* https://wazoosurvivalgear.com/collections/all-products/products/cache-cap

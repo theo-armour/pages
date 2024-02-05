@@ -11,7 +11,8 @@ https://www.amazon.com/City-Life-Witold-Rybczynski/dp/0684825295
 * Provides nowhere near the wisdom of the writers he invokes
 * A collection of chapters with minimal connections between them
 
-Observqtions
+Observations
+
 * Dislikes Corb's works - particularly _la Ville Radieuse_ - but loves their American descendants: the malls and tower blocks everywhere
 * Tells you some things are distasteful but does noy explain why
 * Lists what happens - Laws of the Indies, street grids ~ but provides little background on the whys and both positive and negative outcomes
