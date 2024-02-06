@@ -34,6 +34,9 @@
 * Every file has a single home ~ multiple duplicates still too difficult to manage in this era
 * Pogo: "We have met the enemy, and he is us" ~ look in the mirror
 * "Happiness is a choice, not a condition" ~ many sources
+* 2024-02-05 ~ Tell them what you are going to tell them, tell them, tell them what you told them
+* 2024-02-05 Any sufficiently advanced technology is indistinguishable from a rigged demo. slashdot
+
 
 ## Concept
 
