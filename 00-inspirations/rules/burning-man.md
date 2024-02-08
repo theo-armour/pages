@@ -11,7 +11,7 @@ Burning Man co-founder Larry Harvey wrote the 10 Principles in 2004 as guideline
 ### Radical Inclusion
 Anyone may be a part of Burning Man. We welcome and respect the stranger. No prerequisites exist for participation in our community.
 
-###  Gifting
+### Gifting
 Burning Man is devoted to acts of gift giving. The value of a gift is unconditional. Gifting does not contemplate a return or an exchange for something of equal value.
 
 ### Decommodification
