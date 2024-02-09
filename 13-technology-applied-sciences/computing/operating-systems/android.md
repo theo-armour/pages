@@ -1,9 +1,13 @@
 # Android
 
+
+## Assistant access
+
+Swipe up and diagonally from bottom corners
+
 ## Check for app updates:
 
 Profile > Manage apps & devices > Manage > Updates available
-
 
 ## Check for system updates
 
@@ -16,6 +20,7 @@ Settings > Apps > Permissions
 Set all permissions on / no permissions denied
 
 Mobile data
+
 * Allow background data usage > O
 
 Check these apps
