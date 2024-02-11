@@ -32,7 +32,7 @@ Closed Sunday & Monday
 
 ## Brazen head
 
-\* Daniel ~ gigondas
+* Daniel ~ gigondas
 
 ## Bus Stop ~ Union & Laguna
 
@@ -47,7 +47,7 @@ Events
 Staff
 
 * Stephanie
-* Chloe ~ Greg's daughter ~ Mill Valley
+* Chloe ~ Greg's daughter ~ Mill Valley ~ applying to grad school
 * Greg O'Flynn ~ owner
 * Jake
 * Joe (Original Joe)
@@ -86,6 +86,11 @@ Cocktail: naked and famous
 
 * [https://en.wikipedia.org/wiki/Naked\_and\_famous\_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
 
+## Fiorella's
+
+* Aselia
+* Justin
+* 
 ## Horseshoe
 
 Bartenders
