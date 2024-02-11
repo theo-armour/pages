@@ -6,13 +6,6 @@ Try them all!!
 
 * [https://en.wikipedia.org/wiki/List\_of\_IBA\_official\_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
 
-## Alegrias ~ [alegrias](https://www.alegriassf.com/)
-
-* meaning: happiness, gaiety
-* Owners: Arman & Angelynne
-* Rabbit: Good
-* Try croquettes
-* Chef Jose Ortiz
 
 ## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
 
@@ -194,4 +187,13 @@ Regulars
 
 ## Irving Street
 
+***
+
+## Alegrias ~ [alegrias](https://www.alegriassf.com/)
+
+* meaning: happiness, gaiety
+* Owners: Arman & Angelynne
+* Rabbit: Good
+* Try croquettes
+* Chef Jose Ortiz
 Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
