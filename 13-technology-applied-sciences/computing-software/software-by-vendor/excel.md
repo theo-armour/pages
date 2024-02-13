@@ -2,7 +2,7 @@
 
 ## Copy Column
 
-=reference!C:C
+=reference!C:Cmex s
 
 ## Find first and last cells in row or column
 
