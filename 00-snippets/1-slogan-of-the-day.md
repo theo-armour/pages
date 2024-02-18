@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
+* Marty Nolan: Perfection is an illusion!
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
 * If you see something, say something
 * If you think something, write something
