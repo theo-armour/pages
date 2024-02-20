@@ -8,6 +8,10 @@
 * Old age & anger
 * ?
 
+## links
+
+* https://midlibrary.io/categories/painters
+
 
 ## Boilerplate
 -
@@ -31,6 +35,108 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
+
+
+## 2024-02-19
+
+recast ventures, logo, minimal --v 6.0 --ar 1:1
+
+
+Jean-Michel Basquiat's logo depicting recast ventures, minimal --v 6.0 --ar 1:1
+
+***
+
+micro-mobility, manufacturing, crafting, healthy, moving, people, landscaping, circular, economy, 22nd century, Paul Cesar Helleu, hyperrealism --v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+healthy, moving, people, landscaping
+22nd century, Paul Cesar Helleu
+--v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+healthy, moving, people, landscaping
+System blueprint, illust, colored bright and gorgeous
+--v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+healthy, moving, people, landscaping
+circular economy,
+3D cutaway
+--v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+healthy, moving, people, nature
+circular economy,
+bright colors, 3D cutaway
+--v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+healthy, moving, people,
+circular economy,
+bright colors, Salvador Dali
+--v 6.0 --ar 3:1
+
+***
+
+mobility, manufacturing, crafting,
+solar punk, circular economy,
+healthy, moving, people, landscape,
+Salvador Dali
+--v 6.0 --ar 3:1
+
+***
+
+Landscape plotted and pieced – fold, fallow, and plough; All trades, their gear and tackle and trim. All things counter, original, spare, strange; Whatever is fickle, freckled (who knows how?) With swift, slow; sweet, sour; adazzle, dim; --v 6.0 --ar 3:1
+
+***
+
+Pied Beauty
+BY GERARD MANLEY HOPKINS
+Glory be to God for dappled things –
+For skies of couple-colour as a brinded cow;
+For rose-moles all in stipple upon trout that swim;
+Fresh-firecoal chestnut-falls; finches’ wings;
+Landscape plotted and pieced – fold, fallow, and plough;
+And áll trádes, their gear and tackle and trim.
+
+All things counter, original, spare, strange;
+Whatever is fickle, freckled (who knows how?)
+With swift, slow; sweet, sour; adazzle, dim;
+He fathers-forth whose beauty is past change:
+Praise him.
+--v 6.0 --ar 4:1
+
+***
+
+solar punk life in a circular economy,
+mobility, manufacturing, crafting products,
+living healthy, moving, people, landscape,
+Salvador Dali
+--v 6.0 --ar 4:1
+
+solar punk life in a circular economy,
+mobility, manufacturing, crafting products,
+living healthy, moving, people, landscape,
+Salvador Dali
+--v 6.0 --ar 5:1
+***
+
+solar punk life in a circular economy, mobility and manufacturing.
+crafting products, living healthy.
+you see things moving, people.
+it's a landscape,
+or, an abstract bright colored Dali-esque scene.
+--v 6.0 --ar 5:1
 
 
 ## 2024-01-27
