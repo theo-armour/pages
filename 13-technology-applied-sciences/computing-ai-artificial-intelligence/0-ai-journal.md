@@ -37,12 +37,74 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-02-20
+
+recraft ventures, logo, minimal, karl appel --v 6.0 --ar 1:1
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209726008681562122/theoarmour_recraft_ventures_logo_minimal_karl_appel_033c2ac9-d348-4e72-aa3d-16b319bd94c7.png?ex=65e7f824&is=65d58324&hm=234acf38600ae731ddc6ff81f33eb30adeb40371be69530814a620dd7c9b5a56&
+
+Black and white line drawing leprechaun with wings blowing a trumpet --v 6.0
+
+
+mobility, manufacturing, crafting, healthy, moving, people, landscaping circular economy, 3D cutaway, landscaping --v 6.0 --ar 16:9
+
+***
+
+I can enhance an existing image and keep it the same size:
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209741464829956157/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_3be99166-da71-4af6-969f-89de5a1e5fbb.png?ex=65e80689&is=65d59189&hm=3363ddb468393744dd9140d593463fa02d3bb49b06fac99de0e6686ce8cdfbc1&
+
+or I can make an existing image square :
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209741450649272321/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_497963f6-36b5-45e3-bf07-85f92b7993ac.png?ex=65e80685&is=65d59185&hm=d0ef8ae080b1ee3d6fab882dfba0b0c260a7c6aee54bfa4d38cb842180cd9e26&
+
+But if I change the size, I get four new images:
+
+Prompt:
+mobility, manufacturing, crafting, healthy, moving, people, landscaping circular economy, 3D cutaway, landscaping --v 6.0 --ar 16:9
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209740649415446568/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_728c5817-df75-4292-893d-a34f5bccd215.png?ex=65e805c6&is=65d590c6&hm=64488fa65283115eb18371e9a7ff3da203cbf006f154dddc88fe0f53322a153e&
+
+Each image can be separated out and enhanced.
+
+They are numbered 1 to 4 from top left going clockwise. image 3 is lower right.
+
+So I will now use the same prompt I used before but change the size.
+
+Prompt:
+solar punk life in a circular economy, mobility and manufacturing. crafting products, living healthy. you see things moving, people. it's a landscape, or, an abstract bright colored Dali-esque scene. --v 6.0 --ar 16:9
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209744721266614443/theoarmour_solar_punk_life_in_a_circular_economy_mobility_and_m_7ef9efdf-91f6-42f1-a937-accf6dffbba4.png?ex=65e80991&is=65d59491&hm=dc28710ad411f2f83faf7e821075776fb0949a7e0549b5d4e251029ad56c8711&
+
+Prompt:
+Landscape plotted and pieced – fold, fallow, and plough; All trades, their gear and tackle and trim. All things counter, original, spare, strange; Whatever is fickle, freckled (who knows how?) With swift, slow; sweet, sour; adazzle, dim; --v 6.0 --ar 16:9
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209747694545932350/theoarmour_Landscape_plotted_and_pieced__fold_fallow_and_plough_82891446-1be4-4ac0-b335-dbb4f2defd00.png?ex=65e80c56&is=65d59756&hm=294b832c7a3528386a655ae1450d906c087e72f8de7c6030842487688b0a675d&
+
+
+Prompt:
+mobility, manufacturing, crafting, healthy, moving, people, circular economy, bright colors, Salvador Dali --v 6.0 --ar 3:1
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209751475140435968/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_8c386ccb-649b-4536-9b7c-c1952404504c.png?ex=65e80fdb&is=65d59adb&hm=db01edbbee3f5a9b68baa627470974aba642a7bc80afdd620e8475bd387698c0&
+
+
+mobility, manufacturing, crafting, healthy, moving, people, circular economy, bright colors, 3D cutaway --v 6.0 --ar 16:9
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209752573582774272/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_8b28f91b-8d1b-4538-ab9d-4538043e2bcb.png?ex=65e810e1&is=65d59be1&hm=c06431c71e677ac0f1d10123fec3ac11f90157e24b5d3ef304497326b72bb86a&
+
+
+Prompt:
+mobility, manufacturing, crafting, healthy, moving, people, landscaping circular economy, 3D cutaway, landscaping --v 6.0 --ar 16:9
+
+https://cdn.discordapp.com/attachments/1086529016183406643/1209756223021514762/theoarmour_mobility_manufacturing_crafting_healthy_moving_peopl_6174cbda-b2ba-4fcf-ac33-9d950f47d184.png?ex=65e81447&is=65d59f47&hm=cfc8c18fe4c81fbc199a47fbd68de19358c66e4b7195de3b9b324e67a40f9795&
+
+
 ## 2024-02-19
 
-recast ventures, logo, minimal --v 6.0 --ar 1:1
+recraft ventures, logo, minimal --v 6.0 --ar 1:1
 
 
-Jean-Michel Basquiat's logo depicting recast ventures, minimal --v 6.0 --ar 1:1
+Jean-Michel Basquiat's logo depicting recraft ventures, minimal --v 6.0 --ar 1:1
 
 ***
 
