@@ -8,7 +8,7 @@
 
 ## Formats
 
- QA format:
+QA format:
 
 Q: <Question>?
 A: <Answer>
