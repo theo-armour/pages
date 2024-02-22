@@ -7,6 +7,15 @@
 ### Upload an image to Discord
 To upload an image, click the Plus sign next to where messages are typed. Select Upload a File, select an image, and send the message. To add this image to a prompt, begin typing /imagine as usual. After the prompt box appears, drag the image file into the prompt box to add the image's URL. Alternatively, right-click the image, select Copy Link, and then paste the link within the prompt box.
 
+## Prompt tips
+
+* Subject: person, animal, character, location, object
+* Medium: photo, painting, illustration, sculpture, doodle, tapestry
+* Environment: indoors, outdoors, on the moon, underwater, in the city
+* Lighting: soft, ambient, overcast, neon, studio lights
+* Color: vibrant, muted, bright, monochromatic, colorful, black and white, pastel
+* Mood: sedate, calm, raucous, energetic
+* Composition: portrait, headshot, closeup, birds-eye view
 
 ## Commands ~ https://docs.midjourney.com/docs/command-list
 
@@ -161,7 +170,6 @@ Video
 ## Prompt tags
 
 * chaos
-
 * --niji
 * --v 5 ~ --version ~ version accepts the values 1, 2, 3, 4, and 5
 * --test ~ --testp ~ --testp + --creative

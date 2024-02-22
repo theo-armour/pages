@@ -37,6 +37,17 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-02-21
+
+"dimanche après-midi à l'Île de la Grande Jatte" Georges Seurat, 360 degree Equirectangular Photospheric image --v 6.0 --tile
+
+https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg
+painting by Georges Seurat, 360 degree Equirectangular Photospheric image --v 6.0 --tile
+
+People painted by Paul Cesar Helleu, 360 degree Equirectangular Photospheric image --v 6.0
+
+micro-mobility, manufacturing, crafting, healthy, moving, people, landscaping, circular, economy, Paul Cesar Helleu,  , 360 degree Equirectangular Photospheric drawing  --v 6.0 --ar 3:1
+
 ## 2024-02-20
 
 recraft ventures, logo, minimal, karl appel --v 6.0 --ar 1:1
