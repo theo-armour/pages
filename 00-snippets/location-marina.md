@@ -4,8 +4,7 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-* [https://en.wikipedia.org/wiki/List\_of\_IBA\_official\_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
-
+* https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
 
 ## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
 
@@ -26,6 +25,15 @@ Closed Sunday & Monday
 * Matisse
 * Sebastian
 * Manager: Guillaume
+
+## Boho Restaurant ~ https://www.cafebohosf.com/
+
+* Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
+* Brendan ~ bartender
+* Tik? ~ server
+* 3321 Steiner St, San Francisco, CA 94123
+* +14153747518
+
 
 ## Brazen head
 
