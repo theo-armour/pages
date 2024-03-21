@@ -5,7 +5,9 @@
 * https://docs.midjourney.com/docs/image-prompts
 
 ### Upload an image to Discord
-To upload an image, click the Plus sign next to where messages are typed. Select Upload a File, select an image, and send the message. To add this image to a prompt, begin typing /imagine as usual. After the prompt box appears, drag the image file into the prompt box to add the image's URL. Alternatively, right-click the image, select Copy Link, and then paste the link within the prompt box.
+
+To upload an image, click the Plus sign next to where messages are typed.
+Select Upload a File, select an image, and send the message. To add this image to a prompt, begin typing /imagine as usual. After the prompt box appears, drag the image file into the prompt box to add the image's URL. Alternatively, right-click the image, select Copy Link, and then paste the link within the prompt box.
 
 ## Prompt tips
 
