@@ -10,6 +10,7 @@
 
 ## links
 
+* https://docs.midjourney.com/docs
 * https://midlibrary.io/categories/painters
 
 
@@ -36,6 +37,28 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
+
+## 2024-03-20
+
+Mercury, flying, blowing horn, helmet, sandals, Michelangelo, black and white line drawing
+
+Hermes flying, blowing horn, helmet, sandals, Gustave Daumier, black and white line drawing
+
+greek god Hermes, helmet, sandals, blowing horn, flying, black and white line drawing
+
+greek god, helmet with wings, sandals with wings, blowing horn, flying, black and white line drawing
+
+
+/imagine
+Hermes black and white line drawing flying. blowing a horn
+
+/imagine blob:https://discord.com/channels/@me/1086529016183406643/1220084562982600836
+Black and white line drawing of the Greek god Hermes wearing a helmet with wings and sandals with wings, carrying a caduceus (a winged staff intertwined with two snakes copulating), blowing a horn
+
+/imagine blob:https://discord.com/channels/@me/1086529016183406643/1220084562982600836
+Black and white line drawing of the Roman god Mercury, flying, winged helmet,  winged sandals, carrying a caduceus, blowing a horn
+
+Black and white line drawing of the Greek god Mercury, flying with wings, blowing a trumpet, --v 6.0
 
 ## 2024-02-21
 
