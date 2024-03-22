@@ -39,6 +39,9 @@
 
 ## Margaret Jacobs
 
-Conflation of memory and thinking
+Conflation of memory and thinking?
 
 John: DSM ~ pancreas zombie cells ~ slows thinking
+
+
+Cortisol
