@@ -25,5 +25,5 @@ Explorer Context menu
 
 ## Favorites Manage
 
-2022-10-17 ~ Not bad
+### 2022-10-17 ~ Not bad
 https://github.com/oleg-shilo/Favorites.vscode

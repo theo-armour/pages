@@ -5,6 +5,14 @@
 * keyboard shortcuts: control + K + S
 * F1 for help
 
+## VS Code
+
+* https://code.visualstudio.com/
+* https://en.wikipedia.org/wiki/Visual_Studio_Code
+* https://github.com/microsoft/vscode
+* https://twitter.com/code
+
+
 ## To do
 
 2020-05-23
@@ -25,21 +33,6 @@ To do
 
 Redefine Alt Home and Alt End to go home and end
 
-2020-05-22
-
-* stylelint looks interesting
-* Try prettier
-	* Works on css, js
-	* Reset settings.json
-	* Get rid of all typescript
-
-* Good workflow on Chromebook * 2019-04-29: Looking good
-* https://github.com/shanalikhan/code-settings-sync
-* Try new line only setting no cr
-* settings.json
-* Keyboard shortcuts: Ctrl+K, Ctrl+s
-
-* Can drag and drop from Sidebar to browser
 
 ## About
 
@@ -317,8 +310,6 @@ Create cursors on all occurrences of a string: Ctrl+Shift+L</arrow></arrow>
     "files.trimTrailingWhitespace": true,
 
 
-
-
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.autofetch": true,
@@ -347,3 +338,21 @@ Tips
 ## Sync settings
 
 * <https://github.com/shanalikhan/code-settings-Sync>
+
+
+
+## 2020-05-22
+
+* stylelint looks interesting
+* Try prettier
+ 	* Works on css, js
+ 	* Reset settings.json
+ 	* Get rid of all typescript
+
+* Good workflow on Chromebook * 2019-04-29: Looking good
+* https://github.com/shanalikhan/code-settings-sync
+* Try new line only setting no cr
+* settings.json
+* Keyboard shortcuts: Ctrl+K, Ctrl+s
+
+* Can drag and drop from Sidebar to browser

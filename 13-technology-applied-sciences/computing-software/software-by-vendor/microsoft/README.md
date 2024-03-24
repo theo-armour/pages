@@ -5,12 +5,7 @@
 * https://github.com/microsoft
 * https://github.com/microsoft/opensource.microsoft.com
 
-## VS Code
 
-* https://code.visualstudio.com/
-* https://en.wikipedia.org/wiki/Visual_Studio_Code
-* https://github.com/microsoft/vscode
-* https://twitter.com/code
 
 
 ### market share
