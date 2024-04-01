@@ -25,3 +25,17 @@ Remember the quotes!
 Filter
 * =filter('[2024-03-27-mint-transactions-12925.xlsx]in'!A151:D1309,'
 [2024-03-27-mint-transactions-12925.xlsx]in'!C151:C1309="Charity)
+
+## Filter by category, fund uniques and sum each
+
+To see all
+
+=FILTER('2023-transactions'!A2:D1185,('2023-transactions'!C2:C1185="charity"),"")
+
+See uniques
+
+=SORT(UNIQUE(B2:B1000))
+
+Sum each
+=SUMIFS('2023-transactions'!D2:D1000,'2023-transactions'!B2:B1000,charity!G5)
+
