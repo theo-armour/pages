@@ -1,1 +1,0 @@
-# chatGPT Plugins

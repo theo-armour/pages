@@ -1,11 +1,5 @@
 # ChatGPT
 
-* Chat Generative Pre-trained Transformer
-* https://chat.openai.com/chat
-* https://en.wikipedia.org/wiki/ChatGPT
-* https://en.wikipedia.org/wiki/OpenAI
-* https://www.reddit.com/r/LocalLLaMA/comments/14wbmio/gpt4_details_leaked/
-* https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
 
 
 ## Links
@@ -15,6 +9,10 @@
 
 ## Articles
 
+### Getting Questions
+
+* https://twitter.com/bitecode_dev/status/1637420579278954501
+  * https://news.ycombinator.com/item?id=35218302
 
 ## 2023-05-07
 

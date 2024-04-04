@@ -2,17 +2,6 @@
 
 Let's think step by step.
 
-## Links
-
-2023-04-14
-* https://medium.com/easy-prompt/11-tips-to-elevate-your-chatgpt-prompts-f7f2733a3930
-* https://www.oneusefulthing.org/p/i-hope-you-werent-getting-too-comfortable
-
-## Good links
-
-* https://prompts.chat/
-* https://github.com/f/awesome-chatgpt-prompts
-
 
 ## Reverse Prompt Engineering
 
@@ -74,3 +63,5 @@ Use those ChatGPT hallucinations
 ## Coding
 
 Write me a regular expression that finds characters after "H=" And before "&"
+
+* What would you enter as a text prompt for DALL-E 2?
