@@ -13,9 +13,16 @@
 
 * https://www.oneusefulthing.org/p/i-hope-you-werent-getting-too-comfortable
 
+## Courses
+
+https://medium.com/@maximilian.vogel/the-10-best-free-prompt-engineering-courses-resources-for-chatgpt-midjourney-co-dd1865d4ad13
+
+## Tips
 
 * Let's think step by step.
-
+* Answer a question given in a natural, human-like manner in your prompts.
+* Ensure that your answer is unbiased and does not rely on stereotypes
+*  Can you think of some takeaways from... that might be useful to us in modern life?
 
 ## Elements of a Prompt
 
