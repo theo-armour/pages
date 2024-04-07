@@ -90,7 +90,7 @@ Pan: scroll wheel press
 
 ### Trace Bitmap
 
-* For vectors use > centerline tracing (autotrace)
+* For vectors use path > centerline tracing (autotrace)
 
 ## Filters
 
@@ -101,6 +101,7 @@ dragee melted rainbow eroded metal
 warp rainbow guache ripple metal
 
 flex metal dragee
+
 ### Bevels
 
 With wide path
