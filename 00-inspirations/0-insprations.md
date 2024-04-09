@@ -1,4 +1,4 @@
-# Inspirastions Agenda
+# Inspirations Agenda
 
 ## Topics
 
@@ -7,10 +7,15 @@
 * Economics
 * Entities
 * GTD
-* Projects
 * Linguistics
 * Location
 * People
+* Projects
+* Psychology
+* Rules
+* Simplicity
+* Technics
+
 
 ## wikipedia
 
