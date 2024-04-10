@@ -4,14 +4,14 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-* https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
+* [https://en.wikipedia.org/wiki/List\_of\_IBA\_official\_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
 
 ## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
 
 * [bar crenn](https://www.barcrenn.com/)
 * 3127 Fillmore St, San Francisco, CA 94123
 * (415) 440-0460
-* https://en.wikipedia.org/wiki/Atelier_Crenn
+* [https://en.wikipedia.org/wiki/Atelier\_Crenn](https://en.wikipedia.org/wiki/Atelier_Crenn)
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
 Closed Sunday & Monday
@@ -26,14 +26,13 @@ Closed Sunday & Monday
 * Sebastian
 * Manager: Guillaume
 
-## Boho Restaurant ~ https://www.cafebohosf.com/
+## Boho Restaurant ~ [https://www.cafebohosf.com/](https://www.cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
 * Tik? ~ server
 * 3321 Steiner St, San Francisco, CA 94123
 * +14153747518
-
 
 ## Brazen head
 
@@ -76,11 +75,10 @@ Regulars
 
 * Ken
 
-## [Cafe Boho]( https://cafebohosf.com/ )
+## [Cafe Boho](https://cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
-
 
 ## Cultivar
 
@@ -100,8 +98,8 @@ Cocktail: naked and famous
 ## Fiorella's
 
 * Aselia
-* Justin
-*
+* Justin \*
+
 ## Horseshoe
 
 Bartenders
@@ -179,6 +177,7 @@ Regulars
 
 * 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
+* Shawn ~ person of some color
 * Sophie
 * Cecelia
 * John
@@ -213,5 +212,4 @@ Regulars
 * Owners: Arman & Angelynne
 * Rabbit: Good
 * Try croquettes
-* Chef Jose Ortiz
-Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
+* Chef Jose Ortiz Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
