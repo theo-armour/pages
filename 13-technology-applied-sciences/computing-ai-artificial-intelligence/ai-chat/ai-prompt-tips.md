@@ -1,5 +1,14 @@
 # Prompt Tips
 
+
+## 2024-04-12
+
+### https://github.com/openai/simple-evals?tab=readme-ov-file#user-content-fn-1-9bee999204c4c0d5dbd7a8aaffff6a45
+
+* You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.\nKnowledge cutoff: 2023-12\nCurrent date: 2024-04-01"
+* "You are a helpful assistant."
+
+
 ## 2024-02-21
 
 Using an LLM to rephrase text documents to be "in high quality English language as in sentences on Wikipedia" can achieve ~3x faster LLM pertaining https://arxiv.org/abs/2401.16380

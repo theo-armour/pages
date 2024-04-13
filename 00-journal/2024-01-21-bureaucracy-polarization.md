@@ -1,4 +1,4 @@
-# bureacracy-polarization
+# bureaucracy-polarization
 
 * https://www.nytimes.com/2024/02/03/opinion/bureaucracy.html
 
@@ -10,6 +10,7 @@
 * Having to deal with the bureaucracy of big government is a source of hate and anger for people and parties associated with big government - such as Democrats
 
 
+ideas
 
 * Dealing with bureaucracy is a cause of anger and despair by the non-college educated.
 * a source of this polarization is the increasing size of the federal government.
