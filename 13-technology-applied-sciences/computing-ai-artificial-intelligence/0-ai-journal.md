@@ -38,6 +38,12 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-04-13
+
+wikipedia article editor
+
+A prompt that generate the best wikipedia category for a the text of wikipedia article
+
 ## 2024-03-20
 
 Mercury, flying, blowing horn, helmet, sandals, Michelangelo, black and white line drawing

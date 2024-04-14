@@ -1,6 +1,49 @@
 # Prompt Tips
 
 
+## 2024-04-13
+
+* https://www.whytryai.com/p/two-methods-ai-chatbots-prompt-themselves#footnote-1-140513110
+
+* Before you respond, please ask me any clarifying questions you need to make your reply more complete and relevant. Be as thorough as needed.”
+
+Please study the following prompt engineering guide by OpenAI:
+https://platform.openai.com/docs/guides/prompt-engineering
+
+
+“I want to [YOUR REQUEST]. Based on the learnings from the above guide, please craft a detailed, exhaustive prompt for me to use.”
+
+I want to find the best of the 13 main wikipedia categories for a given piece of text. Please study the following wikipedia article: https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
+
+
+Based on the learnings from the above guide and article, please craft a detailed, exhaustive prompt for me to use.
+
+Please study the following wikipedia article: https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
+
+I want to find the most appropriate of the 13 main wikipedia categories to assign a the following URL:
+
+https://www.lesswrong.com/
+
+Based on the learnings from the above guide and article, please craft a detailed, exhaustive prompt for me to use.
+
+Before you respond, please ask me any clarifying questions you need to make your reply more complete and relevant. Be as thorough as needed
+
+The categories are:
+
+* General reference
+* Culture and the arts
+* Geography and places
+* Health and fitness
+* History and events
+* Human activities
+* Mathematics and logic
+* Natural and physical sciences
+* People and self
+* Philosophy and thinking
+* Religion and belief systems
+* Society and social sciences
+* Technology and applied sciences
+
 ## 2024-04-12
 
 ### https://github.com/openai/simple-evals?tab=readme-ov-file#user-content-fn-1-9bee999204c4c0d5dbd7a8aaffff6a45
