@@ -65,6 +65,17 @@ Shift + Alt + D, Edit ‣ Clone ‣ Unlink Clone or by clicking on the correspon
 To select the original of a clone, you can press Shift + D
 
 
+### Preferences
+
+#### Interface
+
+* Toolbars: Set icon size
+* Control Bar: Set icon size
+
+#### Imported Images
+
+* set IrfanView as Bitmap editor
+
 ## View Menu
 
 Pan: scroll wheel press

@@ -9,7 +9,7 @@ Somewhere where I had a room. Styed for a number of months
 * ?? Washington
 * 94 Allison Road
 * 120 East End Ave
-* Concord NH
+* Concord NH x 6
 * Brookville Road
 * 1020 Fifth Avenue
 * Wheatley Road
@@ -21,11 +21,11 @@ Somewhere where I had a room. Styed for a number of months
 * Merrill Hall
 * Syracuse: ??  Ave
 * Syracuse: Upstate Medical Center
-* Nevern Square
+* 45 Nevern Square
 * 4 Holland Park
 * 168 Holland Park
 * 12 Landor Road
-* Ressons le long
+* Ressons-le-long
 * Taikoo Shing
 * Happy Valley ??
 * 65 Wong Nai Chung Road
@@ -40,3 +40,28 @@ Somewhere where I had a room. Styed for a number of months
 * 440 David #2101
 * 3400 Laguna Street #227
 
+## Places where I have stayed for a while
+
+* Candlewood
+* Le Moulin
+* Cherryfield
+* Old Town ME
+* Palazzo Contarine dele Figlie
+* Edgartown x5
+* Nine Quarter Circle, Boz MT
+* Dover w/Jeremy
+* Domaine de ??
+* Alor Star
+* Bangkok
+* Phuket
+* Singapore
+* Manila
+* Taipei
+* Seoul
+* Houlgate
+* Granville
+* Sag Harbor
+* Healdsburg?
+* Bend?
+* Yellowstone
+* Yosemite
