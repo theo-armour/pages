@@ -46,6 +46,39 @@ So what is today's dream?
 
 Let us go back to the hunter gatherers: place is immaterial. See "The Dawn of Everything". Let us follow the traditions of a billion Chinese. Family, clans, and tribes are the only places that matter. The rest is just a place to sleep.
 
+## Notes
+
+* Detailed reflections on specific dwellings are missing. Each dwelling could be the topics of many papers.
+* You can't take it with you. You can't go home again. The work you put in has mostly already been obliterated by the new owners. The new owners are not interested in your work. They have their own dreams.
+
+## More
+
+* Owning houses reduces flexibility
+* Moving sucks but helps with disposing of stuff
+* Cheaper to rent?
+* The more you own the more you are open to bad things happening to what you own ~ ie theft, fire, flood, etc.
+* if buying a house is just about money then it is a bad investment
+* if buying a house is about a place to live for decades then it may be a good investment
 * Is generational contact useful?
-* Heredity is it?
+* Is a "clan" useful?
+* Is heredity the strongest determinant of too many things?
+* House are useful for people having babies or keeping pets
+* House without babies may well be seen as demonstrations of wealth, position and power
+* You live in the perfect house, so then what?
+* House filled with inheritances prevented commissioning new things and set a style that reflects the past
+
+## Alternatives
+
+* Own an RV
+* Build a tiny house (on wheels)
+* Help restore an old castle
+* Live in a commune
+* Live in a co-housing community
+* Build a "family company"
+* Be a life style person
+
+## later
+
+* Each dwelling has its own narrative, its own story. You could say that each helped form the person I am today. Actually, no question, this happened.
+* Each project stood on its own, with little regard for the previous projects. It might have been nice to have a long term vision
 
