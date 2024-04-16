@@ -2,9 +2,9 @@
 
 Hi Cynthia
 
-This paper is being written for you (and me). It is written with the idea that it may help inform you with some of the notions of "dwelling" that you may have been considering.
+This paper is being written for you. It is written with the idea that it may help inform you with some of the notions of "place" that you may have been considering.
 
-I have no particular thesis to convey or position that I argue for. But, of course me being me, I am trying to posit different "lenses. This time on the notion of "dwelling" and what that may entail.
+I have no thesis to convey or position that I argue for. But, of course me being me, I am trying to posit a fresh perspective. This time on the notion of "place" and what comes after.
 
 Love,
 
@@ -46,6 +46,8 @@ So what is today's dream?
 
 Let us go back to the hunter gatherers: place is immaterial. See "The Dawn of Everything". Let us follow the traditions of a billion Chinese. Family, clans, and tribes are the only places that matter. The rest is just a place to sleep.
 
+<<<<<<< HEAD
+=======
 ## Notes
 
 * Detailed reflections on specific dwellings are missing. Each dwelling could be the topics of many papers.
@@ -81,4 +83,17 @@ Let us go back to the hunter gatherers: place is immaterial. See "The Dawn of Ev
 
 * Each dwelling has its own narrative, its own story. You could say that each helped form the person I am today. Actually, no question, this happened.
 * Each project stood on its own, with little regard for the previous projects. It might have been nice to have a long term vision
+>>>>>>> a81a4891457a7638746fbbc0e2ef6a8845c0c73a
 
+
+## More
+
+* Moving sucks but helps with disposing of stuff
+* Cheaper to rent?
+* if buying a house is just about money then it is a bad investment
+* if buying a house is about a place to live for decades then it may be a good investment
+* Is generational contact useful?
+* Is a "clan" useful
+* Heredity is it?
+* House ar useful for people having babies
+* House without 
