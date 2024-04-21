@@ -20,6 +20,13 @@ Installed updates: FixPack-5.0.0.10.0.23307
 * File menu > export > PNG ~ 96 dpi ~ exports entire pages
 * Open PDF file > right click > Save All Image As... > jpg ~ 144 DPI! ~ just images
 
+### Kofax "Save All Image As"
+
+* Images can be saved as BMP, TIF or JPG
+* Want PNGs ot preserve quality
+* BMP to PNG yields smaller files than JPG to PNG
+
+
 
 
 
