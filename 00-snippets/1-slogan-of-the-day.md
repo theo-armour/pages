@@ -5,7 +5,13 @@
 
 ## ToMatto
 
-* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.  
+* 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
+* \* 2024-04-02 ~ NYT: "middle finger politics"
+* 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
+* 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
+* 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
+* 2024-04-08 ~ Information is the inverse of entropy.
+* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
 * Favorite: cocktail, paper airplane, font, Daddy joke
 * 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
@@ -13,7 +19,6 @@
 * 2024-02-29 ~ the big deparres are empty and closing, while streets with lots of small shops are thriving
 * 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
 * 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
-
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
