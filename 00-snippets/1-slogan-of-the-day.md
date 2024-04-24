@@ -5,6 +5,9 @@
 
 ## ToMatto
 
+* 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
+* 2024-04-16 ~ A negative thought coming in cannot be "unseen", but you can choose not to dwell upon the thought.
+* 2024-04-20 ~ Usa AI to interview old people in order to generate more content for AI
 * 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
 * \* 2024-04-02 ~ NYT: "middle finger politics"
 * 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
