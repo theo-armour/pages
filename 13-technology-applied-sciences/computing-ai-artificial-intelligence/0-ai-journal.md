@@ -38,6 +38,11 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-04-25
+Juan Belmonte matador with cape, flying, blowing horn, Michelangelo, black and white line drawing,
+
+Bullfighter with cape, flying, blowing horn, Michelangelo, black and white line drawing
+
 ## 2024-04-13
 
 wikipedia article editor

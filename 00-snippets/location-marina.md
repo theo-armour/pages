@@ -26,13 +26,13 @@ Closed Sunday & Monday
 * Sebastian
 * Manager: Guillaume
 
-## Boho Restaurant ~ [https://www.cafebohosf.com/](https://www.cafebohosf.com/)
+## [Boho Cafe](https://www.cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
-* Tik? ~ server
+* Tick? ~ Thailand ~ server
 * 3321 Steiner St, San Francisco, CA 94123
-* +14153747518
+* +1 415 374 7518
 
 ## Brazen head
 
