@@ -12,7 +12,7 @@
 
 \* Whole Brain Emulation (WBI)
 
-  
+\* Total fertility rate ~ TFR
 
   
 
