@@ -10,23 +10,17 @@ darkmode: settings ~ personalization
 
 ## gMail
 
-keyboard shortcuts: ?
-
-space bar: scroll preview bbb
-
-cursor keys: scroll messages
+* keyboard shortcuts: ?
+* space bar: scroll preview bbb
+* cursor keys: scroll messages
 
 ## chrome browser
 
-help: F1
-
-close tab: ctrl-w
-
-Jump to the next open tab: Ctrl + Tab or Ctrl + PgDn
-
-caret browsing: F7
-
-Open a new window in Incognito mode: Ctrl + Shift + n
+* help: F1
+* close tab: ctrl-w
+* Jump to the next open tab: Ctrl + Tab or Ctrl + PgDn
+* caret browsing: F7
+* Open a new window in Incognito mode: Ctrl + Shift + n
 
 ## chromebook
 

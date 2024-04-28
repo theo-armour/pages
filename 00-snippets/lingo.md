@@ -8,18 +8,16 @@
 * Nee boo ooh lahl Thank you.
 * Bah-sch kah wah-lee ~ Hello
 * Ba'ax ka waalik? hello
-
 * Malo haat kab kiin ~ good morning
 * Beesh-uh-bell? How are you?
 * Mah ah-low-bee I'm very good.
-
 * Meesh bah ~ I'm good
 * https://yucatanliving.com/culture/mayan-language-for-beginners-2
 * https://www.naatikmexico.org/yucatec-maya-phrases/
 
 mel Gibson apocolyptico
 
-Turkish
+## Turkish
 
 * Thank you
 

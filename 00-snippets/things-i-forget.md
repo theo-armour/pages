@@ -61,19 +61,32 @@ Tina Fey
 4. There are no mistakes!
 
 Taillevant ~ [http://www.taillevent.com/](http://www.taillevent.com/)
+
 Skeuomorphs are material metaphors instantiated through our technologies in artifacts. 
+
 Celeste Holme 
+
 La Palette ~ 43 rue de Seine ~ rue Jacques Callot ~ Arman sculpture nearby
+
 Pamela and Richard Kramlich 
+
 Rich and Lenore Niles 
+
 gray: US ~ grey: UK 
+
 Jean Cocteau 
+
 Lobbyist 
+
 Maxfield Parrish 
+
 Humphrey Bogart and Ingrid Bergman
+
 Janis Joplin ~ Southern Comfort
+
 Jimi Hendrix
 
 Rick McCallum ~ Pat York & Michael York
 
 people who, things that
+
