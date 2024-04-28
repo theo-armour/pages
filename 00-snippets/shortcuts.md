@@ -1,6 +1,6 @@
 # Shortcuts
 
-## windows 10
+## windows 11
 
 [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
 
@@ -48,12 +48,11 @@ Open a new window in Incognito mode: Ctrl + Shift + n
 * Selection expand: alt + shift + rArr
 * Settings json: ctrl + ,
 * Terminal: ctrl + \`
-* Word wrap: alt + z
-Custom
+* Word wrap: alt + z Custom
 * Title Case: ctrl + i
 * home||end: alt + lArr||rArr
 
 ## [emmet cheat-sheet](https://docs.emmet.io/cheat-sheet/)
+
 * html:5
 * lorem100
-
