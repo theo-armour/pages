@@ -4,15 +4,11 @@
 
 ## 2024-04-28
 
-\* https://substack.com/inbox/post/143981824
-
-\* Make AI more transparent by using things like pull requests
-
-\* AI kills call centers in a year
-
-\* Whole Brain Emulation (WBI)
-
-\* Total fertility rate ~ TFR
+* https://substack.com/inbox/post/143981824
+* Make AI more transparent by using things like pull requests
+* AI kills call centers in a year
+* Whole Brain Emulation (WBI)
+* Total fertility rate ~ TFR
 
   
 
