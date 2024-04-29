@@ -8,7 +8,9 @@
 
 \* NPR: another story on 6-10 flights of stairs is healthy
 
-\* Long content: good stuff in the middle can be sniffed
+\* [Links for 2024-04-29 - by Alexander Kruel (substack.com)](https://substack.com/inbox/post/144047089)
+
+\* Long content: good stuff in the middle can be sniffed out
 
 ## 2024-04-28
 
