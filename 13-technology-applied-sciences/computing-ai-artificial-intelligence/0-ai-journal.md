@@ -38,6 +38,14 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-04-29
+
+Gabriel's horn
+
+please recreate this image of  a _matador de toros_ wearing a _montera_ hat.  The montera is habitually covered in astrakhan fur. he top of the montera is often decorated with a special design.. The "bulbs" on the sides of the montera represent the horns of a bull.
+
+draw a matador de toros wearing a montera hat.  The montera is habitually covered in astrakhan fur. he top of the montera is often decorated with a special design.. The "bulbs" on the sides of the montera represent the horns of a bull. Please try to draw the matador wearing a montera.
+
 ## 2024-04-25
 Juan Belmonte matador with cape, flying, blowing horn, Michelangelo, black and white line drawing,
 
