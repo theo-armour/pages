@@ -2,15 +2,23 @@
 
   
 
-## 2024-04-29
+## 2024-05-01
+
+\* AI can guess your political affiliation by looking at your face
+
+\* Musk: use Tesla cars as a mobile distributed ai system
+
+\* Buck Institute: Aging in Space: plastics are not the future ~ silicone is better  
 
   
 
-\* NPR: another story on 6-10 flights of stairs is healthy
+## 2024-04-29
+
+* NPR: another story on 6-10 flights of stairs is healthy
 
 \* [Links for 2024-04-29 - by Alexander Kruel (substack.com)](https://substack.com/inbox/post/144047089)
 
-\* Long content: good stuff in the middle can be sniffed out
+* Long content: good stuff in the middle can be sniffed out
 
 ## 2024-04-28
 
