@@ -1,3 +1,5 @@
+## Snippets
+
 // copyright 2023 Theo Armour. MIT license.
 /* global COR, main, divMainContent, showdown */
 // jshint esversion: 6
@@ -5,6 +7,15 @@
 
 Unicode Character “≡” (U+2261) https://www.compart.com/en/unicode/U+2261
 
+## Summary
+
+<details>
+<summary>Summary</summary>
+
+* Conceptualizing random endpoints 
+* Document-centric projections.
+
+</details>
 
 ## Range
 
@@ -14,7 +25,7 @@ Unicode Character “≡” (U+2261) https://www.compart.com/en/unicode/U+2261
 </label>
 ```
 
-##
+## info
 
 ``` JavaScript
 
@@ -25,6 +36,8 @@ Unicode Character “≡” (U+2261) https://www.compart.com/en/unicode/U+2261
 	</span>
 </span>
 ```
+
+## Request File
 
 ``` JavaScript
 function requestFile ( url = "https://theo-armour.github.io/", callback = onLoad ) {
@@ -38,7 +51,7 @@ function requestFile ( url = "https://theo-armour.github.io/", callback = onLoad
 	xhr.send( null );
 
 }
-```
+
 
 
 function onLoad ( response ) {
@@ -49,6 +62,18 @@ function onLoad ( response ) {
 
 }
 
+```
+
+## History
+
+``` JavaScript
+if ( location.protocol === "https:" ) {
+
+ window.history.pushState( "", "", "./" + location.hash );
+
+}
+
+```
 
 ## aDingbat
 
