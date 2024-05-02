@@ -12,6 +12,8 @@
 
 \* Sam Altman at Harvard
 
+  
+
 ## 2024-05-01
 
 * AI can guess your political affiliation by looking at your face
