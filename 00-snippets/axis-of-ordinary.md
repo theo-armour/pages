@@ -6,7 +6,11 @@
 
   
 
-  
+\* Monitoring AI safety organization ~ good links
+
+\* Better robots, more 3D viz and more "plumbing"
+
+\* Sam Altman at Harvard
 
 ## 2024-05-01
 
