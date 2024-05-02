@@ -32,20 +32,20 @@ darkmode: settings ~ personalization
 ## vs code
 
 * [keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Ctrl + K Ctrl + R
-* Close ctrl-K-ctrl-0 ~ open ctrl-K-ctrl-J
 * Curser add select next: Ctrl + D
 * Cursor add below: alt-ctrl-down arrow
 * Definition: F12
 * Delete prev||next: ctrl + bspace||delete
 * Folding: ctrl-K-ctrl-1 || ctrl+shift+\[||\]
-* Home||end: alt + lArr||rArr
 * Search case|regex|whole word: Alt+C|R|W T 
+* Close ctrl-K-ctrl-0 ~ open ctrl-K-ctrl-J
 * Selection expand: alt + shift + rArr
 * Settings json: ctrl + ,
-* Sort Json: JSON 
+* Sort Json: JSON Sort Document
 * Terminal: ctrl + \`
-* Title Case: ctrl + i
 * Word wrap: alt + z Custom
+* Title Case: ctrl + i
+* home||end: alt + lArr||rArr
 
 ## [emmet cheat-sheet](https://docs.emmet.io/cheat-sheet/)
 
