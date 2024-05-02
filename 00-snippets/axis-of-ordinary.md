@@ -2,15 +2,17 @@
 
   
 
-## 2024-05-01
-
-\* AI can guess your political affiliation by looking at your face
-
-\* Musk: use Tesla cars as a mobile distributed ai system
-
-\* Buck Institute: Aging in Space: plastics are not the future ~ silicone is better  
+## 2024-05-02
 
   
+
+  
+
+## 2024-05-01
+
+* AI can guess your political affiliation by looking at your face
+* Musk: use Tesla cars as a mobile distributed ai system
+* Buck Institute: Aging in Space: plastics are not the future ~ silicone is better
 
 ## 2024-04-29
 
