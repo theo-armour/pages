@@ -42,6 +42,7 @@ darkmode: settings ~ personalization
 * Search case|regex|whole word: Alt+C|R|W T 
 * Selection expand: alt + shift + rArr
 * Settings json: ctrl + ,
+* Sort Json: JSON 
 * Terminal: ctrl + \`
 * Title Case: ctrl + i
 * Word wrap: alt + z Custom
