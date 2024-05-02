@@ -41,6 +41,7 @@ darkmode: settings ~ personalization
 * Close ctrl-K-ctrl-0 ~ open ctrl-K-ctrl-J
 * Selection expand: alt + shift + rArr
 * Settings json: ctrl + ,
+* Sort Json: JSON 
 * Terminal: ctrl + \`
 * Word wrap: alt + z Custom
 * Title Case: ctrl + i
