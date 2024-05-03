@@ -8,7 +8,9 @@
 
 \* https://www.researchgate.net/publication/379890448\_Sensory\_Feedback\_for\_Visually\_Impaired\_using\_Large\_Language\_Models For what's his name
 
-\* LLMs learning from benchmarks used to test LLMs
+\* LLMs learning from benchmarks used to test LLMs: Overfitting occurs when a model learns the training data too well. It captures not only the underlying patterns but also the noise and random fluctuations in the training data1. As a result, the model performs well on the training data but poorly on new, unseen data.
+
+\* 
 
 ## 2024-05-02
 
