@@ -1,16 +1,13 @@
 # axis-of-ordinary.md
 
-  
+
 
 ## 2024-05-02
 
-  
-
-\* Monitoring AI safety organization ~ good links
-
-\* Better robots, more 3D viz and more "plumbing"
-
-\* Sam Altman at Harvard
+* Monitoring AI safety organization ~ good links
+* Better robots, more 3D viz and more "plumbing"
+* Sam Altman at HarvardRight. * https://www.viforux.com/products/brain-improvement-device-for-kids: a dream for me and a nightmare for my children.
+![1714670875238](image/axis-of-ordinary/1714670875238.png =200x200)
 
 ## 2024-05-01
 
@@ -21,15 +18,12 @@
 ## 2024-04-29
 
 * NPR: another story on 6-10 flights of stairs is healthy
-
-\* [Links for 2024-04-29 - by Alexander Kruel (substack.com)](https://substack.com/inbox/post/144047089)
-
+* [Links for 2024-04-29 - by Alexander Kruel (substack.com)](https://substack.com/inboxpost/144047089)
 * Long content: good stuff in the middle can be sniffed out
 
 ## 2024-04-28
 
-\* [https://substack.com/inbox/post/143981824](https://substack.com/inbox/post/143981824)
-
+* [https://substack.com/inbox/post/143981824](https://substack.com/inbox/post/143981824)
 * Make AI more transparent by using things like pull requests
 * AI kills call centers in a year
 * Whole Brain Emulation (WBI) \* Total fertility rate ~ TFR
