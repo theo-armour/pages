@@ -10,7 +10,7 @@
 
 \* LLMs learning from benchmarks used to test LLMs: Overfitting occurs when a model learns the training data too well. It captures not only the underlying patterns but also the noise and random fluctuations in the training data1. As a result, the model performs well on the training data but poorly on new, unseen data.
 
-\* 
+\* Kentucky Derby is tomorrow. The interesting thing is that 12 horses associated with last year's race have died since
 
 ## 2024-05-02
 
