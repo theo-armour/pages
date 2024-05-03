@@ -9,6 +9,8 @@
 * Sam Altman at HarvardRight. * https://www.viforux.com/products/brain-improvement-device-for-kids: a dream for me and a nightmare for my children.
 ![1714670875238](image/axis-of-ordinary/1714670875238.png =200x200)
 
+  
+
 ## 2024-05-01
 
 * AI can guess your political affiliation by looking at your face
