@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
 * 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
 * 2024-04-25 ~ I create a lot of conjectures: an opinion or supposition about (something) on the basis of incomplete information
 * 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
