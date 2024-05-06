@@ -1,4 +1,3 @@
-
 # Wikipedia Policies
 
 * [https://en.wikipedia.org/wiki/Wikipedia:Ten\_simple\_rules\_for\_editing\_Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Ten_simple_rules_for_editing_Wikipedia)

@@ -1,16 +1,15 @@
 # axis-of-ordinary.md
 
-  
+## 2024-05-05
+
+nothing of much interest today
 
 ## 2024-05-03
 
-\* https://substack.com/inbox/post/144202103
-
-\* https://www.researchgate.net/publication/379890448\_Sensory\_Feedback\_for\_Visually\_Impaired\_using\_Large\_Language\_Models For what's his name
-
-\* LLMs learning from benchmarks used to test LLMs: Overfitting occurs when a model learns the training data too well. It captures not only the underlying patterns but also the noise and random fluctuations in the training data1. As a result, the model performs well on the training data but poorly on new, unseen data.
-
-\* Kentucky Derby is tomorrow. The interesting thing is that 12 horses associated with last year's race have died since
+* https://substack.com/inbox/post/144202103
+* https://www.researchgate.net/publication/379890448\_Sensory\_Feedback\_for\_Visually\_Impaired\_using\_Large\_Language\_Models For what's his name
+* LLMs learning from benchmarks used to test LLMs: Overfitting occurs when a model learns the training data too well. It captures not only the underlying patterns but also the noise and random fluctuations in the training data1. As a result, the model performs well on the training data but poorly on new, unseen data.
+* Kentucky Derby is tomorrow. The interesting thing is that 12 horses associated with last year's race have died since
 
 ## 2024-05-02
 

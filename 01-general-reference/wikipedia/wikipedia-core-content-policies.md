@@ -21,7 +21,13 @@ Generally speaking, an authoritative source is a highly trusted and reliable pla
 * http://owll.massey.ac.nz/academic-writing/identifying-academic-sources.php
 * http://owll.massey.ac.nz/academic-writing/what-is-academic-writing.php
 
+
+## Google E-A-T
+
 See also Google E-A-T “Expertise, authoritativeness, and trustworthiness"
+
+* https://moz.com/learn/seo/google-eat
+* https://www.searchenginejournal.com/google-eat/what-is-it/
 
 
 ## CRAAP Test ~ Currency Relevance Authority Accuracy Purpose
@@ -35,9 +41,9 @@ See also Google E-A-T “Expertise, authoritativeness, and trustworthiness"
 ## Wikipedia: Core content policies
 
 * https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies
-	* [Neutral point of view]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – All Wikipedia articles and other encyclopedic content must be written from a neutral point of view, representing significant views fairly, proportionately and without bias.
-	* [Verifiability]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – Material challenged or likely to be challenged, and all quotations, must be attributed to a reliable, published source. In Wikipedia, verifiability means that people reading and editing the encyclopedia can check that information comes from a reliable source.
-	* [No original research]( https://en.wikipedia.org/wiki/Wikipedia:No_original_research ) – Wikipedia does not publish original thought: all material in Wikipedia must be attributable to a reliable, published source. Articles may not contain any new analysis or synthesis of published material that serves to advance a position not clearly advanced by the sources.
+* [Neutral point of view]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – All Wikipedia articles and other encyclopedic content must be written from a neutral point of view, representing significant views fairly, proportionately and without bias.
+* [Verifiability]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – Material challenged or likely to be challenged, and all quotations, must be attributed to a reliable, published source. In Wikipedia, verifiability means that people reading and editing the encyclopedia can check that information comes from a reliable source.
+* [No original research]( https://en.wikipedia.org/wiki/Wikipedia:No_original_research ) – Wikipedia does not publish original thought: all material in Wikipedia must be attributable to a reliable, published source. Articles may not contain any new analysis or synthesis of published material that serves to advance a position not clearly advanced by the sources.
 
 
 ## Wikipedia on authoritative sources
