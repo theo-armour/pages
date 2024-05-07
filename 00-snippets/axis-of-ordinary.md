@@ -1,5 +1,18 @@
 # axis-of-ordinary.md
 
+
+## 2024-05-06
+
+* https://substack.com/inbox/post/144324424
+* Taiwanese researchers trained AI on 450,000 ECG tests - reduced overall deaths by 31% and deaths from heart problems by more than 90%. https://x.com/EricTopol/status/178493671828380512
+* Claude: Turing complete
+* ChatGPT creates new gene-editing tools
+
+Marcus
+* https://substack.com/inbox/post/143578478
+* Microsoft building its own AI
+
+
 ## 2024-05-05
 
 nothing of much interest today
@@ -7,7 +20,7 @@ nothing of much interest today
 ## 2024-05-03
 
 * https://substack.com/inbox/post/144202103
-* https://www.researchgate.net/publication/379890448\_Sensory\_Feedback\_for\_Visually\_Impaired\_using\_Large\_Language\_Models For what's his name
+* "https://www.researchgate.net/publication/379890448\_Sensory\_Feedback\_for\_Visually\_Impaired\_using\_Large\_Language\_Models For what's his name"
 * LLMs learning from benchmarks used to test LLMs: Overfitting occurs when a model learns the training data too well. It captures not only the underlying patterns but also the noise and random fluctuations in the training data1. As a result, the model performs well on the training data but poorly on new, unseen data.
 * Kentucky Derby is tomorrow. The interesting thing is that 12 horses associated with last year's race have died since
 
@@ -15,7 +28,8 @@ nothing of much interest today
 
 * Monitoring AI safety organization ~ good links
 * Better robots, more 3D viz and more "plumbing"
-* Sam Altman at HarvardRight. \* [https://www.viforux.com/products/brain-improvement-device-for-kids:](https://www.viforux.com/products/brain-improvement-device-for-kids:) a dream for me and a nightmare for my children. ![1714670875238](image/axis-of-ordinary/1714670875238.png)
+* Sam Altman at HarvardRight.
+* [https://www.viforux.com/products/brain-improvement-device-for-kids:](https://www.viforux.com/products/brain-improvement-device-for-kids:) a dream for me and a nightmare for my children. ![1714670875238](image/axis-of-ordinary/1714670875238.png)
 
 ## 2024-05-01
 
