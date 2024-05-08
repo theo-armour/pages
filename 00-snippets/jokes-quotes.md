@@ -6,13 +6,12 @@ I am not afraid of robots. I am afraid of people.
 
 ~ [https://garymarcus.substack.com/p/i-am-not-afraid-of-robots-i-am-afraid](https://garymarcus.substack.com/p/i-am-not-afraid-of-robots-i-am-afraid)
 
-  
+
 
 ## 2023-08-08
 
-\* The end of labor is to gain leisure.
+* The end of labor is to gain leisure.
 
-  
 
 ## 2023-05-08
 
@@ -98,13 +97,13 @@ The famously witty Alice Roosevelt Longworth: “Dorothy (Thompson) is the only 
 
 ## 2021-04-25
 
-Knock knock.  
-Who's there?  
-Juan.  
-Juan who?  
+Knock knock.
+Who's there?
+Juan.
+Juan who?
 Juan to go out for margaritas on Cinco de Mayo?
 
-How many Mexicans does it take to celebrate Cinco de Mayo?  
+How many Mexicans does it take to celebrate Cinco de Mayo?
 Just Juan!
 
 ## 2021-04-18
@@ -117,9 +116,9 @@ The long-held presumption that working in finance is less a job than an enduranc
 
 19th-century English jurist and wit Charles Bowen:
 
-The rain, it raineth on the just  
-And also on the unjust fella.  
-But chiefly on the just, because  
+The rain, it raineth on the just
+And also on the unjust fella.
+But chiefly on the just, because
 The unjust steals the just's umbrella.
 
 ## 2021-03-05

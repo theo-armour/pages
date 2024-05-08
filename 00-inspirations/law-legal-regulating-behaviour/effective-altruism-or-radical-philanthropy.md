@@ -11,7 +11,7 @@ Category philosophy and thinking > virtue > altruism
 * [https://www.effectivealtruism.org/](https://www.effectivealtruism.org/)
 * [https://en.wikipedia.org/wiki/Category:Effective\_altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
 
-### William MacAskill
+## William MacAskill
 
 * [https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism)
 
