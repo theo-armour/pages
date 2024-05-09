@@ -1,6 +1,9 @@
 # axis-of-ordinary.md
 
 
+## 2024-05-08
+
+
 ## 2024-05-06
 
 * https://substack.com/inbox/post/144324424
