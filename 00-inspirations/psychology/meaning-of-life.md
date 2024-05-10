@@ -9,3 +9,6 @@ Finding meaning in life is a very tricky thing indeed, Fortunately and similarly
 For me it’s doing nice things - things that are simultaneously nice for me and good for the world.
 
 I care therefore I am.
+
+
+[bb](C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-inspirations\psychology\meaning-of-life.md)

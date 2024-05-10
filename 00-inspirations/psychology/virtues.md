@@ -6,15 +6,34 @@
 * Add examples where I have personified a virtue
 
 
-## Links
+## wikipedia
 
-* https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
-* https://positivepsychology.com/classification-character-strengths-virtues/
+* https://en.wikipedia.org/wiki/Positive_psychology
+* https://en.wikipedia.org/wiki/Positive_illusions
+* https://en.wikipedia.org/wiki/Virtue
 * https://en.wikipedia.org/wiki/Values_in_Action_Inventory_of_Strengths#Character_Strengths_and_Virtues
+* https://en.wikipedia.org/wiki/Telos
+
+## Wikiversity
+
+* https://en.wikiversity.org/wiki/Virtues
+* https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
+
+
+## Charts
+
 * https://via-assets.global.ssl.fastly.net/76d1ea39-a4eb-4270-b9dc-899653415f8f/assets/VirtuesClassification-2021(R).pdf
 
+## Organizations
 
-## Six Virtues and 24 Strengths
+* https://viacharacter.org/
+* https://www.authentichappiness.sas.upenn.edu/
+* https://positivepsychology.com/classification-character-strengths-virtues/
+
+
+## Six Virtues and 24 Strengths ~ short list
+
+CSV identifies six classes of virtue (i.e. "core virtues") comprising 24 measurable "character strengths". The organization of the six virtues and 24 strengths is as follows:
 
 * **Wisdom and Knowledge:** creativity, curiosity, open-mindedness, love of learning, perspective
 * **Courage:** bravery, persistence, integrity, zest
@@ -25,42 +44,47 @@
 
 ## 1. Wisdom and Knowledge
 
-* Creativity ~  invention or origination of any new thing
-* Curiosity ~  inquisitive and tending to investigate or explore
-* Open-mindedness ~ critical thinking
-* Love of Learning ~ philomath
-* Perspective and Wisdom ~ ability to contemplate and act productively
-
+* **Creativity** ~ invention or origination of any new thing ~ Clever ~ Original and adaptive ~ Problem solver
+* **Curiosity** ~  inquisitive and tending to investigate or explore ~ Interested ~ Explore new things ~ Open to new ideas
+* **Judgment** ~ Critical thinker ~ Thinks things through ~ Open minded
+* **Love of Learning** ~ philomath ~ Master's new skills and topics ~ Systematically adds to knowledge
+* **Perspective** ~ ability to contemplate and act productively ~ Wise ~ Provides Wise Council ~
+Takes the big picture view.
 ## 2. Courage
 
-* bravery
-* persistence
-* integrity
-* vitality
+* **Bravery** ~ shows valor ~ doesn't shirk from fear ~ Speaks up for what's right
+* **Perserverance** ~ persistent ~ industrious ~ finishes what one starts
+* **Honesty** ~ integrity ~ authentic ~ trustworthy ~ sincere
+* **Vitality** ~ zest ~ enthusiastic ~ energetic ~ doesn't do things half-heartedly
 
 ## 3. Humanity
 
-* Love
-* Kindness
-* Social intelligence
+* **Love** ~ warm and guenine ~ Values close relationships
+* **Kindness** ~ Generous. ~ Nurturing  ~ Caring ~ Compassionate  ~ Altruistic.
+* **Social intelligence** ~ aware of the motives and feelings of others ~ Knows what makes others tick.
 
 ## 4. Justice
 
-* active citizenship / social responsibility / loyalty / teamwork
-* fairness
-* leadership
+* **Teamwork** ~ Team player ~ Socially responsible ~ loyal ~
+* **Fairness** ~ Just ~ Doesn't let feelings bias decisions about others
+* **Leadership** ~ Organizes activities ~ Encourages a group to get things done
 
 ## 5. Temperance
 
-* forgiveness and mercy
-* Humility and modesty
-* Prudence
-* self-regulation and self control
+* **Forgiveness** ~ Merciful ~ Accepts others' shortcomings ~ Gives people a second chance
+* **Humility** ~ Modest ~ That's one's accomplishment speak for themselves
+* **Prudence** ~ Careful ~ Cautious ~ Doesn't take undue risks?
+* **Self-regulation** ~ Self controlled ~ Disciplined ~ Manages impulses and emotions
 
 ## 6. Transcendence
 
-* appreciation of beauty and appreciation of excellence
-* Gratitude
-* hope
-* humor and playfulness
-* spirituality
+* **Appreciation of beauty and appreciation of excellence** ~ Feels all and wonder and beauty ~ Inspired by goodness of others
+  * https://en.wikipedia.org/wiki/Appreciation_of_beauty
+* **Gratitude** ~ Thankful for the good  ~ Expresses thanks ~ Feels blessed
+  * https://en.wikipedia.org/wiki/Gratitude
+* **Hope** ~ Optimistic ~ Future minded ~ Future oriented
+  * https://en.wikipedia.org/wiki/Hope
+* **Humor** ~ playful ~ Bring smiles to others ~ Light hearted
+  * https://en.wikipedia.org/wiki/Humour
+* **Spirituality** ~ Searches for meaning ~ Feels a sense of purpose ~ Senses a relationship with the sacred
+  * https://en.wikipedia.org/wiki/Spirituality
