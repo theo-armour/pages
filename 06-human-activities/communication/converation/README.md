@@ -6,8 +6,6 @@ https://en.wikipedia.org/wiki/Conversation
 https://en.wikipedia.org/wiki/Category:Oral_communication
 
 
-
-
 ### NY Times: Ezra Klein: The Great Delusion Behind Twitter
 
 * https://www.nytimes.com/2022/12/11/opinion/what-twitter-can-learn-from-quakers.html
@@ -31,5 +29,6 @@ How to moderate a sh$!tshow.
 * https://mailchi.mp/priyaparker/newsletter-9397522?e=ecb1076737
 
 ## Conversation Is Everything
+
 Emotions, tone, attention, and intention—communication is more than words.
 * https://www-psychologytoday-com.cdn.ampproject.org/v/s/www.psychologytoday.com/us/blog/breaking-barriers/201811/conversation-is-everything

@@ -18,7 +18,7 @@
 
 No! Use same topic headings as wikipedia! Doh!
 
-0-insprations.md
+0-inspirations.md
 
 
 

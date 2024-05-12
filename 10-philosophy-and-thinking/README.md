@@ -9,23 +9,24 @@ tags #10 #philosophy #thinking
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
 
 ## Philosophy
-Branches
-Schools and traditions
-Movements
-Concepts
-Theories
-Arguments
-Philosophers
-Literature
-History
-By period
-By region
-Aesthetics
-Epistemology ~ https://en.wikipedia.org/wiki/Outline_of_epistemology
-* Belief
-* Justification
-* Knowledge
-* Truth
+
+* Branches
+* Schools and traditions
+* Movements
+* Concepts
+* Theories
+* Arguments
+* Philosophers
+* Literature
+* History
+* By period
+* By region
+* Aesthetics
+* Epistemology ~ https://en.wikipedia.org/wiki/Outline_of_epistemology
+ * Belief
+ * Justification
+ * Knowledge
+ * Truth
 Ethics
 Logic
 Metaphysics
@@ -39,24 +40,30 @@ Social philosophy
 
 Thought is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Concepts akin to thought are cognition, sentience, consciousness, idea, and imagination.
 
-Attention
-Cognition
-Cognitive biases
-Creativity
-Decision theory
-Emotion
-Error
-Imagination
-Intelligence researchers
-**Learning**
-Memory biases
-mnemonics
-Nootropics (smart drugs)
-Organizational thinking (strategic management)
-Perception
-Problem solving
-Psychological adjustment
-Psychometrics
+## Thought
+
+Mental or intellectual activity involving an individual's subjective consciousness. It can refer either to the act of thinking or the resulting ideas or arrangements of ideas
+
+### Categories
+
+* Attention
+* Cognition
+* Cognitive biases
+* Creativity
+* Decision theory
+* Emotion
+* Error
+* Imagination
+* Intelligence researchers
+* **Learning**
+* Memory biases
+* Mnemonics
+* Nootropics (smart drugs)
+* Organizational thinking (strategic management)
+* Perception
+* Problem solving
+* Psychological adjustment
+* Psychometrics
 
 ***
 
