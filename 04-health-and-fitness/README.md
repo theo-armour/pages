@@ -29,7 +29,7 @@ tags #04 #health #fitness
 * Health care occupations
 
 * Death
-* Aging = Life-extension
+* Aging - Life-extension
 
 * Self care
   * Health promotion
@@ -52,8 +52,8 @@ tags #04 #health #fitness
 
 * Exercise
   * Aerobics
-  * Bodyweight exercise (
-  * Calisthenics)
+  * Bodyweight exercise
+  * Calisthenics
   * Cycling
   * Exercise equipment
   * Exercise instructors

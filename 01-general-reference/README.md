@@ -7,10 +7,11 @@ tags #01 #reference
 
 ## Concept
 
-* Very much about lists and categories
+* Very much about collections, indexes, lists and categories
 * The "what" and "where" of information
 * Not so much about the "how" and "why"
 * Very factual, explicit and detailed stuff
+* About referencing
 
 
 ## General Reference

@@ -4,60 +4,46 @@ tags #02 #culture #arts
 
 * https://theo-armour.github.io/pages/#02-culture-and-the-arts/README.md
 
+## Concept
+
+* Many lists
+* Media, sports, games, arts, entertainment, culture, humanities
+
 ## wikipedia
 
-* https://en.wikipedia.org/wiki/Wikipedia:
-Contents/
-Culture_and_the_arts
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Culture_and_the_arts
 
 ## Main categories: Culture and The arts
 
 ### Culture and Humanities
 
-Classics
-
-Critical theory
-
-Cultural anthropology
-
-Folklore
-
-Food culture
-
-Food and drink
-
-Language
-
-Literature
-
-Museology
-
-Mythology
-
-Philosophy
-
-Popular culture
-
-Fads ~ trends ~ see 05-history and events
-
-Science and culture
-
-Traditions
+* Classics
+* Critical theory
+* Cultural anthropology
+* Folklore
+* Food culture
+* Food and drink
+* Language
+* Literature
+* Museology
+* Mythology
+* Philosophy
+* Popular culture
+* Fads ~ trends ~ see 05-history and events
+* Science and culture
+* Traditions
 
 ### The arts and Entertainment
 
-Arts and crafts
-
-Celebrity
-
-Censorship in the arts
-
-Festivals
-Humor
-Literature
-Museums
-Parties
-Poetry
+* Arts and crafts
+* Celebrity
+* Censorship in the arts
+* Festivals
+* Humor
+* Literature
+* Museums
+* Parties
+* Poetry
 
 ### Performing arts
 
@@ -73,17 +59,17 @@ Theatre
 
 ### Visual arts
 
-Architecture
-Comics
-Crafts
-Design
-Drawing
-Film
-Animation
-New media art
-Painting
-Photography
-Sculpture
+* Architecture
+* Comics
+* Crafts
+* Design
+* Drawing
+* Film
+* Animation
+* New media art
+* Painting
+* Photography
+* Sculpture
 
 ### Games and Toys
 
@@ -160,10 +146,10 @@ Whitewater sports
 
 ### Things could be better
 
-
 Eight studies reveal a (possibly universal) bias in human imagination
 * https://experimentalhistory.substack.com/p/things-could-be-better
   * https://news.ycombinator.com/item?id=34125158
+
 
 ### More
 

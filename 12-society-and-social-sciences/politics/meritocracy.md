@@ -8,6 +8,7 @@
 * https://en.wikipedia.org/wiki/Myth_of_meritocracy
 
 ### Top ten
+
 * https://the.ink/p/dignity
 * https://astralcodexten.substack.com/p/book-review-the-cult-of-smart
 * https://newrepublic.com/article/160665/tyranny-merit-common-good-book-review-meritocracy-trial

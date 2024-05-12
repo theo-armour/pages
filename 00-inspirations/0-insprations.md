@@ -16,10 +16,104 @@
 * Simplicity
 * Technics
 
+No! Use same topic headings as wikipedia! Doh!
 
-## wikipedia
+0-insprations.md
 
-* https://en.wikipedia.org/wiki/Mental_model
+
+
+## communication:
+
+* authoritative.md
+* communication-texting-vs-email.md
+* fallacies.md
+* rhetoric.md
+* wikipedia-policies.md
+
+## concepts:
+
+abstraction.md
+aphorisms.md
+mental-models.md
+
+## economics:
+
+social-capital.md
+start-cheap-trade-up.md
+
+## health:
+
+cooking-cookbooks.md
+diet-nutrition.md
+
+## history:
+
+lessons-learned.md
+standing-on-the-shoulders-of-giants.md
+
+## law-legal-regulating-behavior
+
+0-law.md
+effective-altruism-or-radical-philanthropy.md
+open-or-closed-source.md
+radical-transparency.md
+sdg-united-nations-sustainable-development-goals.md
+three-laws-of-robotics.md
+
+## media:
+
+eeat-exoerience-expertise-authority-trust.md
+media-hype.md
+
+## patterns:
+
+fixing-it-may-break-it.md
+improv.md
+patterns-apl.md
+three-rules-of-three.md
+three-triads/
+
+## patterns/three-triads:
+
+0-three-triads.md
+stop-look-go.md
+triads-trichotomy.md
+
+## projects:
+
+README.md
+afterlife.md
+checklists.md
+features-and-benefits.md
+features-benefits.md
+gtd.md
+mission-vision-values.md
+project-defimition-templates.md
+projects.md
+weekly-review-template.md
+
+## psychology:
+
+beauty.md
+happiness-hedonism.md
+meaning-of-life.md
+virtues.md
+
+## rules:
+
+burning-man.md
+school-prayer-sps-saint-pauls-school.md
+serenity-prayer.md
+sps-school-prayer.md
+
+## simplicity:
+
+siimple-living.md
+
+## technics:
+
+spraration-of-concerns.md
+
 
 ## Lists
 

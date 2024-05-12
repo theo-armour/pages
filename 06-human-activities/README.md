@@ -15,42 +15,42 @@ If the article is primarily about an activity or task that individuals or groups
 
 ## Human activities
 
-Activism
-Agriculture
-**Arts**
-Aviation
-Commemoration
-**Communication**
-* Conversation
-* Email
-Crime
-Design
-Education
-Entertainment
-Fictional activities
-Fishing
-Food and drink preparation
-**Government**
-Hunting
-Industry
-Leisure activities
-Navigation
-Observation
-Performing arts
-Physical exercise
-Planning
-**Politics**
-Recreation
-Religion
-Human spaceflight
-Sports
-Trade
-**Transport**
-Travel
-Underwater human activities
-Underwater diving
-War
-Work
+* Activism
+* Agriculture
+* **Arts**
+* Aviation
+* Commemoration
+* **Communication**
+* * Conversation
+* * Email
+* Crime
+* Design
+* Education
+* Entertainment
+* Fictional activities
+* Fishing
+* Food and drink preparation
+* **Government**
+* Hunting
+* Industry
+* Leisure activities
+* Navigation
+* Observation
+* Performing arts
+* Physical exercise
+* Planning
+* **Politics**
+* Recreation
+* Religion
+* Human spaceflight
+* Sports
+* Trade
+* **Transport**
+* Travel
+* Underwater human activities
+* Underwater diving
+* War
+* Work
 
 ## Impact of human activity
 
@@ -63,8 +63,8 @@ Human impact on the environment
   * **SDGs**
 * Global warming,
 * Pollution
-Human overpopulation
-Urbanization
+* Human overpopulation
+* Urbanization
 
 ***
 

@@ -5,7 +5,7 @@
 * keyboard shortcuts: control + K + S
 * F1 for help
 
-## VS Code
+## VS Code links
 
 * https://code.visualstudio.com/
 * https://en.wikipedia.org/wiki/Visual_Studio_Code

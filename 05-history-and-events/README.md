@@ -10,22 +10,24 @@ tags #05 #history #events #time
 * https://en.wikipedia.org/wiki/Category:Fields_of_history
 
 Main categories: History and Events
-By period
-
-By topic
-Science
-Religion
-Historiography
-Timelines
+* By period
+* By topic
+* Science
+* Religion
+* Historiography
+* Timelines
 
 History by location
+
 * By continent
   * Africa
   * Asia
   * Europe
   * America
-* By region
-  * N orth AmericaSouth AmericaCentral EuropeMiddle EastOceania
+
+By region
+
+* North AmericaSouth AmericaCentral EuropeMiddle EastOceania
 * By country
 * By city
 * Empires

@@ -4,10 +4,6 @@ Calculus ~ Differential equations
 
 things to Remember
 
-http://jockossteakhouse.com/ ~ Nipomo
-
-https://en.wikipedia.org/wiki/Paul_Harvey
-
 Google: EEAT ~ Experience, Expertise, Authoritativeness, and Trustworthiness
 
 Shegetz - non-Jewish boy - equal to shiksa - pejorative App
@@ -33,17 +29,7 @@ Quick Tip: What Are Factory Functions in JavaScript   [https://www.sitepoint.c
 
 [https://en.wikipedia.org/wiki/Inverse\_kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics)
 
-Ana, Francisco and Nellie / armed forces network
 
-Paul Harvey
-
-Minority Report - Tom Cruise writing in 3D
-
-[https://en.wikipedia.org/wiki/Plastic\_Man](https://en.wikipedia.org/wiki/Plastic_Man)
-
-[https://en.wikipedia.org/wiki/Mister\_Fantastic](https://en.wikipedia.org/wiki/Mister_Fantastic)
-
-Song 867 5309
 
 Creaky voice / vocal fry
 
@@ -60,33 +46,40 @@ Tina Fey
 3. Make statements.
 4. There are no mistakes!
 
-Taillevant ~ [http://www.taillevent.com/](http://www.taillevent.com/)
-
 Skeuomorphs are material metaphors instantiated through our technologies in artifacts. 
-
-Celeste Holme 
-
-La Palette ~ 43 rue de Seine ~ rue Jacques Callot ~ Arman sculpture nearby
-
-Pamela and Richard Kramlich 
-
-Rich and Lenore Niles 
 
 gray: US ~ grey: UK 
 
-Jean Cocteau 
-
 Lobbyist 
 
-Maxfield Parrish 
-
-Humphrey Bogart and Ingrid Bergman
-
-Janis Joplin ~ Southern Comfort
-
-Jimi Hendrix
-
-Rick McCallum ~ Pat York & Michael York
-
 people who, things that
+
+## Media
+
+*Minority Report - Tom Cruise writing in 3D
+* [https://en.wikipedia.org/wiki/Plastic\_Man](https://en.wikipedia.org/wiki/Plastic_Man)
+* [https://en.wikipedia.org/wiki/Mister\_Fantastic](https://en.wikipedia.org/wiki/Mister_Fantastic)
+* Song 867 5309
+
+## People
+
+* Ana, Francisco and Nellie / armed forces network
+* Celeste Holme 
+* Humphrey Bogart and Ingrid Bergman
+* Janis Joplin ~ Southern Comfort
+* Jean Cocteau 
+* Jimi Hendrix ~ Purple Haze
+* Maxfield Parrish 
+* Pamela and Richard Kramlich 
+* Paul Harvey ~ The Rest of the Story ~ https://en.wikipedia.org/wiki/Paul_Harvey
+* Rich and Lenore Niles 
+* Rick McCallum ~ Pat York & Michael York
+* https://en.wikipedia.org/wiki/Tom_Lehrer
+
+
+## Places
+
+* La Palette ~ 43 rue de Seine ~ rue Jacques Callot ~ Arman sculpture nearby
+* http://jockossteakhouse.com/ ~ Nipomo
+* Taillevant ~ http://www.taillevent.com/
 

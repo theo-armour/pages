@@ -44,12 +44,36 @@ CSV identifies six classes of virtue (i.e. "core virtues") comprising 24 measura
 
 ## 1. Wisdom and Knowledge
 
-* **Creativity** ~ invention or origination of any new thing ~ Clever ~ Original and adaptive ~ Problem solver
-* **Curiosity** ~  inquisitive and tending to investigate or explore ~ Interested ~ Explore new things ~ Open to new ideas
-* **Judgment** ~ Critical thinker ~ Thinks things through ~ Open minded
-* **Love of Learning** ~ philomath ~ Master's new skills and topics ~ Systematically adds to knowledge
-* **Perspective** ~ ability to contemplate and act productively ~ Wise ~ Provides Wise Council ~
-Takes the big picture view.
+### Creativity
+
+* Invention or origination of any new thing
+* Clever ~ Original and adaptive ~ Problem solver
+* https://en.wikipedia.org/wiki/Creativity
+
+### Curiosity
+
+* Inquisitive and tending to investigate or explore
+* Interested ~ Explore new things ~ Open to new ideas
+* https://en.wikipedia.org/wiki/Curiosity
+
+### Judgment ~ Open-mindedness
+
+* Critical thinker
+* Thinks things through ~ Open minded
+* https://en.wikipedia.org/wiki/Critical_thinking
+
+### Love of Learning
+
+* Philomath
+* Masters new skills and topics ~ Systematically adds to knowledge
+* https://en.wikipedia.org/wiki/Philomath
+
+### Perspective
+
+* Ability to contemplate and act productively
+* Wise ~ Provides wise council ~ Takes the big picture view
+* https://en.wikipedia.org/wiki/Wisdom
+
 ## 2. Courage
 
 * **Bravery** ~ shows valor ~ doesn't shirk from fear ~ Speaks up for what's right

@@ -2,7 +2,7 @@
 
 ## David Hume
 
-* Empathy ~ twi violins strings vibrating
+* Empathy ~ two violins strings vibrating
 
 ## https://en.wikipedia.org/wiki/Ren%C3%A9_Girard
 

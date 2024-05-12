@@ -21,6 +21,40 @@ Start here
 
 > Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
 
+## Short list
+
+Note alphabetical order
+
+* General reference
+* Culture and the arts
+* Geography and places
+* Health and fitness
+* History and events
+* Human activities
+* Mathematics and logic
+* Natural and physical sciences
+* People and self
+* Philosophy and thinking
+* Religion and belief systems
+* Society and social sciences
+* Technology and applied sciences
+
+* 01-general-reference
+* 02-culture-and-the-arts
+* 03-geography and places
+* 04-health and fitness
+* 05-history and events
+* 06-human activities
+* 07-mathematics and logic
+* 08-natural and physical sciences
+* 09-people and self
+* 10-philosophy and thinking
+* 11-religion and belief systems
+* 12-society and social sciences
+* 13-technology and applied sciences
+* 14-theo
+
+
 ## regular expression to add a new line before any uppercase letters
 
 Find ([A-Z])
@@ -88,6 +122,13 @@ Find ([A-Z])
 >
 >Categories are not the only means of enabling users to browse sets of related pages. Other tools which may be used instead of or alongside categories in particular instances include lists and navigation boxes. For a comparison of these techniques, see Categories, lists and navigation templates.
 
+### Topic categories
+
+Topic categories are named after a topic (usually sharing a name with the Wikipedia article on that topic)
+
+### Set categories
+
+Set categories are named after a class (usually in the plural)
 
 ## Wikipedia Contents
 
