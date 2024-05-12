@@ -1,6 +1,5 @@
 # Categorization
 
-
 International Society for Knowledge Organization
 * https://www.isko.org/index.php
 
@@ -25,9 +24,10 @@ ISKO Encyclopedia of Knowledge Organization (IEKO)
 Three levels of abstraction
 * Superordinate level ~ Flower
 * Basic Level ~ Rose
-* Subordinate level ~ Dog Rose)
+* Subordinate level ~ Dog Rose
 
 Categories need to be
+
 * clearly defined
 * mutually exclusive
 * collectively exhaustive;
@@ -40,6 +40,7 @@ Categories need to be
 * https://en.wikipedia.org/wiki/Database_schema
 
 Schema.org
+
 * https://schema.org/docs/schemas.html
 * https://en.wikipedia.org/wiki/Schema.org
 
