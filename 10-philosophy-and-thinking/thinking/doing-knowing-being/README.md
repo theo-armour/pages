@@ -44,9 +44,6 @@ More
 * Performance: the visceral experience of serving, being served, eating and cleaning up/
 
 
-
-
-
 ## Critical Thinking
 
 https://en.wikipedia.org/wiki/Critical_thinking

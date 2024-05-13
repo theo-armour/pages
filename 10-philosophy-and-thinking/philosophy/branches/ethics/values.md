@@ -4,7 +4,7 @@
 * https://en.wikipedia.org/wiki/Nolan_Chart
 * https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 
-## Difference: Vitues & Values
+## Difference: Virtues & Values
 
 * https://www.differencebetween.com/difference-between-value-and-vs-virtue
 * https://values.institute/ethics-morals-principles-values-virtues-and-beliefs-what-is-the-difference/

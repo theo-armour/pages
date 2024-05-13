@@ -178,7 +178,7 @@ Regulars
 
 * 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
-* Shawn ~ person of some color
+* Shawn ~ person of some color ~ tattooed
 * Sophie
 * Cecelia
 * John

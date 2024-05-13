@@ -21,7 +21,6 @@ When applying this model to a situation, typically the purpose will be determine
 
 ## Athens
 
-
 * https://en.wikipedia.org/wiki/Athens
 * https://en.wikipedia.org/wiki/Athens#Antiquity
 

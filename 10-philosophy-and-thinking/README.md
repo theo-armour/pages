@@ -4,39 +4,32 @@ tags #10 #philosophy #thinking
 
 * https://theo-armour.github.io/pages/#10-philosophy-and-thinking/philosophy/README.md
 
-## wikipedia
+## wikipedia:Contents
 
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists/Philosophy_and_thinking
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Philosophy_and_thinking#Overviews
+
+
+## wikipedia
+
+* https://en.wikipedia.org/wiki/Category:Philosophy
+* https://en.wikipedia.org/wiki/Glossary_of_philosophy
+* https://en.wikipedia.org/wiki/History_of_philosophy
+* https://en.wikipedia.org/wiki/Index_of_philosophy
+* https://en.wikipedia.org/wiki/Outline_of_philosophy
+* https://en.wikipedia.org/wiki/Portal:Philosophy
+* https://en.wikipedia.org/wiki/Philosophy_(disambiguation)
+
 
 ## Philosophy
 
-* Branches
-* Schools and traditions
-* Movements
-* Concepts
-* Theories
-* Arguments
-* Philosophers
-* Literature
-* History
-* By period
-* By region
-* Aesthetics
-* Epistemology ~ https://en.wikipedia.org/wiki/Outline_of_epistemology
- * Belief
- * Justification
- * Knowledge
- * Truth
-Ethics
-Logic
-Metaphysics
-* Categories
-* Information
-* Ontology
-Social philosophy
+* https://en.wikipedia.org/wiki/Philosophy
 
 
 ## Thinking / Thinking skills
+
+* https://en.wikipedia.org/wiki/Thought
 
 Thought is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Concepts akin to thought are cognition, sentience, consciousness, idea, and imagination.
 
