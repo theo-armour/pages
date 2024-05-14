@@ -40,6 +40,7 @@ Topics and Views
 
 * https://en.wikipedia.org/wiki/Rationality
 
+
 ### 2023-01-31 ~ Basics of Rationalist Discourse
 
 * https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1
