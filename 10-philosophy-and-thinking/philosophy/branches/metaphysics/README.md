@@ -2,9 +2,16 @@
 
 tags #metaphysics #meaning #agency
 
-Metaphysics is the branch of philosophy that studies the fundamental nature of reality. It includes questions about the nature of consciousness and the relationship between mind and matter, between substance and attribute, and between potentiality and actuality1
+## wikipedia
 
 * https://en.wikipedia.org/wiki/Metaphysics
+* https://en.wikipedia.org/wiki/Outline_of_metaphysics
+
+## Definitions
+
+Metaphysics is the branch of philosophy that studies the fundamental nature of reality. It includes questions about the nature of consciousness and the relationship between mind and matter, between substance and attribute, and between potentiality and actuality1
+
+
 
 
 ## 3 rules to express your thoughts so that everyone will understand you
