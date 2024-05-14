@@ -1,5 +1,16 @@
 # mental models
 
+## wikipedia
+
+* https://en.wikipedia.org/wiki/Mental_model
+
+> A mental model is an explanation of someone's thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person's intuitive perception about his or her own acts and their consequences. Mental models can help shape behavior and set an approach to solving problems (similar to a personal algorithm) and doing tasks.
+
+* https://en.wikipedia.org/wiki/Mental_Models
+* https://en.wikipedia.org/wiki/Law_of_thought
+* https://en.wikipedia.org/wiki/Rule_of_inference
+* https://en.wikipedia.org/wiki/Category:Reasoning
+
 
 ## To Do
 
@@ -20,16 +31,6 @@ Impoverished Emotional Lives
 * https://theconvivialsociety.substack.com/p/impoverished-emotional-lives
 * https://news.ycombinator.com/item?id=33045539
 
-
-## Reference
-
-* https://en.wikipedia.org/wiki/Mental_model
-
-> A mental model is an explanation of someone's thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person's intuitive perception about his or her own acts and their consequences. Mental models can help shape behavior and set an approach to solving problems (similar to a personal algorithm) and doing tasks.
-
-* https://en.wikipedia.org/wiki/Mental_Models
-* https://en.wikipedia.org/wiki/Law_of_thought
-* https://en.wikipedia.org/wiki/Rule_of_inference
 
 
 ## Sites

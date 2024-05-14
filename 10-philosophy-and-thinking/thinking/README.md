@@ -17,6 +17,7 @@ tags #thinking
 * https://en.wikipedia.org/wiki/Outline_of_neuroscience
 * https://en.wikipedia.org/wiki/Outline_of_psychology
 
+
 ## Definitions
 
 Thought is a mental process which allows beings to model the Thought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology.
