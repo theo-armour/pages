@@ -13,6 +13,7 @@ tags #10 #philosophy #thinking
 
 ## wikipedia
 
+* https://en.wikipedia.org/wiki/Philosophy
 * https://en.wikipedia.org/wiki/Category:Philosophy
 * https://en.wikipedia.org/wiki/Glossary_of_philosophy
 * https://en.wikipedia.org/wiki/History_of_philosophy
@@ -22,9 +23,14 @@ tags #10 #philosophy #thinking
 * https://en.wikipedia.org/wiki/Philosophy_(disambiguation)
 
 
-## Philosophy
+More
 
-* https://en.wikipedia.org/wiki/Philosophy
+* https://en.wikipedia.org/wiki/Language
+* https://en.wikipedia.org/wiki/Logic
+* https://en.wikipedia.org/wiki/Metaphilosophy
+* https://en.wikipedia.org/wiki/Metaphysics
+* https://en.wikipedia.org/wiki/Axiology
+* https://en.wikipedia.org/wiki/Value_(ethics_and_social_sciences)
 
 
 ## Thinking / Thinking skills
@@ -66,25 +72,7 @@ Mental or intellectual activity involving an individual's subjective consciousne
 
 ## Outline
 
-* https://en.wikipedia.org/wiki/Outline_of_philosophy
-* https://en.wikipedia.org/wiki/Index_of_philosophy ~ lists
 
-Branches
-* https://en.wikipedia.org/wiki/Aesthetics
-* https://en.wikipedia.org/wiki/Epistemology
-* https://en.wikipedia.org/wiki/Ethics ~ right & wrong ~ ethics ~ values
-* https://en.wikipedia.org/wiki/Language
-* https://en.wikipedia.org/wiki/Logic
-* https://en.wikipedia.org/wiki/Metaphilosophy
-* https://en.wikipedia.org/wiki/Metaphysics
-* https://en.wikipedia.org/wiki/Mind
-* https://en.wikipedia.org/wiki/Political
-* https://en.wikipedia.org/wiki/Religious
-* https://en.wikipedia.org/wiki/Scientific
-* https://en.wikipedia.org/wiki/Social
-
-* https://en.wikipedia.org/wiki/Axiology
-* https://en.wikipedia.org/wiki/Value_(ethics_and_social_sciences)
 
 ***
 

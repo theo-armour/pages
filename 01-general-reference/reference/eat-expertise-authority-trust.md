@@ -1,4 +1,3 @@
-
 # 2022-06-20 EAT ~  “Expertise, authoritativeness, and trustworthiness
 
 * https://moz.com/blog/google-e-a-t

@@ -1,6 +1,7 @@
 # Categorization
 
 International Society for Knowledge Organization
+
 * https://www.isko.org/index.php
 
 ISKO Encyclopedia of Knowledge Organization (IEKO)
@@ -22,6 +23,7 @@ ISKO Encyclopedia of Knowledge Organization (IEKO)
 
 
 Three levels of abstraction
+
 * Superordinate level ~ Flower
 * Basic Level ~ Rose
 * Subordinate level ~ Dog Rose

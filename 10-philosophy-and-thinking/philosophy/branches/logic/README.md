@@ -1,10 +1,12 @@
 # Logic Read Me
 
 * https://en.wikipedia.org/wiki/Logic
-* https://en.wikipedia.org/wiki/Outline_of_logic
+* https://en.wikipedia.org/wiki/Category:Logic
 * https://en.wikipedia.org/wiki/Category:Concepts_in_logic
-* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Logic
+* https://en.wikipedia.org/wiki/Index_of_logic_articles
 * https://en.wikipedia.org/wiki/History_of_logic
+* https://en.wikipedia.org/wiki/Outline_of_logic
+* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Logic
 
 the systematic study of the form of valid inference and reasoning.
 

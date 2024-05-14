@@ -12,29 +12,51 @@ Epistemology is the study of knowledge and how we acquire it. It deals with ques
 
 E is the branch of philosophy that studies the source, nature and validity of knowledge.
 
-Core Concepts
+## Core Concepts
 
-* Belief
-* Justification
-* Knowledge
-* Truth
 
-Topics and Views
+### Knowledge
+
+* https://en.wikipedia.org/wiki/Knowledge
+* https://en.wikipedia.org/wiki/Category:Knowledge
+* https://en.wikipedia.org/wiki/Outline_of_knowledge
+* https://en.wikipedia.org/wiki/Category:Knowledge_management
+
+### Justification
+
+### Truth
+
 
 * Certainty
+
+### Belief
+
+### Virtue Epistemology
+
+* https://en.wikipedia.org/wiki/Virtue_epistemology
+* https://en.wikipedia.org/wiki/Unity_of_knowledge_and_action
+
+## Schools
+
 * Coherentism
 * Contextualism
 * Dogmatism
-* Experience
 * Fallibilism
 * Foundationalism
-* Induction
 * Infallibilism
 * Infinitism
+* Naturalism
 * Perspectivism
-* Rationality
-* Reason
+* Rationalism
 * Solipsism
+* Structuralism
+
+## Concepts
+
+* Induction
+* Rationality
+* Experience
+* Reason
 
 ## Rationality
 
