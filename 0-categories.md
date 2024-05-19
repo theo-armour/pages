@@ -17,6 +17,18 @@ Start here
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals
 * https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+* https://en.wikipedia.org/wiki/Wikipedia:FAQ/Categorization
+* https://en.wikipedia.org/wiki/Wikipedia:Categories_are_different_from_articles
+* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Categories
+
+## Categorization
+
+* https://en.wikipedia.org/wiki/Wikipedia:Categorization
+* https://en.wikipedia.org/wiki/Category:Wikipedia_categorization
+
+>The central goal of the category system is to provide navigational links to Wikipedia pages in a hierarchy of categories which readers, knowing essential—defining—characteristics of a topic, can browse and quickly find sets of pages on topics that are defined by those characteristics.
+>
+>Categories are not the only means of enabling users to browse sets of related pages. Other tools which may be used instead of or alongside categories in particular instances include lists and navigation boxes. For a comparison of these techniques, see Categories, lists and navigation templates.
 
 
 > Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
@@ -116,11 +128,6 @@ Find ([A-Z])
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Technology_and_applied_sciences
 
 
-### https://en.wikipedia.org/wiki/Wikipedia:Categorization
-
->The central goal of the category system is to provide navigational links to Wikipedia pages in a hierarchy of categories which readers, knowing essential—defining—characteristics of a topic, can browse and quickly find sets of pages on topics that are defined by those characteristics.
->
->Categories are not the only means of enabling users to browse sets of related pages. Other tools which may be used instead of or alongside categories in particular instances include lists and navigation boxes. For a comparison of these techniques, see Categories, lists and navigation templates.
 
 ### Topic categories
 
@@ -140,3 +147,7 @@ Nice summaries of each category
 
 philosophy > metaphysics > categorization
 
+## Essays
+
+* https://en.wikipedia.org/wiki/Wikipedia:Understanding_Wikipedia%27s_content_standards
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190674
