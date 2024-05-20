@@ -9,5 +9,5 @@
 * https://discord.com/channels/@me/1156079333132214302
 * https://suno-ai.notion.site/Suno-Docs-38e5ba5856d249a89dcea31655f4fb74
 
-Aubscribed $10/month ~ 2023-09-30
+Subscribed $10/month ~ 2023-09-30
 
