@@ -38,6 +38,10 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
 
+## 2024-05-23
+
+Create a drawing of the singer Harry Belafonte, flying, blowing horn, style of Michelangelo, line drawing using only green, black and gold colors
+
 ## 2024-05-20
 
 https://cdn.discordapp.com/attachments/1242314658954874915/1242330515026083891/WhatsApp_Image_2024-05-20_at_09.10.14_3a10f6c2.jpg slot machine showing three hearts in gambling casino
