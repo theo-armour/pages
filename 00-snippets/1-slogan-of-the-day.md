@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
 * 2024-05-05 ~ vows are nice ~ must try one sometime
 * 2024-05-05 ~ Reading about finding happiness is maybe more satisfactory than reading about coping with depression.
 * 2024-05-04 ~ Chocolate soup
