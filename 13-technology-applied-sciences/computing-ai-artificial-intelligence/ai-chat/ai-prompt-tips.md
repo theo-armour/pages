@@ -1,5 +1,8 @@
 # Prompt Tips
 
+## no text
+
+--no text fonts letters watermark words typography slogans signature
 
 ## 2024-04-13
 
