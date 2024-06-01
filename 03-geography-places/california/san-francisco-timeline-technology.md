@@ -50,3 +50,44 @@ In 1971, journalist Don Hoefler titled a 3-part report on the semiconductor indu
 
 1990s With Facebook, Twitter, Uber, and Tesla joining them the following decade. The growth of the tech industry in the area continues to this day.
 
+Startups
+
+* wikipedia ~ montgomery street
+* craigslist ~ irving
+* yelp ~ mision street
+* ebay ~ san jose
+* reddit ~ market street
+* autodesk ~ one market street
+* Internet Archine ~ 19th Ave
+* Wordpress ~ 16th street
+* Twitter ~ 1355 Market Street
+* blogger ~ 1160 Battery Street
+* expedia ~ 333 Market Street
+* kayak ~ 7th street
+* airbnb ~ 888 Brannan Street
+* pinterest ~ 808 Brannan Street
+* slack ~ 500 Howard Street
+* stripe ~ 510 Townsend Street
+* dropbox ~ 185 Berry Street
+* linkedin ~ 222 2nd Street
+* salesforce ~ 415 Mission Street
+* adobe ~ 601 Townsend Street
+* oracle ~ 500 Oracle Parkway
+* apple ~ 1 Infinite Loop
+* google ~ 1600 Amphitheatre Parkway
+* facebook ~ 1 Hacker Way
+* netflix ~ 100 Winchester Circle
+* tesla ~ 3500 Deer Creek Road
+* uber ~ 1455 Market Street
+* lyft ~ 185 Berry Street
+* visa ~ foster city
+* oracle ~ redwood city
+* advent ~ 600 Townsend Street
+* Github ~ 88 Colin P Kelly Jr Street
+* Mozilla ~ 2 Harrison Street
+* ancestry ~ 153 Townsend Street
+* geni ~ 1 Post Street
+* khan academy ~ 60 Spear Street
+* nextdoor ~ 875 Stevenson Street
+
+
