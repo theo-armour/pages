@@ -94,7 +94,7 @@ Try the Caesar salad or Tuna Tartare
 
 Cocktail: naked and famous
 
-* [https://en.wikipedia.org/wiki/Naked\_and\_famous\_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
+* [https://en.wikipedia.org/wiki/Naked\_and\_famous\_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_\(cocktail\))
 
 ## Fiorella's
 
@@ -110,6 +110,7 @@ Bartenders
 * Gary ~ London wine bar
 * Jared ~ blond crew cut
 * Eric ~ Big bearded guy
+* Ryan ~ from Terminus
 * Bouncer: Z
 
 Regulars
