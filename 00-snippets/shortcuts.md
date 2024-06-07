@@ -6,6 +6,8 @@
 
 windows [dictation](https://support.microsoft.com/en-us/windows/use-dictation-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f)
 
+Win + V > clipboard history
+
 darkmode: settings ~ personalization
 
 ## gMail
