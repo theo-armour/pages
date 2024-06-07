@@ -64,6 +64,8 @@ Random three things
 
 ## More examples of triads not yet in the Wikipedia list
 
+* https://www.bookofthrees.com/
+
 ## money ~ fame/power ~ love
 
 "Rather than love, than money, than fame, give me truth." -:Henry David Thoreau
