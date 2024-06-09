@@ -1,5 +1,12 @@
 # Utilities Online Read Me
 
+## Email to text / SMS
+
+* https://www.wikihow.com/Send-a-Text-from-Email
+* https://www.wikihow.com/Text-from-a-Computer-to-a-Cell-Phone
+* https://freecarrierlookup.com/
+
+
 ## YouTube Transcript
 
 * https://youtubetranscript.com/
