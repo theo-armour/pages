@@ -9,6 +9,9 @@ Tips and Shortcuts - dated but mostly updated through Trayo
 
 Yellow: Often used for important points, key concepts, or passages you want to revisit later. Yellow highlights stand out without being too distracting.
 
+Green:
+
+
 Blue: Consider using blue for definitions, vocabulary, or any text that requires clarification. Blue highlights can help you quickly identify terms you’d like to explore further.
 
 Pink: Pink highlights are great for personal reflections or emotional moments in the text. Use pink to mark sections that evoke feelings or memories.
