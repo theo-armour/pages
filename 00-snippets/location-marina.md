@@ -184,6 +184,7 @@ Regulars
 * Cecelia
 * John
 * Jemalina ~ person of color
+* Bart ~ skinny ~ hair thing
 * Steven
 * Eddie ~ Korean
 
