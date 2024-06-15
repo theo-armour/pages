@@ -202,6 +202,7 @@ Regulars
 ## Cafe Terminus
 
 * Ryan
+* Carlos
 
 ***
 
