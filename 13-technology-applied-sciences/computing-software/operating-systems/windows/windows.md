@@ -7,6 +7,7 @@ http://www.howtogeek.com/howto/8711/stupid-geek-tricks-enable-the-secret-how-to-
 
 
 ## Access Denied
+
 http://windows.microsoft.com/en-US/windows-vista/Troubleshoot-access-denied-when-opening-files-or-folders
 use lock hunter...
 

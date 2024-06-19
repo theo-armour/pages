@@ -32,6 +32,7 @@ Maybe
 Use Ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
 
 Don't forget DropBox takes forever.
+
 * Sync only a few folders at a time
 * Start with just one or two folders
 
@@ -148,6 +149,7 @@ But not well maintained.
 2022-12-06 ~ Works on MicrosoftSurface keyboard
 
 * https://github.com/randyrants/sharpkeys/
+
 
 ## Symbolic links Windows
 
