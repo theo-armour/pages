@@ -35,7 +35,7 @@
 ## Bayview Gateway Park
 
 * https://sfport.com/parks#tab-12315-pane-3
-* 
+*
 
 ## Candlestick Point State Recreation Area
 
@@ -56,6 +56,7 @@
 * reimagine marina
 
 ### 3 steps
+
 * 1 east harbor relocated to front of the Green ~ blocking view2.
 * 2 east h remediated ~ what do with vacant land
 * 3 move parking from water to street
