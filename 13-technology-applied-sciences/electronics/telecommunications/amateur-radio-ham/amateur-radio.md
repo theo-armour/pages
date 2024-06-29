@@ -11,10 +11,12 @@ tags #13 #tech #electronics #amateur-radio #communications
 ### Software
 
 Windows
+
 * https://en.wikipedia.org/wiki/Ham_Radio_Deluxe
 * https://www.hamradiodeluxe.com/
 
 Mac
+
 * https://dogparksoftware.com/MacLoggerDX.html
 * Supports Kenwood TS-2000, TS-590S, TS-990S, TS-890S, TS-990, TS-590, TS-480, TS-570, TS-450S, TS-440S, TS-440, TS-430S, TS-430, TS-690S, TS-690, TS-790S, TS-790, TS-850S, TS-850, TS-870S, TS-870, TS-940S, TS-940, TS-950S, TS-950,
 

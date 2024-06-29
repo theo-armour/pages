@@ -12,8 +12,7 @@ learning
 
 * https://www.manualslib.com/manual/2991855/Tidradio-Gmrs.html?page=3#manual
 * https://manuals.plus/tidradio/d-h8-2nd-gen-handheld-two-way-radio-wireless-manual
-
-https://manuals.plus/m/93a39e3c9a49ef7bc88f4717ab62e617ebe4d5c19758c75ee9e36a9303359441_optim.pdf
+* https://manuals.plus/m/93a39e3c9a49ef7bc88f4717ab62e617ebe4d5c19758c75ee9e36a9303359441_optim.pdf
 
 ## Tips
 
