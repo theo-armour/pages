@@ -1,18 +1,14 @@
 # Microsoft
 
-## GitHub Microsoft
-
-* https://github.com/microsoft
-* https://github.com/microsoft/opensource.microsoft.com
-
-
-
-
 ### market share
 
 * https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof
 * https://pypl.github.io/IDE.html
 
+## GitHub Microsoft
+
+* https://github.com/microsoft
+* https://github.com/microsoft/opensource.microsoft.com
 
 ## GitHub
 
@@ -33,15 +29,11 @@ https://www.statista.com/statistics/545520/market-share-of-internet-browsers-usa
 
 https://www.statista.com/statistics/967365/worldwide-cloud-infrastructure-services-market-share-vendor/
 
+
 ## Collaboration
 
 * Out with Google Docs
 * In with Docx
-
-## Linux on Windows
-
-* https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
-
 
 ## More
 
