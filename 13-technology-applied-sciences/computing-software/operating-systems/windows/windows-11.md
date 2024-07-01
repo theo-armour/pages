@@ -2,6 +2,17 @@
 
 ## Installation
 
+## Win 11 Pro
+
+* Redemption codes
+* Product Key
+* QW4P2-W4DXC-KKN4W-B3DYW-DGPKH
+
+How to redeem this item
+* On your Windows PC in the search bar type “Activation” and click Activation settings
+Click Change product key and enter the 25-character product key provided within your email
+Click Next, and then click Start
+
 ### Minimum Apps
 
 * AutoHotKey
