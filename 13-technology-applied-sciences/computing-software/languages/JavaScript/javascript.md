@@ -17,7 +17,6 @@
 	function scrOnLoad() { if ( script1 & script2 ) { doIt() }}
 
 
-
 https://cdn.jsdelivr.net/npm/package@version/file
 
 "https://raw.githubusercontent.com/cferdinandi/frontend-horse-js-library/main/index.htmlthree@0.134/examples/js/loaders/VTKLoader.js";

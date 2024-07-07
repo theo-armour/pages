@@ -1,6 +1,13 @@
 # Python Read Me
 
 
+## Update to latest
+
+Go to Python .org and download
+
+## Tutorial
+
+https://docs.python.org/3.12/tutorial/index.html
 
 ## jupyter notebook
 
@@ -29,6 +36,7 @@ python install jupyter
 ## https://colab.research.google.com/ ~ Vish
 
 * https://colab.research.google.com/drive/1nIGz4Y_z1U-rR33tf5c405jvqYdTGuPt#scrollTo=1caGS4meNNqi
+
 
 ## Cookbooks
 
