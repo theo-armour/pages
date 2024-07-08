@@ -2,6 +2,10 @@
 
 * https://en.wikipedia.org/wiki/Amateur_radio
 
+## No Nonsense Technician Class License Study Guide
+
+* https://www.kb6nu.com/wp-content/uploads/2023/03/2022-no-nonsense-tech-study-guide-v2-20230204.pdf
+
 
 ## Abbreviations
 
@@ -49,9 +53,28 @@
 
 * Power is the rate at which electrical energy is generated or used.
 * Power is measured in watts.
+* n P = E × I.
 
 
 ## Math for electronics and conversion of electrical unit
 
+* Prefix Abbreviation Numerical Exponential
+* giga- G 1,000,000,000 109
+* mega- M 1,000,000 106
+* kilo- k 1,000 103
+* ---- ---- 1 100
+* milli- m 0.001 10-3
+* micro- μ,u 0.000001 10-6
+* nano- n 0.000000001 10-9
+* pico- p 0.000000000001 10-1
+
+
 ## Decibels
 
+* Decibel scale is a logarithmic scale
+* When the value is positive, it means that there is a power increase.
+* When the value is negative, it means that there is a power decrease.
+* know the ratios represented by the values 3 dB, 6 dB, and 10 dB
+* 3 dB corresponds to a ratio of 2 to 1
+* 6 dB corresponds to a ratio of 4 to 1
+* 10 dB corresponds to a ratio of 10 to 1

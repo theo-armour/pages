@@ -2,6 +2,10 @@
 
 tags #13 #tech #electronics #amateur-radio #communications
 
+## No Nonsense Technician Class License Study Guide
+
+* https://www.kb6nu.com/wp-content/uploads/2023/03/2022-no-nonsense-tech-study-guide-v2-20230204.pdf
+
 ## References
 
 * https://en.wikipedia.org/wiki/Amateur_radio
