@@ -52,7 +52,7 @@ Events
 Staff
 
 * Stephanie
-* Chloe ~ Greg's daughter ~ Mill Valley ~ applying to grad school
+* Chelsea ~ Greg's daughter ~ Mill Valley ~ applying to grad school
 * Greg O'Flynn ~ owner
 * Jake
 * Joe (Original Joe)
