@@ -1,5 +1,9 @@
 # Voice Transcription
 
+
+
+## 2022?
+
 * https://www.ava.me/pricing $$$
 * https://www.rev.com/ ~ $1.25 / minute
 * https://www.temi.com/ $0.25 / minute
