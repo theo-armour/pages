@@ -1,5 +1,9 @@
 # Excel
 
+## Line bresak in cell
+
+Alt + Enter
+
 ## Copy Column
 
 =reference!C:Cmex s
