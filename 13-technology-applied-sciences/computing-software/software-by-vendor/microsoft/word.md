@@ -9,11 +9,18 @@ tags #mailmerge
 
 Remember you can toggle the preview of the mail merge by clicking on the "Preview Results" button.
 
-* Outlook (old) must be open and logged into
-* Outlook must be the default email client for "Mailto" links to work
+## Word Mailmerge template file
+
+* Ignore popups about "data source" when opening the template
+* Always say no and start fresh
 * Set space after paragraph to zero, add manual line breaks
 
-Rules & Field Codes
+## Outlook
+
+* Outlook (old) must be open and logged into
+* Outlook must be the default email client for "Mailto" links to work (??)
+
+## Rules & Field Codes
 
 * Good usage might be able to automate a lot of writing
 * Rules are very tricky ~ steep learning curve ~ near impossible to document / diagnose
@@ -21,6 +28,7 @@ Rules & Field Codes
 * { IF family = "family" "family" "not family" }
 
 To insert a field code in Microsoft Word, you have several methods available:
+
 
 ### Using Keyboard Shortcuts
 
