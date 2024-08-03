@@ -16,6 +16,8 @@ tags #regex
 * (.*?) Parenthesis matches anything in between
 * ? = match not remembered
 * ? = first match and not greedy match
+* ^ asserts that the match must occur at the start of the string or line.
+
 
 Notes
 * May need to have a backslash: \(.*?)

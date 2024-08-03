@@ -1,10 +1,16 @@
 # The Ancient Art of Thinking for Yourself
 
+* https://www.amazon.com/Ancient-Art-Thinking-Yourself-Polarized/dp/1541603974
+* https://www.nytimes.com/2024/03/17/books/review/the-ancient-art-of-thinking-for-yourself-robin-reames.html
+* https://engl.uic.edu/profiles/reames-robin/
+
+
 ## Kenneth Burke
 
 * https://en.wikipedia.org/wiki/Kenneth_Burke
 * https://web.archive.org/web/20091216113123/http://nightfly.googlepages.com/kennethburke
 * https://www.kbjournal.org/articles
+
 
 ### The Dramatistic Pentad
 
