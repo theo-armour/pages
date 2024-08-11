@@ -53,6 +53,7 @@ Events
 
 Staff
 
+* Erica
 * Stephanie
 * Chelsea ~ Greg's daughter ~ Mill Valley ~ applying to grad school
 * Greg O'Flynn ~ owner
