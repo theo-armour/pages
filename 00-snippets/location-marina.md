@@ -55,22 +55,21 @@ Staff
 * Chelsea ~ Greg's daughter ~ Mill Valley ~ applying to grad school
 * Greg O'Flynn ~ owner
 * Jake
-* Joe (Original Joe)
-* Also at Plumpjack
-* Delivers wine for Terry
-* Likes Ridgewood wine
+* Joe (Original Joe) ~ Also at Plumpjack ~ Delivers wine for Terry ~Likes Ridgewood wine
 * Joe (Little Joe)
 * Creative things
-* Kyler ~ PT wannabe ~ Man of color
+* Kyler ~ PT wannabe ~ contract at Adobe ~ Man of color
 * Tony
-* Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus
-* Danish ~ hearts Kierkegard
-* Wife Sarah producer \_Carnival Row\_
+* Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus ~ Danish ~ hearts Kierkegaard ~Wife Sarah producer \_Carnival Row\_
+
+  
 
 Regulars
 
 * Gary ~ social worker
 * Alan Larson
+
+  
 
 ## Causewells
 
@@ -83,10 +82,18 @@ Regulars
 
 ## Cultivar
 
-* Nick ~ knows Clapham
+* Jeff ~ GM
+* David ~ Chef
+
+  
+
+Aumni
+
+* Nick ~ knows Clapham ~ back to England
+
 * Aselia
 
-Try the Caesar salad or Tuna Tartare
+Try the Caesar salad or \*\*Tuna Tartare\*\*
 
 ## Dorians
 
@@ -99,7 +106,7 @@ Cocktail: naked and famous
 ## Fiorella's
 
 * Aselia
-* Justin \*
+* Justin
 
 ## Horseshoe
 
