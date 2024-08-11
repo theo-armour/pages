@@ -1,7 +1,22 @@
 # Agriculture Read Me
 
 
+## Can Dirt Clean the Climate
+
+An Australian start-up is hoping fungi can pull carbon dioxide from the air and stash it underground. It’s one of several ventures trying to deploy the superpowers of soil to slow global warming.
+
+https://www.nytimes.com/2024/08/10/climate/climate-change-fungus-carbon-australia.html
+
+* https://www.loambio.com/
+* https://groundworkbioag.com/
+* https://www.mati.earth/
+* https://www.lithoscarbon.com/
+* https://carbonherald.com/xprize-carbon-removal-challenge-meet-the-top-20-finalists/
+* https://theconversation.com/hidden-carbon-fungi-and-their-necromass-absorb-one-third-of-the-carbon-emitted-by-burning-fossil-fuels-every-year-206674
+* https://www.cell.com/current-biology/fulltext/S0960-9822(23)00167-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223001677%3Fshowall%3Dtrue
+
 ## Wikipedia
+
 
 ### https://en.wikipedia.org/wiki/Agriculture
 
