@@ -49,8 +49,6 @@ Events
 
 * Wine club: first Monday?
 
-  
-
 Staff
 
 * Erica
@@ -59,20 +57,15 @@ Staff
 * Greg O'Flynn ~ owner
 * Jake
 * Joe (Original Joe) ~ Also at Plumpjack ~ Delivers wine for Terry ~Likes Ridgewood wine
-* Joe (Little Joe)
-* Creative things
+* Joe (Little Joe ~ Creative things
 * Kyler ~ PT wannabe ~ contract at Adobe ~ Man of color
-* Tony
+* ++Tony
 * Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus ~ Danish ~ hearts Kierkegaard ~Wife Sarah producer \_Carnival Row\_
-
-  
 
 Regulars
 
 * Gary ~ social worker
 * Alan Larson
-
-  
 
 ## Causewells
 
@@ -88,12 +81,9 @@ Regulars
 * Jeff ~ GM
 * David ~ Chef
 
-  
-
 Aumni
 
 * Nick ~ knows Clapham ~ back to England
-
 * Aselia
 
 Try the Caesar salad or \*\*Tuna Tartare\*\*
