@@ -1,5 +1,9 @@
 # Inspirations Agenda
 
+## New
+
+* First Mover ~ first-mover-advantage.md ~ first past the post
+
 ## Topics
 
 * Communication
