@@ -180,13 +180,13 @@ Regulars
 
 * 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
+* Stephen: skinny ginger 
 * Shawn ~ person of some color ~ tattooed
 * Sophie
 * Cecelia
 * John
 * Jemalina ~ person of color
 * Bart ~ skinny ~ hair thing
-* Steven
 * Eddie ~ Korean
 
 ## Union Street Inn ~ [https://unionstreetinn.com/](https://unionstreetinn.com/)
