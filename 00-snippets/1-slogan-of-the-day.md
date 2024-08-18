@@ -5,6 +5,9 @@
 
 ## ToMatto
 
+* 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
+* 2024-08-04 ~ write down 10 ideas a day
+* 2024-08-17: Looking at bad things that happen as a gift
 * 2024-07-27 ~ Laura Burges' David > "architechie"
 * 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
 * 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
