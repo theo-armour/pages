@@ -19,6 +19,7 @@ tags #svg #draw
 
 * https://www.svgrepo.com/
 
+
 ## Portal
 
 * https://www.goodfirms.co/blog/best-free-open-source-Vector-Graphics-Software
@@ -49,6 +50,7 @@ Concepts seems to be leading - works wherever I need it
 *
 
 ## *** Concepts ~ https://concepts.app/en/
+
 * 6k stars, 1M installs, California
 * Not that difficult to learn; makes it easy to draw stuff
 * Interesting user interface
@@ -135,11 +137,13 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## https://www.sketch.com/
+
 * $100 / year
 * Mac only
 
 
 ## https://sketch.io/sketchpad
+
 * exports to svg
 * very good for handwriting
 * no pressure
@@ -176,9 +180,11 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## Adobe Illustrator
+
 * $20/month
 
 ## Evernote
+
 * no drawing note??
 
 ## https://inkscape.org/
@@ -206,6 +212,7 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 ## Moribund
 
 ## https://www.hand-write.com/ ~ freemium ~
+
 * s pen support 2020
 * App only, works on Chrome OS
 
@@ -238,6 +245,7 @@ The lightweight library for manipulating and animating SVG
 ## Tech on GitHub
 
 ## Method https://editor.method.ac/
+
 * GH 2021 / drawing / Save as SVG
 * Shows SVG source
 * No touch support

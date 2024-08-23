@@ -1,5 +1,16 @@
 # Drawing Online for Beginners
 
+
+## For Manfred MacKeban
+
+
+* https://docs.google.com/drawings
+* Microsoft Word: See Drawing tab
+* https://concepts.app/en/
+* https://excalidraw.com/
+  * Libraries search on Furniture
+* https://www.autodraw.com/
+
 ## https://www.autodraw.com/
 
 * Draws for you and fair set of tools!
