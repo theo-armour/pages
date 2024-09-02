@@ -2,7 +2,7 @@
 
 tags #mailmerge
 
-
+* September Heritage Happenings Calendar
 ## MailMerge
 
 <<First Name>>, <<Last Name>>, and <<Address>>.
@@ -22,10 +22,12 @@ Remember you can toggle the preview of the mail merge by clicking on the "Previe
 
 ## Rules & Field Codes
 
+* Use "Insert Merge Field" to insert field codes
 * Good usage might be able to automate a lot of writing
 * Rules are very tricky ~ steep learning curve ~ near impossible to document / diagnose
 * Right click: "Toggle field codes" to see the field codes
 * { IF family = "family" "family" "not family" }
+* Check the "Outbox" folder in Outlook for unsent emails!!
 
 To insert a field code in Microsoft Word, you have several methods available:
 
