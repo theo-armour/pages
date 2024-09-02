@@ -1,52 +1,54 @@
 # Slogan of the Day
 
-* [https://app.raindrop.io/my/36615030](https://app.raindrop.io/my/36615030)
+* <a href="https://app.raindrop.io/my/36615030">https://app.raindrop.io/my/36615030</a>
 * Newest at top
 
 ## ToMatto
 
-* 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
-* 2024-08-04 ~ write down 10 ideas a day
+* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+* 2024-08-22 ~ James Clear ~&nbsp;"The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
+* 2024-08-04 ~ "leave your crown in the garage" ~&nbsp;<a href="https://fs.blog/brain-food/august-4-2024/">https://fs.blog/brain-food/august-4-2024/</a>
+* 2024-08-04 ~&nbsp;write down 10 ideas a day
 * 2024-08-17: Looking at bad things that happen as a gift
-* 2024-07-27 ~ Laura Burges' David > "architechie"
-* 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
-* 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
-* 2024-07-26 ~ better  too early than too late: the story of my life
+* 2024-07-27 ~ Laura Burges' David &gt; "architechie"
+* 2024-07-05 ~&nbsp;Instead of insulting someone who disagrees with you, ask them why they have that perspective.
+* 2024-07-21 ~&nbsp;"Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
+* 2024-07-26 ~&nbsp;better&nbsp; too early than too late: the story of my life
 * 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
 * 2024-06-14 ~ I'm not a leader ~ I am a great individual contributor ~ my dream: great team player
 * 2024-06-27 ~"Why should we subsidize intellectual curiosity?" -Ronald Reagan
 * 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
-* 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devices: you are to open the hood 
+* 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devices: you are to open the hood&nbsp;
 * 2024-05-20 ~ young: read in BW ~ older: read in color ~ 16 million colors ~ Pocahontas movie: see the colors of the wind song
-* 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
-* 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
+* 2024-05-18 ~ Triad of the day:&nbsp;novelty, credibility, and utility ~ trifecta for new materials
+* 2024-05-17 ~ Mel Carpenter:&nbsp;&nbsp;"Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
 * 2024-05-05 ~ vows are nice ~ must try one sometime
-* 2024-05-05 ~ Reading about finding happiness is maybe more satisfactory than reading about coping with depression.
+* 2024-05-05 ~&nbsp;Reading about finding happiness is maybe more satisfactory than reading about coping with depression.
 * 2024-05-04 ~ Chocolate soup
 * 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
-* 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
+* 2024-04-27 ~&nbsp;<a href="https://substack.com/inbox/post/142103098">https://substack.com/inbox/post/142103098</a>&nbsp;For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
 * 2024-04-25 ~ I create a lot of conjectures: an opinion or supposition about (something) on the basis of incomplete information
 * 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
 * 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
 * 2024-04-16 ~ A negative thought coming in cannot be "unseen", but you can choose not to dwell upon the thought.
 * 2024-04-20 ~ Usa AI to interview old people in order to generate more content for AI
-* 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
-* \* 2024-04-02 ~ NYT: "middle finger politics"
-* 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
-* 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
-* 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
-* 2024-04-08 ~ Information is the inverse of entropy.
-* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
+* 2024-03-27 ~&nbsp;<a href="https://en.wikipedia.org/wiki/Never_complain,_never_explain">https://en.wikipedia.org/wiki/Never_complain,_never_explain</a>
+* * 2024-04-02 ~ NYT: "middle finger politics"
+* 2024-04-05 ~&nbsp;Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
+* 2024-04-05 ~&nbsp;<a href="https://en.wikipedia.org/wiki/Hitchens%27s_razor">https://en.wikipedia.org/wiki/Hitchens%27s_razor</a>&nbsp;~&nbsp;"what can be asserted without evidence can also be dismissed without evidence."
+* 2024-04-07 ~&nbsp;<a href="https://fs.blog/worst-day/">https://fs.blog/worst-day/</a>&nbsp;_ you're only as good as your worst day
+* 2024-04-08 ~&nbsp;Information is the inverse of entropy.
+* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard &amp; Bowsers Licorice Toffee.
 * Favorite: cocktail, paper airplane, font, Daddy joke
 * 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
-* 2024-02-12 ~ mathematics is the longest continuous human thought.
+* 2024-02-12 ~ mathematics&nbsp;is the longest continuous human thought.
 * 2024-02-18 ~ if I use something I must "touch" it somehow.
 * 2024-02-29 ~ the big deparres are empty and closing, while streets with lots of small shops are thriving
 * 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
-* 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
-* 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
+* 2024-03-13 ~&nbsp;The First Pancake Principle ~ the first draft is meant to fail ~&nbsp;
+* 2024-01-29:&nbsp;With all else equal, take the road most documented &lt; stand on the shoulders… ~&nbsp;<a href="https://jarbus.net/blog/take-the-road-most-documented/">https://jarbus.net/blog/take-the-road-most-documented/</a>
 * Marty Nolan: Perfection is an illusion!
-* 2024-01-19 ~ If you see something, say something ~ Michael Howard
+* 2024-01-19 ~&nbsp;If you see something, say something ~ Michael Howard
 * If you see something, say something
 * If you think something, write something
 * If you hear something, sing something
@@ -55,10 +57,10 @@
 * If you touch something, feel something
 * ??
 * If there's an issue to nip in the bud, then throw money at it
-* 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
+* 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~&nbsp;<a href="https://en.wikipedia.org/wiki/Anti-proverb">https://en.wikipedia.org/wiki/Anti-proverb</a>
 * Example: Nature abhors a double negative
 * Find happines is a thing
-* 2023-12-23: 31. Simplicity does not precede complexity, but follows it. [https://cpsc.yale.edu/epigrams-programming](https://cpsc.yale.edu/epigrams-programming)
+* 2023-12-23:&nbsp;31. Simplicity does not precede complexity, but follows it.&nbsp;<a href="https://cpsc.yale.edu/epigrams-programming">https://cpsc.yale.edu/epigrams-programming</a>
 * 2023-12-2: I care for others by listening and elucidating and then acting accordingly. In return I do not demand, I do not "require", I don't even ask, but I do inform people of my concerns, worries and needs ~ I enable people to care for me.
 * 2023-12-16: I care therefore I am ~ I am what I think ~ I am what I drink
 * 2023-12-01: Finish the design
@@ -81,12 +83,12 @@
 * It's about what is happening right now
 * Telling me about what happened yesterday is very yesterday
 * Complexity is good, but simple is nice
-* 2023-11-14~ 
+* 2023-11-14~&nbsp;
 * Change the place is stronger than changing places
 * Disrupting the routine disrupts the routine of disrupting
 * Move those arms all day long
 * My next five-year plan is all about bringing completion to my life's efforts in a beautiful way. After that, let's go off and have some fun!
-* 2023-11-12 ~ Consistently boring days make for extraordinary decades ~[https://fs.blog/brain-food/november-12-2023/](https://fs.blog/brain-food/november-12-2023/) ~ 
+* 2023-11-12 ~ Consistently boring days make for extraordinary decades ~<a href="https://fs.blog/brain-food/november-12-2023/">https://fs.blog/brain-food/november-12-2023/</a>&nbsp;~&nbsp;
 * Draw a face every day?
 * Every ointment has a fly in it.
 * Every silver lining has a cloud
@@ -95,7 +97,7 @@
 * On the Internet, nobody knows you are a dog
 * Better is the enemy of good. Or not
 * Did I hear what you said from my point of view or your point of view?
-* Entropy is your new friend  
+* Entropy is your new friend&nbsp;&nbsp;
 * 2023-11-04
 * A webpage without a link is like a room without a window
 * The meaning of life is described somewhere in Wikipedia
