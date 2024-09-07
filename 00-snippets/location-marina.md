@@ -187,7 +187,7 @@ Regulars
 * Sophie
 * Cecelia
 * John
-* Jah'melah
+* Jah'melah ~ juh-me-lah
 * &nbsp;~ person of color
 * Bart ~ skinny ~ hair thing
 * Eddie ~ Korean
