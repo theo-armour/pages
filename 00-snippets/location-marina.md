@@ -4,21 +4,21 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-\* https://www.tiyasf.com/
+*&nbsp;<a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
 
-* [https://en.wikipedia.org/wiki/List\_of\_IBA\_official\_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
+* <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
 
-## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
+## Atelier Crenn ~ <a href="https://www.ateliercrenn.com/">atelier crenn</a>
 
-* [bar crenn](https://www.barcrenn.com/)
+* <a href="https://www.barcrenn.com/">bar crenn</a>
 * 3127 Fillmore St, San Francisco, CA 94123
 * (415) 440-0460
-* [https://en.wikipedia.org/wiki/Atelier\_Crenn](https://en.wikipedia.org/wiki/Atelier_Crenn)
+* <a href="https://en.wikipedia.org/wiki/Atelier_Crenn">https://en.wikipedia.org/wiki/Atelier_Crenn</a>
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
-Closed Sunday & Monday
+Closed Sunday &amp; Monday
 
-## Balboa ~ [balboacafesf](https://www.balboacafesf.com/)
+## Balboa ~ <a href="https://www.balboacafesf.com/">balboacafesf</a>
 
 * Mark
 * Matisse ~ LFLP
@@ -28,7 +28,7 @@ Closed Sunday & Monday
 * Sebastian
 * Manager: Guillaume
 
-## [Boho Cafe](https://www.cafebohosf.com/)
+## <a href="https://www.cafebohosf.com/">Boho Cafe</a>
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
@@ -41,11 +41,11 @@ Closed Sunday & Monday
 
 * Daniel ~ gigondas
 
-## Bus Stop ~ Union & Laguna
+## Bus Stop ~ Union &amp; Laguna
 
 * Owner: Jesse
 
-## California Wine Merchant ~ [calwine](https://www.californiawinemerchant.com/)
+## California Wine Merchant ~ <a href="https://www.californiawinemerchant.com/">calwine</a>
 
 Events
 
@@ -63,7 +63,7 @@ Staff
 * Joe (Little Joe ~ Creative things
 * Kyler ~ PT wannabe ~ contract at Adobe ~ Man of color
 * ++Tony
-* Anders Grigel Thomsen ~ \\559-476-6759 ~ Ahnus ~ Danish ~ hearts Kierkegaard ~Wife Sarah producer \_Carnival Row\_
+* Anders Grigel Thomsen ~ \559-476-6759 ~ Ahnus ~ Danish ~ hearts Kierkegaard ~Wife Sarah producer _Carnival Row_
 
 Regulars
 
@@ -74,7 +74,7 @@ Regulars
 
 * Ken
 
-## [Cafe Boho](https://cafebohosf.com/)
+## <a href="https://cafebohosf.com/">Cafe Boho</a>
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
@@ -89,7 +89,7 @@ Aumni
 * Nick ~ knows Clapham ~ back to England
 * Aselia
 
-Try the Caesar salad or \*\*Tuna Tartare\*\*
+Try the Caesar salad or **Tuna Tartare**
 
 ## Dorians
 
@@ -97,7 +97,7 @@ Try the Caesar salad or \*\*Tuna Tartare\*\*
 
 Cocktail: naked and famous
 
-* [https://en.wikipedia.org/wiki/Naked\_and\_famous\_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_\(cocktail\))
+* <a href="https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail)">https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail</a>
 
 ## Fiorella's
 
@@ -131,10 +131,10 @@ Regulars
 * 4 locations
 * lafromageriesf.com
 
-## Mamo ~ [mamosf](https://mamosf.com)
+## Mamo ~ <a href="https://mamosf.com">mamosf</a>
 
 * Jorge
-* Kitchen: 
+* Kitchen:&nbsp;
 * Jonathan
 * Karen
 * Sister: Milena
@@ -146,7 +146,7 @@ Regulars
 
 * Sully ~ knows Hanh and James
 
-## Maybeck's ~ [maybecks](https://www.maybecks.com/) ~ Closed
+## Maybeck's ~ <a href="https://www.maybecks.com/">maybecks</a>&nbsp;~ Closed
 
 * Oysters
 
@@ -155,9 +155,9 @@ Regulars
 * Carlos? Captain
 * Eric waiter
 
-## Perry's 
+## Perry's&nbsp;
 
-* 415.922.9022 ~ union & ~ no reservations
+* 415.922.9022 ~ union &amp; ~ no reservations
 * Emily
 
 ## Radhaus
@@ -171,27 +171,28 @@ Regulars
 
 ## SweetGreen
 
-* [sweetgreen](https://order.sweetgreen.com/marina/menu?target=5)
+* <a href="https://order.sweetgreen.com/marina/menu?target=5">sweetgreen</a>
 
 ## Tacolicious
 
-* [tacolicious](https://www.tacolicious.com/) ~ 415.649.6077
+* <a href="https://www.tacolicious.com/">tacolicious</a>&nbsp;~ 415.649.6077
 * 2250 Chestnut St
 
-## [The Interval](https://theinterval.org/) ~ long now
+## <a href="https://theinterval.org/">The Interval</a>&nbsp;~ long now
 
-* 10a-midnight Saturday & Sunday 3-11p
+* 10a-midnight Saturday &amp; Sunday 3-11p
 * Sunday: gets quiet at 6:30
-* Stephen: skinny ginger 
+* Stephen: skinny ginger&nbsp;
 * Shawn ~ person of some color ~ tattooed
 * Sophie
 * Cecelia
 * John
-* Jemalina ~ person of color
+* Jah'melah
+* &nbsp;~ person of color
 * Bart ~ skinny ~ hair thing
 * Eddie ~ Korean
 
-## Union Street Inn ~ [https://unionstreetinn.com/](https://unionstreetinn.com/)
+## Union Street Inn ~ <a href="https://unionstreetinn.com/">https://unionstreetinn.com/</a>
 
 * 415.346.0424
 * 2229 Union St
@@ -213,10 +214,10 @@ Regulars
 
 ***
 
-## Alegrias ~ [alegrias](https://www.alegriassf.com/)
+## Alegrias ~ <a href="https://www.alegriassf.com/">alegrias</a>
 
 * meaning: happiness, gaiety
-* Owners: Arman & Angelynne
+* Owners: Arman &amp; Angelynne
 * Rabbit: Good
 * Try croquettes
-* Chef Jose Ortiz Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
+* Chef Jose Ortiz Gurung Kitchen ~ <a href="https://www.gurungkitchenca.com/">https://www.gurungkitchenca.com/</a> ~ himalayan food
