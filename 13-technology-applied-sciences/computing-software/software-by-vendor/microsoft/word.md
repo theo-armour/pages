@@ -6,15 +6,16 @@ tags #mailmerge
 
 ## MailMerge
 
-<<First Name>>, <<Last Name>>, and <<Address>>.
-
 Remember you can toggle the preview of the mail merge by clicking on the "Preview Results" button.
 
-## Word Mailmerge template file
+## Word MailMerge template file
 
-* Ignore popups about "data source" when opening the template
-* Always say no and start fresh
+* Open file: 20XX-XX-happenings-mailmerge.docx in the "Heritage Happenings" folder for the month
+* Wait for popup about "data source" when opening the template
+* Always say "no" and start fresh
 * Set space after paragraph to zero, add manual line breaks
+
+<<First Name>>, <<Last Name>>, and <<Address>>.
 
 ## Outlook
 
