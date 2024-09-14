@@ -12,6 +12,7 @@ CodeSwing: Open Swing...
 ## Markdown Editor ~ wysiwyg
 
 Explorer Context menu
+
 * right click on markdown file
 * then click Open with markdown editor
 
@@ -26,4 +27,5 @@ Explorer Context menu
 ## Favorites Manage
 
 ### 2022-10-17 ~ Not bad
+
 https://github.com/oleg-shilo/Favorites.vscode
