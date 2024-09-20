@@ -5,7 +5,7 @@
 
 ## ToMatto
 
-* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities* 2024-09-09 Andranik: "Working on Positive impact AI models"* 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 * 2024-08-22 ~ James Clear ~&nbsp;"The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
 * 2024-08-04 ~ "leave your crown in the garage" ~&nbsp;<a href="https://fs.blog/brain-food/august-4-2024/">https://fs.blog/brain-food/august-4-2024/</a>
 * 2024-08-04 ~&nbsp;write down 10 ideas a day
