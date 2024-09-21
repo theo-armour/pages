@@ -1,5 +1,8 @@
 # Virtues
 
+tags #virtue
+
+
 ## Actions
 
 * add links to wikipedia definitions of each virtue

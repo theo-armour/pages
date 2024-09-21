@@ -26,7 +26,7 @@ No! Use same topic headings as wikipedia! Doh!
 
 
 
-## communication:
+## communication
 
 * authoritative.md
 * communication-texting-vs-email.md
@@ -66,7 +66,7 @@ three-laws-of-robotics.md
 
 ## media:
 
-eeat-exoerience-expertise-authority-trust.md
+eeat-experience-expertise-authority-trust.md
 media-hype.md
 
 ## patterns:
