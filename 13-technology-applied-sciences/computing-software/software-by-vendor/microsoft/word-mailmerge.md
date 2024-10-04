@@ -1,4 +1,4 @@
-# Microsoft Word
+# Microsoft Word MailMerge
 
 tags #mailmerge
 
