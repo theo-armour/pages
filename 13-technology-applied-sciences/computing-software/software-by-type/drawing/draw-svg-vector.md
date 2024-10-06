@@ -41,13 +41,15 @@ Concepts seems to be leading - works wherever I need it
 
 
 ## Clip Studio Paint ~ https://www.clipstudio.net/en/
+
 * Complicated - yes
 * 1M installs, 4K stars
 * $49 ~ all versions
-* vector and bitmap
+* Vector and bitmap
 * Can export vector layers to SVG
 * Android/W10/etc
-*
+* Expired
+* Japanese company
 
 ## *** Concepts ~ https://concepts.app/en/
 
@@ -62,7 +64,8 @@ Concepts seems to be leading - works wherever I need it
 * Nudging
 * Vector erase
 * No paint bucket fill capability - draw with fill only then duplicate, brushes only
-* Great smoothing and vertex tweaking
+* Great smoothing
+* Vertex nudging ~ tweaking
 
 * https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio
 
@@ -82,21 +85,22 @@ Concepts seems to be leading - works wherever I need it
 
 ### Infinite Design Usage
 
-Nice
-
-Quality: 200 ~ makes dots smaller ~ increases number of things to be calculated ~ slows things down
-Colors: 32 ~ 16 or less creates more dots
-Smooth: 1 < anything greater may create gaps ~ but better splotches
-Minimum points: 0 - 2 ~ anything greater: more dots
-Expand: 4
-Simplify: 0 - 0.4 ~ not much difference ~ slows things down
-Style: stack ~ best ~ flatten & stencil: round dots to surface ~
+* Android only?
+* Nice
+* Quality: 200 ~ makes dots smaller ~ increases number of things to be calculated ~ slows things down
+* Colors: 32 ~ 16 or less creates more dots
+* Smooth: 1 < anything greater may create gaps ~ but better splotches
+* Minimum points: 0 - 2 ~ anything greater: more dots
+* Expand: 4
+* Simplify: 0 - 0.4 ~ not much difference ~ slows things down
+* Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 
 ## https://boxy-svg.com/ ~ $$
 
-* Win, Apple, Linux PWA
+* Win, Apple, Linux: PWA ~ progressive web app
+* Export to SVG, PNG, PDF
 * touch & pressure chrome & Asus ~ not on huion
 * Many cool features
 * Text on curve
@@ -114,18 +118,21 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## Drawings Google ~ https://docs.google.com/drawings
+
 * Exports to SVG
 * Easy scribbling and curving
-* no pressure, no layers, no edit vertices on scribbles
-* edit polylines
+* No pressure, no layers, no edit vertices on scribbles
+* Edit polylines
 
 
 ## https://excalidraw.com/
 
 * See whiteboard.md
+* Many clipart libraries ~ downloadable
 
 
 ## https://designer.gravit.io ~ $$ ~ Owned by Corel!
+
 * https://designer.io
 * Looks very featured ~ but complicated
 * No pressure, no touch??
@@ -153,7 +160,8 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## https://vectr.com
-* for drawing not handwriting
+
+* For drawing not handwriting
 * No touch capability
 * Accepts pen but seems to have no settings
 * URL for every design - very collaborative
@@ -164,6 +172,7 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## https://vectorpaint.yaks.co.nz
+
 * Nothing special
 * simple
 * no pressure
@@ -171,8 +180,10 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## YouiDraw ~ https://www.youidraw.com/
+
 * looks OK. $99 per year
 * Odd things with strokes
+* Saves to Google Drive
 
 
 
@@ -204,6 +215,7 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## Microsoft Paint 3D
+
 * No pressure
 
 
@@ -218,6 +230,7 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
 ## https://inker.co
+
 * deprecated
 
 
@@ -253,20 +266,25 @@ The lightweight library for manipulating and animating SVG
 
 
 ## https://snap.svg
-	* The JavaScript SVG library for the modern web
+
+* The JavaScript SVG library for the modern web
 
 ## http://drawsvg.org/drawsvg.html
+
 * No touch support
 * https://github.com/DRAWSVG/drawsvg-editor
 
 ## https://editor.graphite.design/
+
 * WIP
 
 ## https://yqnn.github.io/svg-path-editor/
+
 * good editor
 * Not so good for drawing
 
 ## https://frangoteam.github.io
+
 * Then go to editor
 * More for drawing
 
@@ -279,8 +297,10 @@ The lightweight library for manipulating and animating SVG
 * https://svgjs.dev/docs/3.0/
 
 ## https://turnerdev.github.io/svg-studio/
-	* https://github.com/turnerdev/svg-studio
+
+* https://github.com/turnerdev/svg-studio
 
 ## https://svgedit.netlify.app/editor/index.html
-	* https://github.com/SVG-Edit/svgedit
+
+* https://github.com/SVG-Edit/svgedit
 

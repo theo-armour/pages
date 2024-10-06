@@ -7,7 +7,7 @@ tags #inkscape #sw #draw #svg
 * https://en.wikipedia.org/wiki/Inkscape
 * https://inkscape.org/
 * https://inkscape-manuals.readthedocs.io/en/latest/
-	* https://gitlab.com/inkscape/inkscape-docs/manuals/blob/master/Inkscape-Beginners-Guide/source/index.rst
+* https://gitlab.com/inkscape/inkscape-docs/manuals/blob/master/Inkscape-Beginners-Guide/source/index.rst
 * Keys: https://inkscape.org/doc/keys.html
 * https://inkscape-manuals.readthedocs.io/en/latest/
 * http://tavmjong.free.fr/INKSCAPE/MANUAL/html/index.php
