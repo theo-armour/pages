@@ -1,6 +1,6 @@
 # Microsoft
 
-### market share
+## market share
 
 * https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof
 * https://pypl.github.io/IDE.html

@@ -36,9 +36,9 @@ http://www.liberkey.com/en/forums/support-en/solved-notepad-and-spellchecker-plu
 
 ## DOS
 
-	dir *.js /s /b > aircraft.txt
+dir *.js /s /b > aircraft.txt
 
-	prompt $$
+prompt $$
 
 
 
@@ -53,10 +53,10 @@ C:\Users\theo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 ### mklink ~ symlinks
 
-	http://www.howtogeek.com/howto/windows-vista/using-symlinks-in-windows-vista/
+http://www.howtogeek.com/howto/windows-vista/using-symlinks-in-windows-vista/
 
 
-	> mklink /D C:\TestFolder C:\Users\Geek\TestFolder
+> mklink /D C:\TestFolder C:\Users\Geek\TestFolder
 
 
 

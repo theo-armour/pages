@@ -36,8 +36,11 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
+## 2024-10-16
 
+Dumbo the flying elephant soaring over the Golden Gate Bridge toward Alcatraz and downtown San Francisco as filmed by the Lumiere brothers
 
+18
 ## 2024-05-23
 
 Create a drawing of the singer Harry Belafonte, flying, blowing horn, style of Michelangelo, line drawing using only green, black and gold colors
