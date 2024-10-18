@@ -10,12 +10,13 @@
 
 ## links
 
+*
 * https://docs.midjourney.com/docs
 * https://midlibrary.io/categories/painters
 
 
 ## Boilerplate
--
+
 Dear "A": These are for you
 
 AI from https://midjourney.com
@@ -40,7 +41,10 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 Dumbo the flying elephant soaring over the Golden Gate Bridge toward Alcatraz and downtown San Francisco as filmed by the Lumiere brothers
 
-18
+## 2024-10-17
+
+Halloween painting with a haunted house, a full moon, and a black cat
+
 ## 2024-05-23
 
 Create a drawing of the singer Harry Belafonte, flying, blowing horn, style of Michelangelo, line drawing using only green, black and gold colors
