@@ -37,13 +37,29 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 #newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
+
+## 2024-10-18
+
+Halloween scene with a haunted house, a full moon, ghosts and a black cat,
+in the style of a very early film, black and white, grainy, realistic, detailed
+
+in the style of a movie scene, realistic, detailed, black and white, grainy, Cinématographe Lumière
+
+in the style of Cinématographe Lumière
+
+
+
 ## 2024-10-16
 
 Dumbo the flying elephant soaring over the Golden Gate Bridge toward Alcatraz and downtown San Francisco as filmed by the Lumiere brothers
 
+
+
 ## 2024-10-17
 
 Halloween painting with a haunted house, a full moon, and a black cat
+
+
 
 ## 2024-05-23
 
