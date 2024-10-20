@@ -38,6 +38,13 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
+
+## 2024-10-19
+
+Birthday cake with the text "Happy Birthday Tucker". A 3D render of  a typical Thomas Kinkade painting, characterized by its idyllic and romanticized depictions of landscapes and architecture, often imbued with a distinctive glow known as the "Kinkade Glow."  It is serene and picturesque scene depicted in a way that evokes a sense of nostalgia and tranquility.
+The light is exaggerated to create a warm and inviting atmosphere. This includes highlights, halos, and a hyper-luminescent shine that gives the scenes an ethereal quality. The color palette in Kinkade's work is typically soft and pastel, contributing to the dreamlike quality of his paintings. These colors help to enhance the idyllic nature of his scenes.
+
+
 ## 2024-10-18
 
 Halloween scene with a haunted house, a full moon, ghosts and a black cat,
