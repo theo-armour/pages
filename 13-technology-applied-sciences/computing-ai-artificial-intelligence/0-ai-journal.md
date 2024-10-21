@@ -38,6 +38,14 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 #retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
 
+## Ideogram
+
+
+* Go to online OndDrivr and upload new folder
+
+## 2024-10-20
+
+Render a Halloween scene with a haunted house, a full moon, ghosts and a black cat, in the style of painting by Vincent van Gogh
 
 ## 2024-10-19
 
@@ -55,11 +63,9 @@ in the style of a movie scene, realistic, detailed, black and white, grainy, Cin
 in the style of Cinématographe Lumière
 
 
-
 ## 2024-10-16
 
 Dumbo the flying elephant soaring over the Golden Gate Bridge toward Alcatraz and downtown San Francisco as filmed by the Lumiere brothers
-
 
 
 ## 2024-10-17
