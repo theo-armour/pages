@@ -40,12 +40,21 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 ## Ideogram
 
+* Start in My Videos to get access to camera buttons
+* Save files to local OneDrive
+* Go to online OneDrive and upload new folder
+* Share with uHale app
 
-* Go to online OndDrivr and upload new folder
+
+## 2024-10-21
+
+Alice's Adventures in Wonderland. Alice follows a white rabbit with a pocket watch and tumbles down a deep rabbit hole. As she falls, she notices that the sides of the walls are covered with haunted houses, a full moon, ghosts and a black cat,
 
 ## 2024-10-20
 
-Render a Halloween scene with a haunted house, a full moon, ghosts and a black cat, in the style of painting by Vincent van Gogh
+Render a Halloween scene with a haunted house, a full moon, ghosts and a black cat,
+
+in the style of painting by Vincent van Gogh
 
 ## 2024-10-19
 
