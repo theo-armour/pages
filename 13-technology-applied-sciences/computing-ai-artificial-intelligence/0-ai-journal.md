@@ -45,6 +45,13 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 * Go to online OneDrive and upload new folder
 * Share with uHale app
 
+## 2024-10-22
+
+"Heritage Happenings" written in a way that looks like Thai Script. two lines, right justified, red, white and blue
+
+Paint a Halloween scene with a haunted house, a full moon, ghosts and a black cat
+
+In the style of a surrealist painting by Joan Miró
 
 ## 2024-10-21
 
