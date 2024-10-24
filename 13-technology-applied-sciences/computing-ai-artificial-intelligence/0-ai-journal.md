@@ -45,6 +45,13 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 * Go to online OneDrive and upload new folder
 * Share with uHale app
 
+
+## 2024-10-23
+
+An imaginative portrait head made entirely of Halloween objects
+
+in the style of Giuseppe Arcimboldo
+
 ## 2024-10-22
 
 "Heritage Happenings" written in a way that looks like Thai Script. two lines, right justified, red, white and blue
