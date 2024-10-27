@@ -45,6 +45,72 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 * Go to online OneDrive and upload new folder
 * Share with uHale app
 
+## 2024-10-26
+
+A group of fashionable mature men sitting together at a table at "Les Deaux Magots", cafe on the Boulevard St Germain in Paris. After a while, the men change into robots
+
+a miniature village that is a picturesque Halloween scene with haunted houses, a full moon, ghosts, pumpkins and black cats
+
+in the style of Eugene Atget
+
+App: Kaiber.ai
+
+Prompt: A group of mature male techies. They all start as ((normal human beings)). They all morph and transform (((gradually into robots))). They sit together at "Les Deaux Magots"#, cafe on the Boulevard St Germain in Paris.
+
+in the style of photo render, (conceptual render:1.3), glowing implausibly, interesting colors, conceptual environment, (glowing:1.3), subsurface scattering, particles
+
+A group of mature techies. They start as human beings and gradually transform into robots. They sit at a table at "Deaux Magots", cafe on the Boulevard St Germain in Paris.
+
+A group of mature techies discussing issues relating to ai developments in robotics. They are sitting at a table at "Deaux Magots", the cafe on the Boulevard St Germain in Paris. They are transforming into cyborgs as they talk.
+
+##  2024-10-25
+
+A group of mature techies discussing issues relating to ai developments in robotics. They are sitting at a table at "Deaux Magots", the cafe on the Boulevard St Germain in Paris.
+
+In the style of:
+
+Retro-Futuristic Art Nouveau
+Blend the classic Art Nouveau style of 1900s Paris with modern tech elements
+Flowing, organic lines characteristic of Mucha mixed with holographic displays and robotic elements
+Muted teals and golds with pops of neon
+
+
+Neo-Digital Impressionism
+
+Inspired by the French Impressionists who frequented Les Deux Magots
+Pixelated brushstrokes reminiscent of digital static
+Capture the café's warm lighting mixing with the glow of devices
+Soft focus on the background Parisian architecture
+
+
+Cyberpunk Realism
+
+
+Detailed architectural accuracy of Les Deux Magots
+Add subtle tech elements like AR glasses, holographic projections
+High contrast lighting between warm café lights and cool tech glows
+Keep the iconic green awning but add subtle neon reflections
+
+
+Modern Day Edward Hopper
+
+
+Capture the contemplative mood of Hopper's café scenes
+Sharp shadows and dramatic lighting
+Focus on the isolation/connection dynamic between tech-focused individuals
+Maintain the café's authentic period details while incorporating modern elements
+
+
+Blade Runner Meets Toulouse-Lautrec
+
+
+Combine the sketchy, energetic style of Toulouse-Lautrec's café scenes
+Add cyberpunk lighting and tech elements
+Keep the classic Parisian café furniture and architecture
+Use a limited color palette with strategic neon accents
+
+Would you like me to elaborate on any of these styles or suggest some additional approaches? CopyRetryClaude can make mistakes. Please double-check responses.
+
 ## 2024-10-24
 
 View from inside the cab of the engine of a model train running down the track through a miniature village that is a picturesque Halloween scene with haunted houses, a full moon, ghosts, pumpkins and black cats
