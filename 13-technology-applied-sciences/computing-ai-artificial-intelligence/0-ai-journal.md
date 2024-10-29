@@ -45,6 +45,10 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 * Go to online OneDrive and upload new folder
 * Share with uHale app
 
+## 2024-10-29
+
+Bambi, Thumper and Flower (skunk) and all their friends trick or treating in the forest dressed in Halloween costumes
+
 ## 2024-10-26
 
 A group of fashionable mature men sitting together at a table at "Les Deaux Magots", cafe on the Boulevard St Germain in Paris. After a while, the men change into robots
