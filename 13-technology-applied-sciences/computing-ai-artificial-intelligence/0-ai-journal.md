@@ -47,6 +47,9 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 ## 2024-10-29
 
+cute little Halloween forest animals,
+
+
 Bambi, Thumper and Flower (skunk) and all their friends trick or treating in the forest dressed in Halloween costumes
 
 ## 2024-10-26
