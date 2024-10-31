@@ -5,6 +5,11 @@
 
 ## ToMatto
 
+* 2024-09-29: me:&nbsp;Falling in love and loving the fallen have much in common
+* 2024-10-27: FS ~ fs.blog/brain-food/october-27-2024/:&nbsp;“It’s true that becoming an empathic listener takes time, but it doesn’t take any-where near as much time as it takes to back up and correct misunderstandings when you’re already miles down the road, to redo, and to live with unexpressed and unsolved problems.”
+* 2024-10-30: Theo: "Everything in my life is of interest to me. My Smiles, my tears, my successes, my failures, big things,&nbsp;silly little unimportant things: all can be looked at in detail and treasured"
+* 2024-10-30: Theo:&nbsp;The sublime may happen any time, anywhere. You just have to notice it.
+* 2024-10-30: Theo:&nbsp;The issue these days is that I've designed my life so well that it is just simply full of things that I absolutely love doing.
 * 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities* 2024-09-09 Andranik: "Working on Positive impact AI models"* 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 * 2024-08-22 ~ James Clear ~&nbsp;"The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
 * 2024-08-04 ~ "leave your crown in the garage" ~&nbsp;<a href="https://fs.blog/brain-food/august-4-2024/">https://fs.blog/brain-food/august-4-2024/</a>
