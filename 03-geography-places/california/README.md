@@ -8,6 +8,12 @@ tags: #asilomar #birds #fish
 * https://en.wikipedia.org/wiki/Asilomar_Conference_Grounds
 
 
+## Tassajara
+
+* Probably too much
+* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
+* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
+* Something or somewhere else?
 
 ## Coaching
 
