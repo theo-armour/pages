@@ -46,6 +46,13 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 * Share with uHale app
 
 
+## 2024-11-09
+
+
+Help me collaboratively develop a well-structured and effective prompt through an interactive Q&A session. Start by asking me clear, specific questions about the purpose, audience, tone, desired output format, and ethical considerations of the prompt. For each question, offer a few options or suggestions to guide my responses while remaining adaptable to my unique requirements.
+
+After each iteration, summarize the refined elements of the prompt so far, and identify areas that need further clarity or detail. Include strategies or examples where helpful, such as templates for specific domains (e.g., technical documentation, creative writing, or customer support). Continue refining until we arrive at a clear, actionable, and contextually appropriate prompt that aligns with my goals.
+
 ## 2024-11-04
 
 Mother and father wild turkeys proudly tending their brood of poult in a nest in the forest.
