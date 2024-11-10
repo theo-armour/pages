@@ -1,9 +1,7 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
-
 Try them all!!
-
 *&nbsp;<a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
 
 * <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
@@ -17,7 +15,6 @@ Try them all!!
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
 Closed Sunday &amp; Monday
-
 ## Balboa ~ <a href="https://www.balboacafesf.com/">balboacafesf</a>
 
 * Mark
@@ -90,7 +87,6 @@ Aumni
 * Aselia
 
 Try the Caesar salad or **Tuna Tartare**
-
 ## Dorians
 
 * Ebenezer
@@ -125,6 +121,7 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
+## l'Amida*&nbsp;
 ## La Fromagerie
 
 * My friend: Dylan
