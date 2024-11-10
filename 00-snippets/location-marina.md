@@ -1,7 +1,9 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
+
 Try them all!!
+
 *&nbsp;<a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
 
 * <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
@@ -121,7 +123,9 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
-## l'Amida*&nbsp;https://www.lmidasf.com/* Most rveryone speaks French* Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
+## l'Amida_&nbsp;_
+## _<a href="https://www.lmidasf.com/*">https://www.lmidasf.com/*</a> Most rveryone speaks French_ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
+
 ## La Fromagerie
 
 * My friend: Dylan
