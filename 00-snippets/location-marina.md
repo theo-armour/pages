@@ -121,7 +121,7 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
-## l'Amida*&nbsp;
+## l'Amida*&nbsp;https://www.lmidasf.com/* Most rveryone speaks Frnch
 ## La Fromagerie
 
 * My friend: Dylan
