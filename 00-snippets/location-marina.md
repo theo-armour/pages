@@ -89,6 +89,7 @@ Aumni
 * Aselia
 
 Try the Caesar salad or **Tuna Tartare**
+
 ## Dorians
 
 * Ebenezer
@@ -123,8 +124,11 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
-## l'Amida_&nbsp;_
-## _<a href="https://www.lmidasf.com/*">https://www.lmidasf.com/*</a> Most rveryone speaks French_ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
+## l'Amida
+
+* https://www.lmidasf.com
+* Most erveryone speaks French
+  Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## La Fromagerie
 
