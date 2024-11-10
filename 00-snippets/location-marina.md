@@ -4,8 +4,7 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-*&nbsp;<a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
-
+* https://www.tiyasf.com/
 * <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
 
 ## Atelier Crenn ~ <a href="https://www.ateliercrenn.com/">atelier crenn</a>
@@ -17,7 +16,6 @@ Try them all!!
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
 Closed Sunday &amp; Monday
-
 ## Balboa ~ <a href="https://www.balboacafesf.com/">balboacafesf</a>
 
 * Mark
@@ -124,6 +122,12 @@ Regulars
 ## Isa
 
 * Emma ~ Fr 12th ~ Danny's wife
+
+## l'Amida
+
+* https://www.lmidasf.com
+* Most erveryone speaks French
+  Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## La Fromagerie
 
