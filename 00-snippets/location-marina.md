@@ -4,8 +4,7 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-*&nbsp;<a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
-
+* https://www.tiyasf.com/
 * <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
 
 ## Atelier Crenn ~ <a href="https://www.ateliercrenn.com/">atelier crenn</a>
