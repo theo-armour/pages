@@ -2,6 +2,7 @@
 
 
 Safety === security
+
 * https://rootsofprogress.org/towards-a-philosophy-of-safety
 * https://rootsofprogress.org/
 
