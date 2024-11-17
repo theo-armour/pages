@@ -17,6 +17,7 @@ use lock hunter...
 Use https://ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
 
 Don't forget DropBox takes forever.
+
 * Sync only a few folders at a time
 * Start with just one or two folders
 

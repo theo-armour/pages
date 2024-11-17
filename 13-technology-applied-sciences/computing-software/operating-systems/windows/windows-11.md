@@ -9,6 +9,7 @@
 * QW4P2-W4DXC-KKN4W-B3DYW-DGPKH
 
 How to redeem this item
+
 * On your Windows PC in the search bar type “Activation” and click Activation settings
 Click Change product key and enter the 25-character product key provided within your email
 Click Next, and then click Start
@@ -99,6 +100,7 @@ Select Automatically sync text that I copy. The sync feature is tied to your Mic
 
 
 ## Cross-device copy and paste
+
 You can copy and paste content using the same shortcuts you normally use on your Android device and PC.
 
 Before using cross-device copy and paste for the first time, you'll need to make sure the feature is turned on. Open the Phone Link app on your PC, go to Settings > Features > Cross-device copy and paste, and make sure the toggle is On for Allow this app to access and transfer content I copy and paste between my phone and PC.
