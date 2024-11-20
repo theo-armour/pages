@@ -5,6 +5,11 @@
 
 ## ToMatto
 
+* 2024-11-15:&nbsp;<a href="https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/%C2%A0">https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/&nbsp;</a>&nbsp;the only thing that can go wrong is that something goes wrong, and who cares if it does?
+* I’ve been letting go of my overbearing artistic control over how things should be
+* The expression “The worse, the better” is often attributed to Vladimir Lenin, and captures a sort of messianic nihilism — the dream that escalating misery will hasten the fall of a corrupt order.
+* The best we can hope for is that our new rulers will be stymied by incompetence, infighting and self-sabotage. In that respect, Gaetz may be just the man for the job.
+* 2024-11-14 gwern:&nbsp;If it wasn't written down, it wasn't written down.
 * 2024-11-06 Slashdot: "Inquiry is fatal to certainty." -- Will Durant
 * 2024-09-29: me:&nbsp;Falling in love and loving the fallen have much in common
 * 2024-10-27: FS ~ :&nbsp;“It’s true that becoming an empathic listener takes time, but it doesn’t take any-where near as much time as it takes to back up and correct misunderstandings when you’re already miles down the road, to redo, and to live with unexpressed and unsolved problems.”
