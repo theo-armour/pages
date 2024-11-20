@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2024-11-06 Slashdot: "Inquiry is fatal to certainty." -- Will Durant
 * 2024-09-29: me:&nbsp;Falling in love and loving the fallen have much in common
 * 2024-10-27: FS ~ :&nbsp;“It’s true that becoming an empathic listener takes time, but it doesn’t take any-where near as much time as it takes to back up and correct misunderstandings when you’re already miles down the road, to redo, and to live with unexpressed and unsolved problems.”
 * 2024-10-30: Theo: "Everything in my life is of interest to me. My Smiles, my tears, my successes, my failures, big things,&nbsp;silly little unimportant things: all can be looked at in detail and treasured"
