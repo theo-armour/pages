@@ -190,12 +190,19 @@ p38
 * Self-regulation - controlling impulsive behaviors
 * Self-monitoring - noticing which circumstances lead to better self regulation and which sabotage sef-regulation
 
-Too conscientious = OCD
+Too conscientious: Obsessive compulsive disorder
+
+##### openness
+
+p39
+* Fortunately, our traits and personalities are malleable, like the brain itself. we can change.
+* Power past behaviordoes not necessarily determine our future behavior
+* A cheerful, positive, optimistic outlook - even if it starts out fake - can end up becoming real
+
+##### compassion
 
 
-##### Healthy practices
-
-
+##### compassion
 
 #### 2 Memory and your sense of "you"
 
