@@ -6,26 +6,39 @@ tags #07 #math #logic
 
 ## wikipedia
 
-Formal sciences
+## Formal sciences
 
-Mathematics
-Mathematics education
-Equations
-Heuristics
-Measurement
-Numbers
-Proofs
-Theorems
+* Mathematics
+* Mathematics education
+* Equations
+* Heuristics
+* Measurement
+* Numbers
+* Proofs
+* Theorems
 
-Fields of mathematics
-ArithmeticAlgebraGeometryTrigonometryMathematical analysisCalculus
+## Fields of mathematics
+Arithmetic
+Algebra
+Geometry
+Trigonometry
+Mathematical analysis
+Calculus
 
-LogicDeductive reasoningInductive reasoningHistory of logicFallaciesMetalogicPhilosophy of logic
+Logic
+Deductive reasoning
+Inductive reasoningHistory of logic
+Fallacies
+Metalogic
+Philosophy of logic
 
 Mathematical sciences
-Computational scienceOperations researchTheoretical physics
+Computational science
+Operations research
+Theoretical physics
 
-StatisticsAnalysis of varianceBayesian statisticsCategorical dataCovariance and correlationData analysisDecision theoryDesign of experimentsLogic and statisticsMultivariate statisticsNon-parametric statisticsParametric statisticsRegression analysisSamplingStatistical theoryStochastic processesSummary statisticsSurvival analysisTime series
+Statistics
+Analysis of varianceBayesian statisticsCategorical dataCovariance and correlationData analysisDecision theoryDesign of experimentsLogic and statisticsMultivariate statisticsNon-parametric statisticsParametric statisticsRegression analysisSamplingStatistical theoryStochastic processesSummary statisticsSurvival analysisTime series
 
 ***
 

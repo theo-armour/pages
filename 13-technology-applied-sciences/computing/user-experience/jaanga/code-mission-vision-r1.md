@@ -109,6 +109,7 @@ then possibilities arise for the more complex, sophisticated and even extravagan
 
 
 ***
+
 ## Features
 
 Generally the scripts are:
@@ -123,6 +124,7 @@ Generally the scripts are:
 * Add your thoughts
 
 ***
+
 ## FAQ
 
 #### _What does it all mean?_
@@ -151,8 +153,6 @@ Instead of a huge file of opaque CSS rules that are mostly never invoked, there'
 * https://en.wikipedia.org/wiki/Cookbook#Usage_outside_the_world_of_food
 * https://en.wikibooks.org/wiki/Coding_Cookbook
 * https://www.quora.com/Computer-Programming-How-should-I-study-the-OReilly-cookbook-books-I-dont-feel-I-internalize-much-just-by-reading-them-as-Im-a-very-hands-on-learner
-
-
 
 
 ***
