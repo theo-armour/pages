@@ -5,8 +5,13 @@
 
 ## ToMatto
 
-* 
-
+* 2024-11-29: people tell you stories you did ask for.&nbsp;
+* 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
+* 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
+* 2024-11-21: finish what you've started before you start a second thing to finish
+* Finish something before starting something
+* Finish things before starting things
+* Always say yes to an offer ~&nbsp;always say yes to a counter offer to your offer
 * 2024-11-15:&nbsp;<a href="https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/%C2%A0">https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/&nbsp;</a>&nbsp;the only thing that can go wrong is that something goes wrong, and who cares if it does?
 * I’ve been letting go of my overbearing artistic control over how things should be
 * The expression “The worse, the better” is often attributed to Vladimir Lenin, and captures a sort of messianic nihilism — the dream that escalating misery will hasten the fall of a corrupt order.
