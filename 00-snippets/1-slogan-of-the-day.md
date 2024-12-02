@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* 
+
 * 2024-11-15:&nbsp;<a href="https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/%C2%A0">https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/&nbsp;</a>&nbsp;the only thing that can go wrong is that something goes wrong, and who cares if it does?
 * I’ve been letting go of my overbearing artistic control over how things should be
 * The expression “The worse, the better” is often attributed to Vladimir Lenin, and captures a sort of messianic nihilism — the dream that escalating misery will hasten the fall of a corrupt order.
