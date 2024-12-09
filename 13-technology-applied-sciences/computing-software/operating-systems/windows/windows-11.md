@@ -18,21 +18,23 @@ Click Next, and then click Start
 
 * AutoHotKey
 * Beyond Compare
-* VS Code
-* Git
-
-
-* DropBox ~ takes hours to get everything. Start early
-* GDrive
-* Phone Link
 * Concepts
+* VS Code
+* GitHub Desktop
+* Git
+* Input Director
+* Phone Link
 * Office
-* OneNote for Windows 10
 * Raindrop.io
+* Zoom
+* PC Manager
 
 
 Maybe
 
+* DropBox ~ takes hours to get everything. Start early
+* GDrive
+* OneNote for Windows 10
 * Obsidian
 * Portable Apps
 * PDF Exchange Editor
