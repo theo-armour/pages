@@ -5,6 +5,9 @@
 
 ## ToMatto
 
+* 2024-12-05: Which is better:
+* forgetting the present and living in the past?
+* forgetting the past and living in the present?
 * 2024-12-01:&nbsp;You can't lie your way into code compiling.
 * 2024-11-29: people tell you stories you did ask for.&nbsp;
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
