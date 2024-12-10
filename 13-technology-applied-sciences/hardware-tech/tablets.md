@@ -6,7 +6,7 @@
 * Pen with pressure & tilt
 * LTE
 * Detachable keyboard
-* A dream?
+* A dream? >> 2024-12-09 >> yes
 
 
 ## Huion
