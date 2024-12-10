@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2024-12-01:&nbsp;You can't lie your way into code compiling.
 * 2024-11-29: people tell you stories you did ask for.&nbsp;
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
