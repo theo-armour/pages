@@ -37,6 +37,7 @@ Redefine Alt Home and Alt End to go home and end
 ## About
 
 * 2022-12-15 ~ https://news.ycombinator.com/item?id=34010065
+
 >VSCode is one of the greatest pieces of engineering of our time.
 
 * <https://code.visualstudio.com/>
@@ -44,6 +45,7 @@ Redefine Alt Home and Alt End to go home and end
 * <https://twitter.com/hashtag/vscode?lang=en>
 * <https://code.visualstudio.com/docs>
 * <https://stackoverflow.com/questions/tagged/visual-studio-code>
+
 
 ## Included but not 'supported'
 
@@ -65,6 +67,7 @@ Redefine Alt Home and Alt End to go home and end
 Access Gdrive files from Chromebook Linux
 
 * <https://support.google.com/pixelbook/thread/1087442?msgid=17296031>
+
 
 ### Opening VS Code
 
@@ -143,6 +146,7 @@ Cmd+Option+1 (Mac)
 * <https://github.com/viatsko/awesome-vscode?>
 * https://marketplace.visualstudio.com/items?itemName=nicoespeon.slides
 * https://css-tricks.com/vs-code-extensions-for-html/
+
 ### Extensions Delete
 
 * https://www.reddit.com/r/vscode/comments/bucmnk/prettier_is_driving_me_crazy/
@@ -154,7 +158,6 @@ Cmd+Option+1 (Mac)
 selection: Ctrl-K, Ctrl-F Set default format tool with "Format document with..." in context menu
 
 ### HTML
-
 
 * https://code.visualstudio.com/docs/languages/html
 
@@ -176,6 +179,7 @@ I don't think I need this
 * <https://prettier.io/docs/en/options.html>
 * limited selection of options
 
+
 ## GitHub integration
 
 * <https://code.visualstudio.com/docs/editor/versioncontrol>
@@ -187,6 +191,7 @@ I don't think I need this
 > ~/.ssh/id_rsa.pub ssh-keygen -t rsa -b 4096 -C "Penguin Chromebook" cat ~/.ssh/id_rsa.pub git remote set-url origin git@github.com:theo-armour/qdata.git
 
 C:\Users\tarmo.ssh\github_rsa.pub
+
 
 ## IntelliSense
 
