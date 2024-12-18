@@ -25,5 +25,10 @@
 			"action": "vsc-command:actions.find"
 		},
 
-	}
+		{
+			"command": "Put new line",
+			"snippet": "\n"
+		}
+		
+	]
 }
