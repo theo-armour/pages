@@ -39,7 +39,7 @@ Cammock has an ideas book on the go all the time, and when she doesn’t have ac
 
 Ryan teaches foundation and degree-level art and is about to start a new sculpture course. One of the fundamentals she tells her students is: “It’s not about going into the studio to make a painting, because then you never do. But it’s going in to read a book or play with things. Don’t try to make something or it just won’t happen.” Cammock says: “What I’ve learned is that the best thing for me is to take the pressure off and do something else, and trust that it will come – it always does.”
 
-##  Take inspiration from others – but know when to look away
+## Take inspiration from others – but know when to look away
 
 “It is always lovely to talk to artists, go to galleries and be part of that community,” says Ryan, “but when I’m making, there is a point where you’re looking at loads and there’s a point when you have to stop and look at yourself.”
 
