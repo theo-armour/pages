@@ -1,6 +1,29 @@
-# Linux
+# Notes Linux
+
+## commands
+
+* top
+* uname -a
+* netstat -tupl
+
+Split -1000 -verbose file-name prefix-
+
+## symbolic links
+ln -s /path/to/file /path/to/symlink
+
+Works in MingW
+Relative paths OK
+
+## Submodules
+
+$ git submodule add https://github.com/mrdoob/three.js.git ./three.js
+
+$ git submodule update
 
 
-## Text Expansion
+## MinGW
 
-* https://techwiser.com/ubuntu-text-expander/
+http://www.mingw.org/
+http://en.wikipedia.org/wiki/MinGW
+
+help - lists all the available commands
