@@ -2,10 +2,12 @@
 
 ## Reference
 
-* https://en.wikipedia.org/wiki/GitHub_Copilot
+* https://code.visualstudio.com/docs/copilot/
+* https://code.visualstudio.com/docs/copilot/copilot-vscode-features
 
 
-## Links
+
+## GitHub Links
 
 * https://github.com/features/copilot
 * https://docs.github.com/en/copilot/quickstart
@@ -13,6 +15,10 @@
 * https://docs.github.com/en/copilot/configuring-github-copilot
 * https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code
 * https://github.com/features/copilot/#faq
+
+## More Links
+
+* https://en.wikipedia.org/wiki/GitHub_Copilot
 
 
 ## Lists of Alternatives
@@ -35,6 +41,9 @@
 
 ### https://matt-rickard.com/having-a-copilot
 
+### https://blog.infernored.com/how-to-improve-speed-and-code-quality-with-copilot/
+
+
 ## Prompts
 
 * Accept inline code suggestion — Tab
@@ -46,4 +55,4 @@
 
 Keyboard shortcuts: https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code#keyboard-shortcuts-for-github-copilot
 
-### https://blog.infernored.com/how-to-improve-speed-and-code-quality-with-copilot/
+

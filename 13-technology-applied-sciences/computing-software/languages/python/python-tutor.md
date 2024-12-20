@@ -9,6 +9,7 @@
 * https://docs.python.org/3.11/using/windows.html
 * https://code.visualstudio.com/docs/python/python-tutorial
 * https://www.w3schools.com/python/
+* https://www.geeksforgeeks.org/python3-tutorial/?ref=ghm
 
 
 ## Update to latest
@@ -79,7 +80,6 @@ print(type(y))
 
 ## Data Types
 
-
 * Text Type: str
 * Numeric Types: int, float, complex
 * Sequence Types: list, tuple, range
@@ -89,8 +89,14 @@ print(type(y))
 * Binary Types: bytes, bytearray, memoryview
 * None Type: NoneType
 
+## Standard Library
+
+* https://docs.python.org/3/library/index.html
+
+
 ## Pip
 
+* https://pypi.org/
 * https://pypi.org/project/pip/
 * https://pip.pypa.io/en/stable/getting-started/
 * https://www.w3schools.com/python/python_pip.asp
@@ -105,6 +111,7 @@ py -m pip install <sampleproject>
 ```
 
 ###py Install Requests
+
 >Requests is a simple, yet elegant, HTTP library.
 
 * https://pypi.org/project/requests/
