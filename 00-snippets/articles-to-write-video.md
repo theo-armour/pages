@@ -3,7 +3,7 @@
 medium.com ways to split my writing personalities
 newest at top
 
-* 2024-12-28:&nbsp;when I talk to older people&nbsp;I tend to be the interruptor.&nbsp;When I talk to younger people&nbsp;I tend to be the interrupt
+* 2024-12-28:&nbsp;when I talk to older people&nbsp;I tend to be the interruptor.&nbsp;When I talk to younger people&nbsp;I tend to be the interruptee.&nbsp;As we age&nbsp;our Reaction Time slow down.&nbsp;This affects how we speak to each other.
 * 2024-12-28: I prefer dating a woman who can climb a tree. The idea of smooching a face covered in lipstick and other chemicals is not at all pleasant.
 * 2024-01-01 ! My bathroom basin
 * Pills on shelf
