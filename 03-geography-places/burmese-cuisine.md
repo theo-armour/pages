@@ -29,8 +29,8 @@ Noodle
 Main
 
 * Mango chicken
-* mohinga
-* Mandalay Misha
+* mohinga ~ fish soup made with rice noodles
+* Mandalay Meeshay ~ rice noodles with chicken, shrimp, and vegetables
 
 Fish
 
