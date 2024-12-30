@@ -1,7 +1,7 @@
 # Apocryphal Observations of Life in France
 
 
-The following texts are snippets I prepared in preparation for the Boxing Day dinner party we hosted at the cottage at Heritage on the Marina on December 26, 2024.
+The following texts are snippets I prepared in preparation for the glorious Boxing Day dinner party Cynthia and I hosted at the cottage at Heritage on the Marina on December 26, 2024.
 
 Notes
 
