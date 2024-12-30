@@ -57,7 +57,7 @@ Obey these rules or anticipate the wrath of the cheese gods.
 
 _If had had remembered, you would have also heard something like this._
 
-![]( images/cynthia-with-hopjes.jpg )
+![]( https://theo-armour.github.io/pages/#00-journal/2024/images/cynthia-with-hopjes.jpg )
 _Cynthia with a box of Rademaker's Hopjes_
 
 
