@@ -55,11 +55,11 @@ Obey these rules or anticipate the wrath of the cheese gods.
 
 ## What is Remembered Lives
 
-_If I had remembered, you would have also heard something like the following_
-
 ![]( https://theo-armour.github.io/pages/#00-journal/2024/images/cynthia-with-hopjes.jpg )
+
 _Cynthia with a box of Rademaker's Hopjes_
 
+_If I had remembered, you would have also heard something like the following_
 
 I'm holding Up a box of candies. It holds a candy you probably never heard of. A Dutch candy called Rademaker's Hopjes. When Alix moved to Amsterdam, I asked her to send me a box. She did And they have been sitting on my shelf waiting for an opportunity to be useful. Why?
 
