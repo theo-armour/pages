@@ -55,7 +55,7 @@ Obey these rules or anticipate the wrath of the cheese gods.
 
 ## What is Remembered Lives
 
-![]( https://theo-armour.github.io/pages/#00-journal/2024/images/cynthia-with-hopjes.jpg )
+![]( https://theo-armour.github.io/pages/00-journal/2024/images/cynthia-with-hopjes.jpg )
 
 _Cynthia with a box of Rademaker's Hopjes_
 
