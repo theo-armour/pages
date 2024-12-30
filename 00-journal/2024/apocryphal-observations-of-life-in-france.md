@@ -55,7 +55,7 @@ Obey these rules or anticipate the wrath of the cheese gods.
 
 ## What is Remembered Lives
 
-_If had had remembered, you would have also heard something like this._
+_If I had remembered, you would have also heard something like the following_
 
 ![]( https://theo-armour.github.io/pages/#00-journal/2024/images/cynthia-with-hopjes.jpg )
 _Cynthia with a box of Rademaker's Hopjes_
