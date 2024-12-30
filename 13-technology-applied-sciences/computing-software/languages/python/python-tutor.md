@@ -7,6 +7,9 @@
 * https://docs.python.org/3/tutorial/index.html
 * https://docs.python.org/3/using/cmdline.html#
 * https://docs.python.org/3.11/using/windows.html
+
+## Tutorial
+
 * https://code.visualstudio.com/docs/python/python-tutorial
 * https://www.w3schools.com/python/
 * https://www.geeksforgeeks.org/python3-tutorial/?ref=ghm
@@ -30,7 +33,7 @@ py -m pip install numpy
 
 * Exit > control + z
 * Exit > exit()
-* Help:  >help()
+* Help >help()
 * Clear screen: >control + l / L
 * Run script: >py filename.py
 * Versions: >py --list
@@ -101,21 +104,26 @@ print(type(y))
 * https://pip.pypa.io/en/stable/getting-started/
 * https://www.w3schools.com/python/python_pip.asp
 
-Version
+### Version
 
 * C:\Users\tarmo\AppData\Local\Programs\Python\Python313\Scripts\pip.exe --version
-* python -m pip --version
+* >python -m pip --version
 
 ```
 py -m pip install <sampleproject>
 ```
 
-###py Install Requests
+
+### py List Packages
+
+* >py -m pip list
+
+### py Install Requests
 
 >Requests is a simple, yet elegant, HTTP library.
 
 * https://pypi.org/project/requests/
-* py -m pip install requests
+* >py -m pip install requests
 
 ### Install Beautiful Soup
 
@@ -128,3 +136,11 @@ py -m pip install <sampleproject>
 ## Python Packages
 
 * https://packaging.python.org/en/latest/tutorials/installing-packages/
+
+## Python Virtual Environments
+
+Venv
+
+* https://docs.python.org/3/library/venv.html
+* https://realpython.com/python-virtual-environments-a-primer/
+* https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
