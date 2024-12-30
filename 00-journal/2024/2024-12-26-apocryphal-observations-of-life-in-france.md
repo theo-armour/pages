@@ -12,19 +12,23 @@ Notes
 
 The wines I have chosen are typical wines that people drink at certain time periods. And by people, from here on, of course, I mean French people in France.
 
-If you are really on the case, you choose your wines by going down the mainly the wine list. But if you don't have the time or the energy, you just ask for the wine that should be. It's not a plan B. It's not a fallback. It's just that's the way things are.
+If you are really on the case, of course, you choose your wines by going down the mainly the wine list. But if you don't have the time or the energy, you just ask for the wine that should be. It's not a plan B. It's not a fallback. It's just that's the way things are.
 
-The wines tonight may or may not be good, but I think each one will be of its of its type. And therefore worth noticing on its own.
+The wines tonight may or may not be good, but I think each one will be typical of its of its type. And therefore worth noticing on its own.
 
 ### Macon Village
 
-The first one is Macon Village (think Sauvignon Blanc but generally is a Chardonnay grape). This is the one from the Loire Valley in France. This is the sort of wine that a French businessman will have at a typical French lunch, because of course you have to have a glass of wine to drink at lunch. It's the wine we would have at the community table at the Travellers Club on the Champs Elysées
+The first one is Macon Village (think Sauvignon Blanc but generally is a Chardonnay grape). This is the one from the Loire Valley in France. This is the sort of wine that a French businessman will have at a typical French lunch, because of course you have to have a glass of wine to drink at lunch. It's the wine we would have at the community table at the Travellers Club on the Champs Elysées.
 
 This is a daily lunch wine because if it were a good lunch, you would actually have to decide which one you'd drink. So this is the wine of least decision-making.
 
 ### Rosé de Provence
 
-The second wine, a rosé Provence is the wine must drink in August anywhere in France, breakfast, lunch or dinner. All year long you must decide which wine to drink. In August you take a holiday from making choices. You simply say "Waiter, please bring over a pitcher of the house rosé."
+The second wine, a rosé de Provence is the wine must drink in August anywhere in France, breakfast, lunch or dinner. All year long you must decide which wine to drink. In August you take a holiday from making choices. You simply say "Waiter, please bring over a pitcher of the house rosé."
+
+There are many rosés in France, but only a limited number of them are from Provence—and have at that certain familiar taste you know so well.
+
+* https://en.wikipedia.org/wiki/Provence_wine
 
 ### Rhône Wine Region
 
