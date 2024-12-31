@@ -38,6 +38,8 @@ Maybe
 * Obsidian
 * Portable Apps
 * PDF Exchange Editor
+* Samsung flow ~ not necessary??
+* Writage ~ Markdown for Word
 
 
 
