@@ -18,7 +18,6 @@ Euan Ashley, a professor of cardiovascular medicine and genetics at Stanford Uni
 * If you can walk, take some walking paces, go for a walk at lunchtime, that's great as well. If you can get 30 to 45 minutes of moderate intensity exercise, that's like a brisk walk, if you can do that five, six times a week, that's fantastic.
 * One of the things I regularly tell my patients — I'm a cardiologist — is that one minute of exercise buys you five minutes of extra life, which means you definitely have time to exercise, because, even if you exercise even a little bit higher intensity, you get seven or eight minutes of extra life.
 * So you definitely have time to make in your day to exercise. It doesn't matter whether you do it in the morning, at lunchtime, in the evenings. It's particularly good after meals, so the evening is a fine time to take a brisk walk.
-* So you definitely have time to make in your day to exercise. It doesn't matter whether you do it in the morning, at lunchtime, in the evenings. It's particularly good after meals, so the evening is a fine time to take a brisk walk.
 * But the main thing is get up, move about as much as you can.
 
 Hippocrates in Ancient Greece wrote "Eating alone will not keep a man well; he must also take exercise. For food and exercise, while possessing opposite qualities, yet work together to produce health."
