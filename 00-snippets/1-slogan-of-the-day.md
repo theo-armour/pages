@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* 2024-12-21: spare the ink
+* 2024-12-16: In this era, the more you know, the more you know the less you know
 * 2024-12-06: With deeper knowledge there may be deeper feelings
 * 2024-12-05: Which is better:
 * forgetting the present and living in the past?
