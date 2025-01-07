@@ -5,6 +5,8 @@
 
 ## ToMatto
 
+* 2024-12-24:&nbsp;Don't complain about something unless you have a solution to offer ~2024-12-24: "basic maximum" Did I invent this quote?
+* 2024-12-23: "the summer before I knew I was happy" Did I invent this quote?
 * 2024-12-21: spare the ink
 * 2024-12-16: In this era, the more you know, the more you know the less you know
 * 2024-12-06: With deeper knowledge there may be deeper feelings
