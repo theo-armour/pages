@@ -3,11 +3,13 @@
 Theo Armour \~ 2025-01-11
 
 ## George Armour \~ paternal great-great grandfather
-
+![George Armour]( George-armour-photo-second-presbyterian-church-of-chicago.png)
 * (1812 – 1881) Scottish American businessman and philanthropist
 * [**https://en.wikipedia.org/wiki/George_Armour**](https://en.wikipedia.org/wiki/George_Armour)
 
 ## Alexander Trepov \~ paternal (maternal ) great-great grandfather
+
+![Alexander Trepov]( Alexander_Trepov.jpg )
 
 * (1862-1928) Prime Minister of the Russian Empire
 * [**https://en.wikipedia.org/wiki/Alexander_Trepov**](https://en.wikipedia.org/wiki/Alexander_Trepov)
@@ -39,8 +41,8 @@ Theo Armour \~ 2025-01-11
 
 ## Theodor von Nieroth (1871–1952)
 
-* Uncle Theo
-* https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)
+* ![Uncle Theo]( Fyodor_M._Nirod.jpeg )
+* <https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)>
 
 ## Russell & Company
 
@@ -49,13 +51,19 @@ Theo Armour \~ 2025-01-11
 
 ## Erastas Foote
 
-* FirstAttorney General for Maine
-* https://en.wikipedia.org/wiki/Erastus_Foote
+![Erastus Foote](Erastus_Foote.jpg)
+
+* First Attorney General for Maine
+* <https://en.wikipedia.org/wiki/Erastus_Foote>
 
 
 ## James Whitehill Shirk
 
-* https://en.wikipedia.org/wiki/USS_Shirk
+![USS Shirk](uss-shirk.jpg)
+
+USS Shirk
+
+* <https://en.wikipedia.org/wiki/USS_Shirk>
 
 
 ## Chandler Hovey
@@ -70,13 +78,13 @@ More
 
 Steps
 
-* Chandler Hovey
 * Deerings
 * Howes
 
-There’s more. See Princess Kudasheva on next page
-[**https://www.thevintagenews.com/2019/07/16/romanov-costume-ball-1903/**](https://www.thevintagenews.com/2019/07/16/romanov-costume-ball-1903/)
+There’s more. See Princess Kudasheva
+
+![Princess Kudasheva](princess-kudasheva.jpg )
 
 To be continued.
 
-![Princess Kudasheva](media/54eb51c30a501782e9cfcff61362931a.jpeg)
+
