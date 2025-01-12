@@ -1,6 +1,22 @@
 ## Peeps in the Family
 
-Theo Armour \~ 2025-01-11
+Theo Armour \~ 2025-01-12
+
+## Introduction
+
+Over the years, I have collected information about our ancestors. Here are some of the more notable ones.
+
+One asks: Where are the women?
+
+## Genealogy apps
+
+Here are some of the genealogy apps I have used:
+
+* <https://www.geni.com/people/Theo-Armour/>
+* <https://www.myheritage.com/site-family-tree-4195182/armour>
+* <https://www.ancestry.com/invite-ui/accept?token=0ndb3_G88znH5CBIK9DxttUTB8_paEYiv_-z7-xfbkA=> ~ must have an account to view
+* <https://www.wikitree.com/wiki/Armour-1598>
+
 
 ## George Armour \~ paternal great-great grandfather
 ![George Armour]( George-armour-photo-second-presbyterian-church-of-chicago.png)
@@ -46,8 +62,8 @@ Theo Armour \~ 2025-01-11
 
 ## Russell & Company
 
- * https://en.wikipedia.org/wiki/Samuel_Russell
- * https://en.wikipedia.org/wiki/Russell_%26_Company
+ * <https://en.wikipedia.org/wiki/Samuel_Russell>
+ * <https://en.wikipedia.org/wiki/Russell_%26_Company>
 
 ## Erastas Foote
 
@@ -68,7 +84,7 @@ USS Shirk
 
 ## Chandler Hovey
 
-* https://herreshoff.org/inductees/chandler-hovey/
+* <https://herreshoff.org/inductees/chandler-hovey/>
 
 More
 
