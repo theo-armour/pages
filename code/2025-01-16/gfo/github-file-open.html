@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Open Index or Markdown</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-01-15">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025">
+
+  <link rel="stylesheet" href="../style.css">
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+  <div id=divMainContent></div>
+
+  <script>
+
+    COR = {
+
+      defaultFile: "HOME.md",
+      pathContent: "../../../",
+
+    };
+
+  </script>
+
+  <script src="github-file-open.js"></script>
+
+  <script>
+
+    GFO.onHashChange();
+
+  </script>
+
+</body>
+
+</html>

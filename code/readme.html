@@ -1,0 +1,206 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Open Index or Markdown</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-01-09">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/assets/tree/main/templates-folder">
+
+
+  <style>
+    /* Copyright 2025 Theo Armour. MIT License */
+
+    :root {
+      font: 100% monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0 auto;
+      max-width: 50rem;
+    }
+
+    a {
+      color: #880000;
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus,
+    a:active {
+      text-decoration: underline;
+    }
+
+    aside {
+      border: 1px solid lightgray;
+      margin-top: 15px;
+      padding: 2px;
+    }
+
+    button,
+    input[type=button] {
+      background-color: #eee;
+      border: 2px #eee solid;
+      color: #888;
+    }
+
+    blockquote {
+      background-color: #ddd;
+      padding: 1rem;
+    }
+
+    code {
+      background-color: #eee;
+    }
+
+    img {
+      max-width: 100%;
+      vertical-align: middle;
+    }
+
+    pre {
+      background-color: #eee;
+      padding: 0.5rem;
+    }
+
+    summary {
+      cursor: pointer;
+      font-size: 1.5rem;
+      font-weight: bold;
+      outline: none;
+    }
+
+    ::-webkit-scrollbar {
+      background: #333;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #880000;
+    }
+
+    /* read me footer */
+    .aDingbat {
+      text-decoration: none;
+      font-size: 2rem;
+    }
+
+    .iframe-resize {
+      height: 400px;
+      overflow: hidden;
+      padding: 0.5rem;
+      resize: both;
+      width: 100%;
+    }
+  </style>
+
+</head>
+
+<body>
+  <!-- https://github.com/showdownjs/showdown -->
+
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+  <div id=divContent></div>
+
+  <script>
+
+    const defaultFile = "README.md";
+    //const defaultFile = "test.md";
+
+    // Set the flavor of the Markdown converter
+    showdown.setFlavor( "github" );
+
+    // If there's no hash in the URL, set it to the default file
+    if ( !location.hash ) {
+      location.hash = defaultFile;
+    }
+
+    // If the hash ends with ".md", call onHashChange. Otherwise, navigate to the URL specified by the hash
+    if ( location.hash.endsWith( ".md" ) ) {
+      onHashChange();
+    } else {
+      window.location.href = location.hash.slice( 1 );
+    }
+
+    // Listen for changes to the hash in the URL
+    window.addEventListener( "hashchange", onHashChange, false );
+
+    // If the page is loaded over HTTPS, remove the hash from the URL
+    if ( location.protocol === "https:" ) {
+      window.history.pushState( "", "", "./" + location.hash );
+    }
+
+    function onHashChange () {
+
+      // If the hash doesn't include a ".", it's probably an internal link, so do nothing
+      if ( !location.hash.includes( "." ) ) {
+        return;
+      }
+
+      // Get the URL from the hash and update the document title
+      const url = location.hash.slice( 1 );
+
+      setDocumentTitle( url );
+
+      // Set the options for the Markdown converter
+      const options = {
+        backslashEscapesHTMLTags: true,
+        completeHTMLDocument: false,
+        disableForced4SpacesIndentedSublists: true,
+        emoji: true,
+        excludeTrailingPunctuationFromURLs: true,
+        ghMention: true,
+        noHeaderId: true,
+        openLinksInNewWindow: false,
+        simplifiedAutoLink: true,
+        simpleLineBreaks: true,
+        smoothLivePreview: true,
+        strikethrough: true,
+        tasklists: true,
+      };
+
+      // Fetch the file and update the page content
+      fetchFile( url, options );
+
+    }
+
+
+    function setDocumentTitle ( url ) {
+
+      const title = url.split( "/" ).pop()
+        .split( "-" )
+        .filter( word => word.length > 0 )
+        .map( word => word.charAt( 0 ).toUpperCase() + word.slice( 1 ) )
+        .join( " " );
+
+      document.title = title;
+
+    }
+
+
+    function fetchFile ( url, options ) {
+      fetch( url )
+        .then( response => response.text() )
+        .then( txt => {
+          txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@--\>/, "" );
+          divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
+          window.scrollTo( 0, 0 );
+        } )
+        .catch( err => console.error( "Error fetching file:", err ) );
+    }
+
+  </script>
+</body>
+
+</html>
