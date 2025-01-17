@@ -13,7 +13,6 @@ const ignoreFiles = COR.ignoreFiles;
 //   localStorage.setItem( "githubAccessToken", accessToken );
 
 // }
-var readmeLink
 
 async function fetchGitHubRepoContents ( user, repo ) {
   const baseUrl = 'https://api.github.com';
@@ -54,14 +53,16 @@ async function fetchGitHubRepoContents ( user, repo ) {
       fileLink.href = `#${ item.path }`;
       //fileLink.target = '_blank';
 
-      readmeLink = document.createElement( 'a' );
+      const readmeLink = document.createElement( 'a' );
       readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
-
       readmeLink.href = `../../readme.html#${ item.path }`;
-      //readmeLink.target = '_blank';
+
       const newLine = document.createElement( 'br' );
+      const space = document.createElement( 'span' );
+      space.innerHTML = " ";
 
       folderContents.appendChild( fileLink );
+      folderContents.appendChild( space );
       folderContents.appendChild( readmeLink );
       folderContents.appendChild( newLine );
     } );

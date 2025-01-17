@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>TooToo</title>
+  <title>Theo Pages View</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
   <meta name="description"
     content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
@@ -49,7 +49,7 @@
 
       filterFolders: [], //[ "food-service", "happenings-issues:", "histories", "pages", "photos", "scans"],
 
-      ignoreFiles: "", //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
+      ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
     }
 
   </script>
@@ -58,7 +58,7 @@
   <script src="gtv/github-tree-view.js"></script>
 
 
-  <div id=MNUdivShowHide>
+  <div id=divShowHide>
 
     <details id=detNavMenu class="gmd-4" open>
 
@@ -97,6 +97,8 @@
             style="font-size:150%;">A</button>
 
         </div>
+
+        <hr>
 
         <div id=divContent></div>
 

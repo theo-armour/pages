@@ -42,14 +42,14 @@
       defaultFile: "README.md",
       pathContent: "../../",
 
-      // Used by GTE ~ github tree view
+      // Used by GTE ~ github tree edit
       user: "theo-armour",
       repo: "pages",
       branch: "main",
 
       filterFolders: [], //[ "food-service", "happenings-issues:", "histories", "pages", "photos", "scans"],
 
-      ignoreFiles: "", //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
+      ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
     }
 
   </script>
@@ -58,7 +58,7 @@
   <script src="gte/github-tree-edit.js"></script>
 
 
-  <div id=UdivShowHide>
+  <div id=divShowHide>
 
     <details id=detNavMenu class="gmd-4" open>
 
@@ -95,8 +95,10 @@
             style="font-size:100%;">A</button>
           <button onclick=document.body.style.fontSize="150%" ;sumNavMenu.style.width="20rem" ;
             style="font-size:150%;">A</button>
-          <hr>
+
         </div>
+
+        <hr>
 
         <div id=divContent></div>
 
