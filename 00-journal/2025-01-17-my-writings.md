@@ -9,7 +9,7 @@
 ## GitHub Web Sites ~ Selected
 
 * https://theo-armour.github.io/pages/
-
+  * Look at files in the Journal and Inspirations folders
 * https://jaanga.github.io/
 * https://patterns-dev.github.io/
 * https://absence.github.io/
