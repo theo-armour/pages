@@ -8,46 +8,33 @@
 * Old age & anger
 * ?
 
-## links
+## 2025-01-17
 
-*
-* https://docs.midjourney.com/docs
-* https://midlibrary.io/categories/painters
+What is an interesting first question to ask you each day?
 
+### Claude
 
-## Boilerplate
+Liked: What's a commonly accepted idea that you think deserves more careful examination?
 
-Dear "A": These are for you
+Disliked: sources not available.
 
-AI from https://midjourney.com
+## Gemini
 
-Prompt:
+Liked: What's the most interesting new thing you've learned since yesterday?
 
-A work in the: "Feathers by Residents" Exhibit
+Reply: The concept of "temporal discounting" and its impact on decision-making.
 
-tags #ai #digitalart #midjourney #aiartcommunity #feathers
+Sources but no links. Answer was a typical "mental model" - which I like but nothing much new since yesterday.
 
-#villa #villadesign #architecture #archilovers #interior #interiordesign #zenstyle #zen #design #archidaily #midjourney #architecturephotography #architectural #interiors #dezeen #designboom #ignant #rock #archdaily #arches #rammedearth #midjourneyarchitecture
+### ChatGPT 01
 
-#ai
-#aiart
-#aicommunity
-#aiartist
+Liked: What is something you're looking forward to or curious about today, and why?
 
-#newmediaart #algorithmicart #genartclub #new_media_art #pointcloud #touchdesigner #codeart #generative #generativedesign #realtime #realtimegraphics #creativecoding #generativeart #motiongraphics #abstractart
+Response: pedestrian, no sources.
 
-#retrofuturism #gameart #environmentart #scifiartwork #scifi #sciencefictionart #space #dystopia #conceptart #digitalart #render #conceptartist #classicscifi #dystopian #artscifi #futuristic #futuredesign #future #scificoncept #design #digitalartist
-
-## Ideogram
-
-* Start in My Videos to get access to camera buttons
-* Save files to local OneDrive
-* Go to online OneDrive and upload new folder
-* Share with uHale app
 
 
 ## 2024-11-09
-
 
 Help me collaboratively develop a well-structured and effective prompt through an interactive Q&A session. Start by asking me clear, specific questions about the purpose, audience, tone, desired output format, and ethical considerations of the prompt. For each question, offer a few options or suggestions to guide my responses while remaining adaptable to my unique requirements.
 

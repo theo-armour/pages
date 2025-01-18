@@ -16,7 +16,7 @@ Define a behavior with many individual facets in just a few words or...
 
 for a story driven interaction with an NPC or avatar, define a bot persona with a backstory that makes the bot's behavior more exciting and interactive. Provide names, dates, places in the story
 
-### Dos (exemplrary)
+### Dos (exemplary)
 
 Act as a sensitive elderly psychotherapist ... as a patient support staff ... as a professional journalist ... as a car in love with its driver
 

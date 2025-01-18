@@ -1,6 +1,6 @@
 # Inspirations
 
-New catalog!
+New catalog needed!
 
 ## To Add
 

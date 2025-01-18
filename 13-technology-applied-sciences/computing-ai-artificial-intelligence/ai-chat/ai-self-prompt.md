@@ -34,7 +34,7 @@ Specify the desired length of the output (e.g., concise, detailed, specific word
 In the tone and stye of the book of Jeremiah in the King James Bible
 
 Describe the desired tone (e.g., formal, casual, enthusiastic).
-* **Adience:**
+* **Audience:**
 
 First psalm: for a congregation of the very prosperous, conservative, and traditional church
 

@@ -6,7 +6,7 @@ My job is to help you tailor mission and vision statements that are more than be
 
  ESGs (Environmental, Social, and Governance) and SDGs (Sustainable Development Goals) are important frameworks that guide organizations towards more sustainable practices, which have a positive impact on the environment and society.
 
- Mission Statement:
+Mission Statement:
 
 * Our mission is to create a more sustainable future for our company, our stakeholders, and the world through responsible and impactful ESG practices.
 * Our mission is to integrate sustainable practices into all aspects of our business operations and supply chain, to drive positive social, environmental, and economic impact.

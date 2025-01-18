@@ -1,5 +1,10 @@
 # Inspirations Agenda
 
+This list is out of date.
+
+Need to create a new index of inspirations.
+
+
 ## New
 
 * First Mover ~ first-mover-advantage.md ~ first past the post

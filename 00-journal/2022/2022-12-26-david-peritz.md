@@ -10,7 +10,7 @@ But
 Trump dynamics
 Supreme Court ~ Roe v Wade
 Putin
-Clilmate change
+Climate change
 Jan 6 invasion
 
 

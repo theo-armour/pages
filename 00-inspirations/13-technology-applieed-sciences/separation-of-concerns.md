@@ -20,3 +20,4 @@ Separation of concerns ~ tim berners lee
 * html, css, JavaScript
 * ISP, email, cloud
 * Computer, Operating system, IDE
+* See also triads

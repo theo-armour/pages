@@ -74,6 +74,7 @@ Random three things
 * love = being
 * fame/money = knowing
 
+
 ## Ryan Holiday
 
 * perception ~ action ~ judgment
