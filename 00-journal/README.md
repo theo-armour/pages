@@ -15,6 +15,8 @@ Drafts of files that I might like one day to publish. In other words documents w
 
 This is my "original research" folder. The other folders tend to follow the Wikipedia of "no original research".
 
+Some of the files may be notes of meetings or lectures.
+
 
 ## Guidelines
 

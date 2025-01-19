@@ -1,6 +1,8 @@
-# My Writings
+# 2025-01-19 My Writings
 
+##
 
+## "Published"
 * https://ta.medium.com/
 * https://theoarmour.substack.com
 * https://substack.com/@theoarmour
@@ -9,7 +11,7 @@
 ## GitHub Web Sites ~ Selected
 
 * https://theo-armour.github.io/pages/
-  * Look at files in the Journal and Inspirations folders
+  * Look at files in the Journal and Inspirations folders <<<
 * https://jaanga.github.io/
 * https://patterns-dev.github.io/
 * https://absence.github.io/
