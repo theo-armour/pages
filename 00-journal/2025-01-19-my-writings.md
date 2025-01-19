@@ -1,6 +1,8 @@
 # 2025-01-19 My Writings
 
-##
+## Preface
+
+Work-in-progress. Needs much curation and highlighting of the best of the best. ;-)
 
 ## "Published"
 * https://ta.medium.com/
