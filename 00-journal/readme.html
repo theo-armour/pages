@@ -152,7 +152,7 @@
       xhr.open( "get", url, true );
       xhr.onload = () => {
         let txt = xhr.responseText;
-        txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-- >/, "" );
+        txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
         divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
         window.scrollTo( 0, 0 );
       };
