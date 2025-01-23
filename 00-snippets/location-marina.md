@@ -1,10 +1,9 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
-
 Try them all!!
 
-* https://www.tiyasf.com/
+* <a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
 * <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
 
 ## Atelier Crenn ~ <a href="https://www.ateliercrenn.com/">atelier crenn</a>
@@ -33,7 +32,7 @@ Closed Sunday &amp; Monday
 * Tick? ~ Thailand ~ server
 * 3321 Steiner St, San Francisco, CA 94123
 * Back room for 10 ~ $75/head
-* +1 415 374 7518
+* +1 415 374 7518 you
 
 ## Brazen head
 
@@ -88,7 +87,6 @@ Aumni
 * Aselia
 
 Try the Caesar salad or **Tuna Tartare**
-
 ## Dorians
 
 * Ebenezer
@@ -125,9 +123,10 @@ Regulars
 
 ## l'Amida
 
-* https://www.lmidasf.com
+* <a href="https://www.lmidasf.com">https://www.lmidasf.com</a>
 * Most erveryone speaks French
-  Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
+
+Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 
 ## La Fromagerie
 
