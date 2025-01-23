@@ -31,11 +31,15 @@ I have used both methods enough that I now understand the structure of a good pr
 
 A good prompt typically gives ChatGPT:
 
-* Role
-* Context
-* Task
-* Style
-* Format
+## Role
+
+## Context
+
+## Task
+
+## Style
+
+## Format
 
 I call it the five-step prompting technique.
 
