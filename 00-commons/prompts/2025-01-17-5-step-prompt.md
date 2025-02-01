@@ -82,6 +82,7 @@ So rather than just ask it to create a post about personal finance, you can equa
 If there’s the chance that ChatGPT will regurgitate the same content for everyone who asks it to write on personal finance, adding areas of focus is how you get it to add something unique to the mix.
 
 ## Style
+
 Styling is everything. You should learn how to use it.
 
 Whenever I need ChatGPT to generate a salescopy for me, I usually ask it to follow the PAS copywriting technique. That’s my preferred style for writing salescopies.
@@ -95,6 +96,7 @@ You can also specify the tone you want ChatGPT to use —it can be friendly, pro
 If there is a writing style or principles you like, see some examples here, you can also ask it to include them.
 
 ## Format
+
 Have you ever had ChatGPT give you a concise response when you needed something more in-depth, or perhaps it goes on to ramble, churning out a full-blown article whereas you only wanted a simple explanation?
 
 This happens, but you can control this in your prompt by asking ChatGPT to be concise, elaborate, or by specifying a particular word count you want it to aim at.
@@ -102,6 +104,7 @@ This happens, but you can control this in your prompt by asking ChatGPT to be co
 You can also specify if you want your response to have bullet points, or not, and how many paragraphs you want the output to be.
 
 ## Wrapping up
+What
 What prompt engineering is teaching us is that AI use don’t just end in telling them what we want them to generate.
 
 We can shape the output a bit more, by specifying the role we want it to assume, giving it context, the task, specifying a style and also a format.
