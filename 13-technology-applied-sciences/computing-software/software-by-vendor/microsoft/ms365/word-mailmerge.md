@@ -8,12 +8,12 @@ tags #mailmerge
 
 Remember you can toggle the preview of the mail merge by clicking on the "Preview Results" button.
 
-## Word MailMerge template file
+## Word MailMerge template file & Formatting
 
 * Open file: 20XX-XX-happenings-mailmerge.docx in the "Heritage Happenings" folder for the month
 * Wait for popup about "data source" when opening the template
 * Always say "no" and start fresh
-* Set space after paragraph to zero, add manual line breaks
+* !!! Set space after paragraph to zero, add manual line breaks
 
 <<First Name>>, <<Last Name>>, and <<Address>>.
 
@@ -41,6 +41,7 @@ To insert a field code in Microsoft Word, you have several methods available:
    * Press `Ctrl + F9` to insert a pair of curly brackets `{}`.
    * Type the field code within the curly brackets (e.g., `DATE` or `PAGE`).
    * Press `F9` to update the field and display its result[1][2][4].
+
 
 ### Using the Ribbon Interface
 
