@@ -204,16 +204,17 @@ Vision
 
 ## Bullets
 
-foraging and agriculture ~ do not follow ~ they coexist
-hunter-gathers: heroic ~ farmers: peaceful
-Agriculture was not a revolution ~ it took thousands of years
-All cultures have critique ~ there is no stupidity
-Inequality is not inevitable ~ egalitarian hard to define
-Hierarchies are not required
-Seasonality and theater are strong elements of life
-Development of Science and Math may may have been by women
+* Foraging and agriculture ~ do not follow ~ they coexist
+* Hunter-gathers: heroic ~ farmers: peaceful
+* Agriculture was not a revolution ~ it took thousands of years
+* All cultures have critique ~ there is no stupidity
+* Inequality is not inevitable ~ egalitarian hard to define
+* Hierarchies are not required
+* Seasonality and theater are strong elements of life
+* Development of Science and Math may may have been by women
 
 Reviewer
+
 * Sapient Paradox brushed aside
 * Early societies more like high school gossip groups
 
