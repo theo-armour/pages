@@ -28,7 +28,7 @@ https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDeskt
 
 ## CSV
 
-"Subject", "Start Date","Start Time","Location"
+"Subject", "Start Date","Start Time","Location","Cal
 "Jason Myers: Sing-Along","11/15/2023","3:00 PM","Friendship Hall"
 "Teddy the Goldendoodle: SPCA visit","11/16/2023","1:30 PM","Friendship Hall"
 "Ian Scarfe: Piano Concert","11/16/2023","3:00 PM","Morgan Parlor"
