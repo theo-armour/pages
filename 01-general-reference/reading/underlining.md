@@ -1,5 +1,13 @@
 # Underlining
 
+
+tags: #reading #underlining
+
+
+What are the best practices for underlining when reading when you have yellow, blue, pink, and orange highlighters?
+
+* 
+
 ## 1. Yellow: Highlighting Key Points
 
 Use yellow to underline
