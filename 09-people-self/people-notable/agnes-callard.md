@@ -2,17 +2,44 @@
 
 ## Links
 
-https://en.wikipedia.org/wiki/Agnes_Callard
+* https://en.wikipedia.org/wiki/Agnes_Callard
+* https://hn.algolia.com/?q=callard
+* https://news.ycombinator.com/item?id=42792718
+* https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life
 
-## Introduction: The man whose name is an example
+## Open Socrates
+
+* The Case for a Philosophical Life
+
+## Introduction: The man whose name is an example ~ p1
+
+Your life is full. It has no space for the question, "Why am I doing any of this?"
+
+Fifteen-minute periods
+
+You make sure your thinking about how your life should go doesn't wander too far from how it is going already.
+
+### I.Tolstoy
 
 The Tolstoy Problem: "Why should I live?"
+
+By his own lights, what Tolstoy discovered is that the examined life was not worth living. p4
+
+Taking life 15 minutes at a time is a Tolstoyian strategy. p4
+
+The name for the opposite strategy is "Socratic".
+
+### II. Socrates
+
+The philosopher Socrates found himself confronted with profound questions he did not know how to answer. And yet Socrates came to the conclusion that this confrontation was the best, not the worst, thing that ever happened to him.
+
+Socrates presented himself as a person one can become, as a Kind of person, someone imitable enough to have his persona replicated in so many dialogs and plays.
 
 ### The "why" question
 
 "Why am I doing any of this?"
 
-## Part One: Untimely Questions
+## Part One: Untimely Questions ~ p23
 
 ### Chapter 1: the Tolstoy Problem
 
