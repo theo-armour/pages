@@ -1,13 +1,4 @@
-# Agnes Callard
-
-## Links
-
-* https://en.wikipedia.org/wiki/Agnes_Callard
-* https://hn.algolia.com/?q=callard
-* https://news.ycombinator.com/item?id=42792718
-* https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life
-
-## Open Socrates
+# Open Socrates
 
 * The Case for a Philosophical Life
 
@@ -15,11 +6,15 @@
 
 Your life is full. It has no space for the question, "Why am I doing any of this?"
 
-Fifteen-minute periods
+Necessities bypass the why question.  ~ p1
 
-You make sure your thinking about how your life should go doesn't wander too far from how it is going already.
+Fifteen-minute periods p1
 
-### I.Tolstoy
+You make sure your thinking about how your life should go doesn't wander too far from how it is going already. p2
+
+### I.Tolstoy p2 
+
+Leo Tolstoy (1828 - 1910)
 
 The Tolstoy Problem: "Why should I live?"
 
@@ -27,13 +22,84 @@ By his own lights, what Tolstoy discovered is that the examined life was not wor
 
 Taking life 15 minutes at a time is a Tolstoyian strategy. p4
 
-The name for the opposite strategy is "Socratic".
+The name for the opposite strategy is "Socratic". p4
 
-### II. Socrates
+### II. Socrates p5
 
-The philosopher Socrates found himself confronted with profound questions he did not know how to answer. And yet Socrates came to the conclusion that this confrontation was the best, not the worst, thing that ever happened to him.
+The philosopher Socrates found himself confronted with profound questions he did not know how to answer. And yet Socrates came to the conclusion that this confrontation was the best, not the worst, thing that ever happened to him. p6
 
-Socrates presented himself as a person one can become, as a Kind of person, someone imitable enough to have his persona replicated in so many dialogs and plays.
+Socrates presented himself as a person one can become, as a Kind of person, someone imitable enough to have his persona replicated in so many dialogs and plays. p7
+
+a midwife to ideas p7
+
+Socrates made himself into someone that other people could be. p7
+
+For the Oracle of Delphi, Socrates is an example. p8
+
+Socrates understands that his wisdom is worthless.  p8
+
+Socrates thought that anyone could become a Socrates. p8
+
+Because Socrates understands that he is not wise. He is pleased to be shown to be wrong, and that is the kind of person he also needs Gorgias to be. p10
+
+I count being refuted a greater good, In so far as it is a greater good for oneself to be delivered from the worst thing there is than to deliver somewhat else from it. p10
+
+Socrates predicted that after his death, the world would be filled with Socrateses. p11 
+
+### III. Where Is Socratic Ethics
+
+
+* Jeremy Benthem
+* John Stuart Mill
+* Henry Sidgewick
+
+That is likely to result in as many benefits to as many beneficiaries as possible. p11
+
+The benefits are typically understood in terms of the presence of pleasure. And the absence of pain. And the beneficiaries are typically assumed to be human beings. 
+
+This theory is called utilitarianism. p12
+
+
+Immanuel Kant (1724 -1804 )
+
+A form of ethics that is focused on the ways that dignity — the infinite worth of every rational being — constrains how we are allowed to treat one another. 
+
+This system features a "categorical imperative" or absolute prohibition against using a human being as a mere tool for the benefit of others.  p12
+
+utilitarianism  << Epicureanism. 
+
+Kant << Stoicism. p12
+
+But
+
+The action that best promotes the greatest good for the greatest number is not guaranteed to be the same, in all, cases as the action that shows respect for the dignity of another person. p13
+
+Leads to the trolley problems
+
+Savage Command: Save me. Or cooperate with us.  p13
+
+Neo-Aristotianism
+
+Someone who has been well habituated pursues happiness and pleasure by herself by means of behaving respectfully toward others, which is to say, she aims at virtue. p13
+
+People will announce "question everything" without noticing that they have just uttered not a question but a command. 
+
+The Socratic motto is not "question everything" but "persuade or be persuaded". p15 
+
+### IV. An Incautionary Tale
+
+The message is: Do philosophy, but don't overdo it.  p18
+
+This books makes the case for a philosophical life. 
+
+It has three parts. 
+
+Part 1 A special class of questions. Untimely questions. 
+
+Part 2: The Socratic approach to untimely questions. 
+
+Part 3: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
+
 
 ### The "why" question
 
