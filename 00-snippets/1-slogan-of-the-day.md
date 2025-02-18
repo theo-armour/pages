@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2025-02-18 ~ keep your household supplies near to where you will use them&nbsp;
 * 2024-12-30: For Mia: ski long ~ ski well ~ and then whi-ski…
 * 2024-12-24:&nbsp;the best way to solve a problem is to get a good definition of it before jumping into a solution ~&nbsp;<a href="https://substack.com/home/post/p-147703279">https://substack.com/home/post/p-147703279</a>?
 * 2024-12-24:&nbsp;Don't complain about something unless you have a solution to offer ~&nbsp;<a href="https://substack.com/home/post/p-147703279">https://substack.com/home/post/p-147703279</a>
