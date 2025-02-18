@@ -90,16 +90,37 @@ The Socratic motto is not "question everything" but "persuade or be persuaded". 
 
 The message is: Do philosophy, but don't overdo it.  p18
 
-This books makes the case for a philosophical life. 
+We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner. 
+
+This book is an argument to the contrary. It makes the case for a philosophical life. p19
+
 
 It has three parts. 
 
-Part 1 A special class of questions. Untimely questions. 
+**Part 1** A special class of questions. Untimely questions. 
 
-Part 2: The Socratic approach to untimely questions. 
+**Untimely questions** are marked by the fact that we need answers to them before we are prepared to answer them. p19
 
-Part 3: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
+Our default answers, the ones available to us absent philosophizing - Come from unreliable sources. Our bodies and other people. p19
 
+**savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19Nice evening. Where did you go? Tomorrow OK. 
+
+* Utilitarianism aims to rehabilitate the bodily command. 
+* Kantianism the command of the group. 
+* Aristotelianism tries to harmonize the two commands with one another. p19
+
+Socrates solution:  Give one person the task of asserting the truth and the other person the job of avoiding falsehoods. p20
+
+
+**Part 2**: The Socratic approach to untimely questions. 
+
+Each of its three parts. Inquiry, open mindedness and truth seeking. Conceals her paradox. p19
+
+* Inquiry ~ How can one search for what one does not know? How can one recognize it when one finds it? 
+* Open-mindedness ~ willing to admit that you are wrong. 
+* Truth-Seeking ~ Pursuing the truth and avoiding falsity.  p20
+
+**Part 3**: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
 
 ### The "why" question
 
