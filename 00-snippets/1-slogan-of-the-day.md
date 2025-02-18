@@ -6,6 +6,7 @@
 ## ToMatto
 
 * 2025-02-18 ~ keep your household supplies near to where you will use them&nbsp;
+* 2025-02-01 ~ me: the past is just as unpredictable as the future
 * 2025-01-27 constraints drive innovation ~ necessity is the mother...
 * 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 * 2024-12-30: For Mia: ski long ~ ski well ~ and then whi-ski…
