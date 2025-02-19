@@ -122,25 +122,68 @@ Each of its three parts. Inquiry, open mindedness and truth seeking. Conceals he
 
 **Part 3**: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
 
-### The "why" question
+Socratic ethics is the ethics of living a truly philosophical life. And it tells you that the way you should conduct yourself in each of these three domains is inquisitively. It promises to make people freer and more equal, more romantic and more courageous.  p20
+
+Soccerty says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
+
+He insists that everyone desires the good and that treating others unjustly is worse for the person who does so than being unjustly treated herself. In his hands, both freedom of speech and the egalitarianism become not political ideas but intellectual ones. He thinks that philosophy is a preparation for death. p21
+
+We want to be the kind of person that the historical Socrates. No doubt imperfectly. Tried to make himself into. It is the same kind of person that played out again, no doubt imperfectly tried to copy. p21
 
 "Why am I doing any of this?"
 
 ## Part One: Untimely Questions ~ p23
 
-### Chapter 1: the Tolstoy Problem
+## Chapter 1: the Tolstoy Problem
 
-### Chapter 2: load bearing answers
+What will come from what I do and from what I will do tomorrow? What will come from my whole life? p23
 
-### Chapter 3: Savage Commands
+If most people find themselves unbothered by Tolstoy's question. Is it because they have a real answer to it, or because they have the power to ignore it? p26
 
-### Chapter 4: Socratic Intellectualism
+### I. Questions that come too late
+
+I want to do is. Embark upon an exhaustive existential inquiry. p26
+
+We learned to take life 15 minutes at a time.  p26
+
+We find a way of to avoid ever asking "what will come from my whole life?"
+
+We will find it replete with reasons for postponing philosophical inquiry. p26
+
+Death will rescue us from ever having to come to terms with a meaninglessness of life. p26
+
+An untimely question is a question that comes at the wrong time — namely, after it has been answered. p26
+
+Untimely questions are hard to answer, But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to post them to others. But first and foremost, because it is hard to pose them to oneself. p27
+
+You'll be going through the motions of inquiry without actually inquiring into anything. p27
+
+The reason why you can't ask yourself untimely questions is that you think you already have the answer to them. And the reason you think you have the answer is that you are already using the answer. 
+
+The difficulty is that we can't make use of the answer and ask ourselves a question at the same time. 
+
+### II. What Tolstoy Couldn't Do
+
+
+### III. Enter Socrates
+
+
+### IV. Everybody Waivers
+
+### V. Fiction as Refuge
+
+
+## Chapter 2: load bearing answers p51
+
+## Chapter 3: Savage Commands
+
+## Chapter 4: Socratic Intellectualism
 
 ## Part Two: The Socratic Mrthod
 
-### Chapter 5: The Gadflu-Midwife Paradox
+## Chapter 5: The Gadflu-Midwife Paradox
 
-### Chapter 6: Moore's Paradox of Self Knowledge
+## Chapter 6: Moore's Paradox of Self Knowledge
 
 * https://en.wikipedia.org/wiki/Moore%27s_paradox
 * The more fundamental manner of stating the problem starts from the three premises following:
