@@ -96,6 +96,7 @@ You can then change which apps and folders appear on the Start menu.
 
 
 ## Share your clipboard items to another Windows 11 device
+
 Select Start  > Settings  > System > Clipboard
 
 Select Sync across devices and toggle it on.
