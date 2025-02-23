@@ -32,7 +32,7 @@
 
 * The Why
 * Examples
-* Would you like to question me about...
+* Would you like to question me about...&nbsp;https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii
 
 ## Task / Verb / Constraints
 
