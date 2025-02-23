@@ -22,7 +22,7 @@
 ## Five Step Prompting
 
 * A role / personana / You are & I am /
-* Context
-* Task / Verb
-* Style / friendly / professional
-* Format / bullets / Number of words / concise / markdown
+* Context / Background / Examples
+* Task / Verb / Constraints
+* Style / Tone: friendly / professional
+* Format / bullets / table / Table of Contents / checklist / Number of words / concise / markdown 
