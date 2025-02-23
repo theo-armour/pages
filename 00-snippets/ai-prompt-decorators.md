@@ -2,9 +2,9 @@
 
 ## Links
 
-* https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c
-* https://github.com/smkalami/prompt-decorators
-* https://github.com/smkalami/prompt-decorators/issues/1
+* <a href="https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c">https://kalami.medium.com/prompt-decorators-a-simple-way-to-improve-ai-responses-c3f3c2579a8c</a>
+* <a href="https://github.com/smkalami/prompt-decorators">https://github.com/smkalami/prompt-decorators</a>
+* <a href="https://github.com/smkalami/prompt-decorators/issues/1">https://github.com/smkalami/prompt-decorators/issues/1</a>
 
 ## Decorators
 
@@ -21,8 +21,10 @@
 
 ## Five Step Prompting
 
-* A role / personana / You are & I am /
-* Context / Background / Examples
-* Task / Verb / Constraints
-* Style / Tone: friendly / professional
-* Format / bullets / table / Table of Contents / checklist / Number of words / concise / markdown 
+## A role / Persona / You are &amp; I am /
+## Context / Background / Examples
+## Task / Verb / Constraints
+## Style / Tone
+* friendly / professional
+## Format
+* bullets / table / Table of Contents / checklist /&nbsp;* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
