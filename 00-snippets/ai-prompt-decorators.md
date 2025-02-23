@@ -20,10 +20,13 @@
 * +++Tone(style=STYLE)
 
 ## Five Step Prompting
-
+* https://medium.com/swlh/this-simple-5-step-priompting-technique-will-get-you-99-accurate-result-df1e89914428
 ## A role / Persona / You are &amp; I am /
+* +++
 ## Context / Background / Examples
+* +++
 ## Task / Verb / Constraints
+* Do's and Don'ts
 ## Style / Tone
 * friendly / professional
 ## Format
