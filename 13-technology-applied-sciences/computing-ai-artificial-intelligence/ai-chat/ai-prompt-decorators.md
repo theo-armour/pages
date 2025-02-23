@@ -19,8 +19,10 @@
 * +++OutputFormat(format=FORMAT)
 * +++Tone(style=STYLE)
 
+## Five Step Prompting
+
 * A role / personana / You are & I am /
 * Context
 * Task / Verb
-* Style
-* Format
+* Style / friendly / professional
+* Format / bullets / Number of words / concise / markdown
