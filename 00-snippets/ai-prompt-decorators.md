@@ -32,20 +32,21 @@
 
 * The Why
 * Examples
-* Summarize. list ~ translate&nbsp;
 
 ## Task / Verb / Constraints
 
+* Summarize. list ~ translate ~ classify ~ explain ~ extract ~ format ~ comment ~ document
 * Do's and Don'ts
 * Remember that...
 
 ## Style / Tone
 
 * friendly / professional / witty /themes
+* by Karl Marx ~ Dalai Lama ~ legal
 
 ## Format
 
 * bullets / table / Table of Contents / checklist /&nbsp;
-* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
+* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV ~ iambic pentameter
 
 *
