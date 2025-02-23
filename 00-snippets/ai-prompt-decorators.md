@@ -32,7 +32,7 @@
 
 * The Why
 * Examples
-* 
+* Summarize. list ~ translate&nbsp;
 
 ## Task / Verb / Constraints
 
