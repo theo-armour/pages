@@ -37,6 +37,7 @@
 ## Task / Verb / Constraints
 
 * Do's and Don'ts
+* Remember that...
 
 ## Style / Tone
 
