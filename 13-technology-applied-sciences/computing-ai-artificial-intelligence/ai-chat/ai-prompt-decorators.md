@@ -19,4 +19,8 @@
 * +++OutputFormat(format=FORMAT)
 * +++Tone(style=STYLE)
 
-https://api.github.com/repos/theo-armour/pages/13-technology-applied-sciences/computing-ai-artificial-intelligence/ai-chat/ai-prompt-decorators.md )
+* A role / personana / You are & I am /
+* Context
+* Task / Verb
+* Style
+* Format

@@ -18,7 +18,6 @@ Describe the intended user or audience (e.g., beginner, expert, creative writer)
 
 Generate three psalms for three congregations
 
-
 Specify the action or task the model should perform (e.g., summarize, generate, translate).
 
 * **Output Format:**
