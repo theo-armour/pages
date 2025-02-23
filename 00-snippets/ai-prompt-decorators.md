@@ -39,8 +39,10 @@
 
 ## Style / Tone
 
-* friendly / professional / themes
+* friendly / professional / witty /themes
 
 ## Format
 
-* bullets / table / Table of Contents / checklist /&nbsp;* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
+* bullets / table / Table of Contents / checklist /&nbsp;
+* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
+*
