@@ -1,8 +1,10 @@
 # Things I like
 
-## <h2>New
-## 
-
+## New things
+ 
+* ~~~
+ 
+## Things I like
 Around my desk</h2>
 ### Giotto Rocket Air Blaster
 
