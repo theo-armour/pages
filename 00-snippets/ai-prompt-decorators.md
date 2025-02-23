@@ -30,8 +30,9 @@
 
 ## Context / Background / Examples
 
-* +++
+* The Why
 * Examples
+* 
 
 ## Task / Verb / Constraints
 
@@ -45,4 +46,5 @@
 
 * bullets / table / Table of Contents / checklist /&nbsp;
 * Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
+
 *
