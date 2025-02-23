@@ -20,14 +20,27 @@
 * +++Tone(style=STYLE)
 
 ## Five Step Prompting
-* https://medium.com/swlh/this-simple-5-step-priompting-technique-will-get-you-99-accurate-result-df1e89914428
-## A role / Persona / You are &amp; I am /
+
+* <a href="https://medium.com/swlh/this-simple-5-step-priompting-technique-will-get-you-99-accurate-result-df1e89914428">https://medium.com/swlh/this-simple-5-step-priompting-technique-will-get-you-99-accurate-result-df1e89914428</a>
+
+## A role / Persona /&nbsp;
+
 * +++
+* You are ~ I am ~ audience is
+
 ## Context / Background / Examples
+
 * +++
+* Examples
+
 ## Task / Verb / Constraints
+
 * Do's and Don'ts
+
 ## Style / Tone
-* friendly / professional
+
+* friendly / professional / themes
+
 ## Format
+
 * bullets / table / Table of Contents / checklist /&nbsp;* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV
