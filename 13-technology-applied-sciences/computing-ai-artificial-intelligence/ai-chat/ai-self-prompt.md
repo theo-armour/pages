@@ -25,6 +25,7 @@ Specify the action or task the model should perform (e.g., summarize, generate, 
 Standard biblical format
 
 Indicate the desired format for the response (e.g., paragraph, list, code snippet).
+
 * **Length:**
 
 Specify the desired length of the output (e.g., concise, detailed, specific word count).
