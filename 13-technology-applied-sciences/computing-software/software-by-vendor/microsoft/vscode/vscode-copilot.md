@@ -5,8 +5,6 @@
 * https://code.visualstudio.com/docs/copilot/
 * https://code.visualstudio.com/docs/copilot/copilot-vscode-features
 
-
-
 ## GitHub Links
 
 * https://github.com/features/copilot
@@ -20,12 +18,10 @@
 
 * https://en.wikipedia.org/wiki/GitHub_Copilot
 
-
 ## Lists of Alternatives
 
 * https://www.tabnine.com/blog/github-copilot-alternatives/
 * https://designmodo.com/ai-tools-developers/
-
 
 ## Tips
 
@@ -43,7 +39,6 @@
 
 ### https://blog.infernored.com/how-to-improve-speed-and-code-quality-with-copilot/
 
-
 ## Prompts
 
 * Accept inline code suggestion — Tab
@@ -54,5 +49,3 @@
 * Open ten suggestions in a separate pane — Ctrl + Enter
 
 Keyboard shortcuts: https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code#keyboard-shortcuts-for-github-copilot
-
-
