@@ -172,14 +172,18 @@ The difficulty is that we can't make use of the answer and ask ourselves a quest
 
 ### V. Fiction as Refuge
 
+Socrates thought that the Tolstoy problem could be solved. p47
 
-## Chapter 2: load bearing answers p51
+### VI. Unwavering Action
+
+
+## Chapter 2: Load-Bearing Answers p51
 
 ## Chapter 3: Savage Commands
 
 ## Chapter 4: Socratic Intellectualism
 
-## Part Two: The Socratic Mrthod
+## Part Two: The Socratic Method
 
 ## Chapter 5: The Gadflu-Midwife Paradox
 
@@ -251,7 +255,7 @@ Other definition: to sharpen the inquiry
 
 #### III. A Demonstration of the Socratic Method
 
-* Viryue is knowledge
+* Virtue is knowledge
 * Pushy questions inspire inquisitive answers
 
 #### IV. Past Lives
@@ -279,3 +283,10 @@ Socratic Definition
 Answers
 
 * Answers are perfectly stable
+
+
+## Part Three: Socratic Answers p245
+
+### Introduction to Part Three: The Socratizing Move p245
+
+### Chapter 8 ~ Politics: Justice and Liberty p250
