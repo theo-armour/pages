@@ -25,11 +25,13 @@
 Overall Framework for US Politics
 
 Normal politics
+
 * Not attentive or mobilized
 * Generally Partisan ~ follow leaders ~ follow parents
 * No indifferent to Public Good but Focused on self-interest
 
 Intermittent Episodes
+
 * Understand Constitutional issues
 * Change political motivations / more deliberate / public-spirited
 * Takes decades
@@ -63,6 +65,7 @@ https://jordanbpeterson.com/
 
 
 ### Ben Thompson
+
 * https://stratechery.com/2017/manifestos-and-monopolies/
 
 

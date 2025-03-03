@@ -1,6 +1,6 @@
 ## Peeps in the Family
 
-Theo Armour \~ 2025-01-12
+Theo Armour ~ 2025-01-12
 
 ## Introduction
 
@@ -103,5 +103,3 @@ There’s more. See Princess Kudasheva
 ![Princess Kudasheva](princess-kudasheva.jpg )
 
 To be continued.
-
-

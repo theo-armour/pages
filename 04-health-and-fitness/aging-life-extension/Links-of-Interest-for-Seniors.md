@@ -166,7 +166,7 @@ https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
 
 ### Alice James
 
-Very interesting views on death
+Very interesting views on death**** 
 
 * https://en.wikipedia.org/wiki/Alice_James
 >Alice James (August 7, 1848 – March 6, 1892) was an American diarist, sister of novelist Henry James and philosopher and psychologist William James. Her relationship with William was unusually close, and she seems to have been badly affected by his marriage. James suffered lifelong health problems, that were generally dismissed as hysteria, in the style of the day. She is best known for her published diaries.
