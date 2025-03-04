@@ -5,9 +5,12 @@
 
 ## ToMatto
 
+* 2025-02-28: me? A perfectionist that meets deadlines ~ welcome to inner turmoil
+* 2025-02-27:&nbsp;I have yet to meet a person who has had&nbsp;as interesting a life as I have had.&nbsp;Perhaps this is because I've had so many failures.&nbsp;These ask that you start doing something new and different and interesting&nbsp;to you.&nbsp;Perhaps it's been interesting only because I made it interesting.&nbsp;And maybe it's only interesting to me, but that seems to be enough for me.
+* 2025-02-19: A woman before having a child: How can you love it if you don't know it?
 * 2025-02-18 ~ keep your household supplies near to where you will use them&nbsp;
 * 2025-02-01 ~ me: the past is just as unpredictable as the future
-* 2025-01-27 constraints drive innovation ~ necessity is the mother...
+* 2025-01-27 constraints drive innovation ~ necessity is the mother…
 * 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 * 2024-12-30: For Mia: ski long ~ ski well ~ and then whi-ski…
 * 2024-12-24:&nbsp;the best way to solve a problem is to get a good definition of it before jumping into a solution ~&nbsp;<a href="https://substack.com/home/post/p-147703279">https://substack.com/home/post/p-147703279</a>?
