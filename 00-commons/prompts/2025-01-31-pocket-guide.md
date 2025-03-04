@@ -1,4 +1,5 @@
 # Towards a Common Prompt Structure
+
 Nearly all major LLM docs (from OpenAI’s GPT-4 to Anthropic’s Claude to Google’s Gemini) point to a similar underlying architecture for successful prompting. Of course there are differences that do matter between these models, and I can get to that in future posts. But this first post on prompts is focusing on delivering a really comprehensive look at what it takes to prompt well in 2025 across LLMs.
 
 With that in mind, here are the six key elements:

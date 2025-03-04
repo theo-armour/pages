@@ -31,15 +31,11 @@ I have used both methods enough that I now understand the structure of a good pr
 
 A good prompt typically gives ChatGPT:
 
-## Role
-
-## Context
-
-## Task
-
-## Style
-
-## Format
+* Role
+* Context
+* Task
+* Style
+* Format
 
 I call it the five-step prompting technique.
 
@@ -71,6 +67,7 @@ When you give ChatGPT context — what you want to achieve, you’re invariably 
 Not doing this is like starting a journey with no destination in mind.
 
 ## Task
+
 This is where you say what you want.
 
 It is where everyone else starts and stops when they ask ChatGPT to do something, so stressing it is of little use.
