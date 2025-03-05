@@ -290,3 +290,13 @@ Answers
 ### Introduction to Part Three: The Socratizing Move p245
 
 ### Chapter 8 ~ Politics: Justice and Liberty p250
+
+### Chapter 9 ~ Politics: Equality
+
+* autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece)
+
+### Chapter 10 ~ Love
+
+### Chapter 11 ~ Death
+
+
