@@ -291,11 +291,11 @@ Answers
 
 ### Chapter 8 ~ Politics: Justice and Liberty p250
 
-### Chapter 9 ~ Politics: Equality
+### Chapter 9 ~ Politics: Equality ~ p274
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece)
 
-### Chapter 10 ~ Love
+### Chapter 10 ~ Love ~ p298
 
 ### Chapter 11 ~ Death
 
