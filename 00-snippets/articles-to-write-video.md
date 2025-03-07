@@ -1,8 +1,10 @@
 # Articles &amp; Papers to write
 
 medium.com ways to split my writing personalities
+
 newest at top
 
+* 2025-03-06 ~ List of San Francisco whateversfor newbs
 * 2024-12-28:&nbsp;when I talk to older people&nbsp;I tend to be the interruptor.&nbsp;When I talk to younger people&nbsp;I tend to be the interruptee.&nbsp;As we age&nbsp;our Reaction Time slow down.&nbsp;This affects how we speak to each other.
 * 2024-12-28: I prefer dating a woman who can climb a tree. The idea of smooching a face covered in lipstick and other chemicals is not at all pleasant.
 * 2024-01-01 ! My bathroom basin
@@ -41,6 +43,7 @@ newest at top
 * Car use, too, is a key dimension of America’s political divide. Trump support was positively associated with the share of people who drive to work alone.
 
 in car by yourself, most fun: listen to AM Radio talk shows
+
 * Toenails
 * Write about people who take risky thoughts. Part of being curious? Difficult to find others to talk to
 * people will game vaccination in order to get things
