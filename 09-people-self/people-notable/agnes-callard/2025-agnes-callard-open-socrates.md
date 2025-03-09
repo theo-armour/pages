@@ -297,6 +297,27 @@ Answers
 
 ### Chapter 10 ~ Love ~ p298
 
+#### VI Socratic Polyamory
+
+Is there a context in which the romantic love we dream about is perfectly appropriate? 
+
+#### I Socrates versus Aristophanes ~ p299
+
+The radical insight of Socrates serial of love is that you do not need to trade the two parts of the ideal off against each other, You can have rationality _and_ attachment if you are willing to rethink both
+
+#### II Eroticized Philosophy ~ p302
+
+We want our lovers at once to accept us as we are and admire us for what we are. p302
+
+The proper activity for lovers is to engage in is philosophy. p303
+
+So one thing I would not advise is that we remain as we are.
+
+#### VII Socratic Irony ~ p322
+
+#### VIII Socratic Seriousness ~ p329
+
+One human being is, to another, either a source of answers to your questions. or a source of questions that challenge your answers. p332
 ### Chapter 11 ~ Death
 
 
