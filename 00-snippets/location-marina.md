@@ -1,6 +1,7 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
+
 Try them all!!
 
 * <a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
@@ -127,7 +128,6 @@ Regulars
 * Most erveryone speaks French
 
 Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
-
 ## La Fromagerie
 
 * My friend: Dylan
@@ -148,6 +148,7 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 ## Marina Lounge
 
 * Sully ~ knows Hanh and James
+* Jake ~ bearded ~ friendly
 
 ## Maybeck's ~ <a href="https://www.maybecks.com/">maybecks</a>&nbsp;~ Closed
 
