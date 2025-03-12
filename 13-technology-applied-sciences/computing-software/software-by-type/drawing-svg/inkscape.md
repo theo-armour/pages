@@ -23,16 +23,21 @@ More
 
 ## Setup
 
-Light theme: Preferences > Interface > Theming > uncheck use dark theme
-
-Vertical pan > select Ctrl
-Canvas zoom > unselect Ctrl
 zoom by scroll wheel: Preferences > Interface > Keyboard > tab Modifiers > Canvas
 
+Light theme
+* Preferences > Interface > Theming > uncheck use dark theme
+
+Mouse wheel zoom
+
+* Vertical pan > select Ctrl / enable checked
+* Horizontal pan > select Shift / enable checked
+* Canvas zoom > unever ~ enable unchecked
 
 ## File Menu > Document Properties
 
-Tip: Resize to Content
+* Set paper size & display units
+* Tip: Resize to Content
 
 ### background Opaque
 
