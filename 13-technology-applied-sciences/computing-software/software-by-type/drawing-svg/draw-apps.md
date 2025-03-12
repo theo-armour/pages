@@ -10,6 +10,9 @@ Good stuff:
 
 ## https://github.com/rough-stuff/rough
 
+Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses. It also supports drawing SVG paths.
+
+Rough.js works with both Canvas and SVG.
 
 ## Nomad Sculpt ~ https://nomadsculpt.com/
 
