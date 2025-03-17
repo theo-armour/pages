@@ -313,7 +313,30 @@ The proper activity for lovers is to engage in is philosophy. p303
 
 So one thing I would not advise is that we remain as we are.
 
-#### VII Socratic Irony ~ p322
+#### III Socrates versus Henry James ~ p310
+
+Not "falling in love" but "ascending in love" p311
+
+Love is restless: pinning it down kills it. p311
+
+Romantic love not a solution
+
+Inquisitive love offers a new form p312
+
+
+#### IV A Love Story: Socrates and Alcibiades ~ p312
+
+Direct knowledge to the target of shared knowledge p317
+
+#### V Socratic Friendship p317
+
+revenge is incoherent - a form of hateful love p315
+
+a shared love of argument p318
+
+
+#### VI Socratic Polyamory p322
+
 
 #### VIII Socratic Seriousness ~ p329
 
