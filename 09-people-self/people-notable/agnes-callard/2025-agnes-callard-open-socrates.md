@@ -337,10 +337,32 @@ a shared love of argument p318
 
 #### VI Socratic Polyamory p322
 
+Love is not exclusive but additive
+
+Eros and Philia on a sliding scale p322
+
+Socratic polyamory is the kind of polyamory that doesn't distinguish between having many lovers and having many friends. p323
+
+#### VII Socratic Irony p323
+
+
+When does Socrates mean what he says? p324
+
+Initially Irony comes from the people hostile to Socrates. 
+
+Cicero view Socrates irony as an impressive and Elegant stylistic flourish comma Quintillion as a noble form of humility. 
+
 
 #### VIII Socratic Seriousness ~ p329
 
-One human being is, to another, either a source of answers to your questions. or a source of questions that challenge your answers. p332
-### Chapter 11 ~ Death
+The most anyone can do is play at being at socrates p331
+
+One human being is, to another, either a source of answers to your questions or a source of questions that challenge your answers. p332
+
+Socrates seems to be putting all of his cards on the table, and this strikes me as an act of great friendliness, openness, and humanity. Where I once saw Socratic irony, I now see Socratic love. p333
+
+### Chapter 11 ~ Death p334
+
+
 
 
