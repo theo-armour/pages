@@ -284,7 +284,6 @@ Answers
 
 * Answers are perfectly stable
 
-
 ## Part Three: Socratic Answers p245
 
 ### Introduction to Part Three: The Socratizing Move p245
@@ -297,21 +296,64 @@ Answers
 
 ### Chapter 10 ~ Love ~ p298
 
-#### VI Socratic Polyamory
+If we compare romantic love as it appears in our lives to our romantic ideals, we find ourselves falling very far short, p298
 
-Is there a context in which the romantic love we dream about is perfectly appropriate? 
+Even the good case is far from ideal.
 
-#### I Socrates versus Aristophanes ~ p299
+It is remarkable that romantic love has existed for thousands of years. p298
 
-The radical insight of Socrates serial of love is that you do not need to trade the two parts of the ideal off against each other, You can have rationality _and_ attachment if you are willing to rethink both
+#### I Socrates versus Aristophanes
+
+What everyone loves is really nothing other than the good p299
+
+Permanence is not the only thing we want because we will not be happy with permanent badness. 
+
+What is it you human beings really want from each other? p299
+
+When I love someone, I love what is good about them. 
+
+Socrates says "love is wanting to possess the good forever." p300 
+
+The radical insider Socrates theory of love is that you don't need to trade the two parts of the idea against each other. You'd have rationality and attachment if you're willing to rethink both.  p302
 
 #### II Eroticized Philosophy ~ p302
+
+Aristophonic attachment takes the form of acceptance of him, even if he is not so great. And is hard to be see how these can be combined with satisfaction with a person.  p303
 
 We want our lovers at once to accept us as we are and admire us for what we are. p302
 
 The proper activity for lovers is to engage in is philosophy. p303
 
-So one thing I would not advise is that we remain as we are.
+Live a life of shared understanding.  p303
+
+"So one thing I would not advise is that we remain as we are."
+
+Love as a miss center to the disembodied form of the beautiful. p304
+
+Socrates is saying that the sort of thing you really love bears more resemblance to an idea than to your flesh and blood lover.  p305
+
+1 Socratic love is, by contrast, perpetually dissatisfied. 
+
+2 Love is not a zero sum game. Loving one person more does not mean you love another person less.
+
+Socratic love is measured purely in positive terms. nice!
+
+What is romantic is the progress you make together, and you should always be open to morbid, both with that person and with others. p307
+
+3. Preoccupation with sex will distract people from their Socratic goals. p307
+
+4 Child racing, homemaking and comfortable companionship and so on. These are neither necessary nor sufficient for true monk romance, and have the potential to distract from it. p307
+
+5 Poems and stories and movies that we call romantic. Often get love wrong and are in fact unromantic. p307
+
+Socrates says that the person in love is in a state of mania. p308
+
+The original paradox about how my love can take the individual human being as its proper target if my love does not take the individual
+human being as its proper target; And once that target has shifted into something divine and perfect and unimprovable, admiration and acceptance do go hand in hand.
+
+It is indeed rational to be fully and unconditionally attached to that which cannot in any way be improved. p309
+
+Inquiry is according to Socrates what is truly dangerous, transgressive and exciting? 
 
 #### III Socrates versus Henry James ~ p310
 
@@ -323,19 +365,20 @@ Romantic love not a solution
 
 Inquisitive love offers a new form p312
 
-
 #### IV A Love Story: Socrates and Alcibiades ~ p312
 
 Direct knowledge to the target of shared knowledge p317
 
 #### V Socratic Friendship p317
 
-revenge is incoherent - a form of hateful love p315
+Revenge is incoherent - a form of hateful love p315
 
-a shared love of argument p318
+A shared love of argument p318
 
 
 #### VI Socratic Polyamory p322
+
+Is there a context in which the romantic love we dream about is perfectly appropriate? 
 
 Love is not exclusive but additive
 
@@ -345,12 +388,11 @@ Socratic polyamory is the kind of polyamory that doesn't distinguish between hav
 
 #### VII Socratic Irony p323
 
-
 When does Socrates mean what he says? p324
 
-Initially Irony comes from the people hostile to Socrates. 
+Initially irony comes from the people hostile to Socrates. 
 
-Cicero view Socrates irony as an impressive and Elegant stylistic flourish comma Quintillion as a noble form of humility. 
+Cicero view Socrates irony as an impressive and Elegant stylistic flourish, Quintillion as a noble form of humility. 
 
 
 #### VIII Socratic Seriousness ~ p329
@@ -360,6 +402,8 @@ The most anyone can do is play at being at socrates p331
 One human being is, to another, either a source of answers to your questions or a source of questions that challenge your answers. p332
 
 Socrates seems to be putting all of his cards on the table, and this strikes me as an act of great friendliness, openness, and humanity. Where I once saw Socratic irony, I now see Socratic love. p333
+
+Socrates seems to me to be putting all his cards on the table,and this strikes me as an act of great friendliness, openness and humanity. Where I once saw Socratic irony, I now see Socratic love.
 
 ### Chapter 11 ~ Death p334
 
