@@ -294,7 +294,34 @@ Answers
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece)
 
+What you really want is elevated status and equality. 
+
+#### I The quest for equality p275
+
+#### II The Elusiveness of equality p277
+
+#### III Inequality p278
+
+
 ### Chapter 10 ~ Love ~ p298
+
+Me
+
+* Love is not a zero sum game
+* Love is not exclusive but additive
+* Love is measured purely in positive terms
+* Love is the progress you make together
+* Love is the shared understanding
+* Love is the shared love of argument
+* Love is the shared love of the target of shared knowledge
+* The target of shared knowledge is the form of the beautiful
+* Polyamoury is the kind of polyamoury that doesn't distinguish between having many lovers and having many friends
+* Love is the shared search for knowledge of the beautiful, the good and the true
+* Sex is a distraction from Socratic goals
+* Sex is mania
+
+
+***
 
 If we compare romantic love as it appears in our lives to our romantic ideals, we find ourselves falling very far short, p298
 
