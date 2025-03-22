@@ -6,7 +6,7 @@
 
 Your life is full. It has no space for the question, "Why am I doing any of this?"
 
-Necessities bypass the why question.  ~ p1
+Necessities bypass the why question p1
 
 Fifteen-minute periods p1
 
@@ -48,7 +48,6 @@ Socrates predicted that after his death, the world would be filled with Socrates
 
 ### III. Where Is Socratic Ethics
 
-
 * Jeremy Benthem
 * John Stuart Mill
 * Henry Sidgewick
@@ -59,14 +58,13 @@ The benefits are typically understood in terms of the presence of pleasure. And 
 
 This theory is called utilitarianism. p12
 
-
 Immanuel Kant (1724 -1804 )
 
 A form of ethics that is focused on the ways that dignity — the infinite worth of every rational being — constrains how we are allowed to treat one another. 
 
 This system features a "categorical imperative" or absolute prohibition against using a human being as a mere tool for the benefit of others.  p12
 
-utilitarianism  << Epicureanism. 
+**utilitarianism**  << Epicureanism. 
 
 Kant << Stoicism. p12
 
@@ -78,7 +76,7 @@ Leads to the trolley problems
 
 Savage Command: Save me. Or cooperate with us.  p13
 
-Neo-Aristotianism
+**Neo-Aristotianism**
 
 Someone who has been well habituated pursues happiness and pleasure by herself by means of behaving respectfully toward others, which is to say, she aims at virtue. p13
 
@@ -103,7 +101,7 @@ It has three parts.
 
 Our default answers, the ones available to us absent philosophizing - Come from unreliable sources. Our bodies and other people. p19
 
-**savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19Nice evening. Where did you go? Tomorrow OK. 
+**savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
 
 * Utilitarianism aims to rehabilitate the bodily command. 
 * Kantianism the command of the group. 
@@ -124,7 +122,7 @@ Each of its three parts. Inquiry, open mindedness and truth seeking. Conceals he
 
 Socratic ethics is the ethics of living a truly philosophical life. And it tells you that the way you should conduct yourself in each of these three domains is inquisitively. It promises to make people freer and more equal, more romantic and more courageous.  p20
 
-Soccerty says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
+Socrates says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
 
 He insists that everyone desires the good and that treating others unjustly is worse for the person who does so than being unjustly treated herself. In his hands, both freedom of speech and the egalitarianism become not political ideas but intellectual ones. He thinks that philosophy is a preparation for death. p21
 
@@ -183,9 +181,11 @@ Socrates thought that the Tolstoy problem could be solved. p47
 
 ## Chapter 4: Socratic Intellectualism
 
+---
+
 ## Part Two: The Socratic Method
 
-## Chapter 5: The Gadflu-Midwife Paradox
+## Chapter 5: The Gadfly-Midwife Paradox
 
 ## Chapter 6: Moore's Paradox of Self Knowledge
 
@@ -213,7 +213,7 @@ Socrates thought that the Tolstoy problem could be solved. p47
 
 ##### Problem:
 
-* obstacle or barrier
+* Obstacle or barrier
 * Something you need to move out of the way
 * At the end of the problem solving process , you have eliminated something
 * The solution dissolves the problem
@@ -225,12 +225,12 @@ Aspects
 * No need to know why
 * Solving takes the form of commands
 * Symbol: Exclamation point
-* Motives are exogenous to problem-soving
+* Motives are exogenous to problem-solving
 
 ##### Question
 
 * To seek, search, pursue or hunt — for an  answer
-* Anser: whatever you are looking for
+* Answer: whatever you are looking for
 * Question culminates in its answer
 * Nothing comes next
 
@@ -241,14 +241,13 @@ Aspects
 * Symbol: Question mark
 * Sharing or inviting
 * Enticing
-
 * Motives are endogenous to question-answering
 
 Selecting the venue
 
 Turning questions into problems
 
-Socratic definition = goal of aninquiry
+Socratic definition = goal of an inquiry
 
 Other definition: to sharpen the inquiry
 
@@ -288,11 +287,39 @@ Answers
 
 ### Introduction to Part Three: The Socratizing Move p245
 
+Socrates claims To be an expert in politics, in love, and in facing death. p245
+
+Despite protestations of ignorance. p245
+
+Every philosopher has been preparing themselves for death. p246
+
 ### Chapter 8 ~ Politics: Justice and Liberty p250
 
-### Chapter 9 ~ Politics: Equality ~ p274
+* autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece) p250
 
-* autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece)
+Liberalism triad p251
+
+* freedom of speech
+* egalitarianism
+* fight for social justice. 
+
+#### I Politicization
+
+
+You cannot fight injustice. p252
+
+When people think they are fighting injustice, they are instead imitating refutation. p252
+
+Free if and only if it is inquisitive. p253
+
+Being refuted is a greater good. p258
+
+- is pleasant
+
+#### II Fighting is Pretend Arguing
+
+
+### Chapter 9 ~ Politics: Equality ~ p274
 
 What you really want is elevated status and equality. 
 

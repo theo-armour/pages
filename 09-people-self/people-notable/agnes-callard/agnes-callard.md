@@ -11,6 +11,7 @@
 * https://navras.substack.com/p/public-philosopher-agnes-callard
 * https://thiagovscoelho.blogspot.com/2022/11/agnes-callard.html
 
+
 ## Open Socrates Reviews
 
 * https://hn.algolia.com/?q=callard
