@@ -305,18 +305,39 @@ Liberalism triad p251
 
 #### I Politicization
 
-
 You cannot fight injustice. p252
 
 When people think they are fighting injustice, they are instead imitating refutation. p252
 
 Free if and only if it is inquisitive. p253
 
+Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. p254
+
+It converts a question, which is of two positions is correct — into a competition between the interests of two parties. 
+
+Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
+
+Disagreement tends to fuel an eagerness to win, which manifests itself in the practices Socrates describe himself as wanting to avoid. p256
+
 Being refuted is a greater good. p258
 
 - is pleasant
 
 #### II Fighting is Pretend Arguing
+
+War, in large part, is an attempt to prove that one is right, which is to say to settle a disagreement.  p261
+
+Fighting would be something like this. Fighting is politicized, arguing. p261
+
+The only way to actually determine whether violence is justified is to ask the question, "is violence justified?" And inquired freely into the truth of the matter p263
+
+Killing and saving don't touch ideas, only argument does. p264
+
+Although you can win a fight by behaving more unjustly than your opponents, you cannot refute someone by saying that things that are even more false than what they say. p264
+
+What you're really doing when you say you are fighting injustice is you're inflicting harm on people and imagining those arms somehow transfer to the ideas that are your real enemies. 
+
+#### III Freedom of Speech p265
 
 
 ### Chapter 9 ~ Politics: Equality ~ p274

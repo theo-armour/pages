@@ -18,6 +18,8 @@ Fifteen-minutes of fame is a phrase that was coined by Andy Warhol in 1968. It r
 
 Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. It converts a question, which is of two positions is correct — into a competition between the interests of two parties. 
 
+Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
+
 ## Savage Commands
 
 **savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
