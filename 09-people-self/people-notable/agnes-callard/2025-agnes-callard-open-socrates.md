@@ -297,11 +297,22 @@ Every philosopher has been preparing themselves for death. p246
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece) p250
 
+Socrates expert on politics, love and death. p245
+
+
 Liberalism triad p251
 
 * freedom of speech
 * egalitarianism
 * fight for social justice. 
+
+Or: justice, freedom and equality. p271
+
+If these claims are to be consistent with one another. The art of love, the craft of politics, and the preparation for death must be attributable the same underlying ability. p246
+
+By inquiring into untimely questions, every philosopher has all along been preparing himself for death. p246
+
+The practice of Socratic ignorance is a kind of mastery of the deepest things. The mechanism of this reversal is something that I call the Socratic move. p246
 
 #### I Politicization
 
@@ -339,6 +350,33 @@ What you're really doing when you say you are fighting injustice is you're infli
 
 #### III Freedom of Speech p265
 
+Politics is about persuasion. p267
+
+Persuasion is flattery. 
+
+Persuasion is in some sense what people want to hear. p269
+
+Debate politicizes argument. p269
+
+Debate is always a matter of convincing a third party. p269
+
+The truth is never refuted. p270
+
+Gamified version of refutation: The version where you win by persuading people — that someone who is saying true things can nevertheless lose p270
+
+We live under a shared idea of how to do so. p272
+
+Politics is the set of solutions that we develop to those difficulties in shared living that spring specifically from differences in our ideas about. How best to do so? p272
+
+A free society is one in which disagreements about how to live together are well managed. p272
+
+Freedom is not the same thing as the state of being unimpeded by the precedence of others — or what could be called independence p272
+
+These facts do not represent freedom, since there are no others with whom this agreement might be managed well, more poorly. p272
+
+It is only when our independence is the product of a shared agreement about how to live that accounts as a form of freedom. p272
+
+Freedom is a political idea and political activities and commutative activity. p273
 
 ### Chapter 9 ~ Politics: Equality ~ p274
 

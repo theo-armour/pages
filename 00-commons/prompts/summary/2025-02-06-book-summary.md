@@ -4,10 +4,14 @@
 ## https://ai.plainenglish.io/5-mega-chatgpt-prompts-that-i-use-everyday-to-save-4-hours-21efeb1918c5
 
 
+
+
 ## Write a thorough yet concise summary of [BOOK TITLE] by [AUTHOR].
+
 
 * Write a thorough yet concise summary of _Open Socrates_ by Agnes Callard.
 
+* Write a thorough yet concise summary of _The Gutenberg Galaxy by Marshall McLuhan_.
 Concentrate on only the most important takeaways and primary points from the book that together will give me a solid overview and understanding of the book and its topic
 
 Include all of the following in your summary:
