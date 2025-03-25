@@ -289,15 +289,30 @@ Answers
 
 Socrates claims To be an expert in politics, in love, and in facing death. p245
 
+Socrates expert on politics, love and death. p245
+
 Despite protestations of ignorance. p245
 
 Every philosopher has been preparing themselves for death. p246
 
+Socrates unified domains as distinct as love, death, and politics not by analyzing them in terms of some underlying common denominator, but rather by seeing them as convergent upward toward a single aspiration. Inquiry into untimely questions. p248
+
+Instead of arguing that these domains all have common source or calls or are built out of common materials. Socrates argues what they have in common is a goal. 
+
+War is a form of conversation.  p248
+
+Socrates claimed. That each of the traditional value virtues of justice, courage, moderation, and piety used to be acquainted with knowledge. Virtue is identical To say nothing other than knowledge. p248
+
+Weakness of will is really ignorance. p248
+
+The Socratic view is that real courage and moderation and piety and justice are manifested in speech and more specifically in the back and forth of inquisitive refutation. p249
+
+Socrates is making the radical claim that for ignorant people like us, human goodness is primarily expressed in how a person conducts herself in inquiry, and that conversation is where we find our true home. p249
+
+
 ### Chapter 8 ~ Politics: Justice and Liberty p250
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece) p250
-
-Socrates expert on politics, love and death. p245
 
 
 Liberalism triad p251
@@ -380,13 +395,46 @@ Freedom is a political idea and political activities and commutative activity. p
 
 ### Chapter 9 ~ Politics: Equality ~ p274
 
-What you really want is elevated status and equality. 
+The moralist tells you to strive to be on par with everyone else. Where's the anti war list tells you to strive for elevated status. p274
+
+What you really want is elevated status and equality. p275
 
 #### I The quest for equality p275
 
+Human interactions are replete with statistics seeking behavior. p275
+
+Conversational status games typically involve an expectation of symmetry. We anticipate that our interlocutor will seek the same sort of recognition from us that we are seeing from them p276
+
+People involved or you should not try to dominate one another. Rather they are participating in a shared quest for shared superiority. p276
+
+They are trying to get the equality points at high to license the conclusion they're both in some way superior people. p276
+
+The equality we seek in such encounters is something positive p276
+
+It is not a default but a conversational achievement. p276
+
+The self blowing gestures can be reconciled with satis seeking if we see them both as a quest for an elevated equality. We are trying to be high up and equal to one another. p277
+
 #### II The Elusiveness of equality p277
 
+We are anxious to even out the appearance of difference in abilities, in social standing, in success. p277
+
+Much of what gets called social skill involves inducing the feeling of equality in the face of all the facts that challenge this feeling. p278
+
+Our quest for equality tends to end in something that has been described as the conceit of equality. p278
+
+The equality arrived at in social context is not the real thing, but only an unstable placeholder. p278
+
 #### III Inequality p278
+
+#### IV Egalitarianism in the Iliad p281
+
+
+#### V Adam Smith p285
+
+
+
+#### VI Socratic Equality p290
 
 
 ### Chapter 10 ~ Love ~ p298
