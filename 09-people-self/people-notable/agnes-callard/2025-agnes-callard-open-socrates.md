@@ -427,11 +427,25 @@ The equality arrived at in social context is not the real thing, but only an uns
 
 #### III Inequality p278
 
+The quest for equality drives the ambitious person to excess. p279
+
+Pulling yourself Above the level of the person dominating you looks like an achievement, so long as they are above you. p280
+
+
+We're not sure how to put that equality point back where it belongs after we are discriminated against, because we don't actually know where it belongs. p281
+
+The problem about egalitarianism is not new. It is ancient. p281
+
+
 #### IV Egalitarianism in the Iliad p281
+
+One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening. 
 
 
 #### V Adam Smith p285
 
+
+There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them. 
 
 
 #### VI Socratic Equality p290

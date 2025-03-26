@@ -23,6 +23,9 @@ Politicization is the displacement of a disagreement from the context of argumen
 
 Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
 
+## Practice of Equality
+
+
 ## Savage Commands
 
 **savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
