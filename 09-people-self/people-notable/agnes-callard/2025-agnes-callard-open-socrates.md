@@ -444,9 +444,7 @@ One data that Smith's theory explains extraordinary well is the otherwise puzzli
 
 #### V Adam Smith p285
 
-
 There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them. 
-
 
 #### VI Socratic Equality p290
 
