@@ -448,6 +448,20 @@ There is something very strange in the practice of seeking, from someone, proofs
 
 #### VI Socratic Equality p290
 
+If you have nothing to prove. then I am no less pleased to be persuaded than to persuade. p290
+
+make it easy to unconvince me. p291
+
+refutation by majority is worthless. p291
+
+the right to truth is aspirational
+
+Recognizing existence another mind
+
+* Two of us are not of one mind
+* disagreement does not close the door
+* nothing counts except with reference to the other
+
 
 ### Chapter 10 ~ Love ~ p298
 
