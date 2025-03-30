@@ -456,12 +456,30 @@ refutation by majority is worthless. p291
 
 the right to truth is aspirational
 
-Recognizing existence another mind
+Recognizing existence another mind p293
 
 * Two of us are not of one mind
 * disagreement does not close the door
 * nothing counts except with reference to the other
 
+To engage with a point of view that conflicts with your own, but to continue to engage with it as a point of view on the truth that. Is what it is to recognize someone as your equal. p293
+
+The rule that you haven't achieved anything with your words unless the person you are talking to has come to understand your ideas on the same terms on which you understand them. That's a rule for the world within the world. p294
+
+
+What defines you within the conversation is only your orientation toward the truth, which makes you an intellectual thing, a mind. p295
+
+The ultimate form of respect is being seen in terms of one's power to help others figure out how to live. p295
+
+Neither of us is trying to be superior to the other, but we are both trying, together, to be superior, elevated. p295
+
+The equality we seek is not merely the absence of an evil, but the presence of a good. p295
+
+Freedom of speech is simply the freedom to speak truly. p296
+
+Socrates great insight was to notice that this freedom is not, under ordinary circumstances, available to us. p296
+
+We live together because we think together. p297 
 
 ### Chapter 10 ~ Love ~ p298
 
@@ -485,11 +503,15 @@ Me
 
 If we compare romantic love as it appears in our lives to our romantic ideals, we find ourselves falling very far short, p298
 
-Even the good case is far from ideal.
+Even the good case is far from ideal. p296
 
 It is remarkable that romantic love has existed for thousands of years. p298
 
+Is there a context in which romantic love would it not appear silly, or naive, but perfectly appropriate. 
+
 #### I Socrates versus Aristophanes
+
+What is it you human beings really want from each other? p299
 
 What everyone loves is really nothing other than the good p299
 
@@ -497,11 +519,11 @@ Permanence is not the only thing we want because we will not be happy with perma
 
 What is it you human beings really want from each other? p299
 
-When I love someone, I love what is good about them. 
+When I love someone, I love what is good about them. p300
 
-Socrates says "love is wanting to possess the good forever." p300 
+Socrates says "love is wanting to possess the good forever" p300 
 
-The radical insider Socrates theory of love is that you don't need to trade the two parts of the idea against each other. You'd have rationality and attachment if you're willing to rethink both.  p302
+The radical insider Socrates theory of love is that you don't need to trade the two parts of the idea against each other. You'd have rationality _and_ attachment if you're willing to rethink both.  p302
 
 #### II Eroticized Philosophy ~ p302
 
@@ -513,7 +535,7 @@ The proper activity for lovers is to engage in is philosophy. p303
 
 Live a life of shared understanding.  p303
 
-"So one thing I would not advise is that we remain as we are."
+"So one thing I would not advise is that we remain as we are." p304
 
 Love as a miss center to the disembodied form of the beautiful. p304
 
