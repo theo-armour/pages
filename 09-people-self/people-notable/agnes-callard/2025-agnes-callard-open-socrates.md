@@ -614,6 +614,7 @@ Socrates seems to be putting all of his cards on the table, and this strikes me 
 
 Socrates seems to me to be putting all his cards on the table,and this strikes me as an act of great friendliness, openness and humanity. Where I once saw Socratic irony, I now see Socratic love.
 
+
 ### Chapter 11 ~ Death p334
 
 
