@@ -5,6 +5,7 @@
 
 ## ToMatto
 
+* 2025-03-13 ~ Farnum ~&nbsp;The person who experiences the consequences should make the decision."
 * 2025-03-09 ~ Farnum:&amp;nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
 * 2025-03-04:&nbsp;my Inspirations need inflection points,&nbsp;the when and how they came about,&nbsp;what inspired the inspiration?
 * 2025-03-03~ minimize the losses
