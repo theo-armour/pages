@@ -545,24 +545,23 @@ Socrates is saying that the sort of thing you really love bears more resemblance
 
 2 Love is not a zero sum game. Loving one person more does not mean you love another person less.
 
-Socratic love is measured purely in positive terms. nice!
+Socratic love is measured purely in positive terms. nice! p307
 
 What is romantic is the progress you make together, and you should always be open to morbid, both with that person and with others. p307
 
 3. Preoccupation with sex will distract people from their Socratic goals. p307
 
-4 Child racing, homemaking and comfortable companionship and so on. These are neither necessary nor sufficient for true monk romance, and have the potential to distract from it. p307
+4 Child raising, homemaking and comfortable companionship and so on. These are neither necessary nor sufficient for true monk romance, and have the potential to distract from it. p307
 
 5 Poems and stories and movies that we call romantic. Often get love wrong and are in fact unromantic. p307
 
 Socrates says that the person in love is in a state of mania. p308
 
-The original paradox about how my love can take the individual human being as its proper target if my love does not take the individual
-human being as its proper target; And once that target has shifted into something divine and perfect and unimprovable, admiration and acceptance do go hand in hand.
+The original paradox about how my love can take the individual human being as its proper target if my love does not take the individual human being as its proper target; And once that target has shifted into something divine and perfect and unimprovable, admiration and acceptance do go hand in hand.
 
 It is indeed rational to be fully and unconditionally attached to that which cannot in any way be improved. p309
 
-Inquiry is according to Socrates what is truly dangerous, transgressive and exciting? 
+Inquiry is according to Socrates what is truly dangerous, transgressive and exciting? p310
 
 #### III Socrates versus Henry James ~ p310
 
@@ -570,9 +569,9 @@ Not "falling in love" but "ascending in love" p311
 
 Love is restless: pinning it down kills it. p311
 
-Romantic love not a solution
+Socratic loves takes the impulse toward the lover's ascent as an impulse to change. Lovers approach one another as inquirers and their lovers aspirational ascent to knowledge. p312
 
-Inquisitive love offers a new form p312
+Romantic love not a solution ~ Inquisitive love offers a new form p312
 
 #### IV A Love Story: Socrates and Alcibiades ~ p312
 
@@ -580,12 +579,23 @@ Direct knowledge to the target of shared knowledge p317
 
 #### V Socratic Friendship p317
 
+Socrates replaces a fickle love of individual people with what it imitates, a shared love of argument. p318
+
+
 Revenge is incoherent - a form of hateful love p315
 
 A shared love of argument p318
 
+It is invitation into a shared life of considering things together, a life in which neither would shy away from confronting difficult truths. p321
+
+What else said Beattie's takes for a refusal to offer love is precisely an offer of Socratic love. p322
+
 
 #### VI Socratic Polyamory p322
+
+If Socratic glove is philosophizing, then Socratic love is radically non exclusive. p322
+
+Socratic love is not exclusive but additive. p322
 
 Is there a context in which the romantic love we dream about is perfectly appropriate? 
 
@@ -597,7 +607,14 @@ Socratic polyamory is the kind of polyamory that doesn't distinguish between hav
 
 #### VII Socratic Irony p323
 
+People often think Socrates is a jerk. p323
+
+Someone who deceptively conceals his real views while making the mockery of the people he is talking to. p233
+
 When does Socrates mean what he says? p324
+
+The question of Socratic irony when the Socrates mean what he says is probably the central controversy in Socratic scholarship. p324
+
 
 Initially irony comes from the people hostile to Socrates. 
 
