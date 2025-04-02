@@ -615,25 +615,36 @@ When does Socrates mean what he says? p324
 
 The question of Socratic irony when the Socrates mean what he says is probably the central controversy in Socratic scholarship. p324
 
+His whole life is one big game, a game of irony. p324
 
-Initially irony comes from the people hostile to Socrates. 
+Initially irony comes from the people hostile to Socrates. p326
 
-Cicero view Socrates irony as an impressive and Elegant stylistic flourish, Quintillion as a noble form of humility. 
+The dividing line between Socratic irony and its absence was also in running line with the Socrates's enemy or his friend p326
 
+Cicero view Socrates irony as an impressive and Elegant stylistic flourish, Quintillion as a noble form of humility. p326
+
+The result is that for the contemporary Plato scholar is something good and deep and sophisticated and even somehow honest. p327
+
+I agree that the novices are making an error about Socratic irony, but I think that the sophisticates are in fact making the very same error, to wit: believing in the existence of Socratic irony p329
 
 #### VIII Socratic Seriousness ~ p329
+
+I didn't just want to interpret Socrates, I wanted to be Socrates. p329
 
 The most anyone can do is play at being at socrates p331
 
 One human being is, to another, either a source of answers to your questions or a source of questions that challenge your answers. p332
 
+There is no such thing as Socratic irony, except in the sense that it is indeed ironic that the man who hid his thoughts from others less than perhaps any one in the whole history of the world should have come to be credited with the concept of irony as his central contribution to humanity. p333
+
 Socrates seems to be putting all of his cards on the table, and this strikes me as an act of great friendliness, openness, and humanity. Where I once saw Socratic irony, I now see Socratic love. p333
-
-Socrates seems to me to be putting all his cards on the table,and this strikes me as an act of great friendliness, openness and humanity. Where I once saw Socratic irony, I now see Socratic love.
-
 
 ### Chapter 11 ~ Death p334
 
+The one name of those who practice philosophy in the proper manner is to practice for the dying and death. p336
 
+Does philosophy prepare you for death? p337
 
+#### II Ivan Ilych p337
 
+Suppose you knew you were going to die soon. How would you prepare yourself? p337
