@@ -641,10 +641,48 @@ Socrates seems to be putting all of his cards on the table, and this strikes me 
 
 ### Chapter 11 ~ Death p334
 
+#### I The Consolation of Philosophy?
+
+We are in a place designed to be explored, a place where knowledge is ours for the taking. p336
+
 The one name of those who practice philosophy in the proper manner is to practice for the dying and death. p336
+
+I can't help thinking of it being there and as not being there. p336
+
+Yet the thing that was supposed to make dealing with death easier has made it harder. Where is the calm and equanimity that Socrates promised me? p336
 
 Does philosophy prepare you for death? p337
 
-#### II Ivan Ilych p337
+#### II Ivan Ilych ~ p337
 
 Suppose you knew you were going to die soon. How would you prepare yourself? p337
+
+I've been Solitude comes from the fact that he alone is confronting his death. Everyone else around him is studiously avoiding it. p338
+
+This problem, the problem of justifying his life, is the Tolstoy problem. p340
+
+Ivan's predicament is that death both necessitates a justification for his life and also drives him to abandon the only justification he knows. But the other significant aspect of Ivan's predicament is that he is alone. p340
+
+The life of Ivan Ilyich turned out to be no preparation for the death of I knowledge. His life was such that he became unhinged by the prospect of death. p341
+
+We cannot justify our lives in the attempt to do so will only convince us that life is meaningless. p343
+
+#### III Misology, Misanthropy ~ p343
+
+If *The Death of Ivan Ilyich* describes what it's like to be unprepared for death. The *Phaedo* shows what it's like to be prepared. p343
+
+Socrates has lived his life. He died as he lived - philosophizing
+
+#### IV The Conference ~ p348
+
+#### V Corpses ~ p381
+
+#### VI FOMO vs FONA ~ p356
+
+FONA: Fear of never arriving. A fear of being deprived of both present and future goods. p36o
+
+#### VII Philosophical FONA ~ p361
+
+### Acknowledgments ~ p3711
+
+### Notes ~ p375
