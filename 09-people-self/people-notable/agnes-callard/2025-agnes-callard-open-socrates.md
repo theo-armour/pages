@@ -643,7 +643,11 @@ Socrates seems to be putting all of his cards on the table, and this strikes me 
 
 #### I The Consolation of Philosophy?
 
+The magic of Steve was that his questions, his observations, his calm, cheerful insistence on staying on topic when you thought you'd exhausted it. The sort of insistence that from anyone else would come across as stubborn, but that with him came office. Gentle resoluteness, his very presence had the effect of solidifying ideas and giving them substance. p335
+
 We are in a place designed to be explored, a place where knowledge is ours for the taking. p336
+
+A man who has truly spent his life in philosophy is probably right to be a good cheer in the face of death. p336
 
 The one name of those who practice philosophy in the proper manner is to practice for the dying and death. p336
 
@@ -671,15 +675,81 @@ We cannot justify our lives in the attempt to do so will only convince us that l
 
 If *The Death of Ivan Ilyich* describes what it's like to be unprepared for death. The *Phaedo* shows what it's like to be prepared. p343
 
-Socrates has lived his life. He died as he lived - philosophizing
+Socrates has lived his life. He died as he lived - philosophizing p343
+
+Socrates, by contrast, looks death, straight in the eye and has a conversation with his friends about it. p343
+
+It is worth stressing how remarkable it is that philosophical conversation is capable of matching the solemnity of death. p344
+
+Philosophy is a way of living ones life and it is also a way of dying. p344
+
+There is no greater evil one can suffer than to hate reasonable discourse. p346
+
+Philosophy lives up to the challenge of death. p348
+
+You could be philosophizing socially, philanthropically, happily, and be facing up to death at the same time. p348
 
 #### IV The Conference ~ p348
 
+Philosophy. The fact that we were philosophers, and that Steve was one too, made it possible to be mourning our friend and to be happily inquiring at the same time. p349
+
+We are unable to think about the most important things on our own and we habitually shield ourselves from this terrifying fact. p350
+
+Ignorance of ignorance leads us to think that we are to figure out these important questions out for ourselves. p350
+
+Ignorance of ignorance prevents us from sitting alongside another person about what neither of us knows. p350
+
+Ignorance of ignorance is the vary between us. Socrates dismantled that barrier. p350
+
+
 #### V Corpses ~ p381
+
+Superstitiousness about corpses.
+
+Materialists: You evidently think that even when the body is gone, something of a person remains. Disembodied. p353
+
+People whose religious commit them to the existence of the afterlife feel the terror of death, just as anyone else does. Nor are they spared the wrenching pain of loss. p353
+
+There is no need for any rush. They cannot die a second time. Why all this haste removed them from the public eye? p354
+
+If the soul survives death, then it does so by being separated from the body p354
+
+If the soul is annihilated by death, it likewise no longer inhabits the body and the person is now non-existent. p354
+
+Death is real, corpses are really are not insold, and Socrates will not put up with any superstitious nonsense to the contrary. p355
+
+
+From that vantage point, we can only feel the fear of death. We cannot understand why we are fearful. p355
+
+We will discover there are two ways to fear death. p355
 
 #### VI FOMO vs FONA ~ p356
 
-FONA: Fear of never arriving. A fear of being deprived of both present and future goods. p36o
+There is indeed a sense in which all death is indeed premature. p356
+
+Any conscious mind reaches forward and illuminates not only the present moment, but also some stretch of the ups coming time. p356
+
+Epicurus argues that death cannot be a misfortune since there is no one around to suffer it. p357
+
+When we exist, death is not present, and when death is present, we do not exist. p358
+
+Rationality requires symmetrical treatment of past and future. 
+
+We should answer this question the same way, with reference to the time before we were born and the time after we die. p358
+
+We shouldn't be more bothered by post post mortem nonexistence, than we are by prenatal non-existence
+
+
+
+The fear of death is the fear of being deprived of the usual sorts of goods with which life is already familiarized. You. p359
+
+The fear of death appears when it is a product of the bodily command, a demand for continuity for more of the same. p359
+
+Fear of missing out. FOMA. p359
+
+FONA: Fear of never arriving. A fear of being deprived of both present and future goods. p360
+
+In one way, FOMO all death is premature, and in another way FONA, Some deaths are more premature than others. 
 
 #### VII Philosophical FONA ~ p361
 
