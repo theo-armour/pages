@@ -7,6 +7,7 @@ Work-in-progress. Needs much curation and highlighting of the best of the best. 
 And it's just the end of the beginning. There are many more writings to be added.
 
 ## "Published"
+
 * https://ta.medium.com/
 * https://theoarmour.substack.com
 * https://substack.com/@theoarmour

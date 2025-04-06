@@ -1,16 +1,23 @@
 # Open Socrates
 
-* The Case for a Philosophical Life
+The Case for a Philosophical Life
 
 ## Introduction: The man whose name is an example ~ p1
 
-Your life is full. It has no space for the question, "Why am I doing any of this?"
+Your life is full. It has no space for the question, "Why am I doing any of this?" p1
 
 Necessities bypass the why question p1
 
 Fifteen-minute periods p1
 
 You make sure your thinking about how your life should go doesn't wander too far from how it is going already. p2
+
+***
+
+* "Don't make me think. Don't make me change."
+* We are afraid
+* We avoid thinking
+* Our lives filled with a multitude of tiny decisions - leaving no space and time for the big questions. p2
 
 ### I.Tolstoy p2 
 
@@ -738,8 +745,6 @@ Rationality requires symmetrical treatment of past and future.
 We should answer this question the same way, with reference to the time before we were born and the time after we die. p358
 
 We shouldn't be more bothered by post post mortem nonexistence, than we are by prenatal non-existence
-
-
 
 The fear of death is the fear of being deprived of the usual sorts of goods with which life is already familiarized. You. p359
 
