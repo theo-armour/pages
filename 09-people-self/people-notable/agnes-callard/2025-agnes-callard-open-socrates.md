@@ -14,6 +14,7 @@ You make sure your thinking about how your life should go doesn't wander too far
 
 ***
 
+
 * "Don't make me think. Don't make me change."
 * We are afraid
 * We avoid thinking
