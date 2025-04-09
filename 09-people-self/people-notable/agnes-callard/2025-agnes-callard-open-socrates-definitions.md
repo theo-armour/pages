@@ -1,5 +1,15 @@
 # 2025 Agnes Callard ~ Open Socrates ~ Definitions
 
+
+## Ethics
+
+Kantianism
+
+Utilitarianism
+
+Aristotelianism
+
+
 ## Fifteen-minutes
 
 Taking life 15 minutes at a time is a Tolstoyian strategy. p4
@@ -30,7 +40,23 @@ Politicization is a pathology of politics. A mapping of a disagreement into a co
 
 **savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
 
+## Socrates Character
+
+Socrates presented himself as one can become, as a kind of person, someone imitatable enough to have his persona replicated." p8
+
+Socrates described his life project in feminine terms, saying that he is a kind of midwife to ideas. p6
+
+Socrates made himself into someone that other people could be. p7
+
+Socrates understands that his wisdom is worthless. p8
+
+Socrates thought that anyone could become a Socrates. p8
+
+Because Socrates understands that he is not wise, he is pleased to be shown to be wrong. p10
+
+
 ## Socratizing Move
+
 
 The practice of Socratic ignorance is a kind of mastery of the deepest things. The mechanism of this reversal is something that I call the Socratic move. p246
 
@@ -49,6 +75,14 @@ Virtue is to be found first and foremost inside of philosophical conversation. p
 Real courage and moderation and piety and justice are manifested in speech and more specifically in the back and forth of inquisitive reputation. p249
 
 Socrates is making the radical claim that for ignorant people like us, human goodness is primarily expressed in how a person conducts herself in inquiry, and that conversation is where we find our true home. p249
+
+## Tolstoy Problem
+
+Tolstoy's crisis was caused by his inability to answer certain questions. p3
+
+He cannot understand why he cares about any of those things. p3
+
+I would say to myself, "Why?" p4
 
 ## Untimely questions
 
