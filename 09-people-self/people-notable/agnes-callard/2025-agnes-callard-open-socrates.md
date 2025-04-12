@@ -60,11 +60,13 @@ Socrates predicted that after his death, the world would be filled with Socrates
 * John Stuart Mill
 * Henry Sidgewick
 
-That is likely to result in as many benefits to as many beneficiaries as possible. p11
+Perform the action that is likely that is likely to result in as many benefits to as many beneficiaries as possible. p11
 
 The benefits are typically understood in terms of the presence of pleasure. And the absence of pain. And the beneficiaries are typically assumed to be human beings. 
 
 This theory is called utilitarianism. p12
+
+**utilitarianism**  << Epicureanism. 
 
 Immanuel Kant (1724 -1804 )
 
@@ -72,7 +74,7 @@ A form of ethics that is focused on the ways that dignity — the infinite worth
 
 This system features a "categorical imperative" or absolute prohibition against using a human being as a mere tool for the benefit of others.  p12
 
-**utilitarianism**  << Epicureanism. 
+**Kantianism**
 
 Kant << Stoicism. p12
 
@@ -88,13 +90,30 @@ Savage Command: Save me. Or cooperate with us.  p13
 
 Someone who has been well habituated pursues happiness and pleasure by herself by means of behaving respectfully toward others, which is to say, she aims at virtue. p13
 
-People will announce "question everything" without noticing that they have just uttered not a question but a command. 
+All wisdom consists solely in not thinking that you know what you do not know. p14
+
+People will announce "question everything" without noticing that they have just uttered not a question but a command. p14
 
 The Socratic motto is not "question everything" but "persuade or be persuaded". p15 
 
-### IV. An Incautionary Tale
+He claims that "I know that I know nothing" is an empty gesture of skepticism, but a plan for life. p15
 
-The message is: Do philosophy, but don't overdo it.  p18
+The key to success is to have the right kind of conversations. p15
+
+The only sure way to treat another human being with respect is either to answer their questions or question their answers. p15
+
+There is only one problem, which is ignorance, and there is only one solution, which is to learn. p16
+
+
+***
+
+We have met the box of rocks, and he is us. 
+
+
+### IV. An Incautionary Tale p18
+
+
+Commom message: The message is: Do philosophy, but don't overdo it.  p18
 
 We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner. 
 
@@ -115,7 +134,6 @@ Our default answers, the ones available to us absent philosophizing - Come from 
 * Kantianism the command of the group. 
 * Aristotelianism tries to harmonize the two commands with one another. p19
 
-Socrates solution:  Give one person the task of asserting the truth and the other person the job of avoiding falsehoods. p20
 
 
 **Part 2**: The Socratic approach to untimely questions. 
@@ -128,13 +146,24 @@ Each of its three parts. Inquiry, open mindedness and truth seeking. Conceals he
 
 **Part 3**: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
 
+Socrates solution:  Give one person the task of asserting the truth and the other person the job of avoiding falsehoods. p20
+
+Socrates discovered that by working together with another person, we make possible forms of thinking, self-knowledge, and questioning that are foreclosed to the person who works alone. p20Socrates solution:  Give one person the task of asserting the truth and the other person the job of avoiding falsehoods. p20
+
+Socrates discovered that by working together with another person, we make possible forms of thinking, self-knowledge, and questioning that are foreclosed to the person who works alone. p20
+
 Socratic ethics is the ethics of living a truly philosophical life. And it tells you that the way you should conduct yourself in each of these three domains is inquisitively. It promises to make people freer and more equal, more romantic and more courageous.  p20
 
 Socrates says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
 
+
 He insists that everyone desires the good and that treating others unjustly is worse for the person who does so than being unjustly treated herself. In his hands, both freedom of speech and the egalitarianism become not political ideas but intellectual ones. He thinks that philosophy is a preparation for death. p21
 
+The one to whom we are beholden is the character, that is the ideal, created by the historical Socrates. p21
+
 We want to be the kind of person that the historical Socrates. No doubt imperfectly. Tried to make himself into. It is the same kind of person that played out again, no doubt imperfectly tried to copy. p21
+
+===
 
 "Why am I doing any of this?"
 
