@@ -2,7 +2,7 @@
 
 The Case for a Philosophical Life
 
-## Introduction: The man whose name is an example ~ p1
+### Introduction: The man whose name is an example ~ p1
 
 Your life is full. It has no space for the question, "Why am I doing any of this?" p1
 
@@ -13,7 +13,6 @@ Fifteen-minute periods p1
 You make sure your thinking about how your life should go doesn't wander too far from how it is going already. p2
 
 ***
-
 
 * "Don't make me think. Don't make me change."
 * We are afraid
@@ -36,7 +35,7 @@ The name for the opposite strategy is "Socratic". p4
 
 The philosopher Socrates found himself confronted with profound questions he did not know how to answer. And yet Socrates came to the conclusion that this confrontation was the best, not the worst, thing that ever happened to him. p6
 
-Socrates presented himself as a person one can become, as a Kind of person, someone imitable enough to have his persona replicated in so many dialogs and plays. p7
+Socrates presented himself as a person one can become, as a kind of person, someone imitable enough to have his persona replicated in so many dialogs and plays. p7
 
 a midwife to ideas p7
 
@@ -104,7 +103,6 @@ The only sure way to treat another human being with respect is either to answer 
 
 There is only one problem, which is ignorance, and there is only one solution, which is to learn. p16
 
-
 ***
 
 We have met the box of rocks, and he is us. 
@@ -112,13 +110,11 @@ We have met the box of rocks, and he is us.
 
 ### IV. An Incautionary Tale p18
 
-
 Commom message: The message is: Do philosophy, but don't overdo it.  p18
 
 We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner. 
 
 This book is an argument to the contrary. It makes the case for a philosophical life. p19
-
 
 It has three parts. 
 
@@ -133,7 +129,6 @@ Our default answers, the ones available to us absent philosophizing - Come from 
 * Utilitarianism aims to rehabilitate the bodily command. 
 * Kantianism the command of the group. 
 * Aristotelianism tries to harmonize the two commands with one another. p19
-
 
 
 **Part 2**: The Socratic approach to untimely questions. 
@@ -156,7 +151,6 @@ Socratic ethics is the ethics of living a truly philosophical life. And it tells
 
 Socrates says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
 
-
 He insists that everyone desires the good and that treating others unjustly is worse for the person who does so than being unjustly treated herself. In his hands, both freedom of speech and the egalitarianism become not political ideas but intellectual ones. He thinks that philosophy is a preparation for death. p21
 
 The one to whom we are beholden is the character, that is the ideal, created by the historical Socrates. p21
@@ -167,9 +161,19 @@ We want to be the kind of person that the historical Socrates. No doubt imperfec
 
 "Why am I doing any of this?"
 
+### Section Contents
+
+* Tell them what you are going to tell them
+* The long term question ~ The Tolstoy Problem ~ "Why should I live?"
+* Usually avoided by taking life in short term chunks.
+* Socrates understands that he is not wise. 
+* He is pleased to be shown to be wrong,
+* Socratic motto is not "question everything" but "persuade or be persuaded"
+
+
 ## Part One: Untimely Questions ~ p23
 
-## Chapter 1: the Tolstoy Problem
+## Chapter 1: the Tolstoy Problem ~ p23
 
 What will come from what I do and from what I will do tomorrow? What will come from my whole life? p23
 
@@ -181,7 +185,7 @@ I want to do is. Embark upon an exhaustive existential inquiry. p26
 
 We learned to take life 15 minutes at a time.  p26
 
-We find a way of to avoid ever asking "what will come from my whole life?"
+We find a way of to avoid ever asking "what will come from my whole life"
 
 We will find it replete with reasons for postponing philosophical inquiry. p26
 
@@ -199,6 +203,9 @@ The difficulty is that we can't make use of the answer and ask ourselves a quest
 
 ### II. What Tolstoy Couldn't Do
 
+Tolstoy repeatedly refers to the fundamental questions about the meaning of life. He never succeeds in asking himself those questions. p34
+
+Life is meaningless, suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers. p34
 
 ### III. Enter Socrates
 
