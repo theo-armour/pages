@@ -203,35 +203,95 @@ The difficulty is that we can't make use of the answer and ask ourselves a quest
 
 ### II. What Tolstoy Couldn't Do
 
+What will come from what I do and from what I will do tomorrow — what will come from my whole life? 
+
+Why should I live? Why should I wish for anything? Why should I do anything? 
+
+Is there any meaning in my life that wouldn't be destroyed by the death that inevitably awaits me? p32
+
+The truth was that life is nonsense. p33
+
 Tolstoy repeatedly refers to the fundamental questions about the meaning of life. He never succeeds in asking himself those questions. p34
+
+He admires those strong and logical people who, in his position, commit suicide. p33
+
+If human life is meaningless, if there is nothing that we can do that would matter in any way, then that line of reasoning applies equally to suicide. To put it another way, if you think that suicide is valuable enough to perform, you think that something is valuable. And now it seems you are no longer a nihilist. p34
 
 Life is meaningless, suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers. p34
 
+Life is meaningless. Suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers. 
+
 ### III. Enter Socrates
 
+When we settle on answers to the central questions of our lives without ever having opened up those questions for inquiry, that is a recipe for wavering. p36
 
-### IV. Everybody Waivers
+By preemptively closing the questions, they consign themselves to a lifetime of wavering. p39
 
-### V. Fiction as Refuge
+### IV. Everybody Waivers p39
+
+The Socratic interpretation is that Tolstoy did not try and fail, rather he failed to try. He confused his own failure to ask a question with a conclusive, unquestionable discovery that there was no possible answer. p39
+
+Folk wisdom is another place to see wavering. Pick a maxim or adage, and you can usually articulate a counter-maxim that people will use to cover the case when they wish to praise the opposite. p41
+
+Look before you leap, but he who dares wins. p41
+
+There is no domain where our wavering is more obvious than it is in politics. And there is no one who finds it more obvious than our political opponents. p42
+
+Wavering often takes the form of weakness of will, where we commit ourselves to one course of action and end up acting against our better judgment instead. p42
+
+We don't act in accordance with our supposed knowledge. Instead, we act exactly as people would act who didn't know these things. p42
+
+### V. Fiction as Refuge p42
+
+Passionate desire pressures us to think no more than 15 minutes ahead. p43
+
+If we never inquire into untimely questions, the thinking we use to guide our lives will be unstable. We will never be able to rely on it for very long, perhaps no more than 15 minutes or so, before it is subject to being overturned. p44
+
+The troubling fact that each person routinely fails to confront the most important questions about their lives. p45
+
+Tolstoy laments, "How often I envied the peasants for their illiteracy and lack of education. Yet how can I believe, as common people believe, steeped as they are in grossest superstitions? It is impossible, but yet their life is their life, it is normal, it is happy, it is an answer to the question." p46
+
+The ideal for Tolstoy would be never to confront the Tolstoy problem in the first place. p46
+
+If Tolstoy were correct, the best course of action for those unlucky enough to cross paths with the Tolstoy problem might be to postpone and postpone, 15 minutes at a time, until one runs out the clock. p46
+
+Novelists give us a view into the promised land, but not more. p47
 
 Socrates thought that the Tolstoy problem could be solved. p47
 
-### VI. Unwavering Action
+### VI. Unwavering Action p47
 
+Why should we care whether or not we can inquire into untimely questions? p47
+
+Socrates explains that by pursuing knowledge, which is to say by seeking a solution to the Tolstoy problem, we stabilize those answers. 
+
+Socrates is here distinguishing an opinion that one simply has from an opinion that is formed by way of an inquisitive process. p48
+
+When the opinion is the conclusion of a process of inquiry, whose steps can be in turn retraced on account of the reason why, there are wavering stops. p48
+
+The thing that we do in pursuit of an answer holds that answer fixed. Knowledge is simply the name for an answer that is the product of a completed inquiry into a question. Wavering, by contrast, is a sign that one is cut off an investigation before it came to a close, or that one never even opened it. p48
+
+What inquiry gets us are answers that are both true and stable. p49
+
+The preference for knowledge over mere right opinion is the preference for answers that have been stabilized by inquiry. p49
+
+The inquiry into untimely questions is the search for a life that doesn't need to be shielded from reflection. A life you live by understanding it. Viewed in this light, philosopher is not the name of a profession. It is just a way, an especially open and direct and straightforward one, of being a person. p50
 
 ## Chapter 2: Load-Bearing Answers p51
 
-## Chapter 3: Savage Commands
+## Chapter 3: Savage Commands p77
 
-## Chapter 4: Socratic Intellectualism
+## Chapter 4: Socratic Intellectualism p110
 
 ---
 
-## Part Two: The Socratic Method
+## Part Two: The Socratic Method ~ p140
 
-## Chapter 5: The Gadfly-Midwife Paradox
 
-## Chapter 6: Moore's Paradox of Self Knowledge
+## Chapter 5: The Gadfly-Midwife Paradox ~ p147
+
+
+## Chapter 6: Moore's Paradox of Self Knowledge ~ p176
 
 * https://en.wikipedia.org/wiki/Moore%27s_paradox
 * The more fundamental manner of stating the problem starts from the three premises following:
@@ -240,9 +300,10 @@ Socrates thought that the Tolstoy problem could be solved. p47
   * I can assert or believe one of the two at a particular time.
   * It is absurd to assert or believe both of them at the same time.
 
-### Chapter 7: Meno's Paradox
+### Chapter 7: Meno's Paradox ~ p208
 
-### I. Meno's Paradox
+
+### I. Meno's Paradox p210
 
 * https://en.wikipedia.org/wiki/Meno
 
