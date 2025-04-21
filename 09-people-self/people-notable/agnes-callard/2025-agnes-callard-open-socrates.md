@@ -277,7 +277,38 @@ The preference for knowledge over mere right opinion is the preference for answe
 
 The inquiry into untimely questions is the search for a life that doesn't need to be shielded from reflection. A life you live by understanding it. Viewed in this light, philosopher is not the name of a profession. It is just a way, an especially open and direct and straightforward one, of being a person. p50
 
-## Chapter 2: Load-Bearing Answers p51
+## Chapter 2: Load-Bearing Answers ~ p51
+
+### I. What is an untimely question? p55
+
+Each of his conversations is a high-wire act in which Socrates manages to sustain an inquiry into the very question, is there, with his interlocutor, who is least likely to tolerate. These are untimely questions. p55
+
+Socrates' interlocutors often conflate the activity of defining the concept in question with that of showing how it applies to and affirms their own behavior. p56
+
+The landmark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it (Follow me). Rather than explaining it (this is how...) p57
+
+Their answer will have the marks of being currently in use, because they can't take Tom off from this pursuit. p58
+
+The most interesting and most elusive questions will be the ones whose answers we must give at every moment of our lives, for their whole duration. In terms of the degree to which we as agents rely on them, these answers bear the heaviest load. 
+
+We can ask someone, "Why did you decide to have children?" Or, "Why did you decide to go to graduate school?" We cannot ask, "Why did you decide to be a good person?" p60
+
+### II. Untimely, not subjective. p61
+
+The parties themselves fight because they see the question as in some way objective, decidable in the light of the truth, in spite of the impossibility of measurement. p64
+
+Calling a question of justice subjective is a confused way of getting at the mysterious fact that the answers to such questions seem to have always been with us. p66
+
+### III. Load-bearing beliefs. p66
+
+Each of us is counting on the future unfolding in some ways rather than others, even though we cannot fully control whether it does. p68
+
+The name for these load-bearing predictions is HOPE. p68 
+
+The root of the problem is that we have to investigate our lives while living them. p70
+
+### IV. Sadness versus anger. p71
+
 
 ## Chapter 3: Savage Commands p77
 

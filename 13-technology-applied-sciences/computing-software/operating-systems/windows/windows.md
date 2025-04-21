@@ -64,23 +64,30 @@ Control + Shift + Escape = Windows Task Manager
 
 ## Windows Shutdown
 
-C:\WINDOWS\system32\shutdown.exe -i -r -f -t15
+* https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
 
-C:\WINDOWS\system32\shutdown.exe /s -/t 60 << the one to use.
+C:\WINDOWS\system32\shutdown.exe -i -r -f -t 60 /c "Rebooting in 60 seconds"
+
+
+C:\WINDOWS\system32\shutdown.exe /h /t 300 /c "Shutdown in 300 seconds" << the one to use.
 
 http://support.microsoft.com/kb/317371  << win 2000
 -r restart not shutdown
 -f force running apps to close
--i gui must be first
+-i Display the graphical user interface (GUI). Must be first option
 -t time in seconds
 
 -s shutdown
-command window shutdown /?
+
+### command window shutdown /?
+
 Open a Command Prompt From the Desktop Right-Click Menu
 Just hold down the Shift key and right-click on the desktop…
-Command line stuff
-ipconfig
-dxdiag
+
+## Command line stuff
+
+* ipconfig
+* dxdiag
 
 
 ## Symlinks
