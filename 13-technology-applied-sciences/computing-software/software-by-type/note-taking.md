@@ -33,11 +33,3 @@
 * Protect your notes and notebooks with lock
 * Elegant themes and notebook covers
 * Export to text, PDF, HTML and Markdown formats
-
-## https://speechnotes.co/dictate/
-
-
-## https://dictanote.co/
-
-* https://dictanote.co/#/n/
-
