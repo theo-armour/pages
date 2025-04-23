@@ -351,6 +351,36 @@ Both the bodily command and the kinship command make us waver. They give us a lo
 
 ### II. Weakness of will p88
 
+They claim to be unwilling to do what is best, even though they know what it is and are able to do it, and to act that way because they are overcome by pleasure or pain. p88
+
+They indulge and end up with more pain than pleasure overall. p88
+
+The weak-willed or akratic person insisted that they wavered with their eyes open. p88
+
+You can no more choose what you know to be worse than you can believe what you know to be false. p90
+
+Even as you were eating the cookie, you were able to represent to yourself the future state in which you would regret it. p90
+
+Because you understand that you will regret this choice in the future, it doesn't follow that you regret it now. p91
+
+Socrates can allow that now you regret and remember enjoying, that back then you enjoyed and anticipated regret. p91
+
+The body doesn't take care of itself. It wavers, judging X to be better than Y at one moment and Y to be better than X in the next. p91
+
+It will become very clear if we do not use so many names at the same time. Pleasant and painful, good and bad. p92
+
+We have developed the habit of using multiple words for the same thing in order to hide from ourselves the absurdity of our behavior. p92
+
+You waver in how you act, and then you waver in how you talk about how you didn't waver when you acted. You can't even stabilize your sentences for more than a few seconds at a time. p93
+
+***
+
+Weakness of will is actually an inconsistency in the way we use our words. We are programmed to think of things one way at one time, and then programmed to think of things another way another time. The proof is that we use different words at the time of the event and at the time of the future. 
+
+We talk of the pleasure now and of the pain later. 
+
+We talk of the good now, the bad later. 
+
 ### III. Revenge p93
 
 ### IV. The Socratic Proposal p104

@@ -10,7 +10,16 @@ Utilitarianism
 Aristotelianism
 
 
-## Fifteen-minutes
+## Fifteen minutes at a time
+
+* adding up to a life
+* of interlocutors declining inquiry
+* never looking back
+* postponing the Tolstoy problem
+* prospect of death
+* resisted by philosopher
+* as Tolstoyan strategy
+* wavering and
 
 Taking life 15 minutes at a time is a Tolstoyian strategy. p4
 
