@@ -12,6 +12,8 @@ Aristotelianism
 
 ## Fifteen minutes at a time
 
+### Index
+
 * adding up to a life
 * of interlocutors declining inquiry
 * never looking back
@@ -21,11 +23,27 @@ Aristotelianism
 * as Tolstoyan strategy
 * wavering and
 
+### Biblio
+
 Taking life 15 minutes at a time is a Tolstoyian strategy. p4
 
 The name for the opposite strategy is "Socratic". p4
 
 Fifteen-minutes of fame is a phrase that was coined by Andy Warhol in 1968. It refers to the idea that fame can be fleeting and that someone can become famous for a brief period of time. The phrase has since become a popular way to describe the phenomenon of people becoming famous for a short period of time.
+
+### Me
+
+* immediate future
+* scene in a play
+* short amount of time
+* small part of a life
+* the current time and space
+
+More
+
+* Life is a series of moments, and each moment is a small part of a larger whole.
+
+
 
 ## Political Fictions
 

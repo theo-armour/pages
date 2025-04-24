@@ -1,6 +1,19 @@
 # How to be good patient
 
-tags #health
+tags #health #patient
+
+## 2025-04-23 10 Hospital tips: Be a good patient
+
+* Be nice to the staff. Make them smile
+* Know the different roles: RV, LVN, CNA, house doctor, NP, PA
+* Learn the technical terms of the procedure, treatment, ailment
+* Begin to understand insurance codes
+* Maintain a checklist of things to bring. Chargers etc
+* WiFi password
+* Explore: where are towels, free coffee, snacks
+* Explore the menu. See the food in the cafeteria
+* Tidy frequently. Staff leave stuff behind
+* Walk, exercise, stretch. Don't be a couch potato.
 
 ## My observations
 
@@ -28,8 +41,6 @@ Having skimmed through a number of articles related to "How to be a good patient
 * Play fair: Plan your visit. Establish priorities.
 * Remember there's another patient waiting.
 * Be a good citizen.
-
-
 
 ## Links of Interest
 
@@ -114,7 +125,7 @@ How to Be a Good Patient: Stop Being Polite. Start Speaking Up.
 
 ### https://www.amazon.com/How-Be-Good-Patient-Understanding/dp/1983178365
 
-Anentire book on the topic. Looks like it could be informative
+An entire book on the topic. Looks like it could be informative
 
 
 ***

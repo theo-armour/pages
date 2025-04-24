@@ -377,18 +377,24 @@ You waver in how you act, and then you waver in how you talk about how you didn'
 
 Weakness of will is actually an inconsistency in the way we use our words. We are programmed to think of things one way at one time, and then programmed to think of things another way another time. The proof is that we use different words at the time of the event and at the time of the future. 
 
-We talk of the pleasure now and of the pain later. 
+We talk of the pleasure now and the future state of pain later. 
 
-We talk of the good now, the bad later. 
+We talk of the good now, the bad in the past. 
 
 ### III. Revenge p93
 
+
+
 ### IV. The Socratic Proposal p104
+
 
 ~ ❧ ~
 
 
 ## Chapter 4: Socratic Intellectualism p110
+
+### I. Just and the Advantageous p111
+
 
 ***
 
