@@ -32,13 +32,13 @@
 
 * The Why
 * Examples
-* Would you like to question me about...&nbsp;https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii
+* Would you like to question me about…&nbsp;<a href="https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii">https://dev.to/ham8821/you-are-using-chatgpt-incorrectly-12ii</a>
 
 ## Task / Verb / Constraints
 
 * Summarize. list ~ translate ~ classify ~ explain ~ extract ~ format ~ comment ~ document
 * Do's and Don'ts
-* Remember that...
+* Remember that…
 
 ## Style / Tone
 
@@ -48,6 +48,6 @@
 ## Format
 
 * bullets / table / Table of Contents / checklist /&nbsp;
-* Number of words ~&nbsp; concise* Markdown ~ JSON ~ CSV ~ iambic pentameter
+* Number of words ~&nbsp; concise ~ Markdown ~ JSON ~ CSV ~ iambic pentameter
 
 *
