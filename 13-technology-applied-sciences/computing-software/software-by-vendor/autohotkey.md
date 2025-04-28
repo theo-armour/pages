@@ -17,3 +17,8 @@ C:\Users\tarmo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 * https://github.com/ahkscript
 
 
+## Learn AutoHotKey by stealing my scripts
+
+* hillelwayne.com)
+* https://www.hillelwayne.com/post/ahk-scripts-project/
+* https://news.ycombinator.com/item?id=37218263
