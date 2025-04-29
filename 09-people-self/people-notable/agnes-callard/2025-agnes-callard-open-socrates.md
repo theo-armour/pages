@@ -383,10 +383,49 @@ We talk of the good now, the bad in the past.
 
 ### III. Revenge p93
 
+Just as our bodies routinely lead us to choose what is, in bodily terms, worse, our kinship attachments routinely lead us to choose what is, in kinship terms, worse. p93
 
+Revenge is when love wavers into hate. p93
+
+Revenge is an act of love, that it is hateful love. p94
+
+X is getting revenge on Y when first X sees the way he is treating Y as good because Y sees it as bad. And second, X justifies his behavior on retaliatory grounds. p94
+
+I'm using "revenge" somewhat broadly to include all the cases where I behave hatefully toward Someone - treating harms to them as goods - and understands your behavior as a fitting response to how they act, or how they will act, or to who they are. p94
+
+Revenge is a form of wavering, thinly disguised as non-wavering by a proliferation of terms. p94
+
+We use multiple words for the same thing, so as to conceal our inconsistency. p94
+
+The fundamental directive of the body is to pursue as much pleasure as possible. p94
+
+Socrates' approach to revenge is simple: you should never ever do bad things. p95
+
+No matter what someone did in the past or will do in the future, they did not deserve harm. p95
+
+Being bad is not a way to be good. Harming people isn't good, it's bad. p95
+
+There is no good way to do bad. p96
+
+Empathy is not a virtue, but a power. Almost every adult has this power to some degree, though some of us have more of it than others, and it can be used for good or ill. p98
+
+The Vengeful Punisher Only understands the practice of punishment when it is accompanied by a vision of the punishment as being on net bad. p98
+
+Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin. 
+
+The pacifist thinks that you shouldn't kill people, whereas Socrates thinks you can't do good by doing bad. p103
+
+Revenge is not pure hate, it is loving hate. p104
+
+Revenge is a passion that tells you that the bitter cruelty you are forgiven for acting will be righteous and glorious. p104
+
+Revenge and the grace shift teach us that our default systems for managing our lives are defective. They make us waver. p104
 
 ### IV. The Socratic Proposal p104
 
+persuade or be persuaded, Refute or be refuted. Ask questions or answer them. p106
+
+What if you lived not off the commands but off of an understanding of what you are doing? Liberation from the commands begins with questions. p108
 
 ~ ❧ ~
 
