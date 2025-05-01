@@ -423,11 +423,22 @@ Revenge and the grace shift teach us that our default systems for managing our l
 
 ### IV. The Socratic Proposal p104
 
+The Socratic method is an alternative to savage command. It takes the form of a proposal, either you're going to be convinced by me to go along with what I think, or you're going to convince me to go along with what you think. p106
+
 persuade or be persuaded, Refute or be refuted. Ask questions or answer them. p106
+
+Socrates is not in the business of changing minds. He is in the business of either changing minds or or having his own mind changed, which is to say the business of figuring out. Which of these two things should happen? p107
+
+Socrates' alternative to savage commands allows us to transform our default answers into something different. Inquisitive answers. p108 
 
 What if you lived not off the commands but off of an understanding of what you are doing? Liberation from the commands begins with questions. p108
 
+***
+
+it's all about true and false if then statements
+
 ~ ❧ ~
+
 
 
 ## Chapter 4: Socratic Intellectualism p110
