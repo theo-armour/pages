@@ -443,7 +443,27 @@ it's all about true and false if then statements
 
 ## Chapter 4: Socratic Intellectualism p110
 
-### I. Just and the Advantageous p111
+Three main branches of ethical theorizing in the West. 
+
+* Kantian Ethics, Deontology, contractualism: Constraining one's actions by respect for humanity. 
+* Utilitarianism, Consequentialism: The Greatest Good for the Greatest Number. 
+* Virtue Ethics, Aristotelianism: To act virtuously. p110
+
+Agnes: Neo-Socratic 
+
+Common sense distinguishes between what justice demands and what is personally advantageous. Although it is valuable to do what is just and it is valuable to do what benefits oneself, everyday intuition says that these two values do not always overlap and one can be torn between them. p111
+
+### I. The Just and the Advantageous. p111
+
+### II. Taming the Savage Commands. p116
+
+### III. Utilitarianism, Kantianism, Virtue Ethics. p120
+
+### IV. The Socratic Difference p125
+
+### V. The Paradox of Utopia. p131
+
+### VI. Plato and Socrates. p136
 
 
 ***
