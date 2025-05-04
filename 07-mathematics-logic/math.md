@@ -9,9 +9,6 @@
 * https://hn.algolia.com/?q=The+Mathematical+Hacker+
 
 
-### 2020-01
-* https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
-
 
 ## Fundamental Math for Game Developers
 
