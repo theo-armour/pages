@@ -440,7 +440,6 @@ it's all about true and false if then statements
 ~ ❧ ~
 
 
-
 ## Chapter 4: Socratic Intellectualism p110
 
 Three main branches of ethical theorizing in the West. 
@@ -455,11 +454,49 @@ Common sense distinguishes between what justice demands and what is personally a
 
 ### I. The Just and the Advantageous. p111
 
+Examples of the two commands:
+
+The fact that the demands of one's body to escape wounds or death can stand in tension with the bonds of solidarity to behave admirably or justly in wrestling friends and relatives. p112
+
+If weakness of will is how the bodily command wavers, undermining it itself, and revenge is how the kinship command wavers, the scenario under discussion between Socrates and Alcibiades is one in which the person wavers because the two commands come into conflict with one other. p112
+
+The Bodily and Kinship Command are both trying to tell you what the best thing to do is, and they are giving you different answers and cannot both be right. p112
+
+These cues lead us to conclude that the world contains two distinctive types of goods that we might pursue. Socrates thinks this is a mistake. p115
+
+Socrates would say that self-interest and happiness and advantage are one set of names we apply to this greatest good Duty, morality, justice, and what is good for others are another set of names for the same thing. The first set of names reflect the influence of the bodily command, and the second that of the kinship command. So, there is a subjective difference between them. Nonetheless, these aren't two kinds of good out there.  p115
+
 ### II. Taming the Savage Commands. p116
+
+Even if we considered the sum of Socrates' conversations on the question, the result would not be anything close to a conclusive case against taking guidance from body or kin. This is because Socrates is always limited by his interlocutors' questions. p116
+
+Ancient Epicureanism offered the first attempt at an enlightened version of the bodily answer. It was an entire worldview organized around the possibility of identifying in a consistent way the set of pleasures that are natural to us. p117
+
+When Epicurus speaks of comparative measurement, he is describing what later philosophers will call a hedonic calculus. p118
+
+The careful, calculative selection of pleasure is the epicurean response to the problem of weakness of will. p118
+
+Ancient Stoicism offered their first attempt at an enlightened version of the kinship answer. p119
+
+The Stoics believe that our truest attachments are not to our families or associates or country, but to a world order governed by fixed universal laws. If you understood your place Within this larger order, you will see that within it, there can be no conflicting interests, and that you never have any reason for revenge. p119
+
+Stoic cosmopolitanism is the ancestor of Kantian deontology, which offers an account of kinship grounded in the power of practical rationality. The correct action on Kant's theory is the one that is consistent with respect For the activity of rational thought in myself and in every other rational being, and thereby allows me to see myself as a member in an ideal universal community of beings capable of mutual recognition. 
 
 ### III. Utilitarianism, Kantianism, Virtue Ethics. p120
 
+Classical utilitarianism foregrounds the maximization of pleasure, offering up a way to stabilize the bodily answer, whereas deontology foregrounds respect for each individual's place in a larger whole, stabilizing the kinship answer. p120
+
+The war between the just and the advantageous becomes a war that cannot be articulated within incontinentism or utilitarianism, because it is a war between those theories. p122
+
+Virtue Ethics
+
+As long as you are well brought up, you will be equipped to act in accordance with those ideals as each situation requires without wavering. p125
+
+When we refer, alongside Alcibiades, to the clash between justice and advantage, we are confessing our inability to give a coherent, non-wavering answer to the question, "How should I act?" The theories of Kant, Mill, Aristotle, and Socrates are designed precisely to yield such an answer. p125
+
 ### IV. The Socratic Difference p125
+
+
 
 ### V. The Paradox of Utopia. p131
 

@@ -3,12 +3,35 @@
 
 ## Ethics
 
-Kantianism
+Three main branches of ethical theorizing in the West. 
 
-Utilitarianism
+* Utilitarianism, 
+* Virtue Ethics, Aristotelianism: To act virtuously. p110
 
-Aristotelianism
 
+### Kantianism
+
+* Deontology
+* Contractualism: Constraining one's actions by respect for humanity
+
+
+### Utilitarianism
+
+* Consequentialism: The Greatest Good for the Greatest Number. 
+
+### Aristotelianism
+
+* Virtue Ethics: To act virtuously, Do whatever a decent person would do. 
+
+Agnes: Neo-Socratic 
+
+### The Just
+
+* Kinship Answer
+
+### The Advantageous 
+
+* Bodily Answer
 
 ## Fifteen minutes at a time
 
@@ -67,6 +90,15 @@ Politicization is a pathology of politics. A mapping of a disagreement into a co
 
 **savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
 
+### Bodily Command
+
+* Weakness of will
+
+### Kinship Command
+
+* Revenge
+
+
 ## Socrates Character
 
 Socrates presented himself as one can become, as a kind of person, someone imitatable enough to have his persona replicated." p8
@@ -83,7 +115,6 @@ Because Socrates understands that he is not wise, he is pleased to be shown to b
 
 
 ## Socratizing Move
-
 
 The practice of Socratic ignorance is a kind of mastery of the deepest things. The mechanism of this reversal is something that I call the Socratic move. p246
 
@@ -102,6 +133,7 @@ Virtue is to be found first and foremost inside of philosophical conversation. p
 Real courage and moderation and piety and justice are manifested in speech and more specifically in the back and forth of inquisitive reputation. p249
 
 Socrates is making the radical claim that for ignorant people like us, human goodness is primarily expressed in how a person conducts herself in inquiry, and that conversation is where we find our true home. p249
+
 
 ## Tolstoy Problem
 
