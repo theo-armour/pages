@@ -496,9 +496,38 @@ When we refer, alongside Alcibiades, to the clash between justice and advantage,
 
 ### IV. The Socratic Difference p125
 
+What should I do is a single question. If you find yourself giving two incompatible answers, that is your ignorance talking. p126
 
+You cannot preach virtue ethics without, often dubiously, claiming to have yourself achieved a measure of moral perfection. And you cannot preach to anyone other than those who have already been well brought up, which is to say, the choir. p126
+
+If you actually knew what you should do, you would do it. So long as you don't know, old Socrates, the proper ethical attitude is an inquisitive one. p127
+
+As Socrates insists to Polus in Gorgias, before you pray something, you need to say what it is that you are praising. p127
+
+Why isn't Socratic ethics already a well-established tradition of its own? p127
+
+The answer is that Socrates' ethics is intellectualist and people have a strong and deep Aversion to Intellectualism. p127
+
+Socrates, by contrast, believed that arguing about how one should live is real life. p128
+
+These three features of Socratism, That we don't Now, know that if we knew, we would act on our knowledge, and that intellectual conversations are the road to becoming a good person. p128
+
+Someone who believes that we don't know, that if we knew we would act on our knowledge, and that philosophy, the pursuit of such knowledge is the only sure road to becoming a better person. p128
+
+Socratic intellectualism turns its back on a very basic human need. The need to already know. Congenism, utilitarianism, and virtue ethics tell us that we already know how to live. That the formula for how to do so is simply a matter of cleaning up the bodily command or cleaning up the kinship command or looking to the best ways of which people around us have Found to satisfy both at the same time. These ethical theories address the urgent demand for answers now. p130
+
+Could it really be true that we will have to go through our whole lives, from birth to death, without ever knowing whether we are doing it right? The answer is yes. p130
+
+Nevertheless, each of the three theories present their foundations as settled in a way that Socrates does not. p130
+
+***
+
+You will not always know — all the time. 
+
+There is no watch. Therefore, you must keep asking, "What time is it?" ;-)
 
 ### V. The Paradox of Utopia. p131
+
 
 ### VI. Plato and Socrates. p136
 
