@@ -110,7 +110,7 @@ We have met the box of rocks, and he is us.
 
 ### IV. An Incautionary Tale p18
 
-Commom message: The message is: Do philosophy, but don't overdo it.  p18
+Common message: The message is: Do philosophy, but don't overdo it.  p18
 
 We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner. 
 
@@ -122,12 +122,12 @@ It has three parts.
 
 **Untimely questions** are marked by the fact that we need answers to them before we are prepared to answer them. p19
 
-Our default answers, the ones available to us absent philosophizing - Come from unreliable sources. Our bodies and other people. p19
+Our default answers, the ones available to us absent philosophizing - come from unreliable sources. From our bodies and other people. p19
 
-**savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
+**Savage Commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
 
-* Utilitarianism aims to rehabilitate the bodily command. 
 * Kantianism the command of the group. 
+* Utilitarianism aims to rehabilitate the bodily command. 
 * Aristotelianism tries to harmonize the two commands with one another. p19
 
 
@@ -442,6 +442,9 @@ it's all about true and false if then statements
 
 ## Chapter 4: Socratic Intellectualism p110
 
+
+
+. p110
 Three main branches of ethical theorizing in the West. 
 
 * Kantian Ethics, Deontology, contractualism: Constraining one's actions by respect for humanity. 
@@ -466,6 +469,9 @@ These cues lead us to conclude that the world contains two distinctive types of 
 
 Socrates would say that self-interest and happiness and advantage are one set of names we apply to this greatest good Duty, morality, justice, and what is good for others are another set of names for the same thing. The first set of names reflect the influence of the bodily command, and the second that of the kinship command. So, there is a subjective difference between them. Nonetheless, these aren't two kinds of good out there.  p115
 
+
+
+
 ### II. Taming the Savage Commands. p116
 
 Even if we considered the sum of Socrates' conversations on the question, the result would not be anything close to a conclusive case against taking guidance from body or kin. This is because Socrates is always limited by his interlocutors' questions. p116
@@ -480,7 +486,8 @@ Ancient Stoicism offered their first attempt at an enlightened version of the ki
 
 The Stoics believe that our truest attachments are not to our families or associates or country, but to a world order governed by fixed universal laws. If you understood your place Within this larger order, you will see that within it, there can be no conflicting interests, and that you never have any reason for revenge. p119
 
-Stoic cosmopolitanism is the ancestor of Kantian deontology, which offers an account of kinship grounded in the power of practical rationality. The correct action on Kant's theory is the one that is consistent with respect For the activity of rational thought in myself and in every other rational being, and thereby allows me to see myself as a member in an ideal universal community of beings capable of mutual recognition. 
+Stoic cosmopolitanism is the ancestor of Kantian deontology, which offers an account of kinship grounded in the power of practical rationality. The correct action on Kant's theory is the one that is consistent with respect For the activity of rational thought in myself and in every other rational being, and thereby allows me to see myself as a member in an ideal universal co
+
 
 ### III. Utilitarianism, Kantianism, Virtue Ethics. p120
 
@@ -493,6 +500,7 @@ Virtue Ethics
 As long as you are well brought up, you will be equipped to act in accordance with those ideals as each situation requires without wavering. p125
 
 When we refer, alongside Alcibiades, to the clash between justice and advantage, we are confessing our inability to give a coherent, non-wavering answer to the question, "How should I act?" The theories of Kant, Mill, Aristotle, and Socrates are designed precisely to yield such an answer. p125
+
 
 ### IV. The Socratic Difference p125
 
@@ -521,15 +529,48 @@ Could it really be true that we will have to go through our whole lives, from bi
 Nevertheless, each of the three theories present their foundations as settled in a way that Socrates does not. p130
 
 ***
+Different schools of ethical thought: Kant , Mill, Aristotle, and Virtue Ethics
+Advantageous = Bodily ~ Just = Kinship 
+Epicurians > Bodily ~ Stoics > Kinship
 
-You will not always know — all the time. 
+Virtue > well-brought up. p125
+
+You will always not  know — all the time. 
 
 There is no watch. Therefore, you must keep asking, "What time is it?" ;-)
 
 ### V. The Paradox of Utopia. p131
 
+If asked to sketch an ideal society, the Kantian or Utilitarian or virtue ethicist does not find that her ethics stands in the way of doing so. p131
+
+Utilitarianism, Kantianism, and Virtue Ethics are hostile to the idea of Utopia. p131
+
+I don't think there's a single parenthetical more shocking to me in all of this philosophical writing than the one containing the phrase "an Armenian massacre" above. James is saying that his weak and perfect idol was so horrific it has made the experience of genocide look alluring. His explanation of what he was missing was the element of struggle in life.  p133
+
+The world James sees us as struggling to bring about is to talk, and then when he finds himself actually inhabiting his utopia, he finds he'd rather be in a massacre. It makes no sense to insist that we spend our lives struggling and toiling to bring about a world that, if we were in it, we would recoil from. p134
+
+The Paradox of Utopia. 
+
+It comes naturally to us to present a utopia, sarcastically, as though this were a utopia. p135
+
+The paradox of utopia is that we don't seem to like it very much. And now we can return to Socrates, because our dislike for utopia is a point in favour of Socratic intellectualism. p135
+
+The paradox of Utopia suggests that our thinking about how we should live may not yet be complete. p136
+
 
 ### VI. Plato and Socrates. p136
+
+We experience the demands of kinship as elevating us above the selfishness of merely catering to our bodies, which is also why Kantians look down their noses at utilitarians. p136
+
+Plato describes this situation by claiming that there is a part of the soul that reflects the demands of kinship; he calls it the spirited part. It needs to be ruled; it cannot rule itself, but it will not submit to rule by part of the soul that reflects the needs of the body, which he calls the appetitive part. p136
+
+But even if we recognize all the ways Plato departs from Socrates and specifically acknowledge that the representation of the soul as contending an appetited part and a spirited part is unsocratic, because Socrates would instead just speak of a single soul, confused about what to do, hearing all sorts of conflicted commands, and whose confusion calls for no impossible feat of psychic surgery, only the very possible acquisition of knowledge. We should nonetheless grant that the addition of a rational part to the two other reflects an importantly Socratic insight.  p138
+
+The idea that the function of thought is not only to help us get into what our body tells us we need, or to behave how we, our kin, want us to behave, but to ask the very question to which the other two commands provide automatic answers. This is the most important lesson that Plato learned from Socrates. p138
+
+If the method of conscientism is legalistic and regulatory, and the method of utilitarianism is calculative and maximizing, and the method of virtue ethics is to consult one's well-habituated faculty of practical judgment, in what more precise terms can we describe the Socratic movement? 
+
+To be described in part two. 
 
 
 ***
