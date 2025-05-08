@@ -35,6 +35,54 @@ Agnes: Neo-Socratic
 
 ## Fifteen minutes at a time
 
+Questions that come too late. p26
+
+If you keep tracking one 15-minute period onto another, eventually it adds up to a life. p2
+
+Taking life 15 minutes at a time is a Tolstoyan strategy; the name for the opposite strategy is Socratic. p5
+
+The last thing I want to do is embark upon an exhausting existential enquiry. p26
+
+We learn to take life 15 minutes at a time. If you add up enough of those 15-minute periods, the sum total is a whole life.
+
+We find a way to avoid ever asking, "What will come of my whole life?" p26
+
+We will find it replete with reasons for postponing philosophical inquiry. p26
+
+Death will rescue us from ever having to come to terms with the meaninglessness of life. p26
+
+Protagoras thinks he must turn his attention elsewhere, away from inquiry. He needs to get on with the next 15 minutes of his life. p37
+
+The only way to go through the next 15 minutes is to convince yourself that you're doing something much nobler than getting through the next 15 minutes. p43
+
+If we never inquire into untimely questions, the thinking which we use to guide our lives will be unstable. We will never be able to rely on it for very long, perhaps no more than 15 minutes or so, before it is subject to being overturned. p44
+
+Whereas the non-philosopher is always in a hurry when he is talking, he has to speak with one eye on the clock. The philosopher resists taking his life 15 minutes at a time. He talks in peace and quiet and his time is his own. He talks in peace and quiet and his time is his own. Socrates says that it does not matter to such people whether they talk for a day or a year, if only they may hit upon that which is. p47
+
+If you can find your gaze, never looking back, never looking too far ahead, always only make it through the next 15 minutes, you can avoid being confronted with evidence of your wavering. p50
+
+Both the bodily command and the kinesthetic command make us waver. They might give us a loud clear answer as to what we ought to do, but the answers don't last. By frequently reversing themselves, they prompt us to take life 15 minutes at a time. p87
+
+You're saying that you have some kind of grip on how you should be acting. What's actually happening is that you're wavering because you can't keep the grip for more than 15 minutes at a time. You waver in how you act and then you waver in how you talk about how you didn't waver when you acted. You can't even stabilize your sentences for more than a few seconds  at a time. p93
+
+The prospect of death represents the stopping of the clock that has been ticking in the background of everything we do, counting off each 15-minute period. p343
+
+Socrates sketches a prototype of the ideal philosopher and contrasts it with someone who "is always in a hurry, when he is talking, he has to speak with one eye on the clock". Interlocutors such as Eurythipro and Protagoras routinely break off their conversation with Socrates by telling him that it is time for them to go, that they are getting through life 15 minutes at a time, which is to say they speak "with one eye on the clock". p365 
+
+Projects that take longer than 15 minutes, be it months or years, also keep you on the clock, both because they typically dictate what you need to do for a given 15-minute period, and because they stand in the shadow of the big clock of life. p365
+
+Even a project that requires you to dedicate your whole lifetime to it is different from the one that requires you to take your eye off the clock altogether. p365
+
+Whereas we usually ask ourselves what we can get done in the next 15 minutes, or the next few years, or perhaps our whole lives, when we step into the role of philosopher we must disregard all such clocks. p365
+
+Because that is the only way to ask questions such as, is the soul immortal? Or what is thinking? Or how can love be both rational and attached? Or when and where do we practice equality? p365
+
+How do you take on in a life a project that is too big for life? p365
+
+What if, like Socrates, you Have less than an hour to live and you've just been confronted with some objections that call for more than an hour's worth of philosophizing. How do you avoid giving up? p366
+
+Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers. 
+By his own account, Tolstoy spends much of his first part of his life 15 minutes at a time, until sometime around mid-life. He looks up from the clock and finds himself faced with a set of untimely questions, only to be immediately engulfed by waves of FONA. p367
 ### Index
 
 * adding up to a life
