@@ -1,22 +1,21 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
-
 Try them all!!
 
-* <a href="https://www.tiyasf.com/">https://www.tiyasf.com/</a>
-* <a href="https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails">https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails</a>
+* [https://www.tiyasf.com/](https://www.tiyasf.com/)
+* [https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
 
-## Atelier Crenn ~ <a href="https://www.ateliercrenn.com/">atelier crenn</a>
+## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
 
-* <a href="https://www.barcrenn.com/">bar crenn</a>
+* [bar crenn](https://www.barcrenn.com/)
 * 3127 Fillmore St, San Francisco, CA 94123
 * (415) 440-0460
-* <a href="https://en.wikipedia.org/wiki/Atelier_Crenn">https://en.wikipedia.org/wiki/Atelier_Crenn</a>
+* [https://en.wikipedia.org/wiki/Atelier_Crenn](https://en.wikipedia.org/wiki/Atelier_Crenn)
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
 Closed Sunday &amp; Monday
-## Balboa ~ <a href="https://www.balboacafesf.com/">balboacafesf</a>
+## Balboa ~ [balboacafesf](https://www.balboacafesf.com/)
 
 * Mark
 * Matisse ~ LFLP
@@ -26,7 +25,7 @@ Closed Sunday &amp; Monday
 * Sebastian
 * Manager: Guillaume
 
-## <a href="https://www.cafebohosf.com/">Boho Cafe</a>
+## [Boho Cafe](https://www.cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
@@ -43,7 +42,7 @@ Closed Sunday &amp; Monday
 
 * Owner: Jesse
 
-## California Wine Merchant ~ <a href="https://www.californiawinemerchant.com/">calwine</a>
+## California Wine Merchant ~ [calwine](https://www.californiawinemerchant.com/)
 
 Events
 
@@ -72,7 +71,7 @@ Regulars
 
 * Ken
 
-## <a href="https://cafebohosf.com/">Cafe Boho</a>
+## [Cafe Boho](https://cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
@@ -94,7 +93,7 @@ Try the Caesar salad or **Tuna Tartare**
 
 Cocktail: naked and famous
 
-* <a href="https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail)">https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail</a>
+* [https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
 
 ## Fiorella's
 
@@ -122,9 +121,10 @@ Regulars
 
 * Emma ~ Fr 12th ~ Danny's wife
 
+Izzy
 ## l'Amida
 
-* <a href="https://www.lmidasf.com">https://www.lmidasf.com</a>
+* [https://www.lmidasf.com](https://www.lmidasf.com)
 * Most erveryone speaks French
 
 Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
@@ -134,7 +134,7 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 * 4 locations
 * lafromageriesf.com
 
-## Mamo ~ <a href="https://mamosf.com">mamosf</a>
+## Mamo ~ [mamosf](https://mamosf.com)
 
 * Jorge
 * Kitchen:&nbsp;
@@ -150,7 +150,7 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 * Sully ~ knows Hanh and James
 * Jake ~ bearded ~ friendly
 
-## Maybeck's ~ <a href="https://www.maybecks.com/">maybecks</a>&nbsp;~ Closed
+## Maybeck's ~ [maybecks](https://www.maybecks.com/)&nbsp;~ Closed
 
 * Oysters
 
@@ -175,14 +175,14 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 
 ## SweetGreen
 
-* <a href="https://order.sweetgreen.com/marina/menu?target=5">sweetgreen</a>
+* [sweetgreen](https://order.sweetgreen.com/marina/menu?target=5)
 
 ## Tacolicious
 
-* <a href="https://www.tacolicious.com/">tacolicious</a>&nbsp;~ 415.649.6077
+* [tacolicious](https://www.tacolicious.com/)&nbsp;~ 415.649.6077
 * 2250 Chestnut St
 
-## <a href="https://theinterval.org/">The Interval</a>&nbsp;~ long now
+## [The Interval](https://theinterval.org/)&nbsp;~ long now
 
 * 10a-midnight Saturday &amp; Sunday 3-11p
 * Sunday: gets quiet at 6:30
@@ -196,7 +196,7 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 * Bart ~ skinny ~ hair thing
 * Eddie ~ Korean
 
-## Union Street Inn ~ <a href="https://unionstreetinn.com/">https://unionstreetinn.com/</a>
+## Union Street Inn ~ [https://unionstreetinn.com/](https://unionstreetinn.com/)
 
 * 415.346.0424
 * 2229 Union St
@@ -218,10 +218,10 @@ Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
 
 ***
 
-## Alegrias ~ <a href="https://www.alegriassf.com/">alegrias</a>
+## Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
 * meaning: happiness, gaiety
 * Owners: Arman &amp; Angelynne
 * Rabbit: Good
 * Try croquettes
-* Chef Jose Ortiz Gurung Kitchen ~ <a href="https://www.gurungkitchenca.com/">https://www.gurungkitchenca.com/</a> ~ himalayan food
+* Chef Jose Ortiz Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
