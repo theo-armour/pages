@@ -8,6 +8,9 @@
 * Old age & anger
 * ?
 
+## 2025-05-10
+
+kittens wearing astronaut gear on a scary adventure
 
 ## 2025-02-13
 
