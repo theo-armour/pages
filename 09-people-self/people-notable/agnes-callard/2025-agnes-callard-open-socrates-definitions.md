@@ -35,6 +35,9 @@ Agnes: Neo-Socratic
 
 ## Fifteen minutes at a time
 
+
+### index links
+
 Questions that come too late. p26
 
 If you keep tracking one 15-minute period onto another, eventually it adds up to a life. p2
@@ -83,6 +86,7 @@ What if, like Socrates, you Have less than an hour to live and you've just been 
 
 Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers. 
 By his own account, Tolstoy spends much of his first part of his life 15 minutes at a time, until sometime around mid-life. He looks up from the clock and finds himself faced with a set of untimely questions, only to be immediately engulfed by waves of FONA. p367
+
 ### Index
 
 * adding up to a life
@@ -102,7 +106,7 @@ The name for the opposite strategy is "Socratic". p4
 
 Fifteen-minutes of fame is a phrase that was coined by Andy Warhol in 1968. It refers to the idea that fame can be fleeting and that someone can become famous for a brief period of time. The phrase has since become a popular way to describe the phenomenon of people becoming famous for a short period of time.
 
-### Me
+### Comments Me
 
 * immediate future
 * scene in a play
@@ -113,7 +117,14 @@ Fifteen-minutes of fame is a phrase that was coined by Andy Warhol in 1968. It r
 More
 
 * Life is a series of moments, and each moment is a small part of a larger whole.
+* Agnes is mostly always in the present. what about the past and future?
 
+
+### Directions vs Maps
+
+* https://www.theatlantic.com/technology/archive/2025/05/sycophantic-ai/682743/
+>There’s a good analogy in maps. Traditional maps showed us an entire landscape—streets, landmarks, neighborhoods—allowing us to understand how everything fit together. Modern turn-by-turn navigation gives us precisely what we need in the moment, but at a cost: Years after moving to a new city, many people still don’t understand its geography. We move through a constructed reality, taking one direction at a time, never seeing the whole, never discovering alternate routes, and in some cases never getting the sense of place that a map-level understanding could provide. The result feels more fluid in the moment but ultimately more isolated, thinner, and sometimes less human.
+* The directions are not the map is not the territory ;-)
 
 
 ## Political Fictions
@@ -194,3 +205,20 @@ I would say to myself, "Why?" p4
 ## Untimely questions
 
 Untimely questions are marked by the fact that we need answers to them before we are prepared to answer them. p19
+
+Our default answers, the ones available to us absent philosophizing, come from unreliable sources, our bodies and other people. These sources issue savage commands contradicting one another and themselves, leading us to act in confused and haphazard ways. p19
+
+An untimely question is a question that comes at the wrong time — namely after it has been answered. 
+
+Untimely questions are remarkable not only because they are hard toAnswer. But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to pose them to others, but first and foremost, because it is hard to pose them to oneself. p27
+
+The reason why you can't ask yourself untimely questions is that because you think you already have the answer to them. And the reason you think you have the answer is that you are using the answer. p27
+
+The difficulty is that we can't make use of the answer and ask ourselves the question at the same time. p29
+
+You are not supposed to regard these questions as open, precisely because you are supposed to be already using the answers in the caring you are currently doing. p30
+
+The answer is that he wasn't. He could say the words of the question to himself, but he couldn't ask them. p30
+
+## Wavering
+
