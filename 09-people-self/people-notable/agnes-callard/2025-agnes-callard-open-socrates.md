@@ -269,11 +269,15 @@ Socrates is here distinguishing an opinion that one simply has from an opinion t
 
 When the opinion is the conclusion of a process of inquiry, whose steps can be in turn retraced on account of the reason why, there are wavering stops. p48
 
-The thing that we do in pursuit of an answer holds that answer fixed. Knowledge is simply the name for an answer that is the product of a completed inquiry into a question. Wavering, by contrast, is a sign that one is cut off an investigation before it came to a close, or that one never even opened it. p48
+The thing that we do in pursuit of an answer holds that answer fixed. Knowledge is simply the name for an answer that is the product of a completed inquiry into a question. 
+
+Wavering, by contrast, is a sign that one is cut off an investigation before it came to a close, or that one never even opened it. p48
 
 What inquiry gets us are answers that are both true and stable. p49
 
 The preference for knowledge over mere right opinion is the preference for answers that have been stabilized by inquiry. p49
+
+The inquiry into untimely questions is the search for a life that doesn't need to be shielded from reflection. A life you live by understanding it. Viewed in this light, philosopher is not the name of a profession. It is just a way, an especially open and direct and straightforward one, of being a person. p50
 
 The inquiry into untimely questions is the search for a life that doesn't need to be shielded from reflection. A life you live by understanding it. Viewed in this light, philosopher is not the name of a profession. It is just a way, an especially open and direct and straightforward one, of being a person. p50
 
@@ -289,7 +293,7 @@ The landmark of an untimely question is the availability of one's answer. It is 
 
 Their answer will have the marks of being currently in use, because they can't take Tom off from this pursuit. p58
 
-The most interesting and most elusive questions will be the ones whose answers we must give at every moment of our lives, for their whole duration. In terms of the degree to which we as agents rely on them, these answers bear the heaviest load. 
+The most interesting and most elusive questions will be the ones whose answers we must give at every moment of our lives, for their whole duration. In terms of the degree to which we as agents rely on them, these answers bear the heaviest load. p59
 
 We can ask someone, "Why did you decide to have children?" Or, "Why did you decide to go to graduate school?" We cannot ask, "Why did you decide to be a good person?" p60
 

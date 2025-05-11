@@ -85,6 +85,7 @@ How do you take on in a life a project that is too big for life? p365
 What if, like Socrates, you Have less than an hour to live and you've just been confronted with some objections that call for more than an hour's worth of philosophizing. How do you avoid giving up? p366
 
 Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers. 
+
 By his own account, Tolstoy spends much of his first part of his life 15 minutes at a time, until sometime around mid-life. He looks up from the clock and finds himself faced with a set of untimely questions, only to be immediately engulfed by waves of FONA. p367
 
 ### Index
@@ -125,6 +126,9 @@ More
 * https://www.theatlantic.com/technology/archive/2025/05/sycophantic-ai/682743/
 >There’s a good analogy in maps. Traditional maps showed us an entire landscape—streets, landmarks, neighborhoods—allowing us to understand how everything fit together. Modern turn-by-turn navigation gives us precisely what we need in the moment, but at a cost: Years after moving to a new city, many people still don’t understand its geography. We move through a constructed reality, taking one direction at a time, never seeing the whole, never discovering alternate routes, and in some cases never getting the sense of place that a map-level understanding could provide. The result feels more fluid in the moment but ultimately more isolated, thinner, and sometimes less human.
 * The directions are not the map is not the territory ;-)
+
+
+## Load-bearing Answers
 
 
 ## Political Fictions
@@ -208,9 +212,9 @@ Untimely questions are marked by the fact that we need answers to them before we
 
 Our default answers, the ones available to us absent philosophizing, come from unreliable sources, our bodies and other people. These sources issue savage commands contradicting one another and themselves, leading us to act in confused and haphazard ways. p19
 
-An untimely question is a question that comes at the wrong time — namely after it has been answered. 
+An untimely question is a question that comes at the wrong time — namely after it has been answered. p26
 
-Untimely questions are remarkable not only because they are hard toAnswer. But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to pose them to others, but first and foremost, because it is hard to pose them to oneself. p27
+Untimely questions are remarkable not only because they are hard to Answer. But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to pose them to others, but first and foremost, because it is hard to pose them to oneself. p27
 
 The reason why you can't ask yourself untimely questions is that because you think you already have the answer to them. And the reason you think you have the answer is that you are using the answer. p27
 
@@ -219,6 +223,39 @@ The difficulty is that we can't make use of the answer and ask ourselves the que
 You are not supposed to regard these questions as open, precisely because you are supposed to be already using the answers in the caring you are currently doing. p30
 
 The answer is that he wasn't. He could say the words of the question to himself, but he couldn't ask them. p30
+
+Why should we care whether or not we can inquire into untimely questions? p47
+
+Socrates explains that by pursuing knowledge, which is to say by seeking a solution to the Tolstoy problem, we stabilize those answers. p47
+
+Each of his conversations is a high-wire act in which Socrates manages to sustain an inquiry into the very questions his interlocutor is least likely Tutarto tolerate. These are untimely questions.  p55
+
+One mark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it ("Follow me"), rather than explaining it ("This is how...."), p57
+
+Some answers to untimely questions are given only individually, whereas others are collective, given by one because they are given by a group. The first kind of answer exposes a person to sadness or fear or despair, the second kind to anger. p75
+
+The load-bearing answers we give to untimely questions are both the sources of all our problems and the sources of all our reasons to care that we have problems. p75
+
+But it is not clear how someone is supposed to ask a question to which she thinks she has an answer, when she is currently using that answer to guide her life. p76
+
+Your answers to untimely questions stem from savage commands. Suppose you want to replace them with better answers. What should you do? Simple. Keep an open mind and inquire. Move forward what's true and away from what's false. p143
+
+It is by following that formula that Socrates secured for himself much better answers to untimely questions than the Standard issue versions supplied by his body or kinship groups. p143
+
+All he was doing was trying to inquire open-mindedly into untimely questions But he understood this is a social process. p175
+
+The difficulty of getting the seeing part itself into view. That is a persistent kind of blind spot. It moves with me no matter where I focus my attention. Socrates did not speak of untimely questions. That phrase is my own invention. But when he speaks of that region which makes a soul good, wisdom occurs. I take him to be referring to the thoughts that at a fundamental level guide our lives and thus determine whether we count as wise or foolish. p200
+
+Socrates systematically translates such one-way untimely questions into questions that are untimely for both parties. p203
+
+In other words, Socrates guides each conversation towards a special subset of questions that are untimely for everyone, including himself. p203
+
+Many ethical questions are untimely for everyone. p235
+Thinking is using the Socratic method to inquire into untimely questions. p237
+
+My definition of the phrase "untimely question" was stipulative, an invention of my own. p239
+
+
 
 ## Wavering
 
