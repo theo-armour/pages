@@ -127,6 +127,15 @@ More
 >There’s a good analogy in maps. Traditional maps showed us an entire landscape—streets, landmarks, neighborhoods—allowing us to understand how everything fit together. Modern turn-by-turn navigation gives us precisely what we need in the moment, but at a cost: Years after moving to a new city, many people still don’t understand its geography. We move through a constructed reality, taking one direction at a time, never seeing the whole, never discovering alternate routes, and in some cases never getting the sense of place that a map-level understanding could provide. The result feels more fluid in the moment but ultimately more isolated, thinner, and sometimes less human.
 * The directions are not the map is not the territory ;-)
 
+### The writing and the Book
+
+The book and the writing. 
+While you're writing, you can't see the book. 
+While you're thinking about the book, you're not writing. 
+
+Imagine you were writing and you were not allowed to stop. 
+This would mean that you could never stop and think about the whole book. 
+
 
 ## Load-bearing Answers
 
