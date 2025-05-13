@@ -289,7 +289,7 @@ Each of his conversations is a high-wire act in which Socrates manages to sustai
 
 Socrates' interlocutors often conflate the activity of defining the concept in question with that of showing how it applies to and affirms their own behavior. p56
 
-The landmark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it (Follow me). Rather than explaining it (this is how...) p57
+One mark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it ("Follow me"). Rather than explaining it ("This is how...") p57
 
 Their answer will have the marks of being currently in use, because they can't take Tom off from this pursuit. p58
 
@@ -298,6 +298,8 @@ The most interesting and most elusive questions will be the ones whose answers w
 We can ask someone, "Why did you decide to have children?" Or, "Why did you decide to go to graduate school?" We cannot ask, "Why did you decide to be a good person?" p60
 
 ### II. Untimely, not subjective. p61
+
+Our standing investment in the answers to untimely questions explains their contentiousness much better than the usual Explanation, which is to dismiss these questions as "subjective".  p61
 
 The parties themselves fight because they see the question as in some way objective, decidable in the light of the truth, in spite of the impossibility of measurement. p64
 
