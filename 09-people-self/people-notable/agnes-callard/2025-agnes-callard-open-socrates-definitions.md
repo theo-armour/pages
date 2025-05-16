@@ -215,6 +215,7 @@ He cannot understand why he cares about any of those things. p3
 
 I would say to myself, "Why?" p4
 
+
 ## Untimely questions
 
 Untimely questions are marked by the fact that we need answers to them before we are prepared to answer them. p19

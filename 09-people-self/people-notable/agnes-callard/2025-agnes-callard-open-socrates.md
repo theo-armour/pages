@@ -243,9 +243,28 @@ We don't act in accordance with our supposed knowledge. Instead, we act exactly 
 
 ### V. Fiction as Refuge p42
 
+Most of the time, when we waver, we don't notice that we are wavering. We become adept at avoiding having to acknowledge our wavering. We rationalize. p42
+
 Passionate desire pressures us to think no more than 15 minutes ahead. p43
 
+The only way to get through the next 15 minutes is to convince yourself that you're doing something much nobler than just getting through the next 15 minutes. p44
+
+There are so many questions about human life that we never stop to ask ourselves. Because we're too busy moving on with our lives, deploying our answers. p44
+
 If we never inquire into untimely questions, the thinking we use to guide our lives will be unstable. We will never be able to rely on it for very long, perhaps no more than 15 minutes or so, before it is subject to being overturned. p44
+
+There are questions about how to
+
+* Treat other people fairly. 
+* What kind of greatness to pursue in life
+* What it means to love and be loved. 
+* How we should face death. 
+* How society should be organized. 
+* Who our real friends are. 
+* How to raise our children. 
+* What are the demands of justice? 
+* What to do with our lives? 
+P44
 
 The troubling fact that each person routinely fails to confront the most important questions about their lives. p45
 
@@ -255,21 +274,35 @@ The ideal for Tolstoy would be never to confront the Tolstoy problem in the firs
 
 If Tolstoy were correct, the best course of action for those unlucky enough to cross paths with the Tolstoy problem might be to postpone and postpone, 15 minutes at a time, until one runs out the clock. p46
 
+If Tolstoy were correct, the best course For those unlucky enough to cross paths with the Tolstoy problem, it might be to postpone and postpone, 15 minutes at a time, until one runs out the clock. p46
+
+In much the same way that a painting presents us with a landscape, but prevents us from entering it, novelists give us a view into the promised land, but not more. p47
+
+Socrates believes that the unexamined life is not worth living for a human being, and that belief motivated him to make time for untimely questions. 
+
 Novelists give us a view into the promised land, but not more. p47
 
 Socrates thought that the Tolstoy problem could be solved. p47
+
+Why should we care whether or not we can inquire into untimely questions? p47
+
+
+***
+
+What questions ought I be asking?
+
 
 ### VI. Unwavering Action p47
 
 Why should we care whether or not we can inquire into untimely questions? p47
 
-Socrates explains that by pursuing knowledge, which is to say by seeking a solution to the Tolstoy problem, we stabilize those answers. 
+Socrates explains that by pursuing knowledge, which is to say by seeking a solution to the Tolstoy problem, we **stabilize** those answers.  p47
 
 Socrates is here distinguishing an opinion that one simply has from an opinion that is formed by way of an inquisitive process. p48
 
-When the opinion is the conclusion of a process of inquiry, whose steps can be in turn retraced on account of the reason why, there are wavering stops. p48
+When the opinion is the conclusion of a process of inquiry, whose steps can be in turn retraced (an account of the reason why), our wavering stops. p48
 
-The thing that we do in pursuit of an answer holds that answer fixed. Knowledge is simply the name for an answer that is the product of a completed inquiry into a question. 
+The thinking that we do in pursuit of an answer holds that answer fixed. Knowledge is simply the name for an answer that is the product of a completed inquiry into a question. p48
 
 Wavering, by contrast, is a sign that one is cut off an investigation before it came to a close, or that one never even opened it. p48
 
