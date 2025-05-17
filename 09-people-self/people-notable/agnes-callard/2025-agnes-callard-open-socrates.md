@@ -2,7 +2,7 @@
 
 The Case for a Philosophical Life
 
-### Introduction: The man whose name is an example ~ p1
+## Introduction: The man whose name is an example ~ p1
 
 Your life is full. It has no space for the question, "Why am I doing any of this?" p1
 
@@ -320,7 +320,13 @@ The inquiry into untimely questions is the search for a life that doesn't need t
 
 Each of his conversations is a high-wire act in which Socrates manages to sustain an inquiry into the very question, is there, with his interlocutor, who is least likely to tolerate. These are untimely questions. p55
 
+Some of Socrates' interlocutors are initially taken aback by how easy his questions seem. p55
+
 Socrates' interlocutors often conflate the activity of defining the concept in question with that of showing how it applies to and affirms their own behavior. p56
+
+There is a pattern to how many people respond to Socrates' questions. They first feel that the questions are so straightforward as to hardly deserve consideration, and then give answers that amount to performative self-affirmations. p56
+
+The belief is operational. 
 
 One mark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it ("Follow me"). Rather than explaining it ("This is how...") p57
 
@@ -329,6 +335,12 @@ Their answer will have the marks of being currently in use, because they can't t
 The most interesting and most elusive questions will be the ones whose answers we must give at every moment of our lives, for their whole duration. In terms of the degree to which we as agents rely on them, these answers bear the heaviest load. p59
 
 We can ask someone, "Why did you decide to have children?" Or, "Why did you decide to go to graduate school?" We cannot ask, "Why did you decide to be a good person?" p60
+
+***
+
+See also: The difference between driving directions and the map. 
+
+difference between now and long term / forever
 
 ### II. Untimely, not subjective. p61
 

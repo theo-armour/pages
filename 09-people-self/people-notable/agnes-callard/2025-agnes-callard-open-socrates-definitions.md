@@ -139,6 +139,8 @@ This would mean that you could never stop and think about the whole book.
 
 ## Load-bearing Answers
 
+## Load-Bearing Beliefs
+
 
 ## Political Fictions
 
