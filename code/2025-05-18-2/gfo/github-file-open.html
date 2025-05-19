@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Open Index or Markdown</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-05-18">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025">
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0.5em;
+      color: #333;
+      line-height: 1.5;
+    }
+
+    #divMainContent {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+  <div id=divMainContent></div>
+
+  <script src="../main.js"></script>
+  <script src="github-file-open.js"></script>
+
+  <script>
+
+    if (location.protocol === "https:") {
+
+    } else {
+
+      COR.pathContent = "../../../";
+
+    }
+
+    if (location.protocol === "https:") {
+
+      window.history.pushState("", COR.urlPushPath + location.hash);
+
+    }
+
+    
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,569 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="Get and put Markdown files to a private or public GitHub repo">
+	<meta name="date" content="2025-05-18">
+
+	<title>notesy</title>
+
+	<style>
+		body {
+			border: 1px solid gray;
+			box-sizing: border-box;
+			font: 100% monospace;
+			margin: 0;
+			max-width: 50rem;
+			padding: 0;
+		}
+
+		a {
+			cursor: pointer;
+			font-weight: bold;
+		}
+
+		p {
+			margin: 0 0 0.5rem 0;
+			padding: 0;
+		}
+
+		br {
+			margin: 0.5em 0;
+		}
+
+		iframe {
+			height: 100%;
+			width: 100%;
+		}
+
+		ul {
+			margin: 0;
+			padding: 0 0 0 1rem;
+		}
+
+		li {
+			margin: 0;
+			padding: 0;
+		}
+
+		main h2 {
+
+			display: inline;
+			margin: 0;
+		}
+
+		h1 {
+			font-size: 150%;
+			margin: 0;
+			padding: 0;
+		}
+
+		h2 {
+			color: darkblue;
+			font-size: 120%;
+			margin: 0;
+			padding: 0;
+		}
+
+		h3 {
+			font-size: 100%;
+			color: maroon;
+			margin: 0;
+			padding: 0;
+		}
+
+		img {
+			max-width: 100%;
+			vertical-align: middle;
+		}
+
+		input {
+			vertical-align: middle;
+		}
+
+		summary {
+			cursor: pointer;
+			font-size: 1rem;
+			margin: 0;
+			padding: 0;
+		}
+
+		summary p {
+			margin: 0;
+			padding: 0;
+		}
+
+		.aDingbat {
+			text-decoration: none;
+			font-size: 1.5rem;
+		}
+
+		#header {
+			background: white;
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 1;
+		}
+
+		#divContent {
+			border: 1px solid #ccc;
+			height: 95vh;
+			margin: 25px 0 0 0;
+			padding: 0.25rem;
+			top: 25px;
+
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<!-- https://showdownjs.com/docs/available-options/ -->
+	<script src="https://unpkg.com/showdown@2.1.0/dist/showdown.js"></script>
+
+	<main>
+
+		<div id="header">
+
+			<h2>
+				<a id=aSource href="https://github.com/pushme-pullyou/tootoo-2025/tree/main/tootoo" target="_blank"
+					title=""><img src=https://pushme-pullyou.github.io/assets/svg/mark-github.svg></a>
+				<a href="" id="aPath" title="Click this menu title to reload the file">
+					<span id=spnTitle></span><span id=spnVersion></span></a>
+			</h2>
+
+			<div id=divMessage style=display:inline;></div>
+			<button id="saveButton" onclick="getSha()">save</button>
+
+		</div>
+
+		<div id="divContent" contenteditable="true"></div>
+
+		<center title="Hello! Click me to go up to the top">
+			<a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a>
+		</center>
+
+		<button id="toggleMarkdowButton" onclick="toggleMarkdown()">markdown<>html</button>
+		<button id="toggleTextButton" onclick="toggleText()">text<>html</button>
+		<button id="saveButton" onclick="getSha()">save</button>
+		<br>
+		<button onclick=test2()>test</button>
+		<button onclick=test3()>text-to-hack</button>
+		<button onclick=test1()>readme</button>
+		<button onclick=test4()>text-to-hack</button>
+		<button onclick=parent.location.hash="">clear hash</button>
+		<button onclick=delSha()>delSha</button>
+
+	</main>
+
+	<script>
+		// copyright 2025 Theo Armour. MIT license.
+
+		// [X]MLHTTPRequest [G]itHub [P]ush (XGP)
+
+		// 2025-05-16 markdown to HTML every save?
+
+		const XGP = {
+
+			//base: "https://api.github.com/repos/theo-armour/agenda/contents/",
+			//path: "1-notes.md",
+
+			//base: "https://api.github.com/repos/theo-armour/qdata/contents/",
+			//path: "text-to-hack.md",
+
+			//base: "https://api.github.com/repos/theo-armour/qdata/contents/apps/notesy/",
+			//path: "README.md",
+
+			//base: "https://api.github.com/repos/theo-armour/qdata/contents/",
+			//path: "apps/notesy/README.md",
+
+			//base: "https://api.github.com/repos/theo-armour/qdata/contents/",
+			//path: "apps/notesy/test.md",
+
+			base: "https://api.github.com/repos/pushme-pullyou/tootoo-2025/contents/",
+			path: "test.md",
+
+			lastSaveTime: 0, // Timestamp of the last successful save *for this instance*
+			saving: false,   // Flag to indicate if this instance is currently saving
+			state: "html",   // Current editor state (html, markdown, text)
+			content: "",     // Stores the initial loaded content as HTML
+			branch: "main",  // Default branch to save to, ensure this is set or dynamically determined
+
+			notesyURL: "https://theo-armour.github.io/qdata/apps/notesy/#",
+
+			// For debounce autosave & robust change detection
+			autosaveTimeoutId: null,
+			autosaveDebounceTime: 3000, // 3 seconds debounce
+			lastSavedMarkdown: null,    // Stores the last successfully saved Markdown content
+		};
+
+		if (window.self === window.top) {
+
+			init();
+
+		}
+
+		function init(url = XGP.base + XGP.path) {
+
+			//showdown.setFlavor("github");
+
+			XGP.url = url ? url : XGP.base + XGP.path;
+
+			console.log("XGP.url", XGP.url);
+
+			aPath.title = document.head.querySelector("[ name=date ]").content;
+
+			XGP.accessToken = localStorage.getItem("githubAccessToken") || "";
+
+			//console.log("XGP.accessToken", XGP.accessToken);
+
+			if (!XGP.accessToken || XGP.accessToken === "" || XGP.accessToken === "null") {
+
+				XGP.accessToken = prompt("Enter GitHub Personal Access Token");
+
+				localStorage.setItem("githubAccessToken", XGP.accessToken);
+
+			}
+
+			window.addEventListener("hashchange", onHashChange, false);
+			window.addEventListener("beforeunload", checkForChange);
+
+			divContent.addEventListener('blur', onBlur);
+			divContent.addEventListener('input', handleContentInput); // For debounce-based autosave
+
+			autoSave(); // Keeps your existing interval-based autosave trigger
+
+			onHashChange();
+
+		};
+
+
+		test1 = () => location.hash = XGP.base + "README.md";
+		test2 = () => location.hash = XGP.base + "test.md";
+		test3 = () => location.hash = XGP.base + "text-to-hack.md";
+		test4 = () => location.hash = XGP.base + "test-cases/text-to-hack-2.md";
+
+		delSha = () => localStorage.setItem("githubAccessToken", "");
+
+
+		function onHashChange(event) {
+
+			XGP.url = location.hash ? location.hash.slice(1) : XGP.url;
+			//console.log("XGP.url", XGP.url, );
+			//console.log( "location.hash", parent.location.hash.length );
+
+			//XGP.base = XGP.url.split("contents")[0] + "contents/";
+			//XGP.path = XGP.url.split("contents")[1].slice(1);
+
+			//console.log("XGP.base", XGP.base);
+
+			XGP.fileName = XGP.url.split("/").pop();
+
+			XGP.extension = XGP.fileName.split(".").pop();
+
+			//console.log("onHashChange", XGP.fileName);
+
+			//if ( XGP.content ) getSha();
+			console.log("XGP.url", XGP.url);
+
+			if (XGP.url.endsWith("md") || XGP.fileName === "LICENSE") {
+
+				fetchMarkdown();
+
+
+			} else {
+
+				divContent.innerHTML = `<iframe id=ifr src=${XGP.url} ></iframe>`
+
+			}
+
+		};
+
+
+		function checkForChange(event) {
+
+			if (divContent.innerHTML === XGP.content) { return; }
+
+			if (!XGP.url.endsWith("md") || XGP.fileName === "LICENSE") return;
+
+			console.log("checkForChange", XGP.fileName);
+
+			event.preventDefault();
+
+			event.returnValue = "";
+
+		};
+
+		function onBlur(event) {
+
+			if (divContent.innerHTML === XGP.content) { return; }
+
+			if (divContent.innerText.startsWith("#")) return;
+
+			if (divContent.innerText.startsWith("<")) return;
+
+			divMessage.innerText += " onBlur";
+
+			getSha();
+
+		};
+
+
+		function fetchMarkdown(event) {
+			const xhr = new XMLHttpRequest();
+
+			divMessage.innerText = "Fetching...";
+
+			xhr.open("get", XGP.url, true);
+			xhr.setRequestHeader("Authorization", "token " + XGP.accessToken);
+			xhr.responseType = "json";
+			xhr.onload = onLoad;
+			xhr.onerror = onError;
+			xhr.send(null);
+		}
+
+		function onError(xhr) {
+			console.error("Error fetching file:", xhr);
+			divMessage.innerText = `Error fetching file: ${xhr.status || "Network issue"}`;
+		}
+
+
+		function onLoad(xhr) {
+
+			let fileContentAsMarkdown = decodeURIComponent(escape(window.atob(xhr.target.response.content)));
+			// The replace line seems specific to GitHub Read Me files, lets hidden iframes reappear
+			fileContentAsMarkdown = fileContentAsMarkdown.replace(/\<!--@@@/, " ).replace /\@@@--\>/, ");
+
+			divContent.innerText = fileContentAsMarkdown;
+			XGP.content = divContent.innerText;
+			XGP.lastSavedMarkdown = XGP.content
+
+
+			divMessage.innerText = `T:${new Date().toLocaleString().slice(11, -3)} B:${fileContentAsMarkdown.length.toLocaleString()}`;
+			//aSource.href = xhr.target.response.html_url;
+			//console.log("XGP.url", XGP.url);
+			//aPath.href = XGP.notesyURL + XGP.url;
+			spnTitle.innerHTML = XGP.url.split("/").pop().split(".").shift();
+			document.title = spnTitle.innerText;
+			window.scrollTo(0, 0);
+		};
+
+
+		function markdownToHTML(txt = divContent.innerText) {
+
+			if (XGP.state === "text") return;
+
+			const options = {
+				// 	backslashEscapesHTMLTags: true,
+				// 	completeHTMLDocument: false,
+				// 	disableForced4SpacesIndentedSublists: true,
+				// 	emoji: true,
+				// 	excludeTrailingPunctuationFromURLs: true,
+				// 	ghMention: true,
+				noHeaderId: true,
+				// 	openLinksInNewWindow: false,
+				simplifiedAutoLink: true,
+				// 	simpleLineBreaks: true,
+				// 	smoothLivePreview: true,
+				strikethrough: true,
+				// 	tasklists: true,
+			};
+
+			const htm = new showdown.Converter(options).makeHtml(txt);
+
+			return htm;
+
+		}
+
+
+		function autoSave() {
+
+			if (!XGP.saveInterval) {
+
+				XGP.saveInterval = setInterval(XGP.getSha, 15000); // in ms
+
+			} else {
+
+				clearInterval(XGP.saveInterval);
+				XGP.saveInterval = null;
+
+			}
+		};
+
+
+		function handleContentInput() { // New function for debounce
+			if (XGP.autosaveTimeoutId) {
+				clearTimeout(XGP.autosaveTimeoutId);
+			}
+			XGP.autosaveTimeoutId = setTimeout(() => {
+				console.log("Autosave triggered by input debounce");
+				getSha();
+			}, XGP.autosaveDebounceTime);
+		}
+
+
+		function getSha() {
+			const currentTime = new Date().getTime();
+
+			if (XGP.url === "") { alert("No URL"); return; }
+			if (XGP.saving) {
+				//console.log("getSha: Already saving."); 
+				return "saving";
+			}
+
+			// let currentMarkdown;
+			// if (XGP.state === "markdown") {
+			// 	currentMarkdown = divContent.innerText;
+			// } else { // html or text state
+			// 	currentMarkdown = htmlToMarkdown();
+			// }
+
+			let currentMarkdown = divContent.innerText;
+			if (XGP.lastSavedMarkdown !== null && currentMarkdown === XGP.lastSavedMarkdown) {
+				// console.log("getSha: No changes to Markdown content.");
+				return "no change";
+			}
+
+			// 2. Global save cooldown check (across all instances)
+			const GLOBAL_SAVE_COOLDOWN = 10000; // 10 seconds
+			const globalLastSaveSuccessTimestamp = parseInt(localStorage.getItem("notesyGlobalLastSaveSuccessTimestamp") || "0");
+
+			if (currentTime - globalLastSaveSuccessTimestamp < GLOBAL_SAVE_COOLDOWN) {
+				console.warn(`getSha: Global save cooldown. Last save by any instance was < ${GLOBAL_SAVE_COOLDOWN / 1000}s ago. Aborting this attempt.`);
+				// Optionally, provide user feedback here or schedule a gentle retry later
+				return "global cooldown";
+			}
+
+			// 3. This specific instance's save attempt cooldown
+			// This complements the interval from autoSave() and debounce, acting as a final throttle for this tab.
+			const INSTANCE_SAVE_THROTTLE = 15000; // 15 seconds (adjust as needed)
+			if (XGP.lastSaveTime && (currentTime - XGP.lastSaveTime < INSTANCE_SAVE_THROTTLE)) {
+				console.log(`getSha: Instance save throttle. This tab saved < ${INSTANCE_SAVE_THROTTLE / 1000}s ago.`);
+				return "instance throttle";
+			}
+
+			if (!XGP.url.endsWith("md") && !XGP.fileName === "LICENSE") {
+				console.warn("getSha: Not a Markdown file, skipping save.");
+				return "not markdown";
+			}
+
+			//console.log("getSha: Checks passed, proceeding to fetch SHA for", XGP.fileName);
+			XGP.saving = true; // Set saving flag for this instance
+
+			const xhr = new XMLHttpRequest();
+			xhr.open("GET", XGP.url, true);
+			xhr.setRequestHeader("Authorization", "token " + XGP.accessToken);
+			xhr.responseType = "json";
+			xhr.onerror = (err) => {
+				console.error("Error fetching SHA:", err);
+				divMessage.innerText = "Error fetching file details for save.";
+				divMessage.style.color = "red";
+				XGP.saving = false;
+			};
+			xhr.onload = (e) => {
+				if (e.target.status === 200 && e.target.response && e.target.response.sha) {
+					XGP.sha = e.target.response.sha;
+					putFileToGitHub(currentMarkdown); // Pass the determined currentMarkdown
+				} else {
+					console.error("Failed to get SHA or unexpected response:", e.target.status, e.target.response);
+					divMessage.innerText = "Error: Could not get file details for saving.";
+					if (e.target.status === 401) divMessage.innerText += " Unauthorized.";
+					if (e.target.status === 404) divMessage.innerText += " File not found.";
+					divMessage.style.color = "red";
+					XGP.saving = false;
+				}
+			};
+			xhr.send(null);
+		};
+
+
+
+		function putFileToGitHub(markdownToSave) { // Accepts markdownToSave
+
+			if (!markdownToSave) {
+				console.error("putFileToGitHub: No markdown content provided to save.");
+				XGP.saving = false;
+				return;
+			}
+
+			const codedData = window.btoa(unescape(encodeURIComponent(markdownToSave)));
+
+			const body = JSON.stringify({
+				"branch": XGP.branch || "main", // Ensure branch is defined
+				"content": codedData,
+				"message": `notesy: auto-update ${XGP.fileName} ${new Date().toISOString()}`,
+				"sha": XGP.sha
+			});
+
+			// XGP.saving is already true from getSha()
+
+			const originalMessage = divMessage.innerText;
+			divMessage.innerText = "Saving...";
+			divMessage.style.color = "orange";
+
+			const putXhr = new XMLHttpRequest(); // Use a different variable name for clarity
+			putXhr.open("PUT", XGP.url, true);
+			putXhr.setRequestHeader("Authorization", "token " + XGP.accessToken);
+			putXhr.setRequestHeader("Content-Type", "application/json");
+			putXhr.onerror = (err) => {
+				console.error("Error saving file:", err);
+				XGP.saving = false;
+				divMessage.innerText = "Error saving!";
+				divMessage.style.color = "red";
+				setTimeout(() => {
+					divMessage.innerText = originalMessage; // Restore previous message
+					divMessage.style.color = "#666";
+				}, 3000);
+			};
+			putXhr.onload = (e) => {
+				XGP.saving = false;
+				const now = new Date().getTime();
+				if (e.target.status === 200 || e.target.status === 201) { // 201 for created, 200 for updated
+					XGP.lastSaveTime = now; // Update this instance's last save time
+					XGP.lastSavedMarkdown = markdownToSave; // Update with the successfully saved markdown
+
+					// Update global timestamp for successful save
+					localStorage.setItem("notesyGlobalLastSaveSuccessTimestamp", now.toString());
+
+					if (e.target.response && e.target.response.content && e.target.response.content.sha) {
+						XGP.sha = e.target.response.content.sha; // Update SHA from the response
+					}
+					divMessage.innerText = `Saved: ${new Date(now).toLocaleString().slice(11, -3)} B: ${markdownToSave.length.toLocaleString()}`;
+					divMessage.style.color = "green";
+					setTimeout(() => {
+						divMessage.style.color = "#666";
+					}, 2000);
+				} else {
+					console.error("Error response on save:", e.target.status, e.target.response);
+					let errorMsg = `Save failed: ${e.target.status}`;
+					if (e.target.response && e.target.response.message) {
+						errorMsg += ` - ${e.target.response.message}`;
+					}
+					if (e.target.status === 409) { // Conflict
+						errorMsg += " Conflict: File updated elsewhere. Please reload.";
+						// Consider prompting user to reload or re-fetch content automatically
+					} else if (e.target.status === 403 || e.target.status === 429) { // Rate limit / Forbidden
+						errorMsg += " GitHub API limit reached or access issue. Try again later.";
+						// Implement exponential backoff here for retries if desired
+					}
+					divMessage.innerText = errorMsg;
+					divMessage.style.color = "red";
+					setTimeout(() => {
+						divMessage.innerText = originalMessage;
+						divMessage.style.color = "#666";
+					}, 5000);
+				}
+			};
+			putXhr.send(body);
+		};
+
+
+	</script>
+
+</body>
+
+</html>
