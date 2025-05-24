@@ -84,7 +84,7 @@ Wrong
 
 ## Long Distance Interaction ~ "primitive trade" ~ p 23
 
-Evidence of objects moving around the word is evidence of trade ~ market economy
+Evidence of objects moving around the world is evidence of trade ~ market economy
 
 But absence of evidence is not evidence of absence ~ Carl Sagan
 

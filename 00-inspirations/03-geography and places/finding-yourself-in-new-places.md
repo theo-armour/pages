@@ -16,7 +16,7 @@ Tags #newbs #geography #places #travel #tourist
 * 3 joints: cafe ~ bar ~ restaurant
 
 
-Activities
+## Activities
 
 * Sit at the bar
 * Join local meet-ups
@@ -24,7 +24,7 @@ Activities
 * No burgers or pizzas
 
 
-Things that isolate you
+##Things that isolate you
 
 * Walking through museums
 * Farmers markets

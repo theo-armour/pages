@@ -76,6 +76,7 @@ lists of reviews
 ## links of Interest
 
 ### Paul Lafargue ~ The Right To Be Lazy
+
 > Let us be lazy in everything, except in loving and drinking, except in being lazy. – Lessing
 * https://www.marxists.org/archive/lafargue/1883/lazy/ch01.htm
 
