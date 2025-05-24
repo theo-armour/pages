@@ -19,7 +19,7 @@ You make sure your thinking about how your life should go doesn't wander too far
 * We avoid thinking
 * Our lives filled with a multitude of tiny decisions - leaving no space and time for the big questions. p2
 
-### I.Tolstoy p2 
+### I. Tolstoy p2 
 
 Leo Tolstoy (1828 - 1910)
 
@@ -342,7 +342,7 @@ See also: The difference between driving directions and the map.
 
 difference between now and long term / forever
 
-### II. Untimely, not subjective. p61
+### II. Untimely, not Subjective. p61
 
 Our standing investment in the answers to untimely questions explains their contentiousness much better than the usual Explanation, which is to dismiss these questions as "subjective".  p61
 
@@ -350,7 +350,17 @@ The parties themselves fight because they see the question as in some way object
 
 Calling a question of justice subjective is a confused way of getting at the mysterious fact that the answers to such questions seem to have always been with us. p66
 
-### III. Load-bearing beliefs. p66
+### III. Load-bearing Beliefs. p66
+
+We navigate our lives by way of answers as to what things matter or have meaning. p67
+
+Most of the answers that anchor our agency in the world concern our relationships with the people we are close to. p67
+
+We cannot live without answers And so when some of our most important answers are or stand to be removed from us, we experience that event in the form of strong negative emotions. p67
+
+Emotions such as rage and despair are how we respond when something that we were counting on not happening. p67
+
+How are load-bearing answers to untimely questions tend to give rise to predictions that specify what Needs to be true in the future in order for my answer to guide my action in the present. p68
 
 Each of us is counting on the future unfolding in some ways rather than others, even though we cannot fully control whether it does. p68
 
@@ -358,7 +368,19 @@ The name for these load-bearing predictions is HOPE. p68
 
 The root of the problem is that we have to investigate our lives while living them. p70
 
-### IV. Sadness versus anger. p71
+When something matters to our ability to navigate our lives, we need to have a belief about what will happen, because we make use of that belief in the activity of living. p69
+
+Trust is that species of hope that pertains to whether others will hold up their end of the bargain. p69
+
+The reason we fight over certain questions is not that They are subjective, but because our answers to them are in use. p70
+
+There is a limit to how much weight vice versa, such as being more objective and being more impartial, can carry, because the root of the problem is that we have to investigate our lives while living them. p70
+
+
+### IV. Sadness versus Anger. p71
+
+There seems to be a big difference between the experience of loss and the experience of being wronged or slighted or treated unjustly. p71
+
 
 You can be angry _at_ a person, but you cannot be sad _at_ them. you can be sad _about_ what you lost. p71
 
@@ -368,11 +390,27 @@ We experience anger as a rectifiable disruption of an answer to an untimely ques
 
 The rectification involves other people in two ways. First, there is the person I am angry at, but often there is also the group of people I am angry alongside. Anger is in many ways a collective phenomenon. p72
 
+Sadness is not a socially directed emotion. It doesn't drive one to adjust the social order. p73
+
+Sadness is immobilizing and disaffecting. There is nothing it makes one do, and indeed it inclines one to spend some time doing just that, nothing. p73
+
+The reason why there is nonetheless something to be done about anger is that the anger is fundamentally directed at the wrongdoer, on the grounds that the wrongdoer indicates a failure to give a shared answer. p73
+
+When I am angry, I am in an unstable state where I feel that something that is supposed to be collective is held only by me and I must rectify that situation. 
+
+Holding the wrongdoer accountable promises to rehabilitate the answer by restoring its shared status. p75
+
 Some answers to untimely questions are given only individually, whereas others are collective, given by one because they are given by a group. The first kind of answer exposes a person to sadness or fear or despair, the second kind to anger. p75
 
 It is not clear how someone is supposed to ask a question to which she thinks she has an answer, when she is currently using that answer to guide her life p75
 
+The load-bearing answers we give to untimely questions are both the sources of all our problems and the sources of all our reasons to care that we have problems. p76
+
+But it is not clear how someone is supposed to ask a question to which she thinks she has an answer, when she is currently using that answer to guide her life. p76
+
 She is not going to saw off the branch she is standing on. p76
+
+Socrates is relentlessly consistent in prioritizing definition over praise. footnote p76
 
 ## Chapter 3: Savage Commands p77
 
