@@ -5,7 +5,7 @@
 
 ## ToMatto
 
-
+https://theo-armour.github.io/qdata/apps/trayo/2025-05-12/trayo.html#https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md
 * 2025-05-04 ~ Parrish: Clear Thinking: “One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
 * 2025-05-04 ~ Don't accept criticism from somebody with you wouldn't want advice from ~ or other way around&nbsp;
 * 2025-05-04 ~ NYT ~&nbsp;People crave meaningful connection
