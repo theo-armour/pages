@@ -1,5 +1,6 @@
 # Peter Drucker ~ Quotes
 
+Tags #drucker #quotes
 [https://en.wikipedia.org/wiki/Peter\_Drucker#Key\_ideas](https://en.wikipedia.org/wiki/Peter_Drucker#Key_ideas)
 
 [https://succeedfeed.com/peter-drucker-quotes/](https://succeedfeed.com/peter-drucker-quotes/)
