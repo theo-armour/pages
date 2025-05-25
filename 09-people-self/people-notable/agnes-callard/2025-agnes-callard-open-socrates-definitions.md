@@ -82,7 +82,7 @@ Because that is the only way to ask questions such as, is the soul immortal? Or 
 
 How do you take on in a life a project that is too big for life? p365
 
-What if, like Socrates, you Have less than an hour to live and you've just been confronted with some objections that call for more than an hour's worth of philosophizing. How do you avoid giving up? p366
+What if, like Socrates, you have less than an hour to live and you've just been confronted with some objections that call for more than an hour's worth of philosophizing. How do you avoid giving up? p366
 
 Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers. 
 
@@ -109,11 +109,11 @@ Fifteen-minutes of fame is a phrase that was coined by Andy Warhol in 1968. It r
 
 ### Comments Me
 
-* immediate future
-* scene in a play
-* short amount of time
-* small part of a life
-* the current time and space
+* Immediate future
+* Scenes in a play
+* Short amount of time
+* Small part of a life
+* The current time and space
 
 More
 
@@ -220,13 +220,14 @@ I would say to myself, "Why?" p4
 
 ## Untimely questions
 
+
 Untimely questions are marked by the fact that we need answers to them before we are prepared to answer them. p19
 
 Our default answers, the ones available to us absent philosophizing, come from unreliable sources, our bodies and other people. These sources issue savage commands contradicting one another and themselves, leading us to act in confused and haphazard ways. p19
 
 An untimely question is a question that comes at the wrong time — namely after it has been answered. p26
 
-Untimely questions are remarkable not only because they are hard to Answer. But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to pose them to others, but first and foremost, because it is hard to pose them to oneself. p27
+Untimely questions are remarkable not only because they are hard to answer. But first and foremost, because they are hard to ask. And they are hard to ask not only because it is hard to pose them to others, but first and foremost, because it is hard to pose them to oneself. p27
 
 The reason why you can't ask yourself untimely questions is that because you think you already have the answer to them. And the reason you think you have the answer is that you are using the answer. p27
 
@@ -240,9 +241,10 @@ Why should we care whether or not we can inquire into untimely questions? p47
 
 Socrates explains that by pursuing knowledge, which is to say by seeking a solution to the Tolstoy problem, we stabilize those answers. p47
 
-Each of his conversations is a high-wire act in which Socrates manages to sustain an inquiry into the very questions his interlocutor is least likely Tutarto tolerate. These are untimely questions.  p55
+Each of his conversations is a high-wire act in which Socrates manages to sustain an inquiry into the very questions his interlocutor is least likely to tolerate. These are untimely questions.  p55
 
 One mark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it ("Follow me"), rather than explaining it ("This is how...."), p57
+
 
 Some answers to untimely questions are given only individually, whereas others are collective, given by one because they are given by a group. The first kind of answer exposes a person to sadness or fear or despair, the second kind to anger. p75
 
@@ -254,7 +256,7 @@ Your answers to untimely questions stem from savage commands. Suppose you want t
 
 It is by following that formula that Socrates secured for himself much better answers to untimely questions than the Standard issue versions supplied by his body or kinship groups. p143
 
-All he was doing was trying to inquire open-mindedly into untimely questions But he understood this is a social process. p175
+All he was doing was trying to inquire open-mindedly into untimely questions but he understood this is a social process. p175
 
 The difficulty of getting the seeing part itself into view. That is a persistent kind of blind spot. It moves with me no matter where I focus my attention. Socrates did not speak of untimely questions. That phrase is my own invention. But when he speaks of that region which makes a soul good, wisdom occurs. I take him to be referring to the thoughts that at a fundamental level guide our lives and thus determine whether we count as wise or foolish. p200
 
@@ -268,6 +270,20 @@ Thinking is using the Socratic method to inquire into untimely questions. p237
 My definition of the phrase "untimely question" was stipulative, an invention of my own. p239
 
 
+
++++
+
+Untimely questions have load bearing answers
+
+Untimely questions are self-referential, perhaps recursive
+
+Chickens and egg problem: which came first, the untimely question or the load-bearing answer?
+
+Examples
+
+* Define any of the 24 virtues, such as courage, justice, or moderation.
+* Am I a good person
+* Why did you decide to be a good person? 
 
 ## Wavering
 

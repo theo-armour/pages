@@ -326,7 +326,9 @@ Socrates' interlocutors often conflate the activity of defining the concept in q
 
 There is a pattern to how many people respond to Socrates' questions. They first feel that the questions are so straightforward as to hardly deserve consideration, and then give answers that amount to performative self-affirmations. p56
 
-The belief is operational. 
+I don't pause to consider how an action should be performed when I am already performing that action. p57
+
+The belief is operational. p57
 
 One mark of an untimely question is the availability of one's answer. It is not only that one feels certain that one has an answer, but that because that answer is currently at work in propelling one forward, the expression of the answer takes the form of using it ("Follow me"). Rather than explaining it ("This is how...") p57
 
@@ -344,11 +346,26 @@ difference between now and long term / forever
 
 ### II. Untimely, not Subjective. p61
 
+
 Our standing investment in the answers to untimely questions explains their contentiousness much better than the usual Explanation, which is to dismiss these questions as "subjective".  p61
 
-The parties themselves fight because they see the question as in some way objective, decidable in the light of the truth, in spite of the impossibility of measurement. p64
+The parties themselves fight because they see the question as in some way objective, decidable in the light of the truth, in spite of the impossibility of measurement. p65
 
-Calling a question of justice subjective is a confused way of getting at the mysterious fact that the answers to such questions seem to have always been with us. p66
+Measuring is how we check what works and what doesn't. Measurement matters. The question then is why we fight over what we can't measure. p64
+
+We fight only when the question is subjective, in the sense that each A person sets her own answer without outside constraint. p64
+
+The parties themselves fight because they see the question as in some way objective, decidable in the light of truth, in spite of the impossibility of measurement. p65
+
+We fight over questions that cannot be decided by measurement, but not over all such questions, because we do not fight over matters of taste, nor over questions where the instruments of measurement have simply not been invented yet. 66
+
+Measurement exists only when detachment is possible. p66
+
+Questions of measurement require the one asking to go out and check. This is why untimely questions are never answerable through measurement. p66
+
+What is distinctive about questions of measurement is not that they are objective, but that it is easy to separate the asking of the question from the answering of it. p66
+
+Calling a question of justice subjective is a confused way of getting at the mysterious fact that the answers to such questions seem to have always been with us. p67
 
 ### III. Load-bearing Beliefs. p66
 
@@ -356,13 +373,13 @@ We navigate our lives by way of answers as to what things matter or have meaning
 
 Most of the answers that anchor our agency in the world concern our relationships with the people we are close to. p67
 
-We cannot live without answers And so when some of our most important answers are or stand to be removed from us, we experience that event in the form of strong negative emotions. p67
+We cannot live without answers and so when some of our most important answers are or stand to be removed from us, we experience that event in the form of strong negative emotions. p67
 
 Emotions such as rage and despair are how we respond when something that we were counting on not happening. p67
 
 How are load-bearing answers to untimely questions tend to give rise to predictions that specify what Needs to be true in the future in order for my answer to guide my action in the present. p68
 
-Each of us is counting on the future unfolding in some ways rather than others, even though we cannot fully control whether it does. p68
+Each of us is counting on the future unfolding in some ways rather than others, even though we cannot fully control whether it does. p67/68
 
 The name for these load-bearing predictions is HOPE. p68 
 
@@ -381,12 +398,11 @@ There is a limit to how much weight vice versa, such as being more objective and
 
 There seems to be a big difference between the experience of loss and the experience of being wronged or slighted or treated unjustly. p71
 
-
 You can be angry _at_ a person, but you cannot be sad _at_ them. you can be sad _about_ what you lost. p71
 
 Unlike sadness, anger is motivating. The angry person thinks there is something to be done in relation to what she is angry about, some goal to be achieved in light of the violation, and that goal involves the person she is angry at. p71
 
-We experience anger as a rectifiable disruption of an answer to an untimely question, and this rectification essentially involves other people. p72
+We experience anger as a _rectifiable_ disruption of an answer to an untimely question, and this rectification essentially involves other people. p72
 
 The rectification involves other people in two ways. First, there is the person I am angry at, but often there is also the group of people I am angry alongside. Anger is in many ways a collective phenomenon. p72
 
