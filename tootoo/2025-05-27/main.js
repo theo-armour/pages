@@ -8,7 +8,7 @@ const COR = {
     version: "2025-05-27",
     
     menuTitle: "Theo Pages",
-    menuTitleEdit: "T Pages Edit",
+    menuTitleEdit: "Theo Pages Edit",
 
     // Used by GFO ~ github file open
     defaultFile: "README.md",
