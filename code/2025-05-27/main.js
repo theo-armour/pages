@@ -2,8 +2,8 @@
 const COR = {
 
     // Used by GTV ~ github tree view
-    user: "pushme-pullyou",
-    repo: "tootoo-2025",
+    user: "theo-armour",
+    repo: "pages",
     branch: "main",
     version: "2025-05-27",
     
@@ -12,7 +12,7 @@ const COR = {
 
     // Used by GFO ~ github file open
     defaultFile: "README.md",
-    defaultFileEdit: "@@test.md",
+    defaultFileEdit: "@@README.md",
 
     pathApps: "./",
     pathContent: "../../",
@@ -20,11 +20,11 @@ const COR = {
     filterFolders: [], //[ "code"],
     ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
-    urlBaseAPI: "https://api.github.com/repos/pushme-pullyou/tootoo-2025/contents/",
-    urlSource: "https://github.com/pushme-pullyou/tootoo-2025/tree/main/",
-    urlPathApps: "https://pushme-pullyou.github.io/tootoo-2025/tootoo/",
-    urlPathContent: "https://pushme-pullyou.github.io/tootoo-2025/",
-    urlPushPath: "https://pushme-pullyou.github.io/tootoo-2025/tootoo/",
+    urlBaseAPI: "https://api.github.com/repos/theo-armour/pages/contents/",
+    urlSource: "https://github.com/theo-armour/pages/tree/main/",
+    urlPathApps: "https://theo-armour.github.io/pages/tootoo/",
+    urlPathContent: "https://theo-armour.github.io/pages/",
+    urlPushPath: "https://theo-armour.github.io/pages/tootoo/",
 
     iconExternalLink: "<img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >",
  	iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
