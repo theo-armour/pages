@@ -42,18 +42,18 @@ You are looking at the latest incantation. Only notes starting from sometime in 
 * A single place to store all my digital knowledge
 * All my previous efforts are copied to here or linked to from here
 * The data is stored in a format that is easy to:
-  * read and edit
-  * search
-  * share
-  * backup
-  * transform to other formats
+* read and edit
+* search
+* share
+* backup
+* transform to other formats
 * User interface is simple and intuitive
 
 ## Mission
 
 * Format is GitHub flavored Markdown
 * Categories follow Wikipedia categories
-  * https://theo-armour.github.io/pages/#00-journal/2022-12-06-notes-catalogs-tags.md
+* https://theo-armour.github.io/pages/#00-journal/2022-12-06-notes-catalogs-tags.md
 * Standards generally follow Wikipedia standards
 * User interface is HTML, CSS and plain JavaScript
 
