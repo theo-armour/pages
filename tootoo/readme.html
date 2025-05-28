@@ -2,172 +2,204 @@
 <html lang="en">
 
 <head>
-	<meta charset="utf-8">
-	<title>Open Index or Markdown</title>
+  <meta charset="utf-8">
+  <title>Open Index or Markdown</title>
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
-	<meta name="description"
-		content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
-	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2023-10-13">
-	<meta name="author" content="Theo Armour">
-	<meta name="creator" content="https://github.com/pushme-pullyou/2023/tree/main/templates-folder">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-01-09">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/assets/tree/main/templates-folder">
 
 
-	<style>
-		/* Copyright 2023 Theo Armour. MIT License */
+  <style>
+    /* Copyright 2025 Theo Armour. MIT License */
 
-		:root {
-			font: 100% monospace;
-		}
+    :root {
+      font: 100% monospace;
+    }
 
-		* {
-			box-sizing: border-box;
-		}
+    * {
+      box-sizing: border-box;
+    }
 
-		body {
-			margin: 0 auto;
-			max-width: 50rem;
-		}
+    body {
+      margin: 0 auto;
+      max-width: 50rem;
+    }
 
-		a {
-			color: crimson;
-			text-decoration: none;
-		}
+    a {
+      color: #880000;
+      text-decoration: none;
+    }
 
-		a:hover,
-		a:focus,
-		a:active {
-			text-decoration: underline;
-		}
+    a:hover,
+    a:focus,
+    a:active {
+      text-decoration: underline;
+    }
 
-		aside {
-			border: 1px solid lightgray;
-			margin-top: 15px;
-			padding: 2px;
-		}
+    aside {
+      border: 1px solid lightgray;
+      margin-top: 15px;
+      padding: 2px;
+    }
 
-		button,
-		input[type=button] {
-			background-color: #eee;
-			border: 2px #eee solid;
-			color: #888;
-		}
+    button,
+    input[type=button] {
+      background-color: #eee;
+      border: 2px #eee solid;
+      color: #888;
+    }
 
-		blockquote {
-			background-color: #ddd;
-			padding: 1rem;
-		}
+    blockquote {
+      background-color: #ddd;
+      padding: 1rem;
+    }
 
-		code {
-			background-color: #eee;
-		}
+    code {
+      background-color: #eee;
+    }
 
-		img {
-			max-width: 100%;
-		}
+    img {
+      max-width: 100%;
+      vertical-align: middle;
+    }
 
-		pre {
-			background-color: #eee;
-			padding: 0.5rem;
-		}
+    pre {
+      background-color: #eee;
+      padding: 0.5rem;
+    }
 
-		summary {
-			cursor: pointer;
-			font-size: 1.5rem;
-			font-weight: bold;
-			outline: none;
-		}
+    summary {
+      cursor: pointer;
+      font-size: 1.5rem;
+      font-weight: bold;
+      outline: none;
+    }
 
-		::-webkit-scrollbar {
-			background: #333;
-		}
+    ::-webkit-scrollbar {
+      background: #333;
+    }
 
-		::-webkit-scrollbar-thumb {
-			background: crimson;
-		}
+    ::-webkit-scrollbar-thumb {
+      background: #880000;
+    }
 
-		/* read me footer */
-		.aDingbat {
-			text-decoration: none;
-			font-size: 2rem;
-		}
+    /* read me footer */
+    .aDingbat {
+      text-decoration: none;
+      font-size: 2rem;
+    }
 
-		.iframe-resize {
-			height: 400px;
-			overflow: hidden;
-			padding: 0.5rem;
-			resize: both;
-			width: 100%;
-		}
-
-	</style>
+    .iframe-resize {
+      height: 400px;
+      overflow: hidden;
+      padding: 0.5rem;
+      resize: both;
+      width: 100%;
+    }
+  </style>
 
 </head>
 
 <body>
-	<!-- https://github.com/showdownjs/showdown -->
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 
-	<div id=divContent></div>
+  <div id=divContent></div>
 
-	<script>
+  <script>
 
-		defaultFile = "README.md";
+    const defaultFile = "README.md";
+    //const defaultFile = "test.md";
 
-		//location.hash = ""; // test
-		//location.hash = "../style/style-sample-tags.html"
+    // Set the flavor of the Markdown converter
+    showdown.setFlavor( "github" );
 
-		init();
+    // If there's no hash in the URL, set it to the default file
+    if ( !location.hash ) {
+      location.hash = defaultFile;
+    }
 
-		function init () {
+    // If the hash ends with ".md", call onHashChange. Otherwise, navigate to the URL specified by the hash
+    if ( location.hash.endsWith( ".md" ) ) {
+      onHashChange();
+    } else {
+      window.location.href = location.hash.slice( 1 );
+    }
 
-			showdown.setFlavor( "github" );
+    // Listen for changes to the hash in the URL
+    window.addEventListener( "hashchange", onHashChange, false );
 
-			if ( !location.hash ) { location.hash = defaultFile; }
+    // If the page is loaded over HTTPS, remove the hash from the URL
+    if ( location.protocol === "https:" ) {
+      window.history.pushState( "", "", "./" + location.hash );
+    }
 
-			location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash.slice( 1 );
+    function onHashChange () {
 
-			window.addEventListener( "hashchange", onHashChange, false );
+      // If the hash doesn't include a ".", it's probably an internal link, so do nothing
+      if ( !location.hash.includes( "." ) ) {
+        return;
+      }
 
-			if ( location.protocol === "https:" ) {
+      // Get the URL from the hash and update the document title
+      const url = location.hash.slice( 1 );
 
-				window.history.pushState( "", "", "./" + location.hash );
+      setDocumentTitle( url );
 
-			}
+      // Set the options for the Markdown converter
+      const options = {
+        backslashEscapesHTMLTags: true,
+        completeHTMLDocument: false,
+        disableForced4SpacesIndentedSublists: true,
+        emoji: true,
+        excludeTrailingPunctuationFromURLs: true,
+        ghMention: true,
+        noHeaderId: true,
+        openLinksInNewWindow: false,
+        simplifiedAutoLink: true,
+        simpleLineBreaks: true,
+        smoothLivePreview: true,
+        strikethrough: true,
+        tasklists: true,
+      };
 
-		}
+      // Fetch the file and update the page content
+      fetchFile( url, options );
+
+    }
 
 
-		function onHashChange () {
+    function setDocumentTitle ( url ) {
 
-			// if no file extension then probably an internal link
-			if ( !location.hash.includes( "." ) ) { return; }
+      const title = url.split( "/" ).pop()
+        .split( "-" )
+        .filter( word => word.length > 0 )
+        .map( word => word.charAt( 0 ).toUpperCase() + word.slice( 1 ) )
+        .join( " " );
 
-			const url = location.hash.slice( 1 );
-			const txt = url.split( "/" ).pop();
-			let title = txt
-				.split( "-" )
-				.filter( x => x.length > 0 )
-				.map( ( x ) => ( x.charAt( 0 ).toUpperCase() + x.slice( 1 ) ) )
-				.join( " " );
-			document.title = title;
-			const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
+      document.title = title;
 
-			const xhr = new XMLHttpRequest();
-			xhr.open( "get", url, true );
-			xhr.onload = () => {
-				let txt = xhr.responseText;
-				txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
-				divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
-				window.scrollTo( 0, 0 );
-			};
-			xhr.send( null );
+    }
 
-		}
 
-	</script>
+    function fetchFile ( url, options ) {
+      fetch( url )
+        .then( response => response.text() )
+        .then( txt => {
+          txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@--\>/, "" );
+          divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
+          window.scrollTo( 0, 0 );
+        } )
+        .catch( err => console.error( "Error fetching file:", err ) );
+    }
+
+  </script>
 </body>
 
 </html>

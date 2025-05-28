@@ -7,8 +7,8 @@ const COR = {
     branch: "main",
     version: "2025-05-27",
     
-    menuTitle: "TooToo 2025",
-    menuTitleEdit: "TooToo Edit",
+    menuTitle: "Theo Pages",
+    menuTitleEdit: "T Pages Edit",
 
     // Used by GFO ~ github file open
     defaultFile: "README.md",
@@ -17,7 +17,7 @@ const COR = {
     pathApps: "./",
     pathContent: "../../",
 
-    filterFolders: [], //[ "code"],
+    filterFolders: ["tootoo"],
     ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
     urlBaseAPI: "https://api.github.com/repos/theo-armour/pages/contents/",

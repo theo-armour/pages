@@ -1,11 +1,11 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/pushme-pullyou/tootoo-2023/ "Source code on GitHub" ) [ TooToo 2023]( https://pushme-pullyou.github.io/2023/ "Home page" )
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/pushme-pullyou/tootoo-2025/ "Source code on GitHub" ) [ TooToo 2025]( https://pushme-pullyou.github.io/2025/ "Home page" )
 
 <!--  @@@
-<div class=iframe-resize ><iframe src= https://pushme-pullyou.github.io/tootoo-2023/ height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src= https://pushme-pullyou.github.io/tootoo-2025/ height=100% width=100% ></iframe></div>
 _"Templates Read Me" in a resizable window_
 @@@  -->
 
-## Full Screen: [TooToo 2023](  https://pushme-pullyou.github.io/tootoo-2023/ )
+## Full Screen: [TooToo 2025]( https://pushme-pullyou.github.io/tootoo-2025/ )
 
 
 ## Concept
@@ -27,11 +27,12 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
-* 2023-10-14 ~ Move tooToo 2023 to its own repo
-* 2023-10-14 ~ Fix history 404 errors
-* 2023-10-13 ~ Update relevant read me files
+* 2025-01-09 ~ replace grv with gfv (pp-assets/cookbook/github-files-view)
+* 2025-01-09 ~ Create simple file open script using readme.html
+* 2023-10-14 ~ Add tootoo to pushme-pullyou/assets
+* 2023-10-14 ~ Find text in file title
+* 2023-10-14 ~ Cursor keys to load next file in menu
 * 2023-10-13 ~ Check if follows Win11 light and dark mode
-* 2023-10-13 ~ Fix open as single file not working
 * 2023-10-13 ~ Add edit file and save to GitHub
 * 2023-10-13 ~ Hamburger menu that is out of the way
 
@@ -42,13 +43,31 @@ _"Templates Read Me" in a resizable window_
 
 
 ## Change Log
+### 2025-01-16
+
+* Latest TooToo copied from Heritage Happenings
 
 
-### 2023-10-13
+### 2025-01-11
 
-* Update
+* embedded menu code in the HTML file, dropped menu.js
+
+### 2025-01-10
+
+It's working according to the dream!
+
+* github-file-open.js ~ remake of my longstanding readme.html script is in and working
+* github-tree-view.js ~ GitHubCopilot remake of grv is in and working
+
+We now have a super simple Github Pages content management system!
+
+Is this a dream come true?
+
+
+
+### 2025-01-09 ~ First commit
 
 
 ***
 
-<a title="Hello! Click me to go up to the top" href=javascript:window.scrollTo(0,0); > ❦ </a>
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
