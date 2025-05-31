@@ -1,4 +1,11 @@
-# Oral Culture
+# Oral Culture ~ Orality
+
+## Orality
+
+## Walter J Ong
+
+* https://en.wikipedia.org/wiki/Walter_J._Ong
+* https://en.wikipedia.org/wiki/Walter_J._Ong#Orality_and_Literacy_(1982)
 
 
 ## Society trending oral/aural/visual
