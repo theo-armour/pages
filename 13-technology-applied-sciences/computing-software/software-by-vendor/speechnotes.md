@@ -10,6 +10,7 @@
 ## Speechnotes ~ Extension
 
 ### 2024-11-18
+
 * Not very flexible. Cannot change many preferences.
 * Does not work well in all areas as well as dicktanote/voice-im.
 
