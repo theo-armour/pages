@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="Get and put Markdown files to a private or public GitHub repo">
+	<meta name="date" content="2025-05-31">
+
+	<title>getPutFile2GitGub</title>
+
+	<style>
+		body {
+			border: 0px solid red;
+			box-sizing: border-box;
+			font: 100% monospace;
+			margin: 0;
+			max-width: 50rem;
+			padding: 0;
+		}
+
+		a {
+			cursor: pointer;
+			font-weight: bold;
+		}
+
+		p {
+			margin: 0 0 0.25rem 0;
+			padding: 0;
+		}
+
+		br {
+			margin: 0.5em 0;
+		}
+
+		ul {
+			margin: 0;
+			padding: 0 0 0 1rem;
+		}
+
+		li {
+			margin: 0;
+			padding: 0;
+		}
+
+		main h2 {
+
+			display: inline;
+			margin: 0;
+		}
+
+		h1 {
+			font-size: 150%;
+			margin: 0;
+			padding: 0;
+		}
+
+		h2 {
+			color: darkblue;
+			font-size: 120%;
+			margin: 0;
+			padding: 0;
+		}
+
+		h3 {
+			font-size: 100%;
+			color: maroon;
+			margin: 0;
+			padding: 0;
+		}
+
+		img {
+			max-width: 100%;
+			vertical-align: middle;
+		}
+
+		input {
+			vertical-align: middle;
+		}
+
+		summary {
+			cursor: pointer;
+			font-size: 1rem;
+			margin: 0;
+			padding: 0;
+		}
+
+		summary p {
+			margin: 0;
+			padding: 0;
+		}
+
+		.aDingbat {
+			text-decoration: none;
+			font-size: 1.5rem;
+		}
+
+		#header {
+			background: white;
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 1;
+		}
+
+		#divContent {
+			border: 1px solid #ccc;
+			margin: 25px 0 0 0;
+			padding: 0.25rem;
+			top: 25px;
+
+		}
+	</style>
+
+</head>
+
+<body>
+  <script src="../main.js"></script>
+	<main>
+
+		<div id="header">
+
+			<h2>
+				<a id=aSource href="https://github.com/theo-armour/qdata/tree/main/apps/notesy" target="_blank"
+					title="delSha/getSHA"><img src=https://pushme-pullyou.github.io/assets/svg/mark-github.svg></a>
+				<a href="" id="aPath" title="Click this menu title to reload the file">
+					<span id=spnTitle></span><span id=spnVersion></span></a>
+			</h2>
+
+			<div id=divMessage style=display:inline;>msg</div>
+
+
+		</div>
+
+		<div id="divContent" contenteditable="true"></div>
+
+		<center title="Hello! Click me to go up to the top">
+			<a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a>
+		</center>
+
+		<button id="saveButton" onclick="requestSync()">save</button>
+
+	</main>
+
+	<script>
+		// copyright 2025 Theo Armour. MIT license.
+
+		// [X]MLHTTPRequest [G]itHub [P]ush (COR)
+
+		init();
+
+		function init(hash = COR.defaultFileEdit ) {
+
+			hash = hash.replace( /@@/, ""); 
+
+			location.hash = location.hash ? location.hash : hash;
+			
+			//console.log("hash", hash);
+			
+			aPath.title = document.head.querySelector("[ name=date ]").content;
+
+			githubAccessToken();
+
+			window.addEventListener("hashchange", onHashChange, false);
+			
+			window.addEventListener("beforeunload", checkForChange);
+
+			divContent.addEventListener('blur', requestSync); // Changed from onBlur -> getSha to requestSync
+				
+		};
+
+
+		function githubAccessToken() {
+
+			COR.accessToken = localStorage.getItem("githubAccessToken") || "";
+
+			//console.log("COR.accessToken", COR.accessToken);
+
+			if (!COR.accessToken || COR.accessToken === "" || COR.accessToken === "null") {
+
+				COR.accessToken = prompt("Enter GitHub Personal Access Token");
+
+				localStorage.setItem("githubAccessToken", COR.accessToken);
+
+			}
+		}
+
+		function onHashChange(event) {
+
+			console.log( "onHashChange", parent.location.hash.slice(1));
+
+			//const hash = location.hash ? location.hash.slice(1) : COR.defaultFileEdit;
+			
+			//hash = parent.location.hash.slice(1);
+
+			COR.url = COR.urlBaseAPI + parent.location.hash.slice(3);
+			//console.log("COR.url", COR.url);
+
+			COR.fileName = COR.url.split("/").pop();
+			//console.log("onHashChange", COR.fileName);	
+
+			fetchMarkdown();
+
+		};
+
+
+		function checkForChange(event) {
+
+			if (divContent.innerText === COR.githubContent) { return; } // Compare with githubContent
+
+			if (!COR.url.endsWith("md")) return;
+
+			console.log("checkForChange", COR.fileName);
+
+			event.preventDefault();
+
+			event.returnValue = "";
+
+		};
+
+		function onBlur ( event ) {
+
+			if ( divContent.innerHTML === COR.content ) { return; }
+
+			if ( divContent.innerText.startsWith( "#" ) ) return;
+
+			if ( divContent.innerText.startsWith( "<" ) ) return;
+
+			divMessage.innerText += " onBlur";
+
+			getSha();
+
+		};
+
+
+		function fetchMarkdown ( event ) {
+
+			const xhr = new XMLHttpRequest();
+
+			xhr.open( "get", COR.url, true );
+			xhr.setRequestHeader( "Authorization", "token " + COR.accessToken );
+			xhr.responseType = "json";
+			xhr.onload = onLoad;
+			xhr.send( null );
+
+		}
+
+
+		function onLoad ( xhr ) { 
+			
+			//console.log( "xhr", xhr.target.response );
+
+			if ( xhr.status === 200 ) { return; }
+
+			// https://developer.mozilla.org/en-US/docs/Glossary/Base64#solution_1_%E2%80%93_escaping_the_string_before_encoding_it
+			// console.log( "content", xhr.target.response );
+
+			let content = decodeURIComponent( escape( window.atob( xhr.target.response.content ) ) );
+			content = content.replace( /\<!--@@@/, "" ).replace( /\@@@--\>/, "" );
+
+			divContent.innerText = content;
+
+			COR.content = divContent.innerHTML;
+
+			divMessage.innerText = `T:${ new Date().toLocaleString().slice( 11, -3 ) } B:${ content.length.toLocaleString() }`;
+
+			aSource.href = xhr.target.response.html_url;
+
+      		//console.log( "COR.url", COR.url );
+
+			aPath.href = COR.notesyURL + COR.url;
+
+			spnTitle.innerHTML = COR.url.split( "/" ).pop().split( "." ).shift();
+
+			document.title = spnTitle.innerText;
+
+      window.scrollTo( 0, 0 );
+
+		};
+
+
+		function autoSave() {
+
+			if (!COR.saveInterval) {
+				// Calls requestSync instead of getSha
+				COR.saveInterval = setInterval(requestSync, 15000); // 15 seconds
+
+			} else {
+
+				clearInterval(COR.saveInterval);
+				COR.saveInterval = null;
+
+			}
+
+		};
+
+
+		// Replaces getSha and putFileToGitHub with a new flow
+		function requestSync() {
+			const editorContent = divContent.innerText;
+
+			if (COR.isSyncing) {
+				//console.log("Sync already in progress. Aborting new request.");
+				divMessage.innerText = "Sync in progress... please wait.";
+				return;
+			}
+
+			if (editorContent === COR.githubContent) {
+				//console.log("No changes to sync.");
+				// Optionally update message: divMessage.innerText = "No changes to save.";
+				return;
+			}
+
+			if (!COR.url) {
+				alert("No file URL specified. Cannot save.");
+				return;
+			}
+			if (!COR.accessToken) {
+				alert("GitHub token not available. Please set it first (you might need to reload or use 'delSha' then reload).");
+				githubAccessToken(); // Attempt to get it again
+				if (!COR.accessToken) return;
+			}
+
+
+			COR.isSyncing = true;
+			divMessage.innerText = `Syncing ${COR.fileName}...`;
+			COR.lastSyncTime = Date.now();
+
+			// Step 1: Get the latest SHA for the file
+			const getShaXhr = new XMLHttpRequest();
+			getShaXhr.open("GET", COR.url, true);
+			getShaXhr.setRequestHeader("Authorization", "token " + COR.accessToken);
+			getShaXhr.responseType = "json";
+
+			getShaXhr.onload = () => {
+				if (getShaXhr.status === 200) {
+					COR.sha = getShaXhr.response.sha; // Update SHA to the latest
+					doPutContent(editorContent); // Proceed to save with the fresh SHA
+				} else if (getShaXhr.status === 404) {
+					// File might have been deleted, or it's a new file.
+					// For a new file, the SHA would be absent. GitHub's API for create file doesn't need SHA.
+					// For simplicity here, we'll assume if GET for SHA fails with 404, we might be creating.
+					// The PUT operation will create if file doesn't exist and no SHA is provided,
+					// OR update if SHA is provided and matches.
+					// If we get 404 here, it means the file doesn't exist. So, we shouldn't provide an COR.sha.
+					console.log("File not found when getting SHA. Attempting to create.");
+					COR.sha = ""; // No SHA for new file creation via PUT
+					doPutContent(editorContent);
+				} else {
+					alert(`Error getting file version from GitHub (Status ${getShaXhr.status}). Cannot save.\\n${getShaXhr.responseText}`);
+					divMessage.innerText = `Error preparing sync (SHA fetch failed ${getShaXhr.status})`;
+					COR.isSyncing = false;
+				}
+			};
+
+			getShaXhr.onerror = () => {
+				//alert("Network error while trying to get file version from GitHub. Cannot save.");
+				divMessage.innerText = "Network error (SHA fetch). Sync failed.";
+				COR.isSyncing = false;
+			};
+
+			getShaXhr.send(null);
+		}
+
+		function doPutContent(contentToSave) {
+			const codedData = window.btoa(unescape(encodeURIComponent(contentToSave)));
+
+			const bodyPayload = {
+				"branch": COR.branch,
+				"content": codedData,
+				"message": `${COR.commitMessage} (${COR.fileName})`
+			};
+
+			// Only include SHA if it exists (for updates). If COR.sha is empty/null, it's a create attempt.
+			if (COR.sha) {
+				bodyPayload.sha = COR.sha;
+			}
+
+			const body = JSON.stringify(bodyPayload);
+
+			const putXhr = new XMLHttpRequest();
+			putXhr.open("PUT", COR.url, true);
+			putXhr.setRequestHeader("Authorization", "token " + COR.accessToken);
+			putXhr.setRequestHeader("Content-Type", "application/json");
+
+			putXhr.onload = () => {
+				const responseStatus = putXhr.status;
+				const responseText = putXhr.responseText;
+
+				if (responseStatus === 200 || responseStatus === 201) { // 200 for update, 201 for create
+					COR.githubContent = contentToSave;
+					try {
+						const jsonResponse = JSON.parse(responseText);
+						COR.sha = jsonResponse.content.sha; // Update SHA from server response
+					} catch (e) {
+						console.error("Error parsing PUT response JSON:", e);
+						// SHA might not be updated if parsing fails, but content is saved.
+					}
+					divMessage.innerText = `Saved: ${COR.fileName} ${new Date().toLocaleString().slice(11, -3)} B:${COR.githubContent.length.toLocaleString()}`;
+				} else if (responseStatus === 409 || responseStatus === 422) { // Conflict or Unprocessable (often SHA mismatch)
+					alert("Save failed: The file has changed on GitHub, or there was a validation issue.\\n\\nPlease copy your current changes, refresh the page, then paste your changes and try saving again.");
+					divMessage.innerText = `Save failed (conflict/validation ${responseStatus}). File changed on server or invalid data.`;
+				} else if (responseStatus === 401 || responseStatus === 403) {
+					alert(`Save failed: GitHub Authorization error (Status ${responseStatus}).\\nYour GitHub token might be invalid or expired. Please try deleting the token (delSha button) and re-entering it.`);
+					divMessage.innerText = `Save failed (Authorization Error ${responseStatus})`;
+				} else {
+					alert(`Save failed: GitHub API returned status ${responseStatus}.\\n${responseText}`);
+					divMessage.innerText = `Save failed (error ${responseStatus})`;
+				}
+				COR.isSyncing = false;
+				COR.lastSyncTime = Date.now(); // Update regardless of success to prevent rapid retries if issue persists
+			};
+
+			putXhr.onerror = () => {
+				alert("Save failed: Network error or unable to connect to GitHub to save the file.");
+				divMessage.innerText = "Save failed (network error)";
+				COR.isSyncing = false;
+				COR.lastSyncTime = Date.now();
+			};
+
+			putXhr.send(body);
+		}
+
+	</script>
+
+</body>
+
+</html>

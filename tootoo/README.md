@@ -35,7 +35,6 @@ _"Templates Read Me" in a resizable window_
 * View the file in a new tab
 
 
-
 ## Text you can include in read me files
 
 <details open >
@@ -52,11 +51,12 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
+* 2025-05-31 ~ toggle between edit and view mode
+* 2025-05-29 ~ date sorting folders are identified in COR{}
+* 2025-05-29 ~ Add new file
 * 2025-05-25 ~ omitting the date from the file name in the menu, and adding the date to the file title
-* 2025-05-25 ~ sort folders with files staring with dates with newest st op
 * 2025-05-20 ~ Add a button to open files by going directly to repo and not using Pages ~ do pages without Pages!?!
 * 2023-10-14 ~ Find text in files
-* 2023-10-14 ~ Cursor keys to load next file in menu
 * 2023-10-13 ~ Check if follows Win11 light and dark mode
 
 
@@ -69,6 +69,41 @@ _"Templates Read Me" in a resizable window_
 * ?
 
 ## Change Log
+
+### 2025-05-31
+
+* Clean-up & refactor
+* 2023-10-14 ~ Cursor keys to load next file in menu
+
+#### prompt
+
+Suggest further improvements, retaining the notion that the project is intended to be as simple as possible, and given that the project operates in a known and well-maintained environment, it requires only the minimum of error checking, if any
+
+#### Prompt
+
+On the tree view menu, add the capability to open and view the next or previous file in the menu using the cursor keys.
+
+#### prompt
+
+currently there is a toggle to open or close all the details tags in the tree view. 
+
+Improve this by adding a right-click menu to toggle between opening and closing all the sub-folders of the currently selected details tag in the tree view.
+
+worked!
+
+#### prompt: 
+
+Add a function that scales the text size larger and smaller of of all the item in the menu and body, including the tree view, using two buttons, one to increase the text size and one to decrease it.
+
+Worked!
+
+### 2025-05-29
+
+* 2025-05-25 ~ sort folders with files staring with dates with newest at top
+
+Prompt, this worked!
+
+on a hash change make sure its associated "file-container" menu item for that item is visible by setting all its parent details to open. Do this in the simplest way possible, by using the "open" attribute of the details tag.
 
 ### 2025-05-26
 
