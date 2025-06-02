@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="description" content="Get and put Markdown files to a private or public GitHub repo">
-	<meta name="date" content="2025-05-31">
+	<meta name="date" content="2025-06-01">
 
 	<title>getPutFile2GitGub</title>
 
@@ -115,7 +115,8 @@
 </head>
 
 <body>
-  <script src="../main.js"></script>
+	<script src="../../config.js"></script>
+	<script src="../main.js"></script>
 	<main>
 
 		<div id="header">
@@ -149,24 +150,24 @@
 
 		init();
 
-		function init(hash = COR.defaultFileEdit ) {
+		function init(hash = COR.defaultFileEdit) {
 
-			hash = hash.replace( /@@/, ""); 
+			hash = hash.replace(/@@/, "");
 
 			location.hash = location.hash ? location.hash : hash;
-			
+
 			//console.log("hash", hash);
-			
+
 			aPath.title = document.head.querySelector("[ name=date ]").content;
 
 			githubAccessToken();
 
 			window.addEventListener("hashchange", onHashChange, false);
-			
+
 			window.addEventListener("beforeunload", checkForChange);
 
 			divContent.addEventListener('blur', requestSync); // Changed from onBlur -> getSha to requestSync
-				
+
 		};
 
 
@@ -187,10 +188,10 @@
 
 		function onHashChange(event) {
 
-			console.log( "onHashChange", parent.location.hash.slice(1));
+			console.log("onHashChange", parent.location.hash.slice(1));
 
 			//const hash = location.hash ? location.hash.slice(1) : COR.defaultFileEdit;
-			
+
 			//hash = parent.location.hash.slice(1);
 
 			COR.url = COR.urlBaseAPI + parent.location.hash.slice(3);
@@ -218,13 +219,13 @@
 
 		};
 
-		function onBlur ( event ) {
+		function onBlur(event) {
 
-			if ( divContent.innerHTML === COR.content ) { return; }
+			if (divContent.innerHTML === COR.content) { return; }
 
-			if ( divContent.innerText.startsWith( "#" ) ) return;
+			if (divContent.innerText.startsWith("#")) return;
 
-			if ( divContent.innerText.startsWith( "<" ) ) return;
+			if (divContent.innerText.startsWith("<")) return;
 
 			divMessage.innerText += " onBlur";
 
@@ -233,48 +234,48 @@
 		};
 
 
-		function fetchMarkdown ( event ) {
+		function fetchMarkdown(event) {
 
 			const xhr = new XMLHttpRequest();
 
-			xhr.open( "get", COR.url, true );
-			xhr.setRequestHeader( "Authorization", "token " + COR.accessToken );
+			xhr.open("get", COR.url, true);
+			xhr.setRequestHeader("Authorization", "token " + COR.accessToken);
 			xhr.responseType = "json";
 			xhr.onload = onLoad;
-			xhr.send( null );
+			xhr.send(null);
 
 		}
 
 
-		function onLoad ( xhr ) { 
-			
+		function onLoad(xhr) {
+
 			//console.log( "xhr", xhr.target.response );
 
-			if ( xhr.status === 200 ) { return; }
+			if (xhr.status === 200) { return; }
 
 			// https://developer.mozilla.org/en-US/docs/Glossary/Base64#solution_1_%E2%80%93_escaping_the_string_before_encoding_it
 			// console.log( "content", xhr.target.response );
 
-			let content = decodeURIComponent( escape( window.atob( xhr.target.response.content ) ) );
-			content = content.replace( /\<!--@@@/, "" ).replace( /\@@@--\>/, "" );
+			let content = decodeURIComponent(escape(window.atob(xhr.target.response.content)));
+			content = content.replace(/\<!--@@@/, " ).replace /\@@@--\>/, " );
 
 			divContent.innerText = content;
 
 			COR.content = divContent.innerHTML;
 
-			divMessage.innerText = `T:${ new Date().toLocaleString().slice( 11, -3 ) } B:${ content.length.toLocaleString() }`;
+			divMessage.innerText = `T:${new Date().toLocaleString().slice(11, -3)} B:${content.length.toLocaleString()}`;
 
 			aSource.href = xhr.target.response.html_url;
 
-      		//console.log( "COR.url", COR.url );
+			//console.log( "COR.url", COR.url );
 
 			aPath.href = COR.notesyURL + COR.url;
 
-			spnTitle.innerHTML = COR.url.split( "/" ).pop().split( "." ).shift();
+			spnTitle.innerHTML = COR.url.split("/").pop().split(".").shift();
 
 			document.title = spnTitle.innerText;
 
-      window.scrollTo( 0, 0 );
+			window.scrollTo(0, 0);
 
 		};
 

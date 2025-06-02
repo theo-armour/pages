@@ -21,7 +21,7 @@ const COR = {
 
   urlBaseAPI: `https://api.github.com/repos/${CONFIG.user}/${CONFIG.repo}/contents/`,
   urlSource: `https://github.com/${CONFIG.user}/${CONFIG.repo}/tree/main/`,
-  urlPathApps: `https://${CONFIG.user}.github.io/tootoo/`,
+  urlPathApps: `https://${CONFIG.user}.github.io/${folder}/tootoo/`,
   urlPathContent: `https://${CONFIG.user}.github.io/${folder}/`,
   urlPushPath: `https://${CONFIG.user}.github.io/${folder}/`,
 

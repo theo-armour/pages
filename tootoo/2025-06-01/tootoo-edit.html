@@ -140,6 +140,9 @@
   <!-- https://showdownjs.com/docs/available-options/ -->
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script src="../config.js"></script>  <script src="./main.js"></script>
+  <script src="./gtv-e/github-tree-view-edit.js"></script>
+  <script src="./gfo/github-file-open.js"></script>
 
   <div id=divShowHide>
 
@@ -218,11 +221,6 @@
 
   </main>
 
-  <script src="../config.js"></script>
-  <script src="./main.js"></script>
-  <script src="./gtv-e/github-tree-view-edit.js"></script>
-  <script src="./gfo/github-file-open.js"></script>
-
   <script>
 
     init();    
@@ -239,7 +237,7 @@
 
       if (location.protocol === "https:") {
 
-        window.history.pushState("", "", COR.urlPushPath + "edit/" + location.hash);
+        window.history.pushState("", "", COR.urlPushPath + "tootoo/edit/" + location.hash);
 
       }
 
