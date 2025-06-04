@@ -7,7 +7,7 @@ Another of organizing the world's knowledge is by topic.
 
 ## A
 
-* https://en.wikipedia.org/wiki/Academicydiscipline
+* https://en.wikipedia.org/wiki/Academic_discipline
 
 
 
