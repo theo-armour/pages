@@ -43,7 +43,7 @@ _"Templates Read Me" in a resizable window_
 
 * Click the three bars('hamburger menu icon' ) to slide the menu in and out
 * Click the GitHub Octocat icon to view or edit the source code on GitHub
-* Click on title to reload te page
+* Click on title to reload the page
 * Press Control-U/Command-Option-U to view the source code
 * Press Control-Shift-J/Command-Option-J to see if the JavaScript console reports any errors
 
@@ -51,15 +51,17 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
-* 2025-06-04 ~ click anywhere to toggle the menu visibility
-* 2025-05-31 ~ toggle between edit and view mode
+
+* 2025-06-04 ~ Edit and View: both on same file
+* 2025-06-04 ~ start tips & tricks page
+* 2025-06-04 ~ add edit in two+ divs
+* 2025-06-04 ~ Add sort files by two numbers at front of filename
 * 2025-05-29 ~ date sorting folders are identified in COR{}
 * 2025-05-29 ~ Add new file
 * 2025-05-25 ~ omitting the date from the file name in the menu, and adding the date to the file title
 * 2025-05-20 ~ Add a button to open files by going directly to repo and not using Pages ~ do pages without Pages!?!
 * 2023-10-14 ~ Find text in files
 * 2023-10-13 ~ Check if follows Win11 light and dark mode
-
 
 ## Issues
 
@@ -70,6 +72,17 @@ _"Templates Read Me" in a resizable window_
 * ?
 
 ## Change Log
+
+### 2025-06-04
+
+Done
+
+* Styles cleaned up and refactored
+* Pencil toggles between edit and view apps
+* Right click toggle folders open and closed
+* Breadcrumbs added
+* 2025-06-04 ~ click anywhere to toggle the menu visibility
+* 2025-05-31 ~ toggle between edit and view mode
 
 ### 2025-05-31
 

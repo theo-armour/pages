@@ -26,7 +26,7 @@ const COR = {
   urlPushPath: `https://${CONFIG.user}.github.io/${folder}/`,
 
   iconExternalLink: "<img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >",
-  iconGitHub: "https://pushme-pullyou.github.io/assets/svg/mark-github.svg",
+  iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg" width=16 >`,
   iconInfo: "https://pushme-pullyou.github.io/assets/svg/noun_Information_585560.svg",
   iconOpenClose: "https://pushme-pullyou.github.io/assets/svg/open-close-toggle.svg",
   iconPencil: "https://pushme-pullyou.github.io/assets/svg/noun_pencil_803320.svg",

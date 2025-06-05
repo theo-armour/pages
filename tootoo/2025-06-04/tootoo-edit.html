@@ -57,7 +57,7 @@
       /* padding: 0 var( --margin); */
       /* width */
       background-color: var(--color-1-background);
-      border: 8px solid #00f;
+      border: 8px solid var(--color-2-text);
       border-radius: var(--margin);
       left: 0.25rem;
       height: calc(100vh - 2rem);
@@ -70,17 +70,20 @@
       z-index: 1;
     }
 
-
     #divNavTreeView {
-      border: 2px blue solid;
+      border: 2px solid --color-2-text;
     }
 
     #main {
-      border: 0px solid red;
       left: 20rem;
       position: absolute;
       top: 1rem;
       width: 25rem;
+    }
+
+    #divMainContent {
+      border: 1px solid #888;
+      padding: 1rem;
     }
 
     .iframe-resize {

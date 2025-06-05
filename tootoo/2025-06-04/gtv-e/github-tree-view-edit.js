@@ -2,7 +2,6 @@ const user = COR.user;
 const repo = COR.repo;
 const branch = COR.branch;
 
-
 const filterFolders = []; //COR.filterFolders;
 const ignoreFiles = []; //COR.ignoreFiles;
 
@@ -58,7 +57,7 @@ async function fetchGitHubRepoContents(user, repo) {
       fileSource.href = COR.urlSource + item.path;
       fileSource.title = "Source code on GitHub"
       fileSource.target = "_blank"
-      //console.log( "fileSource", fileSource );
+      console.log( "fileSource", fileSource );
 
       const editmeLink = document.createElement('a');
       if (/\.(md|txt|ini)$/i.test(item.path)) {
@@ -115,7 +114,7 @@ function setFileVisible() {
 
   //hash = location.hash
   const fileContainers = document.querySelectorAll('.file-container');
-  //console.log("fileContainers", fileContainers);
+  console.log("fileContainers", fileContainers);
   for (const container of fileContainers) {
     const link = container.querySelector('a');
     if (link && link.getAttribute('href') === '#' + location.hash.slice(1)) {

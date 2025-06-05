@@ -8,7 +8,7 @@
   <meta name="description"
     content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
   <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-  <meta name="version" content="2025-05-27">
+  <meta name="version" content="2025-06-04">
   <meta name="author" content="Theo Armour">
   <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025/tree/main/tootoo">
 
@@ -37,11 +37,11 @@
     .top-level-folder>summary {
       background: #eee;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+      border-left: 4px solid #888;
       border-radius: 6px;
       margin: 8px 10px;
       padding: 5px 10px;
       transition: all 0.3s ease;
-      border-left: 4px solid #888;
     }
 
     .top-level-folder>summary:hover {
@@ -84,13 +84,13 @@
       background-color: var(--color-1-background);
       border: 1px solid #8ff;
       border-radius: var(--margin);
-      left: 0.25rem;
       height: calc(100vh - 2rem);
+      left: 0.25rem;
+      overflow: auto;
       padding: var(--margin);
       position: fixed;
-      top: 0.5rem;
-      overflow: auto;
       resize: both;
+      top: 0.5rem;
       width: var(--mnu-width);
       z-index: 1;
     }
@@ -119,6 +119,7 @@
 
 <body>
 
+  <script src="../../config.js"></script>
   <script src="../main.js"></script>
   <script src="./github-tree-view-edit.js"></script>
 
