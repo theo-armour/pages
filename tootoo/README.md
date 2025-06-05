@@ -51,6 +51,7 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
+* 2025-06-04 ~ click anywhere to toggle the menu visibility
 * 2025-05-31 ~ toggle between edit and view mode
 * 2025-05-29 ~ date sorting folders are identified in COR{}
 * 2025-05-29 ~ Add new file
