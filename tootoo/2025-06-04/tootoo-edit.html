@@ -182,9 +182,7 @@
           <button id="btnIncreaseText" onclick="adjustTextSize(0.1)" style="font-size: 1.2rem;"
             title="Increase text size">A+</button>
           <button id="btnResetText" onclick="resetTextSize()" style="font-size: 1rem;"
-            title="Reset text size">A</button>
-          &nbsp;
-          <a style="display: none;font-size: 1.5rem;" id=pencil href="./tootoo-edit.html">✎</a>
+            title="Reset text size">A</button> <a style="display: none;font-size: 1.5rem;" id=pencil href="./tootoo-edit.html">✎</a>
 
         </div>
 
@@ -231,7 +229,7 @@
     function init() {
 
       // Load saved text scale
-      loadTextScale();
+      loadTextScale(); //main.js
 
       pencil.href = COR.pathApps + "tootoo.html";
 
@@ -240,33 +238,25 @@
       document.getElementById("aSource").href = COR.urlSource;
       main.title = document.querySelector("[ name=version ]").content;
 
-      if (location.protocol === "https:") {
-
-        window.history.pushState("", "", COR.urlPushPath + "tootoo/edit/" + location.hash);
-
-      }
-
       COR.accessToken = localStorage.getItem("githubAccessToken") || "";
       if (COR.accessToken) { pencil.style.display = "block"; }
 
+      // Initialize breadcrumb
+      updateBreadcrumb('');
+
       if (window.innerWidth < 800 || window.innerHeight < 500) {
 
-        sumNavMenu.hidden = false;
         detNavMenu.open = false;
-        main.style.width = "100%";
+        sumNavMenu.hidden = false;
 
       } else {
 
-        const value = window.getComputedStyle(document.documentElement).getPropertyValue('--mnu-width');
-        //console.log( "value", value );
-        detNavMenu.style.width = value;
-        detNavMenu.style.maxWidth = "50%";
         detNavMenu.open = true;
-        //navMenu.hidden = false;
         sumNavMenu.hidden = true;
 
       }
 
+      // onHashChange > github-file-open.js
       window.addEventListener("hashchange", onHashChange, false);
 
       location.hash = location.hash ? location.hash : COR.defaultFile;
