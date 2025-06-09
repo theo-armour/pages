@@ -32,6 +32,11 @@ Cool GitHub Tricks to Make You Look Like A Senior Developer
 * https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 * https://github.blog/2020-04-02-github-protips-tips-tricks-hacks-and-secrets-from-vitor-monteiro/
 
+### Rename folder
+
+* Edit a file in the folder
+* Edit filename
+* Backspace through the folders
 
 ## Git.io: GitHub URL Shortener
 
@@ -56,7 +61,8 @@ Cool GitHub Tricks to Make You Look Like A Senior Developer
 * https://stackoverflow.com/questions/38675829/how-to-create-releases-for-public-or-private-repository-in-github
 
 
-Tips
+
+### Release Tip
 
 * Right click on Latest Release and copy the URL to share it. The suffix of this URL is always /releases/latest.
 
