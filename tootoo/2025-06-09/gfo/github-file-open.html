@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>GFO</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-06-07">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025">
+
+  <style>
+    /* Copyright 2025 Theo Armour. MIT License */
+
+    :root {
+      font: 100% monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0 auto;
+      max-width: 50rem;
+      margin: 0;
+    }
+
+    img {
+      max-width: 100%;
+      vertical-align: middle;
+    }
+
+    #divMainContent {
+      border: 1px solid red;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+    .iframe-resize {
+      height: 400px;
+      overflow: hidden;
+      padding: 0.5rem;
+      resize: both;
+      width: 100%;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script src="../../config.js"></script>
+  <script src="../main.js"></script>
+  <script src="github-file-open.js"></script>
+
+  <h1>test GitHub File Open</h1>
+  <div id="tests"></div>
+
+  <div>
+    <button onclick=parent.location.hash="">clear hash</button>
+    <button onclick=delSha()>delSha</button>
+  </div>
+  <div id="divMessage"></div>
+  <div id=divMainContent></div>
+
+  <script>
+
+    // for testing
+
+    location.hash = "";
+
+    if (location.protocol === "https:") {
+
+    } else {
+
+      COR.pathApps = "../";
+      COR.pathContent = "../../";
+
+    }
+
+    COR.base = "https://api.github.com/repos/pushme-pullyou/tootoo-2025/contents/";
+    COR.divContent = divMainContent;
+
+    if (location.protocol === "https:") {
+
+      window.history.pushState("", COR.urlPushPath + location.hash);
+
+    }
+
+    window.addEventListener("hashchange", onHashChange, false);
+
+    location.hash = location.hash ? location.hash : COR.defaultFileEdit;
+
+    function setFileVisible() { };
+
+  </script>
+
+  <script>
+
+    //"test-cases/",
+    const files = [
+      "README.md",
+      "@@README.md",
+      "LICENSE",
+      "favicon.ico",
+      "test.md",
+      "@@test.md",
+      "text-to-hack.md",
+      "@@text-to-hack.md",
+      "test-cases/desktop.ini",
+      "@@test-cases/desktop.ini",
+      "test-cases/heritage-front.jpg",
+      "test-cases/snippets.txt",
+
+    ];
+
+    let testCases = "tests: ";
+
+    for (let index = 0; index < files.length; index++) {
+
+      testCases += `<button onclick=testFiles(${index})>${files[index]}</button>`;
+
+    }
+
+    tests.innerHTML = testCases;
+
+    const testFiles = (index) => location.hash = files[index];
+
+    const delSha = () => localStorage.setItem("githubAccessToken", "");
+
+  </script>
+
+</body>
+
+</html>

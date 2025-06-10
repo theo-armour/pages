@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/pushme-pullyou/tootoo-2025/ "Source code on GitHub" ) [ TooToo 2025]( https://pushme-pullyou.github.io/2025/ "Home page" )
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/pushme-pullyou/tootoo-2025/ "Source code on GitHub" ) [ TooToo 2025]( https://pushme-pullyou.github.io/tootoo-2025/ "Home page" )
 
 <!-- @@@
 <div class=iframe-resize ><iframe src= https://pushme-pullyou.github.io/tootoo-2025/ height=100% width=100% ></iframe></div>
@@ -51,17 +51,17 @@ _"Templates Read Me" in a resizable window_
 
 ## To Do / Wish List
 
-
-* 2025-06-04 ~ Edit and View: both on same file
+* 2025-06-09 ~ Ignore all index.html files
 * 2025-06-04 ~ start tips & tricks page
-* 2025-06-04 ~ add edit in two+ divs
 * 2025-06-04 ~ Add sort files by two numbers at front of filename
+* 2025-06-09 ~ GitHub icon links to actual file not just repo 
 * 2025-05-29 ~ date sorting folders are identified in COR{}
 * 2025-05-29 ~ Add new file
 * 2025-05-25 ~ omitting the date from the file name in the menu, and adding the date to the file title
 * 2025-05-20 ~ Add a button to open files by going directly to repo and not using Pages ~ do pages without Pages!?!
 * 2023-10-14 ~ Find text in files
 * 2023-10-13 ~ Check if follows Win11 light and dark mode
+
 
 ## Issues
 
@@ -73,7 +73,7 @@ _"Templates Read Me" in a resizable window_
 
 ## Change Log
 
-### 2025-06-04
+### 2025-06-09
 
 Done
 

@@ -1,0 +1,374 @@
+/* Copyright 2025 Theo Armour. MIT License */
+
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+
+:root {
+  font-size: 100%;
+  /* updated at run time ~ see config.sys */
+  --mnu-width: 20rem; 
+  /*  updated at run time ~ 0 to 360 10=red 120=green 240=blue */
+  --main-hue: 10;
+  --margin: 0.5rem;
+  --saturation: 89%;
+  --lightness0: 1%;
+  --lightness1: 20%;
+  --lightness2: 30%;
+  --lightness3: 50%;
+  --lightness4: 80%;
+  --lightness5: 99.9%;
+  --color-active: #ee0;
+  --color-0-background: #fff;
+  --color-1-text: hsl(var(--main-hue), var(--saturation), 1%);
+  --color-1-background: hsl(var(--main-hue), var(--saturation), 99.9%);
+  --color-2-text: hsl(var(--main-hue), var(--saturation), 30%);
+  --color-2-background: hsl(var(--main-hue), var(--saturation), 90%);
+  --color-3-text: hsl(var(--main-hue), var(--saturation), 40%);
+  --color-3-background: hsl(var(--main-hue), var(--saturation), 95%);
+  --color-4-text: hsl(var(--main-hue), var(--saturation), 40%);
+  --color-4-background: hsl(var(--main-hue), var(--saturation), 98%);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  scroll-behavior: smooth;
+}
+
+/* html tags in abc order */
+
+body {
+  /* background-color: var(--color-0-background); */
+  color: var(--color-1-text);
+  /* margin: 0; */
+}
+
+a {
+  color: var(--color-2-text);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  background-color: var(--color-active);
+  color: var(--color-2-text);
+  text-decoration: underline;
+}
+
+header h1 {
+  color: var(--color-2-text);
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+header h1 .title-link {
+  background-color: var(--color-2-background);
+  border-left: 4px solid var(--color-2-text);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  padding: 8px 12px; 
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+header h1 .title-link a {
+  color: var(--color-2-text);
+  text-decoration: none;
+}
+
+header h1 .title-link:hover {
+  background: linear-gradient(135deg, #ffe0e0 0%, var(--color-2-text) 200%);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+img {
+  max-width: 100%;
+}
+
+
+/* Classes */
+
+.active {
+  background-color: var(--color-3-background);
+}
+
+.aDingbat {
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+.iframe-resize {
+  height: 95vh;
+  overflow: hidden;
+  padding: 0.5rem;
+  resize: both;
+  width: 100%;
+}
+
+/* IDs in alphabetical order */
+
+#imgGitHub {
+  background-color: white;
+  border-radius: 50%;
+  /* box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1); */
+  height: 25px;
+  margin-right: 8px;
+  padding: 2px;
+  /* position: relative; */
+  vertical-align: middle;
+  width: 25px;
+}
+
+
+/* Navigation from top to bottom */
+
+#detNavMenu {
+  z-index: 1;
+}
+
+#sumNavMenu {
+  background-color: var(--color-1-background);
+  border: 2px solid var(--color-3-text);
+  border-radius: var(--margin);
+  color: var(--color-3-text);
+  cursor: pointer;
+  font-size: 120%;
+  outline: none;
+  padding: var(--margin);
+  position: fixed;
+  right: var(--margin);
+  /* display: none; */
+  top: var(--margin);
+  z-index: 2;
+}
+
+#navMenu {
+  background-color: var(--color-1-background);
+  border: 1px solid var(--color-3-text);
+  border-radius: var(--margin);
+  left: var(--margin);
+  max-height: calc(100vh - 2rem);
+  /* max-width: 35%; */
+  padding: var(--margin);
+  overflow: auto;
+  position: fixed;
+  resize: both;
+  top: var(--margin);
+  width: var(--mnu-width);
+  z-index: 1;
+}
+
+
+/* Tree View Menu Specials */
+
+#divNavTreeView a:focus {
+  /* Specific styling for focused navigation links */
+  background-color: var(--color-active) !important;
+  color: var(--color-2-text) !important;
+  outline: 2px solid var(--color-active);
+  outline-offset: 2px;
+  text-decoration: underline !important;
+}
+
+/* Top level summary elements start at 16pt */
+div div>.folder-contents>details>summary {
+  background-color: var(--color-2-background);
+  border-left: 4px solid var(--color-2-text);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 16pt;
+  padding: 5px 10px;
+  margin: 0 0 10px 0px;
+  transition: all 0.3s ease;
+}
+
+div div>.folder-contents>details>summary:hover {
+  background: linear-gradient(135deg, #ffe0e0 0%, var(--color-2-text) 300%);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+/* First level of nesting */
+.folder-contents>details>.folder-contents>details>summary {
+  background-color: #ddd;
+  font-size: 16pt;
+  margin: 1px 0 1px 10px;
+}
+
+/* Second level of nesting */
+.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+  background-color: #e8e8e8;
+  font-size: 15pt;
+  margin: 1px 0 1px 20px;
+}
+
+/* Third level of nesting */
+.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+  background-color: transparent;
+  font-size: 14pt;
+  margin-left: 30px;
+}
+
+/* Fourth level of nesting and beyond */
+.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+  font-size: 12pt;
+  margin-left: 30px;
+}
+
+.file-container {
+  margin: 0 0 6px 0;
+}
+
+/* Content */
+
+#main {
+  border: 0px solid red;
+  /* height: 100vh; */
+  left: calc(var(--mnu-width) + 5rem);
+  max-width: 30rem;
+  position: absolute;
+  top: 0;
+  width: calc(100% - var(--mnu-width) - 2rem);
+}
+
+/* Breadcrumb Navigation */
+#divMessage {
+  background-color: var(--color-4-background);
+  border-left: 3px solid var(--color-2-text);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0.75rem;
+}
+
+.breadcrumb {
+  color: var(--color-2-text);
+  display: inline-block;
+}
+
+.breadcrumb-separator {
+  color: var(--color-3-text);
+  margin: 0 0.5rem;
+}
+
+.breadcrumb-link {
+  color: var(--color-2-text);
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  background-color: var(--color-active);
+  text-decoration: underline;
+}
+
+.breadcrumb-current {
+  color: var(--color-1-text);
+  font-weight: bold;
+}
+
+/* scroll bars */
+
+body::-webkit-scrollbar,
+#navMenu::-webkit-scrollbar,
+.select-resize::-webkit-scrollbar {
+  width: 1.25rem;
+  /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track,
+#navMenu::-webkit-scrollbar-track,
+.select-resize::-webkit-scrollbar-track {
+  background: var(--color-0-background);
+  /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb,
+#navMenu::-webkit-scrollbar-thumb,
+.select-resize::-webkit-scrollbar-thumb {
+  background-color: var(--color-2-background);
+  /* color of the scroll thumb */
+  border-radius: var(--margin);
+  /* roundness of the scroll thumb */
+  border: 3px solid var(--color-0-background);
+  /* creates padding around scroll thumb */
+}
+
+/* Context menu styles */
+.context-menu {
+  position: fixed;
+  background: var(--color-1-background);
+  border: 1px solid var(--color-2-background);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  color: var(--color-1-text);
+  font-size: 0.9rem;
+  min-width: 180px;
+  padding: 4px 0;
+  display: none;
+  z-index: 1000;
+}
+
+.context-menu-item {
+  border-bottom: 1px solid var(--color-2-background);
+  cursor: pointer;
+  padding: 10px 16px;
+  user-select: none;
+  transition: all 0.2s ease;
+}
+
+.context-menu-item:last-child {
+  border-bottom: none;
+}
+
+.context-menu-item:hover {
+  background-color: var(--color-3-background);
+  color: var(--color-3-text);
+}
+
+.context-menu-item:active {
+  background-color: var(--color-2-background);
+}
+
+/* Mobile */
+
+@media all and (max-width: 800px) {
+
+  #main {
+    left: 0;
+    padding: var(--margin);
+    width: 100%;
+  }
+
+  #navMenu {
+    display: block;
+    margin-top: 1.5rem;
+    max-width: 75%;
+    width: var(--mnu-width);
+  }
+
+}
+
+@media all and (max-height: 500px) {
+
+  #main {
+    left: 0;
+    padding: var(--margin);
+    width: 100%;
+  }
+
+  #navMenu {
+    display: block;
+    margin-top: 1.5rem;
+    max-width: 75%;
+    width: var(--mnu-width);
+  }
+
+}
