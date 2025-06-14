@@ -428,9 +428,22 @@ She is not going to saw off the branch she is standing on. p76
 
 Socrates is relentlessly consistent in prioritizing definition over praise. footnote p76
 
-## Chapter 3: Savage Commands p77
 
-These commands are savage, employing the tools of the torturer. Fear, pain, fear, but more pain, the purely contrasting pleasure of temporary release from pain, to get you to do what you may see No other reason to do. p77
+## Chapter 3: Savage Commands ~ p77
+
+All around you, the air is thick with commands. p77
+
+Even when the command takes the form of some relatively sophisticated attitude, such as ambition or jealousy or existential ennui, it has physical manifestations. p77 
+
+You feel it in your gut. p77
+
+These commands are savage, employing the tools of the torturer — pain, fear of more pain, the purely contrasting pleasure of temporary release from pain — to get you to do what you may see no other reason to do. p77
+
+The commands are also unreliable since they have a history of not always panning out. p78
+
+Why do we obey such savage and inconsistent masters? p78
+
+When we disobey a command, it is usually at the prompting of another command. p78
 
 Commands are our answers to untimely questions. p77
 
@@ -438,9 +451,22 @@ The question, how should I live? By the time that question shows up on the scene
 
 When you need answers to a question before you know how to ask it, that is when you become susceptible to a form of speech that can only be described as a command. p80
 
+A command answers the question, "what should I do?" when no one has asked it. p80
+
 We are the sorts of beings who need answers before developing the ability to ask questions, and who therefore rely on answers to unasked questions, which is to say, commands. p80
 
+This is why Socratic ethics opens with a critique of commands. p80
+
+
 ### I. The Bodily Command and the Kinship Command p81
+
+The essential feature of kinship bonds is that they offer communal answers to questions such as which people and places and activities matter most to us? Which days do we celebrate? Under what circumstances are we willing to fight and die? Do we believe in God? What kinds of jobs? ... p82
+
+Kinship does the same, but it does so by allowing an individual to delegate the project of answering to a group. p83
+
+A kinship relation dictates that this is how we live, here is how we do things, these are things we care about... "p83
+
+Belonging to the group gives you an answer. 
 
 Whereas the bodily command operates by way of the carrot of pleasures, comfort, and safety, and the stick of pain and the fear of death, the kinship command operates by way of the carrot of status, honor, affection, and camaraderie, and the stick of fear of exclusion and the various social emotions, shame, pity, sympathy, envy, and so on. p83
 
