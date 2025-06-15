@@ -5,7 +5,7 @@
 
 ## ToMatto
 
-2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing definition over praise. * 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
+* 2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing definition over praise. * 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
 * 2025-05-11 ~ Theo: You can be as judgmental about the past as you want, but you won't change it. Judging your future could make huge differences.
 * 2025-05-09 ~ ?? If you're going to praise something, tell people why.* 2025-05-09 ~ ?? If you're going to praise something, tell people why.
 * 2025-05-04 ~ Parrish: Clear Thinking: “One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
