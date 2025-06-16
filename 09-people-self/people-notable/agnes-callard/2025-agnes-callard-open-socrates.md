@@ -460,8 +460,19 @@ This is why Socratic ethics opens with a critique of commands. p80
 
 ### I. The Bodily Command and the Kinship Command p81
 
+Socrates describes bodily appetite as a source of answers to unasked questions. p80
+
+When it comes to getting fed or hydrated or staying warm or facing some imminent threat, our bodies are ready to issue loud and definitive answers to the question, "what should I do?" The question never had to be asked. The answers somehow just come to us of their own accord. p81
+
+Our bodies are not the only source of savage commands. p81
+
+The bonds I have described can be thought of as a wide variety of ways in which I can see another as "akin" to myself. p82
+
 The essential feature of kinship bonds is that they offer communal answers to questions such as which people and places and activities matter most to us? Which days do we celebrate? Under what circumstances are we willing to fight and die? Do we believe in God? What kinds of jobs? ... p82
 
+How should we behave in relationship to each other? The kind of question that is answered and the kind of answer that is given varies depending on the kinship group. p82
+
+The body offers an answer to what I should do in the form of the approving nod of appetitive pleasure, or the "no" of pain. 
 Kinship does the same, but it does so by allowing an individual to delegate the project of answering to a group. p83
 
 A kinship relation dictates that this is how we live, here is how we do things, these are things we care about... "p83
@@ -472,7 +483,14 @@ Whereas the bodily command operates by way of the carrot of pleasures, comfort, 
 
 The two commands serve up different forms of existential threat. Is the former a potential threat to my biological existence, whereas the latter concerns my social existence? p83
 
+My reputation is identical, the same object as other people's opinions. p83
+
+The emotion associated with the prospect of such rejection is shame. p84
 Most intimate associations are a site of both bodily and kinship commands. 86
+
+Given the degree to which a a sense of self-worth is determined extrinsically, it would be more accurate to call it a sense of "other-worth". p84
+
+The bodily command is thus a leap. 
 
 My body might tell me that I have to do one thing at one time, but at a later time fill me with regrets and pains for having obeyed it. p87
 
