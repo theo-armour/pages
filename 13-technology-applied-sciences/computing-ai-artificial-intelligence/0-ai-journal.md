@@ -14,7 +14,7 @@ kittens wearing astronaut gear on a scary adventure
 
 ## 2025-02-13
 
-The Irish Sain Patrick blowing a Loughnashade trumpet, close-up, head & shoulders, colors: green, white and orange
+The Irish Saint Patrick blowing a Loughnashade trumpet, close-up, head & shoulders, colors: green, white and orange
 
 ## 2025-01-17
 
