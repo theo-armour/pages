@@ -166,12 +166,42 @@ Politicization is a pathology of politics. A mapping of a disagreement into a co
 
 ### Bodily Command
 
+* Biological existence
+* Individual
+
+Bodily
+
+* Food, hydration, warmth, sex
+
+Leads to 
+
+* Pleasure, comfort, safety
+* Health, wealth
+
+Or
+
+* Pain, fear of death
 * Weakness of will
 
 ### Kinship Command
 
+* Social existence
+* Offers communal answers
+
+Leads to
+
+* Honor, Camaraderie
+
+Or
+
+* Shame
 * Revenge
 
+### Both
+
+* Sex is both
+* Make us waver
+* Take life 15 minutes at a time
 
 ## Socrates Character
 
@@ -219,7 +249,6 @@ I would say to myself, "Why?" p4
 
 
 ## Untimely questions
-
 
 Untimely questions are marked by the fact that we need answers to them before we are prepared to answer them. p19
 
