@@ -5,6 +5,7 @@
 
 Three main branches of ethical theorizing in the West. 
 
+*  Kantianism
 * Utilitarianism, 
 * Virtue Ethics, Aristotelianism: To act virtuously. p110
 
@@ -162,24 +163,29 @@ Politicization is a pathology of politics. A mapping of a disagreement into a co
 
 ## Savage Commands
 
-**savage commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
+* Unreliable
+* Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
+* Answers to unasked questions p81
 
-### Bodily Command
+### Bodily Commands
 
 * Biological existence
 * Individual
 
 Bodily
 
-* Food, hydration, warmth, sex
+* appetite, hunger, hydration, tired, warmth, sex, 
+
 
 Leads to 
 
 * Pleasure, comfort, safety
+* Temporary release from pain
 * Health, wealth
 
 Or
 
+* Threat
 * Pain, fear of death
 * Weakness of will
 
