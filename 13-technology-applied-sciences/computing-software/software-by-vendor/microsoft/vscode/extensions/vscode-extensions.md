@@ -24,8 +24,3 @@ Explorer Context menu
 ![](2022-10-17-18-04-55.png)
 
 
-## Favorites Manage
-
-### 2022-10-17 ~ Not bad
-
-https://github.com/oleg-shilo/Favorites.vscode
