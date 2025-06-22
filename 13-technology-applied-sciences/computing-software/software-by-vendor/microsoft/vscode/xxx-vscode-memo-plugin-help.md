@@ -1,6 +1,7 @@
 # Memo Plugin Help
 
 All these features are great, but:
+
 * how to get to work in HTML??
 * How to work in GitHub?
 
@@ -46,4 +47,3 @@ https://github.com/svsool/memo/tree/master/help/Features
 * Opening links in the default app
   * right-click on [[Dummy.pdf]] link and choose Open link in the default app
 * Short and long (relative to workspace root) links support
-
