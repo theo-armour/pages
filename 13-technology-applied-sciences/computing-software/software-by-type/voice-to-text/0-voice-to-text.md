@@ -1,5 +1,20 @@
-# Voice to Text stub
+# Voice to Text
 
+## Objectives
+
+* Push to talk essential
+* Works in all apps
+* While walking: Single device to handle all input
+* Voice or hand control with push to talk is OK
+* Saves to designated folder ~ GitHub or MS365
+
+## https://wisprflow.ai/
+
+* 2025-06-26 ~ actively update ~ comprehesive site ~ ~ iOS but no Android yet ~ consider switching
+
+## Plaud
+
+* I wish the phone app had a push-to-talk feature.
 
 ## https://dictanote.co ~ Dictanote
 
@@ -26,6 +41,7 @@
 * https://speechnotes.co/dictate/
 * https://github.com/speechnotes/speechnotes-website
 * license is valid till June 6, 2025
+
 
 ## 2022?
 

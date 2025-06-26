@@ -19,6 +19,11 @@
 * Purple light charging
 * Red light: low battery
 
+## 2025-06-26
+
+* I wish the phone app had a push-to-talk feature.
+* Need a save to GitHub feature
+
 ## 2025-05-31
 
-* Nothing shows up in UDisc mode/access via USB 
+* Nothing shows up in UDisc mode/access via USB
