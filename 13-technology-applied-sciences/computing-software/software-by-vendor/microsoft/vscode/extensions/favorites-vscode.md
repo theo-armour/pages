@@ -11,6 +11,19 @@ Favorites Configuration > Default Folder
 * Use: ${workspaceFolder}\.vscode
 
 
+
+## Tips
+
+Alias: <file path>|<file alias>
+
+Seperator: |<separator>
+
+Groups (folders):
+
+group.file1.list.txt
+group.file2.list.txt
+
+
 ## Updates
 
 ### 2025-06-21
