@@ -2,6 +2,14 @@
 
 The Case for a Philosophical Life
 
+## Guilt vs Shame + WEIRD
+
+WEIRD is an acronym for Western, Educated, Industrialized, Rich and Democratic.
+
+https://www.aporiamagazine.com/p/did-christianity-make-europeans-weird?utm_source=%2Finbox&utm_medium=reader2
+
+Rule breaking is punished much more by guilt than by shame. A rule breaker feels guilty even when no one else has witnessed the rule breaking. In contrast, shame is felt only when there are witnesses.
+
 ## Introduction: The man whose name is an example ~ p1
 
 Your life is full. It has no space for the question, "Why am I doing any of this?" p1
@@ -19,7 +27,7 @@ You make sure your thinking about how your life should go doesn't wander too far
 * We avoid thinking
 * Our lives filled with a multitude of tiny decisions - leaving no space and time for the big questions. p2
 
-### I. Tolstoy p2 
+### I. Tolstoy p2
 
 Leo Tolstoy (1828 - 1910)
 
@@ -51,7 +59,7 @@ Because Socrates understands that he is not wise. He is pleased to be shown to b
 
 I count being refuted a greater good, In so far as it is a greater good for oneself to be delivered from the worst thing there is than to deliver somewhat else from it. p10
 
-Socrates predicted that after his death, the world would be filled with Socrateses. p11 
+Socrates predicted that after his death, the world would be filled with Socrateses. p11
 
 ### III. Where Is Socratic Ethics
 
@@ -61,15 +69,15 @@ Socrates predicted that after his death, the world would be filled with Socrates
 
 Perform the action that is likely that is likely to result in as many benefits to as many beneficiaries as possible. p11
 
-The benefits are typically understood in terms of the presence of pleasure. And the absence of pain. And the beneficiaries are typically assumed to be human beings. 
+The benefits are typically understood in terms of the presence of pleasure. And the absence of pain. And the beneficiaries are typically assumed to be human beings.
 
 This theory is called utilitarianism. p12
 
-**utilitarianism**  << Epicureanism. 
+**utilitarianism**  << Epicureanism.
 
 Immanuel Kant (1724 -1804 )
 
-A form of ethics that is focused on the ways that dignity — the infinite worth of every rational being — constrains how we are allowed to treat one another. 
+A form of ethics that is focused on the ways that dignity — the infinite worth of every rational being — constrains how we are allowed to treat one another.
 
 This system features a "categorical imperative" or absolute prohibition against using a human being as a mere tool for the benefit of others.  p12
 
@@ -93,7 +101,7 @@ All wisdom consists solely in not thinking that you know what you do not know. p
 
 People will announce "question everything" without noticing that they have just uttered not a question but a command. p14
 
-The Socratic motto is not "question everything" but "persuade or be persuaded". p15 
+The Socratic motto is not "question everything" but "persuade or be persuaded". p15
 
 He claims that "I know that I know nothing" is an empty gesture of skepticism, but a plan for life. p15
 
@@ -105,20 +113,20 @@ There is only one problem, which is ignorance, and there is only one solution, w
 
 ***
 
-We have met the box of rocks, and he is us. 
+We have met the box of rocks, and he is us.
 
 
 ### IV. An Incautionary Tale p18
 
 Common message: The message is: Do philosophy, but don't overdo it.  p18
 
-We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner. 
+We live inside a bubble of caution and weariness that can only be sustained by maintaining the conviction that when it comes to the question of how we live our lives. We are already being intellectual and critical and thoughtful enough. The assumption is that no one, not even a professional academic philosopher, needs to be living their whole life in a philosophical manner.
 
 This book is an argument to the contrary. It makes the case for a philosophical life. p19
 
-It has three parts. 
+It has three parts.
 
-**Part 1** A special class of questions. Untimely questions. 
+**Part 1** A special class of questions. Untimely questions.
 
 **Untimely questions** are marked by the fact that we need answers to them before we are prepared to answer them. p19
 
@@ -126,17 +134,17 @@ Our default answers, the ones available to us absent philosophizing - come from 
 
 **Savage Commands** Contradicting one another and themselves, leading us to act confused in haphazard ways. p19
 
-* Kantianism the command of the group. 
-* Utilitarianism aims to rehabilitate the bodily command. 
+* Kantianism the command of the group.
+* Utilitarianism aims to rehabilitate the bodily command.
 * Aristotelianism tries to harmonize the two commands with one another. p19
 
 
-**Part 2**: The Socratic approach to untimely questions. 
+**Part 2**: The Socratic approach to untimely questions.
 
 Each of its three parts. Inquiry, open mindedness and truth seeking. Conceals her paradox. p19
 
-* Inquiry ~ How can one search for what one does not know? How can one recognize it when one finds it? 
-* Open-mindedness ~ willing to admit that you are wrong. 
+* Inquiry ~ How can one search for what one does not know? How can one recognize it when one finds it?
+* Open-mindedness ~ willing to admit that you are wrong.
 * Truth-Seeking ~ Pursuing the truth and avoiding falsity.  p20
 
 **Part 3**: We examine that method's demands in the three areas of human life where Socrates thought our ignorance loomed largest. Politics, love and death. p20
@@ -149,7 +157,7 @@ Socrates discovered that by working together with another person, we make possib
 
 Socratic ethics is the ethics of living a truly philosophical life. And it tells you that the way you should conduct yourself in each of these three domains is inquisitively. It promises to make people freer and more equal, more romantic and more courageous.  p20
 
-Socrates says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner. 
+Socrates says that vice is ignorance. That falling in love is an attempt to ascend to another plane of existence. And if he were around today, he would accuse all of us of treating corpses in a superstitious manner.
 
 He insists that everyone desires the good and that treating others unjustly is worse for the person who does so than being unjustly treated herself. In his hands, both freedom of speech and the egalitarianism become not political ideas but intellectual ones. He thinks that philosophy is a preparation for death. p21
 
@@ -166,7 +174,7 @@ We want to be the kind of person that the historical Socrates. No doubt imperfec
 * Tell them what you are going to tell them
 * The long term question ~ The Tolstoy Problem ~ "Why should I live?"
 * Usually avoided by taking life in short term chunks.
-* Socrates understands that he is not wise. 
+* Socrates understands that he is not wise.
 * He is pleased to be shown to be wrong,
 * Socratic motto is not "question everything" but "persuade or be persuaded"
 
@@ -197,15 +205,15 @@ Untimely questions are hard to answer, But first and foremost, because they are 
 
 You'll be going through the motions of inquiry without actually inquiring into anything. p27
 
-The reason why you can't ask yourself untimely questions is that you think you already have the answer to them. And the reason you think you have the answer is that you are already using the answer. 
+The reason why you can't ask yourself untimely questions is that you think you already have the answer to them. And the reason you think you have the answer is that you are already using the answer.
 
-The difficulty is that we can't make use of the answer and ask ourselves a question at the same time. 
+The difficulty is that we can't make use of the answer and ask ourselves a question at the same time.
 
 ### II. What Tolstoy Couldn't Do
 
-What will come from what I do and from what I will do tomorrow — what will come from my whole life? 
+What will come from what I do and from what I will do tomorrow — what will come from my whole life?
 
-Why should I live? Why should I wish for anything? Why should I do anything? 
+Why should I live? Why should I wish for anything? Why should I do anything?
 
 Is there any meaning in my life that wouldn't be destroyed by the death that inevitably awaits me? p32
 
@@ -219,7 +227,7 @@ If human life is meaningless, if there is nothing that we can do that would matt
 
 Life is meaningless, suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers. p34
 
-Life is meaningless. Suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers. 
+Life is meaningless. Suicide is mandated, to which he has not reasoned, and from which his behavior repeatedly wavers.
 
 ### III. Enter Socrates
 
@@ -255,15 +263,15 @@ If we never inquire into untimely questions, the thinking we use to guide our li
 
 There are questions about how to
 
-* Treat other people fairly. 
+* Treat other people fairly.
 * What kind of greatness to pursue in life
-* What it means to love and be loved. 
-* How we should face death. 
-* How society should be organized. 
-* Who our real friends are. 
-* How to raise our children. 
-* What are the demands of justice? 
-* What to do with our lives? 
+* What it means to love and be loved.
+* How we should face death.
+* How society should be organized.
+* Who our real friends are.
+* How to raise our children.
+* What are the demands of justice?
+* What to do with our lives?
 P44
 
 The troubling fact that each person routinely fails to confront the most important questions about their lives. p45
@@ -278,7 +286,7 @@ If Tolstoy were correct, the best course For those unlucky enough to cross paths
 
 In much the same way that a painting presents us with a landscape, but prevents us from entering it, novelists give us a view into the promised land, but not more. p47
 
-Socrates believes that the unexamined life is not worth living for a human being, and that belief motivated him to make time for untimely questions. 
+Socrates believes that the unexamined life is not worth living for a human being, and that belief motivated him to make time for untimely questions.
 
 Novelists give us a view into the promised land, but not more. p47
 
@@ -340,7 +348,7 @@ We can ask someone, "Why did you decide to have children?" Or, "Why did you deci
 
 ***
 
-See also: The difference between driving directions and the map. 
+See also: The difference between driving directions and the map.
 
 difference between now and long term / forever
 
@@ -381,7 +389,7 @@ How are load-bearing answers to untimely questions tend to give rise to predicti
 
 Each of us is counting on the future unfolding in some ways rather than others, even though we cannot fully control whether it does. p67/68
 
-The name for these load-bearing predictions is HOPE. p68 
+The name for these load-bearing predictions is HOPE. p68
 
 The root of the problem is that we have to investigate our lives while living them. p70
 
@@ -412,7 +420,7 @@ Sadness is immobilizing and disaffecting. There is nothing it makes one do, and 
 
 The reason why there is nonetheless something to be done about anger is that the anger is fundamentally directed at the wrongdoer, on the grounds that the wrongdoer indicates a failure to give a shared answer. p73
 
-When I am angry, I am in an unstable state where I feel that something that is supposed to be collective is held only by me and I must rectify that situation. 
+When I am angry, I am in an unstable state where I feel that something that is supposed to be collective is held only by me and I must rectify that situation.
 
 Holding the wrongdoer accountable promises to rehabilitate the answer by restoring its shared status. p75
 
@@ -433,7 +441,7 @@ Socrates is relentlessly consistent in prioritizing definition over praise. foot
 
 All around you, the air is thick with commands. p77
 
-Even when the command takes the form of some relatively sophisticated attitude, such as ambition or jealousy or existential ennui, it has physical manifestations. p77 
+Even when the command takes the form of some relatively sophisticated attitude, such as ambition or jealousy or existential ennui, it has physical manifestations. p77
 
 You feel it in your gut. p77
 
@@ -472,12 +480,12 @@ The essential feature of kinship bonds is that they offer communal answers to qu
 
 How should we behave in relationship to each other? The kind of question that is answered and the kind of answer that is given varies depending on the kinship group. p82
 
-The body offers an answer to what I should do in the form of the approving nod of appetitive pleasure, or the "no" of pain. 
+The body offers an answer to what I should do in the form of the approving nod of appetitive pleasure, or the "no" of pain.
 Kinship does the same, but it does so by allowing an individual to delegate the project of answering to a group. p83
 
 A kinship relation dictates that this is how we live, here is how we do things, these are things we care about... "p83
 
-Belonging to the group gives you an answer. 
+Belonging to the group gives you an answer.
 
 Whereas the bodily command operates by way of the carrot of pleasures, comfort, and safety, and the stick of pain and the fear of death, the kinship command operates by way of the carrot of status, honor, affection, and camaraderie, and the stick of fear of exclusion and the various social emotions, shame, pity, sympathy, envy, and so on. p83
 
@@ -505,7 +513,7 @@ Most intimate associations are a site of both bodily and kinship commands. 86
 
 The bodily command and the kinship command underwrite much of what we do, think, and feel. 86
 
-The bodily command is thus a leap. 
+The bodily command is thus a leap.
 
 My body might tell me that I have to do one thing at one time, but at a later time fill me with regrets and pains for having obeyed it. p87
 
@@ -539,11 +547,11 @@ You waver in how you act, and then you waver in how you talk about how you didn'
 
 ***
 
-Weakness of will is actually an inconsistency in the way we use our words. We are programmed to think of things one way at one time, and then programmed to think of things another way another time. The proof is that we use different words at the time of the event and at the time of the future. 
+Weakness of will is actually an inconsistency in the way we use our words. We are programmed to think of things one way at one time, and then programmed to think of things another way another time. The proof is that we use different words at the time of the event and at the time of the future.
 
-We talk of the pleasure now and the future state of pain later. 
+We talk of the pleasure now and the future state of pain later.
 
-We talk of the good now, the bad in the past. 
+We talk of the good now, the bad in the past.
 
 ### III. Revenge p93
 
@@ -575,7 +583,7 @@ Empathy is not a virtue, but a power. Almost every adult has this power to some 
 
 The Vengeful Punisher Only understands the practice of punishment when it is accompanied by a vision of the punishment as being on net bad. p98
 
-Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin. 
+Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin.
 
 The pacifist thinks that you shouldn't kill people, whereas Socrates thinks you can't do good by doing bad. p103
 
@@ -593,7 +601,7 @@ persuade or be persuaded, Refute or be refuted. Ask questions or answer them. p1
 
 Socrates is not in the business of changing minds. He is in the business of either changing minds or or having his own mind changed, which is to say the business of figuring out. Which of these two things should happen? p107
 
-Socrates' alternative to savage commands allows us to transform our default answers into something different. Inquisitive answers. p108 
+Socrates' alternative to savage commands allows us to transform our default answers into something different. Inquisitive answers. p108
 
 What if you lived not off the commands but off of an understanding of what you are doing? Liberation from the commands begins with questions. p108
 
@@ -609,13 +617,13 @@ it's all about true and false if then statements
 
 
 . p110
-Three main branches of ethical theorizing in the West. 
+Three main branches of ethical theorizing in the West.
 
-* Kantian Ethics, Deontology, contractualism: Constraining one's actions by respect for humanity. 
-* Utilitarianism, Consequentialism: The Greatest Good for the Greatest Number. 
+* Kantian Ethics, Deontology, contractualism: Constraining one's actions by respect for humanity.
+* Utilitarianism, Consequentialism: The Greatest Good for the Greatest Number.
 * Virtue Ethics, Aristotelianism: To act virtuously. p110
 
-Agnes: Neo-Socratic 
+Agnes: Neo-Socratic
 
 Common sense distinguishes between what justice demands and what is personally advantageous. Although it is valuable to do what is just and it is valuable to do what benefits oneself, everyday intuition says that these two values do not always overlap and one can be torn between them. p111
 
@@ -694,12 +702,12 @@ Nevertheless, each of the three theories present their foundations as settled in
 
 ***
 Different schools of ethical thought: Kant , Mill, Aristotle, and Virtue Ethics
-Advantageous = Bodily ~ Just = Kinship 
+Advantageous = Bodily ~ Just = Kinship
 Epicurians > Bodily ~ Stoics > Kinship
 
 Virtue > well-brought up. p125
 
-You will always not  know — all the time. 
+You will always not  know — all the time.
 
 There is no watch. Therefore, you must keep asking, "What time is it?" ;-)
 
@@ -713,7 +721,7 @@ I don't think there's a single parenthetical more shocking to me in all of this 
 
 The world James sees us as struggling to bring about is to talk, and then when he finds himself actually inhabiting his utopia, he finds he'd rather be in a massacre. It makes no sense to insist that we spend our lives struggling and toiling to bring about a world that, if we were in it, we would recoil from. p134
 
-The Paradox of Utopia. 
+The Paradox of Utopia.
 
 It comes naturally to us to present a utopia, sarcastically, as though this were a utopia. p135
 
@@ -732,9 +740,9 @@ But even if we recognize all the ways Plato departs from Socrates and specifical
 
 The idea that the function of thought is not only to help us get into what our body tells us we need, or to behave how we, our kin, want us to behave, but to ask the very question to which the other two commands provide automatic answers. This is the most important lesson that Plato learned from Socrates. p138
 
-If the method of conscientism is legalistic and regulatory, and the method of utilitarianism is calculative and maximizing, and the method of virtue ethics is to consult one's well-habituated faculty of practical judgment, in what more precise terms can we describe the Socratic movement? 
+If the method of conscientism is legalistic and regulatory, and the method of utilitarianism is calculative and maximizing, and the method of virtue ethics is to consult one's well-habituated faculty of practical judgment, in what more precise terms can we describe the Socratic movement?
 
-To be described in part two. 
+To be described in part two.
 
 
 ***
@@ -856,7 +864,7 @@ Every philosopher has been preparing themselves for death. p246
 
 Socrates unified domains as distinct as love, death, and politics not by analyzing them in terms of some underlying common denominator, but rather by seeing them as convergent upward toward a single aspiration. Inquiry into untimely questions. p248
 
-Instead of arguing that these domains all have common source or calls or are built out of common materials. Socrates argues what they have in common is a goal. 
+Instead of arguing that these domains all have common source or calls or are built out of common materials. Socrates argues what they have in common is a goal.
 
 War is a form of conversation.  p248
 
@@ -878,7 +886,7 @@ Liberalism triad p251
 
 * freedom of speech
 * egalitarianism
-* fight for social justice. 
+* fight for social justice.
 
 Or: justice, freedom and equality. p271
 
@@ -898,7 +906,7 @@ Free if and only if it is inquisitive. p253
 
 Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. p254
 
-It converts a question, which is of two positions is correct — into a competition between the interests of two parties. 
+It converts a question, which is of two positions is correct — into a competition between the interests of two parties.
 
 Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
 
@@ -920,13 +928,13 @@ Killing and saving don't touch ideas, only argument does. p264
 
 Although you can win a fight by behaving more unjustly than your opponents, you cannot refute someone by saying that things that are even more false than what they say. p264
 
-What you're really doing when you say you are fighting injustice is you're inflicting harm on people and imagining those arms somehow transfer to the ideas that are your real enemies. 
+What you're really doing when you say you are fighting injustice is you're inflicting harm on people and imagining those arms somehow transfer to the ideas that are your real enemies.
 
 #### III Freedom of Speech p265
 
 Politics is about persuasion. p267
 
-Persuasion is flattery. 
+Persuasion is flattery.
 
 Persuasion is in some sense what people want to hear. p269
 
@@ -998,12 +1006,12 @@ The problem about egalitarianism is not new. It is ancient. p281
 
 #### IV Egalitarianism in the Iliad p281
 
-One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening. 
+One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening.
 
 
 #### V Adam Smith p285
 
-There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them. 
+There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them.
 
 #### VI Socratic Equality p290
 
@@ -1038,7 +1046,7 @@ Freedom of speech is simply the freedom to speak truly. p296
 
 Socrates great insight was to notice that this freedom is not, under ordinary circumstances, available to us. p296
 
-We live together because we think together. p297 
+We live together because we think together. p297
 
 ### Chapter 10 ~ Love ~ p298
 
@@ -1066,7 +1074,7 @@ Even the good case is far from ideal. p296
 
 It is remarkable that romantic love has existed for thousands of years. p298
 
-Is there a context in which romantic love would it not appear silly, or naive, but perfectly appropriate. 
+Is there a context in which romantic love would it not appear silly, or naive, but perfectly appropriate.
 
 #### I Socrates versus Aristophanes
 
@@ -1074,13 +1082,13 @@ What is it you human beings really want from each other? p299
 
 What everyone loves is really nothing other than the good p299
 
-Permanence is not the only thing we want because we will not be happy with permanent badness. 
+Permanence is not the only thing we want because we will not be happy with permanent badness.
 
 What is it you human beings really want from each other? p299
 
 When I love someone, I love what is good about them. p300
 
-Socrates says "love is wanting to possess the good forever" p300 
+Socrates says "love is wanting to possess the good forever" p300
 
 The radical insider Socrates theory of love is that you don't need to trade the two parts of the idea against each other. You'd have rationality _and_ attachment if you're willing to rethink both.  p302
 
@@ -1100,7 +1108,7 @@ Love as a miss center to the disembodied form of the beautiful. p304
 
 Socrates is saying that the sort of thing you really love bears more resemblance to an idea than to your flesh and blood lover.  p305
 
-1 Socratic love is, by contrast, perpetually dissatisfied. 
+1 Socratic love is, by contrast, perpetually dissatisfied.
 
 2 Love is not a zero sum game. Loving one person more does not mean you love another person less.
 
@@ -1156,7 +1164,7 @@ If Socratic glove is philosophizing, then Socratic love is radically non exclusi
 
 Socratic love is not exclusive but additive. p322
 
-Is there a context in which the romantic love we dream about is perfectly appropriate? 
+Is there a context in which the romantic love we dream about is perfectly appropriate?
 
 Love is not exclusive but additive
 
@@ -1292,7 +1300,7 @@ Epicurus argues that death cannot be a misfortune since there is no one around t
 
 When we exist, death is not present, and when death is present, we do not exist. p358
 
-Rationality requires symmetrical treatment of past and future. 
+Rationality requires symmetrical treatment of past and future.
 
 We should answer this question the same way, with reference to the time before we were born and the time after we die. p358
 
@@ -1306,7 +1314,7 @@ Fear of missing out. FOMA. p359
 
 FONA: Fear of never arriving. A fear of being deprived of both present and future goods. p360
 
-In one way, FOMO all death is premature, and in another way FONA, Some deaths are more premature than others. 
+In one way, FOMO all death is premature, and in another way FONA, Some deaths are more premature than others.
 
 #### VII Philosophical FONA ~ p361
 
