@@ -2,6 +2,9 @@
 
 The Case for a Philosophical Life
 
+
+## Happiness vs Joy
+
 ## Guilt vs Shame + WEIRD
 
 WEIRD is an acronym for Western, Educated, Industrialized, Rich and Democratic.
