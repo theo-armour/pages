@@ -4,6 +4,13 @@ tags #13 #tech #applied-science
 
 * https://theo-armour.github.io/pages/#13-technology-applied-sciences/README.md
 
+## My Tools
+
+* https://chatgpt.com/
+* https://claude.ai/new
+* https://copilot.microsoft.com/
+* https://gemini.google.com/
+* https://www.perplexity.ai/
 
 
 ## wikipedia

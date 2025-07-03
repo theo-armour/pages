@@ -11,7 +11,6 @@
 
 ## links
 
-*
 * https://docs.midjourney.com/docs
 * https://midlibrary.io/categories/painters
 
@@ -58,11 +57,8 @@ tags #ai #digitalart #midjourney #aiartcommunity #feathers
 
 ## GitHub Topics
 
-
 * https://github.com/topics/chatgpt
 * https://github.com/topics/chatbot
-
-
 
 ## Additional Resources
 
