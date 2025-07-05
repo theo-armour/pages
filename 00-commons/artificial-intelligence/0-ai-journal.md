@@ -2,15 +2,27 @@
 
 ## 2025-07-04
 
-Prompt for a letter size announcement
+### Context Engineering
+
+* Prompt Engineering: Get a specific response from a prompt. Usually one-off.
+* Context Engineering: Make sure the model consistently performs well across sessions, users, and chaos.
+*Prompt Engineering focuses on what to say to the model at a moment in time.
+* Context Engineering focuses on what the model knows when you say it — and why it should care.
+* Prompt Engineering is what you do inside the context window.
+* Context Engineering is how you decide what fills the window.
+
+
+
+### Prompt for a letter size announcement
 
 Text elements
 
 * "Taste Wines & Cheeses from France"
 * "Vive la France"
 "Wednesday July 16 at 3pm in Friendship Hall"
-"Flights of Four wines * Four Cheeses"
-"$20 Donation ~ Limited to 16 tasters maybe"
+* "Flights of Four wines
+* Four Cheeses"
+* "$20 Donation ~ Limited to 16 tasters maybe"
 
 Style
 
