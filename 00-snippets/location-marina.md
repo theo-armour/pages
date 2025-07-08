@@ -52,7 +52,7 @@ Events
 
 Staff
 
-* Cal: knows M
+* Cal: knows Manilla Galleons
 * Jim Wheeler ~ sacred Heart ~ knew drew Johnson
 * Gaspare
 * Erica
