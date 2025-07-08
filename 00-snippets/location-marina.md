@@ -52,7 +52,7 @@ Events
 Staff
 
 * Cal
-* Jim Wheeler ~ sacred Heart ~ 
+* Jim Wheeler ~ sacred Heart ~ knew 
 * Gaspare
 * Erica
 * Stephanie
