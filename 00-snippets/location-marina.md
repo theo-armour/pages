@@ -51,6 +51,8 @@ Events
 
 Staff
 
+* Cal
+* Ji
 * Gaspare
 * Erica
 * Stephanie
