@@ -52,7 +52,7 @@ Events
 Staff
 
 * Cal
-* Ji
+* Jim Wheeler ~ sacred H
 * Gaspare
 * Erica
 * Stephanie
