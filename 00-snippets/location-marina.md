@@ -51,7 +51,7 @@ Events
 
 Staff
 
-* Cal
+* CalC
 * Jim Wheeler ~ sacred Heart ~ knew drew Johnson
 * Gaspare
 * Erica
