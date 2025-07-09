@@ -1,6 +1,7 @@
 # location: Marina
 
 See pages/03-geography-places/california/marina
+
 Try them all!!
 
 * [https://www.tiyasf.com/](https://www.tiyasf.com/)
@@ -51,7 +52,7 @@ Events
 
 Staff
 
-* CalC
+* Cal: knows Manilla Galleons
 * Jim Wheeler ~ sacred Heart ~ knew drew Johnson
 * Gaspare
 * Erica
