@@ -582,11 +582,27 @@ Being bad is not a way to be good. Harming people isn't good, it's bad. p95
 
 There is no good way to do bad. p96
 
-Empathy is not a virtue, but a power. Almost every adult has this power to some degree, though some of us have more of it than others, and it can be used for good or ill. p98
+Socrates is not raising any objection to violence or killing, so long as they are justified by the good to be achieved, rather than understood as "deserved" in the light of evils done.
+
+In revenge, the bad that is going to be done to a person is vaunted, _as_ the good to be achieved. p97
+
+Socrates' insight is that this thought, doing good by doing bad, is essentially confused. p97
+
+If I harm you vengefully and call that justice, I must see what I'm doing as unbalanced good, but I also have a representation of how you see it as being something that is unbalanced bad and harmful. Thus I see one and the same action at the same time as good from my point of view - on it, this is justice being done - and bad as in harmful and evil, and that's your point of view _as imagined by me_. p97
+
+But there is a common ground: all forms of empathy, be they dark or heartwarming, begin with my feeling of what you feel.
+Empathy is not a virtue, but a power. p98
+
+Almost every adult has this power to some degree, though some of us have more of it than others, and it can be used for good or ill. p98
+
+When faced with a repenting criminal who joyfully welcomes punishment because they correctly understand that it is really a benefit, the beneficent punisher's task only becomes much more cheerful. p98
 
 The Vengeful Punisher Only understands the practice of punishment when it is accompanied by a vision of the punishment as being on net bad. p98
 
-Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin.
+The Socratic position on revenge can be summed up as a set of truisms. No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good. p98
+
+Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin. p98
+
 
 The pacifist thinks that you shouldn't kill people, whereas Socrates thinks you can't do good by doing bad. p103
 
@@ -595,6 +611,14 @@ Revenge is not pure hate, it is loving hate. p104
 Revenge is a passion that tells you that the bitter cruelty you are forgiven for acting will be righteous and glorious. p104
 
 Revenge and the grace shift teach us that our default systems for managing our lives are defective. They make us waver. p104
+
+
+***
+
+Doing bad is never good
+
+Revenge is only with people you know
+
 
 ### IV. The Socratic Proposal p104
 
