@@ -126,12 +126,14 @@ Regulars
 * Emma ~ Fr 12th ~ Danny's wife
 
 Izzy
+
 ## l'Amida
 
 * [https://www.lmidasf.com](https://www.lmidasf.com)
-* Most erveryone speaks French
+* Most everyone speaks French
 
 Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
+
 ## La Fromagerie
 
 * My friend: Dylan
