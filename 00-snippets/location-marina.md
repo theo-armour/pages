@@ -141,7 +141,7 @@ Izzy
 * [https://www.lmidasf.com]()
 * Most everyone speaks French
 
-Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
+Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## La Fromagerie
 
