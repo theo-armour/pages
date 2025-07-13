@@ -129,9 +129,12 @@ Regulars
 Izzy
 
 
-## Jake'sSteaks
+## Jake's Steaks
 
 
+
+* Gabriel
+* Vi
 ## l'Amida
 
 * [https://www.lmidasf.com](https://www.lmidasf.com)
