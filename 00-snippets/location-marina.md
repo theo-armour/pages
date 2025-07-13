@@ -138,7 +138,7 @@ Izzy
 
 ## l'Amida
 
-* [https://www.lmidasf.com](https://www.lmidasf.com)
+* [https://www.lmidasf.com]()
 * Most everyone speaks French
 
 Zaatar Manakesh: bread stu!ff. tasty but dry. greases up the keyboard
