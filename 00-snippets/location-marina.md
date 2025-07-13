@@ -85,12 +85,13 @@ Regulars
 * Jeff ~ GM
 * David ~ Chef
 
-Aumni
+Alumni
 
 * Nick ~ knows Clapham ~ back to England
 * Aselia
 
 Try the Caesar salad or **Tuna Tartare**
+
 ## Dorians
 
 * Ebenezer
