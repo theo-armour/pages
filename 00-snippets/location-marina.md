@@ -134,7 +134,8 @@ Izzy
 
 
 * Gabriel
-* Vi
+* Victor
+
 ## l'Amida
 
 * [https://www.lmidasf.com](https://www.lmidasf.com)
