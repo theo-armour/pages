@@ -16,7 +16,7 @@ Favorites Configuration > Default Folder
 
 Alias: <file path>|<file alias>
 
-Seperator: |<separator>
+Separator: |<separator>
 
 Groups (folders):
 
