@@ -640,7 +640,7 @@ Socrates is not in the business of changing minds. He is in the business of eith
 
 Socrates' alternative to savage commands allows us to transform our default answers into something different. Inquisitive answers. p108
 
-What if you lived not off the commands but off of an understanding of what you are doing? Liberation from the commands begins with questions. p108
+What if you lived not off the commands but off of an understanding of what you are doing? **Liberation from the commands begins with questions**. p108
 
 ***
 
