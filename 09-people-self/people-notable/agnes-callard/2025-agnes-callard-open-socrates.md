@@ -648,9 +648,7 @@ it's all about true and false if then statements
 
 persuade or be persuaded, Refute or be refuted, ask questions or answer them. These are our equipment.
 
-
 ~ ❧ ~
-
 
 ## Chapter 4: Socratic Intellectualism p110
 
