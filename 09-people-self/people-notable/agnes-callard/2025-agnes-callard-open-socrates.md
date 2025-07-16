@@ -599,10 +599,19 @@ When faced with a repenting criminal who joyfully welcomes punishment because th
 
 The Vengeful Punisher Only understands the practice of punishment when it is accompanied by a vision of the punishment as being on net bad. p98
 
-The Socratic position on revenge can be summed up as a set of truisms. No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good. p98
+The Socratic position on revenge can be summed up as a set of truisms. **No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good.** p98
 
 Socrates noticed a simple fact about revenge that we tend to ignore, which is that it is only possible to take revenge against kin. p98
 
+Self-defense, as it is usually understood, hides within it the notion of revenge. p100
+
+In so many contexts, both intimate and public, we intentionally inflict harm on those we would otherwise see ourselves as prohibited from honouring. p101
+
+Revenge is animated by the desire to teach people lessons and set them straight. p103
+
+Revenge makes no sense. The vengeful person insists that the wrongness of the wrong thing they are doing, the fact that their victim is suffering or dead, is what makes it right or fitting or necessary or good. p103
+
+Neither to do wrong nor return a wrong is ever correct, nor is doing harm in return for harm done. p101
 
 The pacifist thinks that you shouldn't kill people, whereas Socrates thinks you can't do good by doing bad. p103
 
@@ -612,8 +621,9 @@ Revenge is a passion that tells you that the bitter cruelty you are forgiven for
 
 Revenge and the grace shift teach us that our default systems for managing our lives are defective. They make us waver. p104
 
-
 ***
+
+**No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good.
 
 Doing bad is never good
 
@@ -636,14 +646,15 @@ What if you lived not off the commands but off of an understanding of what you a
 
 it's all about true and false if then statements
 
+persuade or be persuaded, Refute or be refuted, ask questions or answer them. These are our equipment.
+
+
 ~ ❧ ~
 
 
 ## Chapter 4: Socratic Intellectualism p110
 
-
-
-. p110
+p110
 Three main branches of ethical theorizing in the West.
 
 * Kantian Ethics, Deontology, contractualism: Constraining one's actions by respect for humanity.
