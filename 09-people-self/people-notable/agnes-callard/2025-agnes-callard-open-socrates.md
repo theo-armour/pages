@@ -357,7 +357,6 @@ difference between now and long term / forever
 
 ### II. Untimely, not Subjective. p61
 
-
 Our standing investment in the answers to untimely questions explains their contentiousness much better than the usual Explanation, which is to dismiss these questions as "subjective".  p61
 
 The parties themselves fight because they see the question as in some way objective, decidable in the light of the truth, in spite of the impossibility of measurement. p65
@@ -439,6 +438,11 @@ She is not going to saw off the branch she is standing on. p76
 
 Socrates is relentlessly consistent in prioritizing definition over praise. footnote p76
 
++++
+
+Questions that are difficult to answer because you are living them.
+
+Sadness ~ personal versus Anger ~ group
 
 ## Chapter 3: Savage Commands ~ p77
 
@@ -647,6 +651,14 @@ What if you lived not off the commands but off of an understanding of what you a
 it's all about true and false if then statements
 
 persuade or be persuaded, Refute or be refuted, ask questions or answer them. These are our equipment.
+
++++
+
+Savage Commands
+Inescapable
+Body Commands
+Kinship Commands
+
 
 ~ ❧ ~
 
