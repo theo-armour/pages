@@ -3,10 +3,10 @@
 
 ## Ethics
 
-Three main branches of ethical theorizing in the West. 
+Three main branches of ethical theorizing in the West.
 
 *  Kantianism
-* Utilitarianism, 
+* Utilitarianism,
 * Virtue Ethics, Aristotelianism: To act virtuously. p110
 
 
@@ -18,19 +18,19 @@ Three main branches of ethical theorizing in the West.
 
 ### Utilitarianism
 
-* Consequentialism: The Greatest Good for the Greatest Number. 
+* Consequentialism: The Greatest Good for the Greatest Number.
 
 ### Aristotelianism
 
-* Virtue Ethics: To act virtuously, Do whatever a decent person would do. 
+* Virtue Ethics: To act virtuously, Do whatever a decent person would do.
 
-Agnes: Neo-Socratic 
+Agnes: Neo-Socratic
 
 ### The Just
 
 * Kinship Answer
 
-### The Advantageous 
+### The Advantageous
 
 * Bodily Answer
 
@@ -71,7 +71,7 @@ You're saying that you have some kind of grip on how you should be acting. What'
 
 The prospect of death represents the stopping of the clock that has been ticking in the background of everything we do, counting off each 15-minute period. p343
 
-Socrates sketches a prototype of the ideal philosopher and contrasts it with someone who "is always in a hurry, when he is talking, he has to speak with one eye on the clock". Interlocutors such as Eurythipro and Protagoras routinely break off their conversation with Socrates by telling him that it is time for them to go, that they are getting through life 15 minutes at a time, which is to say they speak "with one eye on the clock". p365 
+Socrates sketches a prototype of the ideal philosopher and contrasts it with someone who "is always in a hurry, when he is talking, he has to speak with one eye on the clock". Interlocutors such as Eurythipro and Protagoras routinely break off their conversation with Socrates by telling him that it is time for them to go, that they are getting through life 15 minutes at a time, which is to say they speak "with one eye on the clock". p365
 
 Projects that take longer than 15 minutes, be it months or years, also keep you on the clock, both because they typically dictate what you need to do for a given 15-minute period, and because they stand in the shadow of the big clock of life. p365
 
@@ -85,7 +85,7 @@ How do you take on in a life a project that is too big for life? p365
 
 What if, like Socrates, you have less than an hour to live and you've just been confronted with some objections that call for more than an hour's worth of philosophizing. How do you avoid giving up? p366
 
-Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers. 
+Socrates does not spend his final hours taking a last draft of his usual pleasure of philosophical conversations. He spends them looking for answers.
 
 By his own account, Tolstoy spends much of his first part of his life 15 minutes at a time, until sometime around mid-life. He looks up from the clock and finds himself faced with a set of untimely questions, only to be immediately engulfed by waves of FONA. p367
 
@@ -130,12 +130,12 @@ More
 
 ### The writing and the Book
 
-The book and the writing. 
-While you're writing, you can't see the book. 
-While you're thinking about the book, you're not writing. 
+The book and the writing.
+While you're writing, you can't see the book.
+While you're thinking about the book, you're not writing.
 
-Imagine you were writing and you were not allowed to stop. 
-This would mean that you could never stop and think about the whole book. 
+Imagine you were writing and you were not allowed to stop.
+This would mean that you could never stop and think about the whole book.
 
 
 ## Load-bearing Answers
@@ -154,7 +154,7 @@ This would mean that you could never stop and think about the whole book.
 
 ## Politicization
 
-Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. It converts a question, which is of two positions is correct — into a competition between the interests of two parties. 
+Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. It converts a question, which is of two positions is correct — into a competition between the interests of two parties.
 
 Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
 
@@ -170,22 +170,21 @@ Politicization is a pathology of politics. A mapping of a disagreement into a co
 ### Bodily Commands
 
 * Biological existence
-* Individual
+* Individual not group
 
-Bodily
+Bodily aspects
 
-* appetite, hunger, hydration, tired, warmth, sex, 
+* Appetite, hunger, hydration, tired, warmth, sex,
 
-
-Leads to 
+Leads to
 
 * Pleasure, comfort, safety
 * Temporary release from pain
-* Health, wealth
+* Health, pursuit of wealth
 
 Or
 
-* Threat
+* Threat to my biological existence
 * Pain, fear of death
 * Weakness of will
 
@@ -318,7 +317,6 @@ Examples
 
 * Define any of the 24 virtues, such as courage, justice, or moderation.
 * Am I a good person
-* Why did you decide to be a good person? 
+* Why did you decide to be a good person?
 
 ## Wavering
-

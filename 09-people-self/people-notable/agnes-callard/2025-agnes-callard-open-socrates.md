@@ -627,7 +627,20 @@ Revenge and the grace shift teach us that our default systems for managing our l
 
 ***
 
-**No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good.
+I. The Bodily Command and the Kinship Command p81
+
+II. Weakness of will p88
+
+Wavering
+
+What is good now will be bad in the future
+
+
+
+III. Revenge p93
+
+
+**No one deserves to be harmed. It's never right to do what's wrong. Being bad can never be what makes something good.**
 
 Doing bad is never good
 
