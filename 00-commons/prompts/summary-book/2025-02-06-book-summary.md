@@ -4,8 +4,6 @@
 ## https://ai.plainenglish.io/5-mega-chatgpt-prompts-that-i-use-everyday-to-save-4-hours-21efeb1918c5
 
 
-
-
 ## Write a thorough yet concise summary of [BOOK TITLE] by [AUTHOR].
 
 
@@ -30,4 +28,3 @@ Include all of the following in your summary:
 * Recommendations [Other similar books on the same topic] in detail
 * To sum up: The book’s biggest Takeaway and point in a singular sentence.
 * OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points.
-

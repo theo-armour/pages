@@ -38,6 +38,7 @@ With that in mind, here are the six key elements:
 • Caveat: Sometimes you’ll find that in practice adding an example constrains the creativity you’re looking for in the task. So for tasks that require useful variation, test with and without.
 
 ## 6. Constraints / Additional Instructions
+
 • Definition: Word limits, like no external data, or explain at a 5th-grade reading level, etc.
 
 • Why It Matters: LLMs can be overly verbose or meander. Constraints keep them reined in.
@@ -45,6 +46,7 @@ With that in mind, here are the six key elements:
 • Tip: In practice, if you have too many constraints the model will get mixed up. So use them wisely and lean on your example.
 
 ## “Chain-of-Thought” vs. Summarized Reasoning
+
 One of the biggest differences in LLM usage is whether you want them to generate a detailed “internal reasoning” or just a succinct final explanation. Some advanced models, especially o1 Pro, will reason in hidden steps. Others can produce chain-of-thought (CoT) explanations that show how the model reaches a solution.
 
 Sidebar: We don’t talk enough about the difference between deeply reasoning models and models that produce CoT as part of the response. The former (like o1 Pro) will run multiple streams of tokens in the background and exercise a degree of selection across the results of multiple token prediction streams. The latter (like o1, or DeepSeek R1, or Gemini Flash Thinking 2.0) generates a readable CoT that shows the model’s token prediction pattern prior to producing a readable response—but they aren’t necessarily running multiple next token prediction streams at once.
