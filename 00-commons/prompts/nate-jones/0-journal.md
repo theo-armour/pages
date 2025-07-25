@@ -43,7 +43,10 @@ Use this!!!
 ### Purpose (Why are we here?)
 
 MODE: reflection | action | agentic
+
 EFFORT: quick | standard | deep
+
+GOAL
 
 ### Instructions (How should you behave?)
 
