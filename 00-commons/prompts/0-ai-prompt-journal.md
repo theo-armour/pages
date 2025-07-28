@@ -8,6 +8,15 @@
 * Old age & anger
 * ?
 
+
+## 2025-07-27
+
+### Vibe Coding
+
+* https://lovable.dev/
+* https://natesnewsletter.substack.com/p/the-vibe-coding-bible-how-to-build
+* https://www.google.com/search?q=prompts+for+vibe+coding
+
 ## 2025-05-10
 
 kittens wearing astronaut gear on a scary adventure
