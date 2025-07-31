@@ -580,13 +580,15 @@ We use multiple words for the same thing, so as to conceal our inconsistency. p9
 
 The fundamental directive of the body is to pursue as much pleasure as possible. p94
 
-Socrates' approach to revenge is simple: you should never ever do bad things. p95
+**Socrates' approach to revenge is simple: you should never ever do bad things.** p95
+
+Bad things don't become good because of who they're done to, or what someone did first, or because they're done in self-defense. p95
 
 No matter what someone did in the past or will do in the future, they did not deserve harm. p95
 
 Being bad is not a way to be good. Harming people isn't good, it's bad. p95
 
-There is no good way to do bad. p96
+We will have to accept that all of these phrases mean the same thing, that there is no good way to do bad, and the kinship command, which only commands us to waver. p96
 
 Socrates is not raising any objection to violence or killing, so long as they are justified by the good to be achieved, rather than understood as "deserved" in the light of evils done.
 

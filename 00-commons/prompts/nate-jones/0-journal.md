@@ -1,5 +1,11 @@
 # Nate Jones Listicle
 
+## Comprehensive Synthesis of AI Coding Tools: Usage, Pitfalls, and Proven Work Patterns
+
+2025-07-30
+
+* https://natesnewsletter.substack.com/p/the-complete-52-page-guide-to-ai
+* https://docs.google.com/document/d/1xRYe25OqcYc6XFHKNuladTzHFwCh6igAXKljnQCuY0Y/edit
 
 ## The 39 Essential Prompts - Organized Edition
 

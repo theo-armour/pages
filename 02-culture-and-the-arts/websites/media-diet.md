@@ -1,5 +1,6 @@
 # Media Diet
 
+tags #media #fav
 
 ## Reference
 
@@ -67,7 +68,6 @@ How To: Find Sources
 * https://techmeme.com/
 * https://theregister.com/
 * https://quantamagazine.org/
-
 
 
 ## Publishers ~ generate original content
