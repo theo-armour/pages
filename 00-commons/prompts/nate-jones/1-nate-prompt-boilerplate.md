@@ -4,7 +4,6 @@
 * https://docs.google.com/document/d/13fhplAFEA0bhkrj_3ds_D_Obwif0AFfeNkzeSpa5rUc/edit?tab=t.0
 
 
-
 ### Purpose (Why are we here?)
 
 MODE: reflection | action | agentic
