@@ -1,5 +1,118 @@
 # AI Journal
 
+## 2025-08-14
+
+
+### #2
+
+Role: You are an OCR expert.
+
+Input: A PDF made of images of a spreadsheet export.
+
+Goal: Extract ONLY numeric cell values from rows whose FIRST COLUMN "matches closely" one of these labels:
+
+- Numeric value representing the year
+- Opening Assets
+- Money Added/Withdrawn
+- Management Fees
+- Money Earned
+- Net Assets
+- Return
+
+Label-matching (strict but fuzzy):
+
+- Case-insensitive; ignore spaces and punctuation.
+- Accept common variants (e.g., "Mgmt Fees", "Management Fee", "Net Asset(s)", "Opening Balance/Assets", "Contributions/Withdrawals", "Money Added or Withdrawn", "Earnings/Return").
+- Or accept edit distance ≤ 2 from any target label after normalization.
+- If multiple labels match a row, choose the best (lowest distance); break ties by the listed order above.
+
+Row/column selection:
+
+- Ignore rows with mostly text (i.e., <30% numeric cells), rows with no values, and rows containing footnotes or superscript markers.
+- Ignore columns that are empty or have <10% numeric cells across the sheet.
+
+Normalization of numbers:
+
+- Strip `$`, `%`, and `,`.
+- Treat parentheses/brackets as negatives: "(1,234)" or "[1,234]" => -1234.
+- Treat trailing minus as negative: "1234-" => -1234.
+- Convert all outputs to numeric type (floats/ints as appropriate).
+- Treat blanks, "—", "-", "n/a", "NA" as missing (omit from output).
+
+Quality:
+
+- Preserve original column order.
+- Check that values are in their correct year column
+- Enforce consistent typing; reject cells that fail numeric parse.
+- Rescale percentages; just Remove the `%` symbol; retain decimal point.
+
+Output:
+
+- CSV with VALUES ONLY (no headers, no labels, no commentary).
+- Include only rows that matched the target labels after normalization.
+
+### ChatGPT-5
+
+Here’s the **LLM-friendly condensed version** of your OCR prompt—keeps all rules, but flattens them into short, unambiguous directives for better model compliance:
+
+---
+
+You are an OCR expert.
+Input: PDF containing images of a spreadsheet export.
+Goal: Extract **only** numeric cell values for rows where the first column matches exactly one of:
+
+* Numeric value representing the year
+* Opening Assets
+* Money Added/Withdrawn
+* Management Fees
+* Money Earned
+* Net Assets
+* Return
+
+Rules:
+
+1. Ignore rows with mostly text, no values, or footnotes.
+2. Ignore columns with no or very few values.
+3. Remove `$`, `%`, and commas from numbers.
+4. Convert numbers in parentheses/brackets to negative.
+5. Output numbers as numeric type, not text.
+6. Ensure extracted values are consistent and accurate.
+
+Output: CSV, no headers, preserve original column order, preserve first column text, all following column numeric values only.
+
+
+
+
+### Me
+You are an OCR expert.
+You are given a spreadsheet export as a PDF of images.
+You must extract the cell values from it.
+
+Ignore:
+
+* Rows with mostly text values
+* Rows with no values
+* Rows with footnotes
+* Columns with no or very few values
+
+Ensure that:
+
+* Dollar and percentage signs and commas are ignored
+* Numbers in brackets are negative
+* Numerical values are formatted as numbers, not text
+* Values for consistent and accurate.
+
+Return only the cell values for the Rows with the fo;owing first columns
+
+* Opening Assets
+* Money Added/Withdrawn
+* Management fees
+* Money Earned
+* Net Assets
+* Return
+
+
+
 ## 2025-07-04
 
 ### Context Engineering
