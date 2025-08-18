@@ -5,6 +5,13 @@
 
 ## ToMatto
 
+* 2025-07-31 fa ~ Take great care to avoid mistakes when the decision is hard to reverse. Next play mentality.
+* 2025-07-13 ~ fs ~ Swim in your lane
+* 2025-07-05 ~ Correlation is not causality
+* 2025-07-04 ~ Steve Jobs: One more thing
+* 2025-07-03 ~ Theo: What are you going to do when you grow old?
+* 2025-07-03 ~ Theo: In the same way that it's not guns that kill people, it's people that kill people: It's not AI that spreads disinformation, it's people that spread disinformation.
+* 2025-06-27 ~ Slashdot: To stay youthful, stay useful.
 * 2025-06-22 brain-food: You become what you scroll. Choose accordingly.
 * 2025-06-16 ~ <https://fs.blog/brain-food/june-15-2025/> ~ “The day I decided that my life was magical, there was suddenly magic all around me.”
 * 2025-06-15 ~ Theo: Don't rush into the day. Let the day unfold. Start with second-order thinking, not first.
