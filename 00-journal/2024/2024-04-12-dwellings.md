@@ -4,7 +4,7 @@
 
 Somewhere where I had a room. Styed for a number of months
 
-* Hereferd St?
+* Hereford St?
 * 26 Bld Jean Mermoz
 * ?? Washington
 * 94 Allison Road
@@ -19,6 +19,7 @@ Somewhere where I had a room. Styed for a number of months
 * Sparks Street, Cambridge
 * Del Plain Hall
 * Merrill Hall
+* Underhill rd, locust Valley, LI NY
 * Syracuse: ??  Ave
 * Syracuse: Upstate Medical Center
 * 45 Nevern Square
@@ -35,9 +36,9 @@ Somewhere where I had a room. Styed for a number of months
 * Rue Guynemer
 * Gateway #1107
 * Blvd St Michel
-* 440 David #1915
+* 440 Davis #1915
 * 17 rue Brezin
-* 440 David #2101
+* 440 Davis #2101
 * 3400 Laguna Street #227
 
 ## Places where I have stayed for a while
