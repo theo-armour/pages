@@ -1,5 +1,28 @@
 # AI Journal
 
+## 2025-08-22
+
+* https://blog.cubed.run/the-only-chat-gpt-prompt-that-actually-works-25559b4dfff4
+
+* Act as a [role/expert].
+* I want to achieve [goal].
+* The target audience is [describe them].
+* The tone should be [tone/style].
+* Use [format/style/rules].
+* Here’s context: [add background].
+* Start by doing [specific task or step 1].
+
+More
+
+* Act as a [role/expert]. body of knowledge
+* I want to achieve [goal]. focus
+* The target audience is [describe them]. who for
+* The tone should be [tone/style].
+* Use [format/style/rules].
+* Here’s context: [add background].
+* Start by doing [specific task or step 1]. iterative
+
+
 ## 2025-08-14
 
 
