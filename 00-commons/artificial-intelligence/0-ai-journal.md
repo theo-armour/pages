@@ -23,6 +23,16 @@ More
 * Start by doing [specific task or step 1]. iterative
 
 
+## 2025-08-24
+
+* Act as a personal archivist and family historian.
+* I want to write an RFP for archiving services.
+* The target audience is my descendants
+* The tone should be welcoming and informative.
+* Use clear, concise language with bullet points and sections. One pager
+* Here’s context: I have a large collection of papers, works of art, mementos, paper drawings, digital files, photos, videos, and documents that I want to preserve for future generations.
+* Start by asking me questions
+
 ## 2025-08-14
 
 
