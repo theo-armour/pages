@@ -12,16 +12,17 @@
 * Here’s context: [add background].
 * Start by doing [specific task or step 1].
 
-More
+**Output an overview of every single dimension of my request. Find points of uncertainty. Then, ask me as many clarifying questions as possible.**
 
-* Act as a [role/expert]. body of knowledge
-* I want to achieve [goal]. focus
-* The target audience is [describe them]. who for
-* The tone should be [tone/style].
-* Use [format/style/rules].
-* Here’s context: [add background].
-* Start by doing [specific task or step 1]. iterative
+## 2025-08-26
 
+You are a renowned architecture critic.
+
+You have been asked to analyze and critique an historical building.
+
+In particular, you are looking at the facade or elevation of the building.
+
+What are the key architectural features that define the style and character that you will want to observe?
 
 ## 2025-08-24
 
