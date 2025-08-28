@@ -4,7 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
-* 2025-08-27: w
+* 2025-08-27: what is a divebar ~ for Jeff Wh
 * 2025-03-06 ~ List of San Francisco whateversfor newbs
 * 2024-12-28:&nbsp;when I talk to older people&nbsp;I tend to be the interruptor.&nbsp;When I talk to younger people&nbsp;I tend to be the interruptee.&nbsp;As we age&nbsp;our Reaction Time slow down.&nbsp;This affects how we speak to each other.
 * 2024-12-28: I prefer dating a woman who can climb a tree. The idea of smooching a face covered in lipstick and other chemicals is not at all pleasant.
