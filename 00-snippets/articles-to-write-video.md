@@ -25,7 +25,7 @@ newest at top
 * 2023-09-15 ~ Changes I have effected on the world ;-) factories in China ~ drawing boards to computers ~ three.js everywhere&nbsp;
 * 2023-09-10 ~ long wait for the weight loss
 * 2023-08-12 ~ Angels &amp; reflexive contrarians ~ reflection on Margaret Jacobs personality
-* 2023-05-09 ~&nbsp<a href="https://axisofordinary.substack.com/p/why-human-intelligence-is-just-a">https://axisofordinary.substack.com/p/why-human-intelligence-is-just-a</a> ~ add more items such as: humans will be helping establish goals ~ testing and debugging may happen ~ suggestions to try things may be offered ~
+* 2023-05-09 ~ <a href="https://axisofordinary.substack.com/p/why-human-intelligence-is-just-a">https://axisofordinary.substack.com/p/why-human-intelligence-is-just-a</a> ~ add more items such as: humans will be helping establish goals ~ testing and debugging may happen ~ suggestions to try things may be offered ~
 * 2023-04-23 ~ Economist/Brooks/Krugman/morning guy: US GDP is the best ~ but is productivity in service industries the same as production, construction an\d making things?
 * 2023-04-05 ~ categorization: Use Wikipedia!
 * People don't write enough
