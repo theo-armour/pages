@@ -4,7 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
-* 2025-08-28: 
+* 2025-08-28: two old soap
 * 2025-08-28: School for aging
 * 2025-08-27: what is a dive bar? ~ for Jeff Wheelwright
 * 2025-03-06 ~ List of San Francisco whatevers for newbs
