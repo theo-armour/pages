@@ -6,7 +6,7 @@ newest at top
 
 * 2025-08-27: what is a divebar ~ for Jeff Wheelwright
 * 2025-03-06 ~ List of San Francisco whateversfor newbs
-* 2024-12-28: when I talk to older people I tend to be the interruptor.When I talk to younger people&nbsp;I tend to be the interruptee.&nbsp;As we age&nbsp;our Reaction Time slow down. This affects how we speak to each other.
+* 2024-12-28: when I talk to older people I tend to be the interruptor. When I talk to younger people I tend to be the interruptee.&nAs we age&nbsp;our Reaction Time slow down. This affects how we speak to each other.
 * 2024-12-28: I prefer dating a woman who can climb a tree. The idea of smooching a face covered in lipstick and other chemicals is not at all pleasant.
 * 2024-01-01 ! My bathroom basin
 * Pills on shelf
