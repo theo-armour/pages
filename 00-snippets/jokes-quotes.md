@@ -35,7 +35,7 @@ We are something more than consumers of media who measure the passage of time by
 
 ## 2023-02-02 ~
 
-NYtime: Gail: If I’m having a bad day I can always remind myself that things could be worse — I could be a member of the British royal family.
+NYtimes: Gail: If I’m having a bad day I can always remind myself that things could be worse — I could be a member of the British royal family.
 
 ## 2023-01-11
 
