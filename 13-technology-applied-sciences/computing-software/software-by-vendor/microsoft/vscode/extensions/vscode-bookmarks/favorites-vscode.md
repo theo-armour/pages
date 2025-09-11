@@ -1,6 +1,9 @@
-# Favorites Manage
+# Favorites Manager ~ Oleg Shilo
 
+* Actively updated
+* https://marketplace.visualstudio.com/items?itemName=oleg-shilo.favorites
 * https://github.com/oleg-shilo/Favorites.vscode
+
 
 ## Default folder
 
@@ -23,6 +26,9 @@ Groups (folders):
 group.file1.list.txt
 group.file2.list.txt
 
+You can drag and drop the favorites icon from the sidebar to the Explorer window.
+
+Workspace settings can override user settings. Some settings cannot be actually changed by the user and must be changed in the workspace.
 
 ## Updates
 
