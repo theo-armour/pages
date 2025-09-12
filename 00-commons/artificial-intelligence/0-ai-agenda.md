@@ -2,7 +2,7 @@
 
 ## Claude
 
-* wikipedia Cataloging project
+* Wikipedia Cataloging project
 * Notesey Project
 * Genealogy Project
-* Haelth Project
+* Health Project
