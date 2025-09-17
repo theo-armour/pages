@@ -118,6 +118,7 @@ Output: CSV, no headers, preserve original column order, preserve first column t
 
 
 ### Me
+
 You are an OCR expert.
 You are given a spreadsheet export as a PDF of images.
 You must extract the cell values from it.
