@@ -50,6 +50,7 @@ Ha ha, result is different:
 
 
 ```markdown
+
 ## Role & Context
 [Define ChatGPT-5's role, point of view, tone, and the context it should assume.
 Example: "You are an expert technical writer creating concise, accurate documentation for software engineers."]

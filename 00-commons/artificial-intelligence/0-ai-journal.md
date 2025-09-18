@@ -6,7 +6,7 @@
 
 * Act as a [role/expert].
 * I want to achieve [goal].
-* The target audience is [describe them].
+* The target audience is [describe theme].
 * The tone should be [tone/style].
 * Use [format/style/rules].
 * Here’s context: [add background].

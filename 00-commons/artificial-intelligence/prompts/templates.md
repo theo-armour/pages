@@ -41,7 +41,8 @@ Written for [audience].
 Ignore [irrelevant parts].
 
 
-Template 1: General Problem Solving
+## Template 1: General Problem Solving
+
 When to use it: This is your Swiss Army knife—for analysis tasks, decision-making, research questions, and any situation where you need systematic thinking about complex problems.
 
 Why it works: The explicit structure triggers GPT-5's analytical routing while preventing the endless exploration loops the model falls into with vague problem-solving requests. The step-by-step process methodology ensures comprehensive coverage without redundancy.
@@ -126,7 +127,7 @@ Document how output changes
 
 Iterate until consistency meets needs
 
-Template 2: Technical/Coding
+## Template 2: Technical/Coding
 When to use it: Software development, debugging, code reviews, technical documentation, architecture decisions, or any programming task where quality and completeness matter.
 
 Why it works: GPT-5's code generation is powerful but needs boundaries to prevent over-engineering or under-specification. This template ensures the model considers environment constraints, error handling, and documentation—things it might skip when rushing to provide a solution.
@@ -226,7 +227,7 @@ Run generated tests to verify they actually work
 
 Check if edge cases are addressed
 
-Template 3: Creative Writing
+## Template 3: Creative Writing
 When to use it: Blog posts, marketing copy, stories, scripts, or any creative content where you need consistent quality and voice while maintaining creativity.
 
 Why it works: GPT-5's creative capabilities are impressive but unpredictable. This template provides enough structure to ensure consistency without making the output formulaic. The creative parameters section gives the model permission to be creative within boundaries.
@@ -325,7 +326,7 @@ A/B test with and without template for engagement
 
 Track which sections get modified most often
 
-Template 4: Research & Analysis
+## Template 4: Research & Analysis
 When to Use
 Academic research, literature reviews, competitive analysis, market research, technical investigations, or any task requiring systematic information gathering and synthesis from multiple sources.
 
@@ -444,7 +445,7 @@ Have subject matter expert review methodology
 
 Test if recommendations follow logically from evidence
 
-Template 5: Communication & Business Writing
+## Template 5: Communication & Business Writing
 When to Use
 Professional emails, executive communications, presentations, proposals, reports, or any business document where clarity, persuasion, and professionalism matter.
 
