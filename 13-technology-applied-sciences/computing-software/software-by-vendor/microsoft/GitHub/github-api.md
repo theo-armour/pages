@@ -1,5 +1,4 @@
-﻿
-# GitHub API
+﻿# GitHub API
 
 
 ## Documentation: https://developer.github.com/v3/
