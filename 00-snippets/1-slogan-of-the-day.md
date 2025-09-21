@@ -5,6 +5,10 @@
 
 ## ToMatto
 
+* 2025-09-14: Theo ~ People are smarter when they write than when they talk.
+* 2025-08-28: James Clear: Don't just tell your people that you love them — tell them why you like them.
+* 2025-08-25: Aging: "An extraordinary process whereby you become the person you always should have been," David Bowie
+* 2025-08-18 ~ SacSem: I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day." E B White
 * 2025-07-31 fa ~ Take great care to avoid mistakes when the decision is hard to reverse. Next play mentality.
 * 2025-07-13 ~ fs ~ Swim in your lane
 * 2025-07-05 ~ Correlation is not causality
