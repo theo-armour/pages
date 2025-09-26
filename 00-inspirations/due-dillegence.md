@@ -5,8 +5,6 @@
 * Why do we need to do this?
 * ho needs this?
 
-
-
 ## Standing on the shoulders of giants
 
 * We are not AI Slop: We need to be credible
