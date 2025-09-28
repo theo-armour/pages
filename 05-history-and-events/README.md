@@ -9,7 +9,8 @@ tags #05 #history #events #time
 * https://en.wikipedia.org/wiki/Category:History
 * https://en.wikipedia.org/wiki/Category:Fields_of_history
 
-Main categories: History and Events
+### Main categories: History and Events
+
 * By period
 * By topic
 * Science
@@ -17,13 +18,14 @@ Main categories: History and Events
 * Historiography
 * Timelines
 
-History by location
+### History by location
 
-* By continent
-  * Africa
-  * Asia
-  * Europe
-  * America
+By continent
+
+* Africa
+* Asia
+* Europe
+* America
 
 By region
 
@@ -40,10 +42,3 @@ By region
 * https://en.wikipedia.org/wiki/Timeline
 
 
-## Pekka Johannes Hämäläinen
-
-* https://en.wikipedia.org/wiki/Pekka_H%C3%A4m%C3%A4l%C3%A4inen_(historian)
-
-A Finnish Scholar Wants to Change How We See American History
-In “Indigenous Continent,” Pekka Hamalainen aims to upend the nation’s grand narrative, putting Native people and Native power at the center.
-* https://www.nytimes.com/2022/09/20/arts/indigenous-continent-pekka-hamalainen.html
