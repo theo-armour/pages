@@ -1,7 +1,20 @@
 # Scrapbook ~ adzierzanowski
 
+* 2025
 * https://github.com/adzierzanowski/vscode-scraps
 * https://github.com/adzierzanowski
+* https://marketplace.visualstudio.com/items?itemName=doublefloat.scrapbook
+
+## Features
+
+This extension adds a panel with different kind of items such as
+
+* shortcuts to files
+* website links
+* terminal commands
+* vscode commands
+* todo items
+* markdown notes
 
 
 ## 2025-09-27 Help with "Edit VSCode Command Scrap" arguments
@@ -115,3 +128,7 @@ Items 3 and/or 5 would be especially useful for me **today**. Tell me where to s
 Cheers,
 
 Theo
+
+### 2025-09-23
+
+Wow ~ this is really good.
