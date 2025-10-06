@@ -69,6 +69,22 @@ Lillemor held his hand and his head as she talked to him.
 * One thing in particular: Throughout all of this, I knew this was not a time for devices.
 * And even this, I'm not using the computer's sentence completion. I'm just trying to type it with my own words.
 
+## Later
+
+I have no recollection of when Karl was diagnosed with stage 4 metastasized prostate cancer. Was it late last year or was it earlier this year? Memory of timelines is getting shakier and shakier. That doesn't stop the times from getting better, thank goodness. Fingers crossed that t.armour moves into perpetual happiness or something.
+All I remember is that Lillemor came to my apartment one time and said Karl would like to see you. I went down and we chatted.
+Ever since whenever she's needed help or something, she has called or stopped in and sat on my bed and chatted or whatever.
+Not always easy - sometimes it's hugely interruptive, sometimes it's okay.
+But each and every time I felt it was a duty to do this, and not necessarily because I loved Karl or Lillemor - just it was a duty.
+When things are duty, it doesn't mean that they're particularly nice, happy, or good things to do or give you joy.
+Over a period of time, we built up a certain amount of resentment for these interventions.
+This morning Karl died.
+Lillemor asked me to come into the room while that was happening.
+Her acts gave me a ton of validation and feeling of being worthwhile.
+Whatever I had gone through before was okay.
+It's not tit for tat, It's not trying to be equal or balance something.It's more about recognizing that two people are trying.
+Fingers crossed: the actions complement each other.
+
 
 ## Why do we write bullet points?
 
