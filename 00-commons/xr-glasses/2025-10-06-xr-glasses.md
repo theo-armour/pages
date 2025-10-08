@@ -1,5 +1,9 @@
 # 2025-10-06 XR Glasses
 
+tags #meta #ray-ban
+
+
+
 What am I missing here?
 
 https://www.meta.com/

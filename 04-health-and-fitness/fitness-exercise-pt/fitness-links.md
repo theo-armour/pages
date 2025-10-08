@@ -1,6 +1,6 @@
 # Fitness
 
-tags #fitness #health #hw
+tags #fitness #health #hw #sensors #wearables #exercise #devices
 
 ## Reference
 
@@ -77,6 +77,9 @@ Comfortable enough to wear non-stop thanks to new, durable SuperKnit bands, but 
 GET MORE ACCURATE DATA
 5 LEDs and 4 photodiodes capture your data more often than most wearables, providing best-in-class accuracy validated in lab studies and with third-party testing.
 
+## Wurq
+
+* https://www.wurq.io/
 
 ## Journal
 
