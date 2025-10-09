@@ -7,7 +7,6 @@ tags #XR #meta #glasses
 
 * Not a walled garden
 
-
 ## Lenses & Frame
 
 * User adjustable myopia prescription lenses or pop-in lenses
