@@ -1,5 +1,6 @@
 # Goals ~ links
 
+tags: #goals #obhectives
 
 ## Synonyms ~ Goals & Objectives
 
@@ -64,3 +65,5 @@ https://www.nytimes.com/2017/12/18/smarter-living/how-to-stick-with-new-years-re
 * https://sloanreview.mit.edu/article/with-goals-fast-beats-smart
 * http://apppm.man.dtu.dk/index.php/FAST_goals
 * https://www.workpath.com/magazine/fast-goals
+
+
