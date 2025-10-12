@@ -2,9 +2,6 @@
 # The Obstacle is the Way
 
 
-
-
-
 Ryan Holiday is my favorite Stoic auther these days
 
 In _The Obstacle is the Way_, Holiday divides stoic thinking into: perception, action and will
