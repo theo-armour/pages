@@ -4,7 +4,6 @@
 
 * fitness
 * weight
-* 
 * diet / tastiness
 * health
 * safety security
