@@ -21,7 +21,7 @@ See https://chat.openai.com/c/7766f174-57f6-4004-b1cb-e9f97307cfea
 
 ## More
 
-* I care therefor I am
+* I care therefore I am
 * Be objective
 * Be efficient
 * Be kind
