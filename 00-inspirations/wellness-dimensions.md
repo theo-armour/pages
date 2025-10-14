@@ -12,4 +12,4 @@ tags #wellness #health #goals
 ## Me
 
 * https://app.raindrop.io/my/40764666
-* C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\04-health-and-fitness\self-care\wellness-dimensions-checklist
+* C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\04-health-and-fitness\self-care\
