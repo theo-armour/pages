@@ -1,6 +1,9 @@
 # United Nations Sustainable Development Goals (SDG)
 
-sdg-united-nations-sustainable-development-goals.md
+tags #sdg #sustainable-development-goals #united-nations #inspiration #global-goals #agenda2030 #theo
+
+
+## Links
 
 * https://sdgs.un.org/
 * https://en.wikipedia.org/wiki/Sustainable_Development_Goals
@@ -25,7 +28,15 @@ Grouping the indicators by topic
 
 ## Goals, targets, and indicators.
 
+* https://www.perplexity.ai/search/united-nations-sustainable-dev-SYDoIm7SQ2O5pfpmdgm7PQ?0=r#0
+https://sdgs.un.org/publications/indicators-and-monitoring-framework-sustainable-development-goals-17958
+
 * https://www.sportanddev.org/sport-and-development/sustainable-development-goals/targets-indicators-monitoring
+* https://sdgs.un.org/sites/default/files/publications/2013150612-FINAL-SDSN-Indicator-Report1.pdf
+
+
+***
+Simple summary
 
 ## Framing Sustainable Development: Goals, Targets, and Indicators
 
