@@ -2,7 +2,6 @@
 
 tags #goals #goal-setting #criteria #smart #fast #okr #sdg  #sustainable-development-goals #inspirations 
 
-
 * https://en.wikipedia.org/wiki/Goal
 * https://en.wikipedia.org/wiki/Goal_setting
 
