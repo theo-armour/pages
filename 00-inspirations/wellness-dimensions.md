@@ -15,8 +15,9 @@ tags #wellness #health #goals #dimensions #self-care #inspirations
 
 ### Hettler
 
-* https://www.hettler.com//sixdimen.htm
 * https://www.hettler.com/
+* https://www.hettler.com//sixdimen.htm
+* https://www.hettler.com/Origins.htm
 * https://healthyhappylife.com/defining-wellness-hettlers-six/
 * https://nationalwellness.org/resources/six-dimensions-of-wellness
 * https://cdn.ymaws.com/members.nationalwellness.org/resource/resmgr/pdfs/sixdimensionsfactsheet.pdf
