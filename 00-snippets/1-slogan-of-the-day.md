@@ -4,7 +4,7 @@
 * Newest at top
 
 ## ToMatto
-* file:///C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-snippets\1-slogan-of-the-day.md
+
 * 2025-09-14: Theo ~ People are smarter when they write than when they talk.
 * 2025-08-28: James Clear: Don't just tell your people that you love them — tell them why you like them.
 * 2025-08-25: Aging: "An extraordinary process whereby you become the person you always should have been," David Bowie
