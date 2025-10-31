@@ -5,6 +5,7 @@
 * Copy templates from: https://natesnewsletter.substack.com/p/the-chatgpt-5-prompting-manual-building
 
 ## Email Response Template
+
 Write a [type of email] to [recipient] about [topic].
 
 Keep it [length] and use a [tone] tone.
@@ -14,6 +15,7 @@ Include [specific points].
 End with [type of closing].
 
 ## Content Creation Template
+
 Create a [type of content] about [topic] for [audience].
 
 Make it [length] with [tone/style].
@@ -23,6 +25,7 @@ Include [must-have elements].
 Focus on [main message].
 
 ## Problem-Solving Template
+
 I'm facing this challenge: [describe problem]
 
 My constraints are: [limitations]
@@ -32,6 +35,7 @@ Help me find [number] solutions that [criteria].
 Consider [important factors].
 
 ## Summary Template
+
 Summarize [document/article/meeting] in [length].
 
 Focus on [key aspects].

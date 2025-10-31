@@ -32,20 +32,19 @@
 * Appeal to emotions or intellect
 * inform, persuade, entertain, instruct, or influence
 
-
 ### Chain of Thought
 
-* Explain your reasoning before giving the final 
+* Explain your reasoning before giving the final
 answer."
 
 
-### StepByStep
+### Step By Step
 
 * Breaks down complex tasks into steps
-* your response must be structured into a sequence of logically ordered steps. Each step should be explicitly labeled, such as: **[Step 1] → [Step 2] → ... → [Final Step]**.   
+* your response must be structured into a sequence of logically ordered steps. Each step should be explicitly labeled, such as: **[Step 1] → [Step 2] → ... → [Final Step]**.
 
 
-### CiteSources
+### Cite Sources
 
 Ensures AI includes references
 
@@ -56,8 +55,8 @@ Ensures AI includes references
 
 ### Socratic
 
-When this decorator is present, engage in a Socratic approach by posing clarifying questions before providing a direct answer. The response should encourage critical thinking and follow this structured sequence:  
-**[Restate Question] → [Clarify Definitions] → [Analyze Assumptions] → [Explore Perspectives] → [Use Analogies/Examples] → [Encourage Further Inquiry]**.  
+When this decorator is present, engage in a Socratic approach by posing clarifying questions before providing a direct answer. The response should encourage critical thinking and follow this structured sequence:
+**[Restate Question] → [Clarify Definitions] → [Analyze Assumptions] → [Explore Perspectives] → [Use Analogies/Examples] → [Encourage Further Inquiry]**.
 
 
 ## Task / Iterative Refinement
@@ -70,10 +69,10 @@ When this decorator is present, engage in a Socratic approach by posing clarifyi
 
 ### Critique
 
-* provide constructive criticism by assessing both strengths and weaknesses before suggesting improvements. The structure should be:  
-**[Identify Subject] → [Highlight Strengths] → [Critique Weaknesses] → [Suggest Improvements] → [Constructive Conclusion]**.  
+* provide constructive criticism by assessing both strengths and weaknesses before suggesting improvements. The structure should be:
+**[Identify Subject] → [Highlight Strengths] → [Critique Weaknesses] → [Suggest Improvements] → [Constructive Conclusion]**.
 
-### Create / Draft / Brainstorm 
+### Create / Draft / Brainstorm
 
 * Give me five creative ideas for
 * Provide a list of next steps
@@ -87,8 +86,8 @@ When this decorator is present, engage in a Socratic approach by posing clarifyi
 
 ### Debate
 
-Your response must analyze multiple viewpoints before reaching a conclusion. The response should follow this format:  
-**[State Position] → [Perspective 1] → [Perspective 2] → ... → [Analysis & Rebuttal] → [Conclusion]**.  
+Your response must analyze multiple viewpoints before reaching a conclusion. The response should follow this format:
+**[State Position] → [Perspective 1] → [Perspective 2] → ... → [Analysis & Rebuttal] → [Conclusion]**.
 
 ### Explain
 
@@ -97,9 +96,9 @@ Your response must analyze multiple viewpoints before reaching a conclusion. The
 ### Fact Check
 
 * Prioritizes verifying factual accuracy
-* verify the factual accuracy of key claims before finalizing the response. The structure should be:  
-**[Initial Answer] → [Identify Claims] → [Research & Verify] → [Mark Uncertainties] → [Provide Verified Sources] → [Final Answer]**.  
-* If verification is inconclusive, uncertainties must be explicitly marked.  
+* verify the factual accuracy of key claims before finalizing the response. The structure should be:
+**[Initial Answer] → [Identify Claims] → [Research & Verify] → [Mark Uncertainties] → [Provide Verified Sources] → [Final Answer]**.
+* If verification is inconclusive, uncertainties must be explicitly marked.
 
 ### Find / Search
 
@@ -119,14 +118,14 @@ Your response must analyze multiple viewpoints before reaching a conclusion. The
 
 AI first reasons through a problem logically and then takes action based on that reasoning.
 
-* nalyze this customer feedback to identify major pain points. Then, 
+* Analyze this customer feedback to identify major pain points. Then,
 suggest an action plan to improve the product based on your analysis.
 
 ### Refine
 
-* go through multiple refinements, improving clarity, accuracy, or effectiveness in each step. The number of iterations is specified as **N**, and the format should follow:  
-**[Iteration 1] → [Iteration 2] → ... → [Final Answer]**.  
-* Each refinement must enhance the response step by step.  
+* go through multiple refinements, improving clarity, accuracy, or effectiveness in each step. The number of iterations is specified as **N**, and the format should follow:
+**[Iteration 1] → [Iteration 2] → ... → [Final Answer]**.
+* Each refinement must enhance the response step by step.
 
 ### Reverse Prompting
 
@@ -155,7 +154,7 @@ suggest an action plan to improve the product based on your analysis.
 * quiz me with five multiple-choice questions to test my understanding.
 * List, bullet points, CSV, HTML
 * Create a step-by-step cheat sheet with shortcuts and pro tips
-* Word count, paragraohs
+* Word count, paragraphs
 * Example
 * Providing a few examples
 * Chain-of-Thought Prompting

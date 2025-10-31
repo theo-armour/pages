@@ -3,6 +3,7 @@
 ## AI For Everyone #1
 
 ### video A Ng
+
 * https://www.coursera.org/learn/ai-for-everyone/home/week/1
 
 * AI creates value

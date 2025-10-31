@@ -32,7 +32,8 @@
 
 ## The tone should be [tone/style]
 
-Stylistic preferences or constraints.\
+Stylistic preferences or constraints.
+
 * formal vs informal
 * concise vs elaborate
 * technical vs simple language
