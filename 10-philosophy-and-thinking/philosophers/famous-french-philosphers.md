@@ -85,7 +85,7 @@ Spinoza
 
 * Walter Benjamin
 * CS Peirce
-* Habemas
+* Habermas
 * Popper
 * Dewey
 * Bertrand Russell
