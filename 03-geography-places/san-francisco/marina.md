@@ -1,5 +1,9 @@
 # location: Marina
 
+Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
+
+* https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php
+
 
 See pages/03-geography-places/california/marina
 

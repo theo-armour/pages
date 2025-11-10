@@ -6,7 +6,7 @@
 
 San Francisco, California has been the birthplace of many famous inventions across food, technology, fashion, and daily life. Iconic inventions range from denim jeans and slot machines to culinary firsts and world-changing devices.[^2][^5]
 
-### Iconic Inventions from San Francisco
+## Iconic Inventions from San Francisco
 
 - **Denim jeans**: Levi Strauss and Jacob Davis patented denim blue jeans with copper rivets in San Francisco in 1873, sparking a global fashion revolution.[^2]
 - **Cable cars**: The world-famous San Francisco cable car system, an innovative urban transit mode, was first developed and still operates today.

@@ -1,5 +1,7 @@
 # Aphorisms
 
+* Aphorisms on understanding: https://chatgpt.com/share/6910d629-65f0-8007-a4e0-13e5f0becba9
+
 Will be adding my favs
 
 * Those who do not learn from history are doomed to repeat it
