@@ -32,12 +32,6 @@ Dog Patch??
 * https://en.wikipedia.org/wiki/Category:San_Francisco-related_lists
 
 
-### Swan Oyster Depot
-
-* http://places.singleplatform.com/swan-oyster-depot/menu?ref=google
-* 1517 Polk St, San Francisco, CA 94109
-* https://www.sfchronicle.com/food/article/At-Swan-Oyster-Depot-a-secret-menu-built-for-10591335.php
-
 
 ## Maps
 
@@ -46,6 +40,7 @@ Dog Patch??
 ## Museum
 
 https://sfmcd.org/
+
 >Manifesto
 You’re bold. You question the conventional notion of art. You are inspired by creativity that stirs the soul. And you value designers, makers and artists who are risk takers and seek to inspire the world. Visual culture thrives at the Museum of Craft and Design. We bring you the work of the hand, mind and heart. We are building a path to the future of creative expression.
 

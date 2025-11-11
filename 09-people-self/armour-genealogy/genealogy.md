@@ -2,19 +2,7 @@
 
 tags #hobby
 
-## gedcom
 
-* https://en.wikipedia.org/wiki/GEDCOM
-
-
-## Reference
-
-* https://en.wikipedia.org/wiki/Genealogy
-* https://en.wikipedia.org/wiki/Genealogy_software
-* https://en.wikipedia.org/wiki/Comparison_of_web-based_genealogy_software
-* https://en.wikipedia.org/wiki/Category:Genealogy_websites
-* https://en.wikipedia.org/wiki/Most_recent_common_ancestor
-* https://en.wikipedia.org/wiki/Category:Genealogy
 
 ## Fun question
 
@@ -81,6 +69,7 @@ Second Pass: Augmenting Lineage Biodata
 * Exports to recognized file formats
 
 Terms
+
 * Will be pleased to psy $40 or more for second pass work for agreed efforts
 
 

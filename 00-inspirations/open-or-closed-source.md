@@ -14,3 +14,8 @@ If I am in the very fortunate position of having the ability to share, then I am
 
 Jefferson: lighting a candle does not diminish the light of the first candle.
 
+***
+
+15,1: Jefferson: lighting a candle does not diminish the light of the first candle.
+
+https://www.nybooks.com/articles/2011/11/24/jeffersons-taper-national-digital-library/
