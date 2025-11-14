@@ -3,16 +3,17 @@
 
 ## Search
 
-* xr display camera ai voice glasses
+tags #xr #display #camera #ai voice glasses
 
 ## Even G1
 
 * https://www.evenrealities.com/
 * Display
 * No cameras
-
+5510
 ## Halliday
 
+* Backer #5510
 * support@hallidayglobal.com
 * https://www.kickstarter.com/projects/halliday-ai-glasses/halliday-proactive-ai-glasses-with-invisible-display
 * https://survey.pledgebox.com/project/107077/halliday-proactive-ai-glasses-with-invisible-display/d5e423c510CBSy4s/confirm

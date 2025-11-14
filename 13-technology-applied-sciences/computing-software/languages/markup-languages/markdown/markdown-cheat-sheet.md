@@ -65,6 +65,7 @@ jaanga.github.io/cookbook-html/snippets/libraries/ace-editor/ace-view-r1.html
 
 
 ## Table of Contents
+
   * [Chapter 1](#chapter-1)
   * [Chapter 2](#chapter-2)
   * [Chapter 3](#chapter-3)
@@ -116,7 +117,6 @@ Just replace the YOUTUBE_VIDEO_ID_HERE for the id of your video. An image will a
 Or use pure markdown (without dimensions):
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 Do you have another tip that could be useful and we don't have in this collection ? Please share it with us in the comment box.
-githubmarkdownreadmerepositorycenter
 
 
 
@@ -137,10 +137,12 @@ githubmarkdownreadmerepositorycenter
 ### Horizontal rules
 
 #### What you type
-```
-	***
-	---
-	___
+
+``` markdown
+***
+---
+___
+
 ```
 
 ### What you see
@@ -155,7 +157,7 @@ ___
 
 ### Strike through
 
-```
+``` markdown
 ~~Strike through~~
 ```
 ~~Strike through~~
