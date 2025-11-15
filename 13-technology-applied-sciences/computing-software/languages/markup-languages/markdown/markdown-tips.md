@@ -2,6 +2,7 @@
 
 ## vsCode Markdown Preview
 
+
 ``` markdown
 
   "markdown.styles": [
@@ -13,10 +14,15 @@
 
 ## vsCode Markdown.PDF
 
+* Copy preview links
+* Turn to false most features
+*   "markdown-pdf.includeDefaultStyles": false,
+
 ``` markdown
 
   "markdown-pdf.styles": [
-    "C:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\markdown-pdf.css"
+    "https://heritage-happenings.github.io/markdown-pdf.css",
+    ".vscode\\markdown-pdf.css"
   ],
 
 ```
