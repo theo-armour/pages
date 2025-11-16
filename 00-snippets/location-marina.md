@@ -4,8 +4,14 @@ See pages/03-geography-places/california/marina
 
 Try them all!!
 
-* [https://www.tiyasf.com/](https://www.tiyasf.com/)
-* [https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails)
+* https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
+
+## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
+
+* meaning: happiness, gaiety
+* Owners: Arman & Angelynne
+* Rabbit: Good
+* Try croquettes
 
 ## Atelier Crenn ~ [atelier crenn](https://www.ateliercrenn.com/)
 
@@ -27,14 +33,7 @@ Closed Sunday &amp; Monday
 * Sebastian
 * Manager: Guillaume
 
-## [Boho Cafe](https://www.cafebohosf.com/)
 
-* Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
-* Brendan ~ bartender
-* Tick? ~ Thailand ~ server
-* 3321 Steiner St, San Francisco, CA 94123
-* Back room for 10 ~ $75/head
-* +1 415 374 7518 you
 
 ## Brazen head
 
@@ -43,6 +42,15 @@ Closed Sunday &amp; Monday
 ## Bus Stop ~ Union &amp; Laguna
 
 * Owner: Jesse
+
+## [Cafe Boho](https://cafebohosf.com/)
+
+* Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
+* Brendan ~ bartender
+* Tick? ~ Thailand ~ server
+* 3321 Steiner St, San Francisco, CA 94123
+* Back room for 10 ~ $75/head
+* +1 415 374 7518 you
 
 ## California Wine Merchant ~ [calwine](https://www.californiawinemerchant.com/)
 
@@ -76,10 +84,6 @@ Regulars
 
 * Ken
 
-## [Cafe Boho](https://cafebohosf.com/)
-
-* Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
-* Brendan ~ bartender
 
 ## Cultivar
 
@@ -132,10 +136,9 @@ Izzy
 
 ## Jake's Steaks
 
-
-
 * Gabriel
 * Victor
+* Junior
 
 ## l'Amida
 
@@ -202,15 +205,18 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 * 10a-midnight Saturday &amp; Sunday 3-11p
 * Sunday: gets quiet at 6:30
-* Stephen: skinny ginger&nbsp;
+* Stephen: skinny ginger
 * Shawn ~ person of some color ~ tattooed
 * Sophie
 * Cecelia
 * John
-* Jah'melah ~ juh-me-lah
-* &nbsp;~ person of color
+* Jah'melah ~ juh-me-lah ~ person of color
 * Bart ~ skinny ~ hair thing
 * Eddie ~ Korean
+
+## Tiya ~ https://tiyasf.com
+
+* Pujan Sarker
 
 ## Union Street Inn ~ [https://unionstreetinn.com/](https://unionstreetinn.com/)
 
@@ -234,10 +240,4 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ***
 
-## Alegrias ~ [alegrias](https://www.alegriassf.com/)
-
-* meaning: happiness, gaiety
-* Owners: Arman &amp; Angelynne
-* Rabbit: Good
-* Try croquettes
 * Chef Jose Ortiz Gurung Kitchen ~ [https://www.gurungkitchenca.com/](https://www.gurungkitchenca.com/) ~ himalayan food
