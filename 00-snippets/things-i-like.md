@@ -46,9 +46,9 @@ The center line of your bed is parallel to the center line of the bathtub (or sh
 
 Peter Piper picked a peck of pickled peppers.
 
-A Peck of pickled peppers, Peter Piper picked.
+A peck of pickled peppers, Peter Piper picked.
 
-but, if Peter Piper picked a peck of pickled peppers.
+But, if Peter Piper picked a peck of pickled peppers.
 
 Where is the peck of pickled peppers Peter Piper picked.
 
