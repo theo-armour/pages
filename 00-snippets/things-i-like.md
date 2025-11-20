@@ -35,9 +35,12 @@ There is a visible place for things yet to be discarded.
 
 Things are moved around and about.
 
-The center line of your bed is parallel to the center line of the bathtub (or shower). From the Fertés.
 
 Use the splash backs and skirting boards to hold things.
+
+The center line of your bed is parallel to the center line of the bathtub (or shower). From the Fertés.
+
+
 
 ## Peter Piper
 
