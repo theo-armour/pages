@@ -48,7 +48,7 @@ Peter Piper picked a peck of pickled peppers.
 
 A peck of pickled peppers, Peter Piper picked.
 
-But, if Peter Piper picked a peck of pickled peppers.
+But, if Peter Piper picked a peck of pickled peppers,
 
 Where is the peck of pickled peppers Peter Piper picked.
 
