@@ -2,7 +2,12 @@
 
 ## Reminders
 
+* Uninstall apps you installed
 * Erase as much as possible before starting reset
+* Be prepared to reset twice:
+1. Simple
+2. Full clean
+
 
 ## BitLocker
 

@@ -2,6 +2,11 @@
 
 ## Installation
 
+* Set Pin
+* Screen off to 60 minutes
+* Pointer size large
+* https://ninite.com/
+
 ## Win 11 Pro
 
 * Redemption codes
@@ -16,22 +21,22 @@ Click Next, and then click Start
 
 ### Minimum Apps
 
+* Input Director
 * AutoHotKey
+* Raindrop.io
 * Beyond Compare
-* Concepts
 * VS Code
 * GitHub Desktop
 * Git
-* Input Director
-* Phone Link
 * Office
-* Raindrop.io
+* Phone Link
 * Zoom
 * PC Manager
 
 
 Maybe
 
+* Windows Sandbox?
 * DropBox ~ takes hours to get everything. Start early
 * GDrive
 * OneNote for Windows 10
