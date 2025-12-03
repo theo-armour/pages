@@ -1,6 +1,5 @@
 # WSL
 
-burrage143
 
 ## Linux on Windows
 

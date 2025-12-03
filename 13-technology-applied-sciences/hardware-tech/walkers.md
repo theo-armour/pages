@@ -11,10 +11,6 @@
 
 
 
-### Elenker ~
-
-
-
 ## Elenker
 
 * https://www.elenkerwalker.com

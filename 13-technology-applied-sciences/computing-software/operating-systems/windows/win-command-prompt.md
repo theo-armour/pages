@@ -15,8 +15,6 @@ In Windows console mode allows you to use dos commands or some bash commands
 * Right-click on start button
 * Click terminal (admin)
 
-
-
 ## Useful Commands
 
 * tasklist
