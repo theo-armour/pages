@@ -2,6 +2,7 @@
 
 * https://www.astralcodexten.com/p/vibecession-much-more-than-you-wanted
 * https://walkingtheworld.substack.com/p/why-are-americans-unhappy
+* https://www.slowboring.com/p/you-can-afford-a-tradlife
 
 A greater number of diagnosis
 * ADHD
@@ -28,3 +29,5 @@ Leading to reduced
 * Disposable time
 
 Device dependence
+
+Result: Life is less fun.
