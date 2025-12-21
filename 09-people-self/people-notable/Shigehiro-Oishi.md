@@ -2,11 +2,11 @@
 
 ## Life in Three Dimensions
 
-Chapter One: Should I Stay or Should I Go?
+## Chapter One: Should I Stay or Should I Go?
 
-Chapter Two: The Happiness Trap
+## Chapter Two: The Happiness Trap
 
-Chapter 3: The Meaning Trap
+## Chapter 3: The Meaning Trap
 
 Chapter Four: A Life of Exploration
 
@@ -27,6 +27,7 @@ Complexity and unexpectedness enhance visual and perceptual richness.
 Transcending experiences different from our typical everyday experiences produce a different set of thoughts and emotions. In short, psychologically rich experiences.
 
 > No mention of music.
+> No mention of writing.
 
 ## Chapter 10: The Point of Exploration.
 
@@ -58,9 +59,46 @@ Psychological richness and misfortune can co-exist so long as the misfortune is 
 
 ## Chapter 12: A Story We Tell
 
+Can we make a life sound like a psychologically richer one? Cheat coe??
+
+Edit your story to make it more psychologically rich.
+
+p145 By seeing our old selves as not particularly self-confident, socially skilled, or independent, we can see our current selves as much stronger in those areas.
+
+p149 To begin here, please describe very briefly what the main chapters in the book might be. What does a table of contents for your book look like? How many chapters are there in your book? How would you name each chapter?”
+
+### p160 Finding richness in the familiar.
+
+Søren Kierkegaard’s 1843 Either/Or is all about the conflicts between stability and instability, boredom and excitement, long term and short term, rationality and passion, planning and spontaneity.
+
 ## Chapter 13: Two Remaining Questions Too Much Rich
 
+p154 Can a life be too psychologically rich?
+
+p154 Can we also gain psychological richness by staying, or from familiar objects and people?
+
+p155 excessive childhood moves could have a lingering negative effect on subjective well-being in adulthood among introverts because they tend to have a harder time making social connections in new places and end up with few close relationships in adulthood.
+
 ## Chapter Fourteen: A Good Life Without Regrets
+
+p178 Like Goldmund in Narcissus and Goldmund, even if you aren’t happy and don’t find your life to be meaningful, you can still lead a good life if you fill it with diverse, interesting, and perspective-changing experiences.
+
+
+## 2025-12-20
+
+Finished. At last! Zero counterfactuals. Is that the problem with it?
+AI> That there are no surprises? No unexpected twists? No counterintuitive findings? Just a litany of examples that prove the same point over and over again?
+
+Okay, happiness and meaning are sort of counterfactuals. But they all fit in with the triad of three dimensions.
+
+Having said that, I'm glad I read it! It makes me happy and gives meaning to my life. ;-) Which has been rich in so many ways.
+
+## 2025-12-18
+
+More of the same. A litany of examples that prove this point. At least I'm taking notes! And because I have not copy-pasted so much, I can copy-paste text from the book.Fingers crossed I don't run out of copy-pastes in Amazon Kindle!
+
+One nice thing is that this book is easier to summarize than Agnes's book. I should read a bit more about Kahneman. Seems an interesting person. Perhaps even psychologically rich.
+
 
 ## 2025-12-17
 

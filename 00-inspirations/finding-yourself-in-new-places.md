@@ -24,7 +24,7 @@ Tags #newbs #geography #places #travel #tourist
 * No burgers or pizzas
 
 
-##Things that isolate you
+## Things that isolate you
 
 * Walking through museums
 * Farmers markets

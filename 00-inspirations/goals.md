@@ -1,6 +1,6 @@
 # Goals
 
-tags #goals #goal-setting #criteria #smart #fast #okr #sdg  #sustainable-development-goals #inspirations 
+tags #goals #goal-setting #criteria #smart #fast #okr #sdg  #sustainable-development-goals #inspirations
 
 * https://en.wikipedia.org/wiki/Goal
 * https://en.wikipedia.org/wiki/Goal_setting
@@ -35,3 +35,4 @@ https://en.wikipedia.org/wiki/SMART_criteria
 
 * https://en.wikipedia.org/wiki/Objectives_and_key_results
 * https://en.wikipedia.org/wiki/OGSM
+* Objective, goals, strategies and measures (OGSM)

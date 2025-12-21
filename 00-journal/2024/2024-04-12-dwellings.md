@@ -4,19 +4,19 @@
 
 Somewhere where I had a room. Styed for a number of months
 
-* Hereford St?
+* 29 Hereford St?
 * 26 Bld Jean Mermoz
 * ?? Washington
 * 94 Allison Road
 * 120 East End Ave
-* Concord NH x 6
+* Concord NH x 6 dorms
 * Brookville Road
 * 1020 Fifth Avenue
 * Wheatley Road
-* Ankara
+* Ankara, Turkey ~ weeks
 * 3018 Dumbarton Ave, Washington DC
-* Sunset Island
-* Sparks Street, Cambridge
+* Sunset Island ~ weeks
+* 8 Sparks Street, Cambridge
 * Del Plain Hall
 * Merrill Hall
 * Underhill rd, locust Valley, LI NY

@@ -3,11 +3,14 @@
 ## 2025-12-01 AI
 
 * Help governments decide courses of action for schools
-* Stop giving everbody A grades
+* Stop giving everybody A grades
 * Downgrade sloppy writing
-* help create real-life experiences
+* Help create real-life experiences
 * Harkness tables
 * Embrace voice-to-text
+* Writing, writing, writing
+* Voice to text
+
 
 But
 
