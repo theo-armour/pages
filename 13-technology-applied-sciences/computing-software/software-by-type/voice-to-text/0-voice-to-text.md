@@ -8,6 +8,10 @@
 * Voice or hand control with push to talk is OK
 * Saves to designated folder ~ GitHub or MS365
 
+## Windsurf
+
+* https://windsurf.com/
+
 ## https://wisprflow.ai/
 
 * 2025-06-26 ~ actively update ~ comprehesive site ~ ~ iOS but no Android yet ~ consider switching

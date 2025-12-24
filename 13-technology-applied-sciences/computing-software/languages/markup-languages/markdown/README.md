@@ -5,6 +5,8 @@ tags: #markdown #notes #editors #code #md
 
 ## Links of Interest
 
+* https://hackmd.io/
+* https://github.com/hackmdio
 * https://github.blog/changelog/2023-03-15-introducing-the-github-markdown-helpers-public-beta/
 * http://daringfireball.net/projects/markdown/syntax
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -26,6 +28,7 @@ tags: #markdown #notes #editors #code #md
 
 ### https://github.com/markdown-it/markdown-it ! 16K starts
 
+* https://markdown-it.github.io/" could be better than showdown ~ let's explore it
 * Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * Wants node
 * More features than showdown

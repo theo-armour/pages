@@ -3,6 +3,7 @@
 
 ## Keys
 
+* Chrome split screen ~ Can you add a keyboard shortcut to open to write?
 * help: F1
 * close tab: ctrl-w
 * Jump to the next open tab: Ctrl + Tab or Ctrl + PgDn

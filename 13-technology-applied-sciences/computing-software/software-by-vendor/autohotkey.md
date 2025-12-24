@@ -1,8 +1,11 @@
-# autohotkey
+# AutoHotKey
 
 App available via Microsoft store
 
 Get to help from the taskbar icon and select Help
+## Agenda
+
+* Split up AutoHotKey files
 
 ## Create shortcut in Startup
 
