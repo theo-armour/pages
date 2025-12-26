@@ -1,0 +1,34 @@
+{
+	"commands": [
+		{
+			"command": "Do undo",
+			"action": "undo"
+		},
+		{
+			"command": "Do copy",
+			"action": "copy"
+		},
+		{
+			"command": "Do cut",
+			"action": "cut"
+		},
+		{
+			"command": "Do delete",
+			"action": "delete"
+		},
+		{
+			"command": "Do paste",
+			"action": "paste"
+		},
+		{
+			"command": "Do find",
+			"action": "vsc-command:actions.find"
+		},
+
+		{
+			"command": "Put new line",
+			"snippet": "\n"
+		}
+		
+	]
+}

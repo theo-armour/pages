@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>TooToo Edit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description"
+    content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="Version 2025-06-01">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025/tree/main/tootoo">
+
+  <!-- Copyright 2025 Theo Armour. MIT license -->
+
+  <!-- <link id=CORstyle rel="stylesheet" href="../style-core.css"> -->
+
+  <style>
+    :root {
+      font: 100% monospace;
+      --mnu-width: 29rem;
+      --main-hue: 10;
+      /* 0 to 360 10=red 120=green 240=blue */
+      --margin: 0.5rem;
+      --saturation: 89%;
+      --lightness0: 1%;
+      --lightness1: 20%;
+      --lightness2: 30%;
+      --lightness3: 50%;
+      --lightness4: 80%;
+      --lightness5: 99.9%;
+      --color-active: #ff0;
+      --color-0-background: #fff;
+      --color-1-text: hsl(var(--main-hue), var(--saturation), 1%);
+      --color-1-background: hsl(var(--main-hue), var(--saturation), 99.9%);
+      --color-2-text: hsl(var(--main-hue), var(--saturation), 30%);
+      --color-2-background: hsl(var(--main-hue), var(--saturation), 90%);
+      --color-3-text: hsl(var(--main-hue), var(--saturation), 40%);
+      --color-3-background: hsl(var(--main-hue), var(--saturation), 95%);
+      --color-4-text: hsl(var(--main-hue), var(--saturation), 40%);
+      --color-4-background: hsl(var(--main-hue), var(--saturation), 98%);
+    }
+
+    * {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+      /* margin: 0; */
+      /* padding: 0; */
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    #navMenu {
+      /* padding: 0 var( --margin); */
+      /* width */
+      background-color: var(--color-1-background);
+      border: 8px solid #00f;
+      border-radius: var(--margin);
+      left: 0.25rem;
+      height: calc(100vh - 2rem);
+      padding: var(--margin);
+      position: fixed;
+      top: 0.5rem;
+      overflow: auto;
+      resize: both;
+      width: var(--mnu-width);
+      z-index: 1;
+    }
+
+
+    #divNavTreeView {
+      border: 2px blue solid;
+    }
+
+    #main {
+      border: 0px solid red;
+      left: 20rem;
+      position: absolute;
+      top: 1rem;
+      width: 25rem;
+    }
+
+    .iframe-resize {
+      border: 2px solid green;
+      height: 95vh;
+      overflow: hidden;
+      padding: 0.5rem;
+      resize: both;
+      width: 100%;
+    }
+
+    /* Top level summary elements start at 16px */
+    div div>.folder-contents>details>summary {
+      background-color: #ccc;
+      font-size: 16pt;
+      margin: 0 0 5px 0px;
+      padding: 0px 0px;
+    }
+
+    div div>.folder-contents>details>summary:hover {
+      background-color: #bbb;
+    }
+
+    /* First level of nesting */
+    .folder-contents>details>.folder-contents>details>summary {
+      background-color: #ddd;
+      font-size: 14pt;
+      margin-left: 10px;
+
+    }
+
+    /* Second level of nesting */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      background-color: #eee;
+      font-size: 12pt;
+      margin-left: 20px;
+    }
+
+    /* Third level of nesting */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      font-size: 11pt;
+      margin-left: 30px;
+    }
+
+    /* Fourth level of nesting and beyond */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      font-size: 10pt;
+      margin-left: 40px;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script src="../config.js"></script>  <script src="./main.js"></script>
+  <script src="./gtv-e/github-tree-view-edit.js"></script>
+  <script src="./gfo/github-file-open.js"></script>
+
+  <div id=divShowHide>
+
+    <details id=detNavMenu class="gmd-4" open>
+
+      <summary id=sumNavMenu class="summary-nav gmd-1" title="click to view or hide menu">
+        ☰
+      </summary>
+
+      <nav id="navMenu" class="gmd-4">
+
+        <div id=divNavHeader>
+
+          <header>
+            <h1>
+              <div class="title-link">
+                <a id=aSource href="" target="_top" title="Click to go to the source code on GitHub">
+                  <img id="imgGitHub"
+                    src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg"></a>
+              <a href="" title="Click this title to reload this page">
+                <span id=spnTitle></span>
+                <span id=spnVersion></span>
+              </a>
+              </div>
+            </h1>
+
+          </header>
+
+        </div>
+        <div id=divNavExtras>
+          Text size:
+          <button id="btnDecreaseText" onclick="adjustTextSize(-0.1)" style="font-size: 1.2rem;"
+            title="Decrease text size">A-</button>
+          <button id="btnIncreaseText" onclick="adjustTextSize(0.1)" style="font-size: 1.2rem;"
+            title="Increase text size">A+</button>
+          <button id="btnResetText" onclick="resetTextSize()" style="font-size: 1rem;"
+            title="Reset text size">A</button>
+          &nbsp;
+          <a style="display: none;font-size: 1.5rem;" id=pencil href="./tootoo-edit.html">✎</a>
+
+        </div>
+
+        <hr>
+
+        <div id=divNavTreeView></div>
+
+        <div id=divNavFooter>
+
+          <footer>
+
+            <div id=divLog></div>
+
+            <hr>
+
+            <center>
+              <a id=aIcon class=aDingbat href="javascript:spnTitle.scrollIntoView();" title="Scroll to top">
+                ❦
+              </a>
+            </center>
+
+          </footer>
+
+        </div>
+
+      </nav>
+
+    </details>
+
+  </div>
+
+
+  <main id=main>
+
+    <div id="divMessage"></div>
+    <div id="divMainContent"></div>
+
+  </main>
+
+  <script>
+
+    init();    
+    
+    function init() {
+
+      // Load saved text scale
+      loadTextScale();
+
+      document.title = COR.menuTitleEdit;
+      spnTitle.innerText = COR.menuTitleEdit;
+      document.getElementById("aSource").href = COR.urlSource;
+      main.title = document.querySelector("[ name=version ]").content;
+
+      if (location.protocol === "https:") {
+
+        window.history.pushState("", "", COR.urlPushPath + "tootoo/edit/" + location.hash);
+
+      }
+
+      if (window.innerWidth < 600 || window.innerHeight < 500) {
+
+        sumNavMenu.hidden = false;
+        detNavMenu.open = false;
+
+      } else {
+
+        const value = window.getComputedStyle(document.documentElement).getPropertyValue('--mnu-width');
+        //console.log( "value", value );
+        detNavMenu.style.width = value;
+        detNavMenu.style.maxWidth = "50%";
+        detNavMenu.open = true;
+        //navMenu.hidden = false;
+        sumNavMenu.hidden = true;
+
+      }
+
+        window.addEventListener("hashchange", onHashChange, false);
+        
+        location.hash = location.hash ? location.hash : COR.defaultFile;
+        
+        onHashChange();
+        
+    }
+
+  </script>
+
+</body>
+</html>

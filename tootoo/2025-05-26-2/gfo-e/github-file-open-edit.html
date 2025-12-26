@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>GFO-E</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-05-26-2">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025">
+
+  <style>
+    /* Copyright 2025 Theo Armour. MIT License */
+
+    :root {
+      font: 100% monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0 auto;
+      max-width: 50rem;
+      margin: 0;
+    }
+
+    img {
+      max-width: 100%;
+      vertical-align: middle;
+    }
+
+    #divMainContent {
+      border: 1px solid red;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+    .iframe-resize {
+      height: 400px;
+      overflow: hidden;
+      padding: 0.5rem;
+      resize: both;
+      width: 100%;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <a href="" id="aPath" title="Click this menu title to reload the file"></a>
+
+  <button onclick=testFiles(1)>readme</button>
+  <button onclick=testFiles(2)>license</button>
+  <button onclick=testFiles(3)>favicon</button>
+  <button onclick=testFiles(4)>test</button>
+  <button onclick=testFiles(5)>text-to-hack</button>
+  <button onclick=testFiles(6)>text-to-hack 2</button>
+  <button onclick=testFiles(7)>desktop.ini</button>
+  <button onclick=testFiles(8)>heritage</button>
+  <button onclick=testFiles(9)>snippets.txt</button>
+
+  <p>
+    <button onclick=parent.location.hash="">clear hash</button>
+    <button onclick=delSha()>delSha</button>
+  </p>
+  <div id="divMessage"></div>
+  <div id=divMainContent contenteditable="true"></div>
+
+  <script src="../main.js"></script>
+  <script src="github-file-open-edit.js"></script>
+
+  <script>
+
+    if (location.protocol === "https:") {
+
+    } else {
+
+      COR.pathApps = "../";
+      //COR.pathContent = "../../../";
+      //COR.pathContent = "https://pushme-pullyou.github.io/tootoo-2025/tootoo/"
+
+    }
+
+    COR.base = "https://api.github.com/repos/pushme-pullyou/tootoo-2025/contents/";
+
+    //COR.path = "test.md";
+
+    if (location.protocol === "https:") {
+
+      window.history.pushState("", COR.urlPushPath + location.hash);
+
+    }
+
+    location.hash = location.hash ? location.hash : COR.defaultFile;
+
+
+  </script>
+
+  <script>
+
+    const files = [
+      "@@README.md",
+      "LICENSE",
+      "favicon.ico",
+      "@@test.md",
+      "@@text-to-hack.md",
+      "@@test-cases/text-to-hack-2.md",
+      "@@test-cases/desktop.ini",
+      "test-cases/heritage-front.jpg",
+      "@@test-cases/snippets.txt",
+
+      //"test-cases/",
+    ];
+
+
+    const testFiles = (index) => location.hash = files[index - 1];
+
+    const delSha = () => localStorage.setItem("githubAccessToken", "");
+
+  </script>
+
+</body>
+
+</html>

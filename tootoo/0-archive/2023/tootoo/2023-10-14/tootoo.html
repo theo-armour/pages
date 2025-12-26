@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Theo Pages</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+	<meta name="description"
+		content="TooToo 2023 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
+	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+	<meta name="version" content="2023-10-14">
+	<meta name="author" content="Theo Armour">
+	<meta name="creator" content="https://github.com/theo-armour/pages/">
+
+	<!-- Copyright 2023 Theo Armour. MIT license -->
+
+	<link id=CORstyle rel="stylesheet" href="style.css">
+
+	<style>
+		:root {
+			/* --mnu-width: 20rem; */
+			--main-hue: 240;
+			/* 0 to 360 0=red 120=green 240=blue */
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<script>
+
+		const COR = {
+
+			// Used by MNU ~ mnu-menu.js
+			description: document.head.querySelector( "[ name=description ]" ).content +
+				`<p>Release: 2023-10-14<p>`,
+			urlSource: "https://github.com/theo-armour/pages/",
+			urlAssets: "https://pushme-pullyou.github.io/assets/",
+			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg">`,
+			iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
+			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/assets/svg/noun_Information_585560.svg">`,
+			iconRepo: "❦",
+			title: document.title, //? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
+			version: document.head.querySelector( "[ name=version ]" ).content,
+
+			// Used by FRX
+			defaultFile: "README.md",
+
+			//pathContent: "https://github.com/theo-armour/pages/",
+			pathContent: "../../",
+
+			//pathTooToo: "https://theo-armour.github.io/pages/",
+			pathTooToo: "./",
+
+			// Used by GRV
+			user: "theo-armour",
+			repo: "pages",
+			branch: "main",
+
+			//defaultIgnoreFolders: [],
+			defaultIgnoreFolders: [ "archive", "lib-templates" ], // curated
+
+			filesAll: true,
+			filterFiles: [ "gif", "md", "html", "jpg", "LICENSE", "pdf", "png", "svg", "txt", "xlsx", "" ], // curated
+			ignoreFiles: [ "404.html", "index.html", "LICENSE", "readme.html" ], // curated
+
+		};
+
+	</script>
+
+	<script src="mnu-menu.js"></script>
+	<script src="frx-file-read-xhr.js"></script>
+	<script src="grv-github-repo-tree-view.js"></script>
+
+
+	<div id=MNUdivShowHide></div>
+
+
+	<main id=main>
+
+		<div id="divMainContent"></div>
+
+	</main>;
+
+
+
+	<script>
+
+		init();
+
+		function init () {
+
+			if ( location.protocol === "https:" ) {
+
+				COR.pathContent = "https://theo-armour.github.io/pages/";
+
+				window.history.pushState( "", "", "../../" + location.hash );
+
+				COR.ignoreFolders = COR.defaultIgnoreFolders;
+
+			} else {
+
+				COR.ignoreFolders = [];
+
+			}
+
+			// MNU => "Menu ~ mnu-menu.js"
+
+			MNU.init();
+			//MNU.getSample();
+			//sumNavMenu.hidden = true;
+
+			//MNUaSource.hidden = true;
+			//MNUspnVersion.hidden = true;
+
+			// FRX => "File Read XHR"
+			FRX.init();
+			FRX.getMenu();
+
+			// GRV => "GitHub Repo View"
+			//GRV.getFiles = GRV.getFilesCurated;
+			//GRV.getFiles = GRV.getFilesAll;
+			GRV.init();
+
+			//GRVdivIntro.hidden = true;
+			//GRVsumRepo.hidden = true;
+			//GRVbutMenu.hidden = true;
+			GRVdet.open = true;
+
+
+			FRX.onHashChange();
+
+			// if running on server, keeps address bar pointed to latest dev
+
+
+
+		}
+
+	</script>
+
+</body>
+
+</html>

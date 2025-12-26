@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+  <title>GTV</title>
+  <meta charset=utf-8 />
+  <style>
+    /* Base styling for the document */
+    body {
+      font: 100% monospace;
+    }
+
+    /* Top level summary elements start at 16px */
+    .folder-contents>details>summary {
+      font-size: 16pt;
+      margin-left: 0px;
+    }
+
+    /* Styling for top level folders */
+    .top-level-folder>summary {
+      background: #eee;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+      border-radius: 6px;
+      margin: 8px 10px;
+      padding: 5px 10px;
+      transition: all 0.3s ease;
+      border-left: 4px solid #888;
+    }
+
+    .top-level-folder>summary:hover {
+      background: linear-gradient(135deg, #fefefe 0%, #ddd 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    /* First level of nesting */
+    .folder-contents>details>.folder-contents>details>summary {
+      font-size: 14pt;
+      margin-left: 20px;
+    }
+
+    /* Second level of nesting */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      font-size: 12pt;
+      margin-left: 40px;
+    }
+
+    /* Third level of nesting */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      font-size: 11.5pt;
+      margin-left: 60px;
+    }
+
+    /* Fourth level of nesting and beyond */
+    .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
+      font-size: 10pt;
+      margin-left: 80px;
+    }
+
+    #navMenu {
+      /* padding: 0 var( --margin); */
+      /* width */
+      background-color: var(--color-1-background);
+      border: 5px solid #8a8;
+      border-radius: var(--margin);
+      left: 0.25rem;
+      max-height: calc(100vh - 2rem);
+      padding: var(--margin);
+      position: fixed;
+      top: 0.5rem;
+      overflow: auto;
+      resize: both;
+      width: var(--mnu-width);
+      z-index: 1;
+    }
+
+    #divNavTreeView {
+      border: 3px blue solid;
+      width: 20rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <script src="../main.js"></script>
+  <script src="./github-tree-view.js"></script>
+
+  <div id="divNavMenu">
+
+    <div id="divNavTreeView"></div>
+    
+  </div>
+
+</body>
+
+</html>

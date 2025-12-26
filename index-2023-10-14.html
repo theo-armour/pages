@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
+	<meta name="description"
+		content="TooToo 2022 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
+	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
+	<meta name="date" content="2022-10-05">
+	<title>Theo Pages</title>
+
+	<!-- Copyright 2022 Theo Armour. MIT license -->
+	<link id=CORstyle rel="stylesheet" href="https://pushme-pullyou.github.io/tootoo-2022/lib02/style/r-2022-02-22/style.css">
+
+	<style>
+		:root {
+			/* --mnu-width: 20rem; */
+			--main-hue: 240;
+			/* 0 to 360 0=red 120=green 240=blue */
+		}
+		p img { width: 100%;}
+	</style>
+
+</head>
+
+<body>
+
+	<div id=MNUdivShowHide></div>
+
+
+	<main id=main>
+
+		<div id="divMainContent"></div>
+
+	</main>
+
+
+	<script>
+
+		const COR = {
+
+			// Used by MNU ~ mnu-menu.js
+			description: document.head.querySelector( "[ name=description ]" ).content,
+			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg">`,
+			iconGitHub: `<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">`,
+			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/noun_Information_585560.svg">`,
+			iconRepo: "❦",
+			title: document.title ? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
+			urlSource: "https://github.com/theo-armour/pages/", ////////// remember to update
+			version: document.head.querySelector( "[ name=date ]" ).content,
+
+			// Used by FRX
+			defaultFile: "README.md",
+
+			//pathContent: "https://theo-armour.github.io/pages/",
+			pathContent: "./",
+
+			pathTooToo: "https://pushme-pullyou.github.io/tootoo-2022/",
+			//pathTooToo: "./",
+
+			// Used by GRV
+			user: "theo-armour",
+			repo: "pages",
+			branch: "main",
+
+			//defaultIgnoreFolders: [],
+			defaultIgnoreFolders: [ "archive", "lib-templates" ], // curated
+
+			filesAll: true,
+			filterFiles: [ "gif", "md", "html", "jpg", "LICENSE", "pdf", "png", "svg", "txt", "xlsx", "" ], // curated
+			ignoreFiles: [ "404.html", "index.html", "LICENSE", "readme.html" ], // curated
+
+		};
+
+
+		COR.scripts = [
+			"lib02/mnu-menu/r-2022-02-20/mnu-menu.js",
+			"lib02/frx-file-read-xhr/r-2022-02-22/frx-file-read-xhr.js",
+			"lib02/grv-github-repo-tree-view/r-2022-02-13/grv-github-repo-tree-view.js"
+		];
+
+		COR.loaded = 0;
+
+		COR.loading = function () {
+
+			COR.loaded++;
+			if ( COR.loaded === COR.scripts.length ) { init(); }
+
+		};
+
+		COR.loadLoaders = function () {
+
+			for ( let script of COR.scripts ) {
+
+				const load = document.body.appendChild( document.createElement( 'script' ) );
+				load.onload = COR.loading;
+				load.src = COR.pathTooToo + script;
+
+			}
+
+		};
+
+		COR.loadLoaders();
+
+
+		function init() {
+
+			// MNU => "Menu ~ mnu-menu.js"
+
+			MNU.init();
+			//MNU.getSample();
+			//sumNavMenu.hidden = true;
+
+			//MNUaSource.hidden = true;
+			//MNUspnVersion.hidden = true;
+
+			// FRX => "File Read XHR"
+			FRX.init();
+			FRX.getMenu();
+
+			// GRA
+			//GRA.init();
+
+			// GRV => "GitHub Repo View"
+			//GRV.getFiles = GRV.getFilesCurated;
+			//GRV.getFiles = GRV.getFilesAll;
+			GRV.init();
+
+			//GRVdivIntro.hidden = true;
+			//GRVsumRepo.hidden = true;
+			//GRVbutMenu.hidden = true;
+			GRVdet.open = true;
+
+
+			FRX.onHashChange();
+
+			// if running on server, keeps address bar pointed to latest dev
+
+			if ( location.protocol === "https:" ) {
+
+				window.history.pushState( "", "", "./" + location.hash );
+
+				COR.ignoreFolders = COR.defaultIgnoreFolders;
+
+			} else {
+
+				COR.ignoreFolders = [];
+
+			}
+
+		}
+
+	</script>
+
+</body>
+
+</html>

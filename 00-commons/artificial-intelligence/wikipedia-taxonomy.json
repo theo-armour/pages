@@ -1,0 +1,282 @@
+{
+  "science": {
+    "fundamental-sciences": {
+      "physics": {},
+      "chemistry": {},
+      "biology": {},
+      "mathematics": {}
+    },
+    "applied-sciences": {
+      "engineering": {},
+      "environmental-science": {},
+      "health-sciences": {},
+      "materials-science": {}
+    },
+    "applied-data": {
+      "data-visualization": {},
+      "statistics-tools": {},
+      "computational-methods": {}
+    }
+  },
+  "technology": {
+    "architecture": {
+      "julia-morgan-sflpars": {
+        "photos-architecture": {
+          "1924-hotm": {},
+          "1976-hotm": {},
+          "crocker-old-peoples-home": {
+            "cropped": {}
+          },
+          "old-brown-ark": {}
+        },
+        "photos-history": {
+          "cropped": {},
+          "recognition": {}
+        },
+        "wkipedia-article-drafts": {}
+      }
+    },
+    "cartography": {},
+    "computing-ai-artificial-intelligence": {
+      "ai-3d": {},
+      "ai-apps": {},
+      "ai-chat": {},
+      "ai-coding": {
+        "openai": {}
+      },
+      "ai-image": {},
+      "ai-media": {},
+      "ai-organizations": {},
+      "ai-peeps": {},
+      "ai-poi-points-of-interest": {},
+      "ai-robots-av": {}
+    },
+    "computing-software": {
+      "languages": {
+        "JavaScript": {},
+        "css-fonts": {},
+        "markup-languages": {
+          "markdown": {}
+        },
+        "python": {}
+      },
+      "open-source": {},
+      "operating-systems": {
+        "windows": {}
+      },
+      "quiet": {},
+      "software-by-type": {
+        "drawing-svg": {},
+        "voice-to-text": {}
+      },
+      "software-by-vendor": {
+        "automattic": {},
+        "google": {},
+        "microsoft": {
+          "GitHub": {},
+          "image": {
+            "word": {}
+          },
+          "ms365": {},
+          "vscode": {
+            "extensions": {}
+          }
+        },
+        "plaud": {},
+        "zapier": {}
+      },
+      "utilities-online": {}
+    },
+    "computing": {
+      "internet": {},
+      "libraries-api-utilities": {
+        "three.js": {}
+      },
+      "quiet": {},
+      "user-experience": {
+        "jaanga": {}
+      }
+    },
+    "electronics": {
+      "telecommunications": {
+        "amateur-radio-ham": {}
+      }
+    },
+    "environmental-technology": {},
+    "hardware-tech": {
+      "keyboards": {}
+    },
+    "optical-devices": {},
+    "transport": {}
+  },
+  "leaves": [
+    {
+      "slug": "science/fundamental-sciences/physics"
+    },
+    {
+      "slug": "science/fundamental-sciences/chemistry"
+    },
+    {
+      "slug": "science/fundamental-sciences/biology"
+    },
+    {
+      "slug": "science/fundamental-sciences/mathematics"
+    },
+    {
+      "slug": "science/applied-sciences/engineering"
+    },
+    {
+      "slug": "science/applied-sciences/environmental-science"
+    },
+    {
+      "slug": "science/applied-sciences/health-sciences"
+    },
+    {
+      "slug": "science/applied-sciences/materials-science"
+    },
+    {
+      "slug": "science/applied-data/data-visualization"
+    },
+    {
+      "slug": "science/applied-data/statistics-tools"
+    },
+    {
+      "slug": "science/applied-data/computational-methods"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-architecture/1924-hotm"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-architecture/1976-hotm"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-architecture/crocker-old-peoples-home/cropped"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-architecture/old-brown-ark"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-history/cropped"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/photos-history/recognition"
+    },
+    {
+      "slug": "technology/architecture/julia-morgan-sflpars/wkipedia-article-drafts"
+    },
+    {
+      "slug": "technology/cartography"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-3d"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-apps"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-chat"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-coding/openai"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-image"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-media"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-organizations"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-peeps"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-poi-points-of-interest"
+    },
+    {
+      "slug": "technology/computing-ai-artificial-intelligence/ai-robots-av"
+    },
+    {
+      "slug": "technology/computing-software/languages/JavaScript"
+    },
+    {
+      "slug": "technology/computing-software/languages/css-fonts"
+    },
+    {
+      "slug": "technology/computing-software/languages/markup-languages/markdown"
+    },
+    {
+      "slug": "technology/computing-software/languages/python"
+    },
+    {
+      "slug": "technology/computing-software/open-source"
+    },
+    {
+      "slug": "technology/computing-software/operating-systems/windows"
+    },
+    {
+      "slug": "technology/computing-software/quiet"
+    },
+    {
+      "slug": "technology/computing-software/software-by-type/drawing-svg"
+    },
+    {
+      "slug": "technology/computing-software/software-by-type/voice-to-text"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/automattic"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/google"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/microsoft/GitHub"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/microsoft/image/word"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/microsoft/ms365"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/microsoft/vscode/extensions"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/plaud"
+    },
+    {
+      "slug": "technology/computing-software/software-by-vendor/zapier"
+    },
+    {
+      "slug": "technology/computing-software/utilities-online"
+    },
+    {
+      "slug": "technology/computing/internet"
+    },
+    {
+      "slug": "technology/computing/libraries-api-utilities/three.js"
+    },
+    {
+      "slug": "technology/computing/quiet"
+    },
+    {
+      "slug": "technology/computing/user-experience/jaanga"
+    },
+    {
+      "slug": "technology/electronics/telecommunications/amateur-radio-ham"
+    },
+    {
+      "slug": "technology/environmental-technology"
+    },
+    {
+      "slug": "technology/hardware-tech/keyboards"
+    },
+    {
+      "slug": "technology/optical-devices"
+    },
+    {
+      "slug": "technology/transport"
+    }
+  ]
+}

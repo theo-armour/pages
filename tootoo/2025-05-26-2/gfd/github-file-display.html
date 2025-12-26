@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Open Index or Markdown</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+	<meta name="description"
+		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+	<meta name="version" content="2025-05-26">
+
+	<style>
+		/* Copyright 2025 Theo Armour. MIT License */
+
+		:root {
+			font: 100% monospace;
+		}
+
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0 auto;
+			max-width: 50rem;
+		}
+
+		a {
+			color: crimson;
+			text-decoration: none;
+		}
+
+		a:hover,
+		a:focus,
+		a:active {
+			text-decoration: underline;
+		}
+
+		aside {
+			border: 1px solid lightgray;
+			margin-top: 15px;
+			padding: 2px;
+		}
+
+		button,
+		input[type=button] {
+			background-color: #eee;
+			border: 2px #eee solid;
+			color: #888;
+		}
+
+		blockquote {
+			background-color: #ddd;
+			padding: 1rem;
+		}
+
+		code {
+			background-color: #eee;
+		}
+
+		img {
+			max-width: 100%;
+		}
+
+		pre {
+			background-color: #eee;
+			padding: 0.5rem;
+		}
+
+		summary {
+			cursor: pointer;
+			font-size: 1.5rem;
+			font-weight: bold;
+			outline: none;
+		}
+
+		::-webkit-scrollbar {
+			background: #333;
+		}
+
+		::-webkit-scrollbar-thumb {
+			background: crimson;
+		}
+
+		/* read me footer */
+		.aDingbat {
+			text-decoration: none;
+			font-size: 2rem;
+		}
+
+		.iframe-resize {
+			height: 400px;
+			overflow: hidden;
+			padding: 0.5rem;
+			resize: both;
+			width: 100%;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<div id="header" >
+
+		<h2 style="margin:0;">
+			<a id=aSource href="https://github.com/pushme-pullyou/tootoo-2025" target="_blank"
+				title="delSha/getSHA"><img src=https://pushme-pullyou.github.io/assets/svg/mark-github.svg></a>
+			<a href="" id="aPath" title="Click this menu title to reload the file">
+				<span id=spnTitle></span><span id=spnVersion></span></a>
+		</h2>
+
+		<button id="saveButton" onclick="requestSync()">save</button>
+		<button onclick=test1()>readme</button>
+		<button onclick=test2()>test</button>
+		<button onclick=test3()>text-to-hack</button>
+		<button onclick=test4()>agenda</button>
+		<button onclick=location.hash="">clear hash</button>
+		<button onclick=delSha()>delSha</button>
+
+	</div>
+
+	<div id=divMessage style=display:inline;>msg</div>
+	<br>
+	<div id=divMainContent contenteditable="true"></div>
+
+	<script src="github-file-display.js"></script>
+
+	<script>
+
+		defaultFile = "test.md";
+
+		init();
+
+		function init() {
+
+			if (!location.hash) { location.hash = defaultFile; }
+
+			location.hash.endsWith(".md") ? fileDisplay( location.hash.slice(1)) : window.location.href = location.hash.slice(1);
+
+			window.addEventListener("hashchange", onHashChange, false);
+
+		}
+
+		test1 = () => location.hash = "README.md";
+		test2 = () => location.hash = "test.md";
+		test3 = () => location.hash = "text-to-hack.md";
+		test4 = () => location.hash = "original-agenda.md";
+		delSha = () => localStorage.setItem("githubAccessToken", "");
+
+		function onHashChange() {
+
+			fileDisplay( location.hash.slice(1));
+			
+		}
+	</script>
+</body>
+
+</html>
