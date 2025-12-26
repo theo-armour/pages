@@ -1,5 +1,0 @@
-# Computer Science
-
-# Hinton
-
->We Will See a Completely New Type of Computer, Says AI Pioneer Hinton — “Geoffrey Hinton envisions a "mortal" neuromorphic computer combining hardware and software. Speaking at the Neural Information Processing Systems conference, Hinton said mortal computation means "the knowledge that the system has learned and the hardware, are inseparable." Hinton said such computers could be grown, forgoing costly chip fabrication, and he imagines they will be "used for putting something like GPT-3 in your toaster for $1, so running on a few watts, you can have a conversation with your toaster." He suggested a forward-forward neural network model, eliminating the backpropagation common to most neural networks, might suit mortal computation hardware.” https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/

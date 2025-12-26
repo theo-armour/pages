@@ -1,2 +1,0 @@
-# Applied Epistemology Read Me
-
