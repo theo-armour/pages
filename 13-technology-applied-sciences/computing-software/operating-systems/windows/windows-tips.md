@@ -36,8 +36,6 @@ https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a
 * Apps: Turns any tab into a standalone window.
 * Briefcase: For Workspace Microsoft users.
 * Collections: like clipboard or Google Keep
-* Workspaces: groups of tabs
-* Tab Groups. One tab with many links. Cn e pinned
 *
 
 ## Virtual Desktops
@@ -48,3 +46,12 @@ https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a
 * Switch Left/Right ~ Win + Ctrl + Left Arrow / Right Arrow
 * Close Current Desktop ~ Win + Ctrl + F4
 * You can rename, move, and change the background to each desktop.
+
+## Tab Groups.
+
+* One tab with many links. Can be pinned
+
+## Workspaces: groups of tabs
+
+* https://www.microsoft.com/en-us/edge/features/workspaces?form=MT00JA&ch=1
+* It looks like you cannot have tab groups and workspaces.
