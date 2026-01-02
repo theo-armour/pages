@@ -13,8 +13,13 @@ by Charles C. Mann (Author)
 
 ## 1493: Uncovering the New World Columbus Created
 
+* https://en.wikipedia.org/wiki/1493:_Uncovering_the_New_World_Columbus_Created
+* https://www.goodreads.com/book/show/9862761-1493
+
 July 24, 2012
 by Charles C. Mann (Author)
 
 >Presenting the latest research by biologists, anthropologists, archaeologists, and historians, Mann shows how the post-Columbian network of ecological and economic exchange fostered the rise of Europe, devastated imperial China, convulsed Africa, and for two centuries made Mexico City—where Asia, Europe, and the new frontier of the Americas dynamically interacted—the center of the world. In this history, Mann uncovers the germ of today's fiercest political disputes, from immigration to trade policy to culture wars. In 1493, Mann has again given readers an eye-opening scientific interpretation of our past, unequaled in its authority and fascination.
 
+* https://www.nytimes.com/2011/08/21/books/review/1493-uncovering-the-new-world-columbus-created-by-charles-c-mann-book-review.html
+* https://sobrief.com/books/1493
