@@ -3,9 +3,28 @@
 ## Installation
 
 * Set Pin
-* Screen off to 60 minutes
+
+### System > Power & Battery
+
+Screen, Sleep & Hibernate
+* Plugged In: screen off: 1 hour ~ Sleep: 3 hours
+* On Battery: screen off: 15 minutes ~ Sleep: 45 minutes
+
+Energy saver
+* on
+
+Lid & Power
+* Plugged in: both sleep
+* On battery: both shutdown
+
 * Pointer size large
-* https://ninite.com/
+
+### Input Director
+
+
+### File Explorer
+
+Options > single click to open an item
 
 ## Win 11 Pro
 

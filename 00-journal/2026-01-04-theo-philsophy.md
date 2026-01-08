@@ -10,12 +10,12 @@ How do we know we're doing the thing?
 * United Nations Declaration of Human Rights
 * Maslow's Hierarchy of Needs
 * Martha Nussbaum's Capabilities.
-* Stoicism
 
 ## Values / Knowing
 
 How do we know we're doing the thing right?
 
+* Stoicism
 * Happiness philosophy.
 * Positive psychology
 * Virtue ethics.
