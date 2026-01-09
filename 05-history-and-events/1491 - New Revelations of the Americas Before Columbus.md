@@ -23,3 +23,14 @@ by Charles C. Mann (Author)
 
 * https://www.nytimes.com/2011/08/21/books/review/1493-uncovering-the-new-world-columbus-created-by-charles-c-mann-book-review.html
 * https://sobrief.com/books/1493
+
+## 2026-01-07
+
+Mini icage due to the end of forest burning in Americas.
+
+Horses make native Americans nomadic hunters.
+
+Silver, tobacco, maize change China. Enables Manchu conquest of Ming.
+
+Earthworms were brought to North America by European settlers, who used them as fishing bait. Many areas of North America, particularly in the northern United States and Canada, had been glaciated during the last Ice Age, which had eradicated native earthworm populations. As a result, when European earthworms were introduced, they found an environment with little competition and abundant organic material to feed on.
+
