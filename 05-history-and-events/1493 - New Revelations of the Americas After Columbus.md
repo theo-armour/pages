@@ -76,7 +76,11 @@ Honeybees are an import
 
 ## PART TWO / Pacific Journeys   
 
-### 4. Shiploads of Money (Silk for Silver, Part One)   
+### 4. Shiploads of Money (Silk for Silver, Part One)
+
+Currency complications in Ming China. Told in a confusing manner. Much hyperbol
+
+
 
 ### 5. Lovesick Grass, Foreign Tubers, and Jade Rice (Silk for Silver, Part Two)
 

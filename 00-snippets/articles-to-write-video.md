@@ -11,6 +11,7 @@ newest at top
 * 2024-12-28: when I talk to older people I tend to be the interruptor. When I talk to younger people I tend to be the interruptee. As we age our Reaction Time slow down. This affects how we speak to each other.
 * 2024-12-28: I prefer dating a woman who can climb a tree. The idea of smooching a face covered in lipstick and other chemicals is not at all pleasant.
 * 2024-01-01 ! My bathroom basin
+* Keep things off the basin
 * Pills on shelf
 * Hole on pills
 * Razor on mirror
