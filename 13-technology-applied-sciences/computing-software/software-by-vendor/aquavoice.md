@@ -32,23 +32,23 @@ Wishlist possibles (Nothing definite yet)
 * Voice command to activate and deactivate
 
 Also, I had a look at Wispr Flow, but chose you instead. If nothing else, because of our previous contact and because of your nice website.
- 
+
 Bonjour, I'm speaking French. If I speak French, will you translate into English? OMG yes!
 
-Now, if I speak in English, will it translate into Cantonese? 我係港國東話，咱哋係港國東話。 
+Now, if I speak in English, will it translate into Cantonese? 我係港國東話，咱哋係港國東話。
 
-Maintenant, je parle anglais. Est-ce que ça peut être traduit en français? OMG, oui! 
+Maintenant, je parle anglais. Est-ce que ça peut être traduit en français? OMG, oui!
 
-現在我講英文，會不會翻譯成廣東話？ OMG, I think it is. 
+現在我講英文，會不會翻譯成廣東話？ OMG, I think it is.
 
-bs is 
-現在我講英文,會不會翻譯成廣東話? 
+bs is
+現在我講英文,會不會翻譯成廣東話?
 
-Translate "I am a happy fellow" into Cantonese. 
+Translate "I am a happy fellow" into Cantonese.
 
-Verd would like to remind you. 
+Verd would like to remind you.
 
-Le Sik Kamsi Gangwong Tungwa 
+Le Sik Kamsi Gangwong Tungwa
 
 ## Aquavoice
 
