@@ -1,8 +1,8 @@
 # location: Marina
 
 Peeps
-* Chestnut Street Cleaner: Calvin
-* Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
+* Chestnut Street Cleaner: **Calvin**
+*Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php
 
 
@@ -54,14 +54,15 @@ Staff
 * Likes Ridgewood wine
 Joe (Little Joe)
 * Creative things
-Kyler
-* Man of color
-Tony
-
-
-Anders Grigel Thomsen ~ 559-476-6759
-* Danish ~ hearts Kierkegard
+* Kyler ~ Man of color
+* +Tony
+* Aders Grigel Thomsen ~ 559-476-6759
+* Danish ~ hearts Kierkegaard
 * Wife pr \_Carnival Row\_
+* Cal
+* Gabby?
+* Omar ~ beard
+* Lucca
 
 Regulars
 * Gary ~ social worker
