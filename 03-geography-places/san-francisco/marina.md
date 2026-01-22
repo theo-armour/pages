@@ -1,7 +1,8 @@
 # location: Marina
 
-Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
-
+Peeps
+* Chestnut Street Cleaner: Calvin
+* Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php
 
 
@@ -37,7 +38,9 @@ Closed Sunday & Monday
 
 * Owner : Jesse
 
-## California Wine Merchant ~ https://www.californiawinemerchant.com/
+## California Wine Merchant
+
+* https://www.californiawinemerchant.com/
 
 Events
 
@@ -83,6 +86,14 @@ Regulars
 
 * Melissa
 * Michael ~ good conversation about altruism
+
+## Indigo
+
+* https://www.indigoinsf.com/
+* Kash Devineni ~ 408-386-8120
+* kas
+* Suzy Music
+* Isaac Harrell
 
 ## Isa
 
