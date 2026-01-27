@@ -92,7 +92,7 @@ Regulars
 
 * https://www.indigoinsf.com/
 * Kash Devineni ~ 408-386-8120
-* kas
+* kash@indigoinsf.com
 * Suzy Music
 * Isaac Harrell
 
