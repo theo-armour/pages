@@ -2,9 +2,21 @@
 
 * <a href="https://app.raindrop.io/my/36615030">https://app.raindrop.io/my/36615030</a>
 * Newest at top
-
-## ToMatto
-
+* 2025-12-18 Alix: Saying no to one thing is saying yes to yourself!
+* 2025-11-28 "One easy way to show you care about others is to ask them questions about their life.
+* What are they excited about?
+* What are they working on?
+* What are they hoping for?
+* 2025-10-26 FS "A lesson I need to learn: It's ok to disappoint other people if you avoid disappointing yourself."
+* 2025-10-03 FS:Ian Wilson "No amount of sophistication is going to allay the fact that all your knowledge is about the past and all your decisions are about the future."
+* 2025-10-03 FS: "Good habits stockpile ease. Bad habits postpone pain."
+* 2025-09-22 Maurice Sendak: There must be more to life than having everything ~ via slashdot
+* 2025-09-22 Theo
+  * You are what you drink.
+  * Where your go determines many friendships.
+  * Therefore, you are where you drink.
+* 2025-09-21 TS Eliot: “There is only the trying. The rest is not our business.” Via Robert Redford
+* 2025-09-16 Theo? It's so real, it's like being in the movies
 * 2025-09-14: Theo ~ People are smarter when they write than when they talk.
 * 2025-08-28: James Clear: Don't just tell your people that you love them — tell them why you like them.
 * 2025-08-25: Aging: "An extraordinary process whereby you become the person you always should have been," David Bowie

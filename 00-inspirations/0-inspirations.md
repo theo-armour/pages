@@ -97,7 +97,7 @@ features-and-benefits.md
 features-benefits.md
 gtd.md
 mission-vision-values.md
-project-defimition-templates.md
+project-definition-templates.md
 projects.md
 weekly-review-template.md
 
@@ -117,11 +117,11 @@ sps-school-prayer.md
 
 ## simplicity:
 
-siimple-living.md
+simple-living.md
 
 ## technics:
 
-spraration-of-concerns.md
+separation-of-concerns.md
 
 
 ## Lists
