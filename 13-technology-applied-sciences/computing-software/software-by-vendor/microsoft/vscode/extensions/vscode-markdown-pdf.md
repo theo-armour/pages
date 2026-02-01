@@ -1,5 +1,9 @@
 # vscode-markdown-pdf
 
+See also
+
+G:\My Drive\2026-theo-github\theo-armour-pages\13-technology-applied-sciences\computing-software\languages\markup-languages\markdown\markdown-tips.md
+
 ## links
 
 * https://github.com/yzane/vscode-markdown-pdf/tree/master

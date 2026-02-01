@@ -17,6 +17,7 @@
 * Copy preview links
 * Turn to false most features
 *   "markdown-pdf.includeDefaultStyles": false,
+* ??every .vscode\ folder can have its own markdown-pdf.css file
 
 ``` markdown
 
