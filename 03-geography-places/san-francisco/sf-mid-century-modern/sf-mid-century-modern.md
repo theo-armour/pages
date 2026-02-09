@@ -7,6 +7,10 @@
 
 * https://almondandcompanysf.com/
 
+### DWR
+
+https://www.dwr.com/stores?lang=en_US
+
 ### McCarney's Furniture
 
 * https://www.mccarneysfurniture.com/
@@ -14,10 +18,19 @@
 ### Mid-Century Mobler
 
 * https://midcenturymobler.com/
+* Herman Miller
+
+### Restoration Hardware
+
+* https://www.dwr.com/stores?lang=en_US
 
 ### Roadside Architecture
 
 https://www.roadarch.com/modarch/casf.html
+
+### San Francisco Design Center
+
+* https://sfdesigncenter.com/
 
 ### S16 Home
 
