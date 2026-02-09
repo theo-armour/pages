@@ -1,6 +1,6 @@
-# Tour
-
 # San Francisco Mid-Century Modern Tour
+
+Gemini suggested a tour. We can do better.
 
 * https://gemini.google.com/app/94061961fae97df3
 

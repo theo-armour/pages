@@ -1,4 +1,4 @@
-# Mid-Century Modern in San Francisco
+# Mid-Century Modern Outlets in San Francisco
 
 
 ## Furniture Stores

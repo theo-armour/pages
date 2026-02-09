@@ -1,9 +1,11 @@
 # Mid-Century Modern Overview
 
 
-* Create an illustrated and documented overview of mid-century modern.
+This is an attempt to create a prompt for an illustrated and documented overview of mid-century modern. It's a work in progress, and I will be refining it over time. The goal is to create a comprehensive resource that covers the key aspects of mid-century modern architecture and design, with a focus on technical details and historical context.
 
-Aspects to be covered include:
+
+
+## Aspects to be covered include
 * Key architectural features and design principles of mid-century modern style.
 * Notable mid-century modern architects and designers
 * Prominent mid-century modern buildings and landmarks
