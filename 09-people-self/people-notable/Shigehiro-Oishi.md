@@ -1,5 +1,15 @@
 # Shigehiro-Oishi
 
+## Me
+
+Decisions have validity values and directions
+
+Validity means Google EEAT
+
+Directions mean who what when where and why
+
+And that is means see the analysis dimensions think that I wrote
+
 ## Life in Three Dimensions
 
 ## Chapter One: Should I Stay or Should I Go?
