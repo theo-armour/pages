@@ -7,7 +7,6 @@ I am not afraid of robots. I am afraid of people.
 ~ [https://garymarcus.substack.com/p/i-am-not-afraid-of-robots-i-am-afraid](https://garymarcus.substack.com/p/i-am-not-afraid-of-robots-i-am-afraid)
 
 
-
 ## 2023-08-08
 
 * The end of labor is to gain leisure.
