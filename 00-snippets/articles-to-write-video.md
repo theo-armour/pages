@@ -4,6 +4,7 @@ medium.com ways to split my writing personalities
 
 newest at top
 
+* 2026-03-01 ~ tech moments that
 * 2025-08-28: two old soap
 * 2025-08-28: School for aging
 * 2025-08-27: what is a dive bar? ~ for Jeff Wheelwright
