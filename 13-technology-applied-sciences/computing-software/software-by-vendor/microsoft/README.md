@@ -1,5 +1,8 @@
 # Microsoft
 
+## Edge Browser
+
+Search for Copilot in edge://fla
 ## market share
 
 * https://survey.stackoverflow.co/2022/#most-popular-technologies-new-collab-tools-prof
