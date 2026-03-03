@@ -64,6 +64,17 @@ Random three things
 
 ## More examples of triads not yet in the Wikipedia list
 
+## Kevin Kelly
+
+The three modes are:
+1) Knowledge reasoning,
+2) World sense,
+3) Continuous memory and learning.
+
+* https://kevinkelly.substack.com/p/three-modes-of-cognition
+
+## Book of Threes ~ Wow!
+
 * https://www.bookofthrees.com/
 
 ## money ~ fame/power ~ love
