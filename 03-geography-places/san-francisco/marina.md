@@ -5,10 +5,26 @@ Peeps
 *Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php
 
+See pages/03-geography-places/california/san-francisco/marina
 
-See pages/03-geography-places/california/marina
+## SFPL
 
-## Alegrias ~ https://www.alegriassf.com/
+* 1890 Chestnut Street, San Francisco, CA 94123
+* 415-355-2823
+* marmgr@sfpl.org
+
+### Hours:
+* Sunday 1–5 PM
+* Monday 10 AM–6 PM
+* Tuesday 10 AM–6 PM
+* Wednesday 1–8 PM
+* Thursday 10 AM–8 PM
+* Friday 1–6 PM
+* Saturday 10 AM–6 PM
+
+***
+
+## + Alegrias ~ https://www.alegriassf.com/
 
 * meaning: happiness, gaiety
 * Owners: Arman & Angelynne

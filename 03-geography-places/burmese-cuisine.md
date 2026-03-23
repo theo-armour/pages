@@ -2,6 +2,10 @@
 
 * https://en.wikipedia.org/wiki/Burmese_cuisine
 * https://en.wikipedia.org/wiki/Meeshay
+* Tea leaf salad
+* Mohinga
+* Ohn-no-khauk-swe
+* Meeshay
 
 ## Mandalay ~ https://www.mandalaysf.com/
 
