@@ -1,0 +1,85 @@
+/*
+
+See also https: //github.com/yzane/vscode-markdown-pdf/blob/master/styles/markdown.css
+
+https: //github.com/yzane/vscode-markdown-pdf/tree/master
+
+*/
+
+
+:root {
+  font-family: Verdana, Arial, sans-serif;
+}
+
+body {
+  font-size: 100%;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+a {
+  color: crimson;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  font-style: italic;
+}
+
+h1 {
+  border-bottom: none;
+  color: #880000;
+  margin: 0 0 0.5rem 0;
+}
+
+h2,
+h3 {
+  border-bottom: none;
+  color: #880000;
+  margin: 0 0 0.5rem 0;
+  padding: 0;
+}
+
+img {
+  max-width: 400px;
+  width: 100%;
+}
+
+
+mark {
+  background-color: #ff0;
+}
+
+
+@media print {
+  body {
+    background: #fff !important;
+  }
+  h1,
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+  img {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  nav,
+  .sidebar,
+  .footer,
+  .no-print {
+    display: none !important;
+  }
+
+  blockquote {
+    margin: 0.3rem;
+  }
+
+
+
+}

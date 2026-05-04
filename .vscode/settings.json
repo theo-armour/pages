@@ -1,0 +1,4 @@
+{
+  "markdown-pdf.format": "Letter",
+  "markdown-pdf.footerTemplate": "<div style=\"color:#880000;font-size: 12pt; margin-left: 0.8in; \" class='title'></div> <div style=\"color:#880000;font-size: 12pt; margin-left: auto;margin-right: 0.8in;\"> Page <span class='pageNumber'></span> / <span class='totalPages'></span></div>"
+}
