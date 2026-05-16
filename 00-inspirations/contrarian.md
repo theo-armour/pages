@@ -1,31 +1,35 @@
-# Contrarian
+# Contrarians
 
 I'm not sure contrarian is the right word for what I'm talking about, but it's a start.
 
-There are people in my life that I, in my brain, describe as contrarians. My dear friend Margaret Jacobs is one of these.
+There are people in my life that I, in my brain, describe as "contrarians". My dear friend Margaret J is one of these.
 
-A contrarian is a person that, whenever you make a proposal or have a good idea, and begin to explain it, they immediately come back with the thought that it will not work because of such and such or they exclaim "but what about this?".
+A contrarian is a person that, when you make a proposal or have a good idea, and begin to explain it, they immediately come back with the a reply that it will not work because of such and such or they exclaim "but what about this?".
 
-Well, before you have explained the proposal in any detail they are already criticizing it or trying to negate it. Whereas you are looking for somebody to help you amplify or build up or brainstorm the idea, they are the negative of that.
+So, before you have explained the proposal in any detail they are already criticizing it or trying to negate it. Whereas you are looking for somebody to help you amplify or build up or brainstorm the idea, they are the negative of that. Even more troublesome Is that you are instantly confronted with the decision of having to decide whether to rebut their reply or to continue with your description of what's on your mind. If you choose to rebut, you are immediately in a debate mode and the conversation is no longer about the idea but about the merits of the idea. If you choose to continue describing your idea, you are likely to be interrupted again with another negative comment or question.
 
 I'm trying to think up some examples.
 
 Person A: Oh wWhat a beautiful day.<br>
 Person B: "No it's not, it's too hot and the sun is too bright"
 
-Person A: "I love you"<br>
-Person B "No you don't"
+Person A: "I love you."<br>
+Person B "No you don't."
 
 Person A: "I have a great idea for a newsletter article series"<br>
 Person B: "No you don't, it's not a good idea, it won't work, it's been done before, etc."
 
 ***
 
-Since I am a creator, an ideas person, I tend to avoid conversations with Margaret Jacobs. It's just not fun and leads to depressing outcomes.
+Since I am a creator, an ideas person, I tend to avoid conversations with people like Margaret J. It's just not fun and leads to depressing outcomes.
 
 ***
 
-I have been a contrarian and probably still am a contrarian from time to time. When I notice that I am being contrarian, I try and jump out of it.
+I have been a contrarian myself and probably still am a contrarian from time to time. When I notice that I am being contrarian, I try and jump out of it. I try to ask myself "what is the value in what this person is saying?" and "how can I build on this idea instead of tearing it down?".
+
+***
+
+One can be more or less contrarian depending on the situation, or more or less contrarian depending on who is speaking. For example, I might be more contrarian with a friend that I have a long history with and less contrarian with a new acquaintance. Or I might be more contrarian when talking about politics than when talking about software.
 
 ***
 

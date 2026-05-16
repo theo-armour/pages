@@ -4,7 +4,7 @@ The definition below is describing Ambient Scribes as being for medical purposes
 
 My experience with them is that what I really want are two or three golden thought nuggets that I've had during the course of a day. But the apps that I've used have not been able to do that really by themselves, so I might have to have some trigger words that might cause my very specific little golden thought to be remembered.
 
-Also, for example, since I've lost two plots by probably leaving them in my shirt pocket, where and how those devices become part of the body is a question in itself, let alone battery life and things like that.
+Also, for example, since I've lost two plauds by probably leaving them in my shirt pocket, where and how those devices become part of the body is a question in itself, let alone battery life and things like that.
 
 ## 2025-11-17
 
