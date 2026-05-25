@@ -20,8 +20,8 @@
 * Snippets
 * My ship came in on the sunny side of Easy Street
 * Spoonerisms
-* \_\_Les Desmoiselles d'Avignon\_\_ ~ cubism ~ lenses
-* past results are not inficative of future performance
+* _Les Desmoiselles d'Avignon_ ~ cubism ~ lenses
+* past results are not indicative of future performance
 * bookmark and tag everything
 * Join the laughing and singing club
 * It is difficult to be famous if you are hidden under a rock
