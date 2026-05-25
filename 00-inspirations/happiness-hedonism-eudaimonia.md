@@ -1,4 +1,6 @@
-# Happiness, Hedonism
+# Happiness, Hedonism & Eudaimonia
+
+* "Happiness is a choice, not a condition" ~ many sources
 
 Much of my behavior is determined by desires to increase pleasure and to decrease pain. I am a regular hedonist.
 

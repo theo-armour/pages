@@ -1,4 +1,4 @@
-# 2026-01-04 Theo Phil0sophy
+# 2026-01-04 Theo Philosophy
 
 ## Mission / Doing
 

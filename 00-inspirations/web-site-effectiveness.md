@@ -3,6 +3,7 @@
 Tags #web #www #effectiveness #checklist #standards
 
 * copyright is up to date
+* Hyperlinks everywhere
 * Shows photos and details of the participants
 * Includes a narrative of actual events
 * Includes links to relevant external resources or definitions ~ Preferably Wikipedia.

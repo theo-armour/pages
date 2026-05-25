@@ -2,7 +2,7 @@
 
 https://en.wikipedia.org/wiki/Beta_(finance)
 
-In finance, Beta ($\beta$) is a measure of a stock's volatility or systemic risk in relation to the overall market (usually the S&P 500).It tells you how much a stock’s price is expected to move when the market moves. The market itself always has a beta of 1.0.
+In finance, Beta ($\beta$) is a measure of a stock's volatility or systemic risk in relation to the overall market (usually the S&P 500). It tells you how much a stock’s price is expected to move when the market moves. The market itself always has a beta of 1.0.
 
 Understanding the Numbers
 

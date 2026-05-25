@@ -39,7 +39,7 @@ newest at top
 * <a href="https://48hills.org/2021/02/we-can-reimagine-the-post-coivd-san-francisco/">https://48hills.org/2021/02/we-can-reimagine-the-post-coivd-san-francisco/</a>
 * Article in Medium
 * Comments on Meritocracy
-* scrabble as a collaborative game
+* Scrabble as a collaborative game
 * article for Dr Fasset
 * NY Times Article on nursing homes &gt;&gt; done
 * Article on talking to people in my room
@@ -71,6 +71,6 @@ in car by yourself, most fun: listen to AM Radio talk shows
 * Aesthetics: purpose of life
 * "We need to get rid of gun-free zones."
 * What is local shopping?
-* Ray food article
-* hernias
+* Ray Gordon: food article
+* Hernias
 * What is an academic article? What do I believe?
