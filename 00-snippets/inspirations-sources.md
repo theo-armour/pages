@@ -20,7 +20,7 @@
 * Snippets
 * My ship came in on the sunny side of Easy Street
 * Spoonerisms
-* \_\_Les Desmoiselles d'Avignon\_\_ ~ cubism ~ lenses
+* _Les Desmoiselles d'Avignon_ ~ cubism ~ lenses
 * past results are not indicative of future performance
 * bookmark and tag everything
 * Join the laughing and singing club
