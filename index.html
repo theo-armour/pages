@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-05-26 05:12">
+  <meta name="revised" content="2026-05-26 22:40">
   <title>TooToo</title>
   <link rel="icon" type="image/svg+xml"
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232563eb'/%3E%3Cg font-family='system-ui,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle' dominant-baseline='middle'%3E%3Ctext x='22' y='28'%3ET%3C/text%3E%3Ctext x='42' y='40'%3ET%3C/text%3E%3C/g%3E%3C/svg%3E">
@@ -24,6 +24,15 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.4.1/dist/purify.min.js"></script>
   <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+
+  <!--
+    Optional per-fork branding/config. If tootoo.config.js exists next to
+    this file, it sets window.TOOTOO_CONFIG = { … } and we merge it over
+    the built-in CONFIG block before init runs. Missing file is fine —
+    forks that don't customize anything can omit it. See tootoo.config.js
+    in the canonical repo for the full list of knobs.
+  -->
+  <script src="tootoo.config.js" onerror="void 0"></script>
   <style>
     /* ── Custom Properties ── */
     :root {
@@ -33,10 +42,9 @@
       --border-color: #d1d5db;
       --highlight-color: #2563eb;
       --hover-bg: #e5e7eb;
-      --font-family: system-ui, -apple-system, sans-serif;
+      --font-family: system-ui, sans-serif;
       --sidebar-width: 300px;
       --font-size: 16px;
-      --resizer-bg: rgba(37, 99, 235, 0.7);
       --warning-bg: #fff3cd;
       --warning-border: #ffc107;
       --error-bg: #fff0f0;
@@ -61,6 +69,10 @@
     /* ── Font size on html so rem units scale ── */
     html {
       font-size: var(--font-size);
+      /* Faintly tint scrollbars (~35% opacity) so the theme is hinted at
+         without competing with content. Inherits to every scrollable
+         descendant (sidebar tree, content area, code blocks). Chrome 121+. */
+      scrollbar-color: color-mix(in srgb, var(--highlight-color), transparent 65%) transparent;
     }
 
     /* ── Reset ── */
@@ -80,6 +92,8 @@
       font-family: var(--font-family);
       color: var(--text-color);
       background-color: var(--primary-bg);
+      /* Per-fork brand stripe across the very top of the viewport. */
+      border-top: 3px solid var(--highlight-color);
     }
 
     /* ── Header ── */
@@ -99,16 +113,52 @@
     #headerGitHub {
       display: flex;
       align-items: center;
-      color: var(--text-color);
+      /* SVG fill="currentColor" picks this up so the icon tints per-fork. */
+      color: var(--highlight-color);
       text-decoration: none;
     }
 
+    body.dark-mode #headerGitHub {
+      color: color-mix(in srgb, var(--highlight-color) 65%, white);
+    }
+
+    /* GitHub icon inside the content-header file-title (only direct <a>
+       child of .file-title — the breadcrumb links live inside a <span>). */
+    .file-title > a {
+      color: var(--highlight-color);
+    }
+
+    body.dark-mode .file-title > a {
+      color: color-mix(in srgb, var(--highlight-color) 65%, white);
+    }
+
+    /* The 18x18 GitHub icons sit on the line-box geometric center via flex
+       alignment, but text descenders pull the *visual* center down. The
+       required nudge scales with adjacent text size: the top-header title
+       (1.35rem) needs more than the content-header breadcrumb (1rem). */
+    #headerGitHub svg {
+      transform: translateY(4px);
+    }
+
+    .file-title > a svg {
+      transform: translateY(4px);
+    }
+
     #headerTitle {
-      font-weight: bold;
-      font-size: 1.1rem;
+      /* Normal weight so a single-weight display heading font (e.g. Patua One)
+         renders as-designed instead of being synthetically emboldened. */
+      font-weight: normal;
+      /* Sized so the title is visually present, but still shorter than the
+         header buttons so the bar's overall height stays driven by them. */
+      font-size: 1.35rem;
       text-decoration: none;
-      color: inherit;
+      color: var(--highlight-color);
       cursor: pointer;
+      font-family: var(--heading-font, var(--font-family));
+    }
+
+    body.dark-mode #headerTitle {
+      color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
     /* ── Shared button hover/active ── */
@@ -214,7 +264,17 @@
 
     .panel-header h3 {
       margin: 0;
-      font-size: 0.95rem;
+      /* Normal weight so a single-weight display heading font (e.g. Patua One)
+         renders as-designed instead of being synthetically emboldened.
+         Matches #headerTitle for visual consistency across both bars. */
+      font-size: 1rem;
+      font-weight: normal;
+      color: var(--highlight-color);
+      font-family: var(--heading-font, var(--font-family));
+    }
+
+    body.dark-mode .panel-header h3 {
+      color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
     /* ── Filter wrap ── */
@@ -301,7 +361,9 @@
     /* ── Resizer ── */
     .resizer {
       width: 8px;
-      background: var(--resizer-bg);
+      /* Theme color at ~25% opacity — visible as furniture, not loud. Hover
+         and drag jump to full theme color for clear engagement feedback. */
+      background: color-mix(in srgb, var(--highlight-color), transparent 75%);
       cursor: col-resize;
       touch-action: none;
       transition: opacity 0.2s;
@@ -454,6 +516,25 @@
       max-width: 700px;
       line-height: 1.6;
       word-wrap: break-word;
+    }
+
+    /* Tint top-level headings with the theme color so forks feel branded in
+       long-form content. h3 and below stay at body color for legibility.
+       Normal weight so single-weight display heading fonts (e.g. Patua One)
+       aren't synthetically emboldened on top of their already-heavy design. */
+    .markdown-body h1,
+    .markdown-body h2 {
+      color: var(--highlight-color);
+      font-family: var(--heading-font, var(--font-family));
+      font-weight: normal;
+    }
+
+    /* Dark mode: lighten the heading color so saturated theme colors don't
+       shimmer against dark backgrounds. color-mix is Chrome 111+, which
+       matches the project's "modern Chrome only" target. */
+    body.dark-mode .markdown-body h1,
+    body.dark-mode .markdown-body h2 {
+      color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
     .markdown-body img {
@@ -688,7 +769,7 @@
     <div class="sidebar">
       <div class="panel-header" id="filesPanelHeader">
         <h3 id="hFiles">Files</h3>
-        <button id="btnExpandAll" class="header-btn" style="display: none;" title="Expand All Folders"
+        <button id="btnExpandAll" class="file-btn" style="display: none;" title="Expand All Folders"
           aria-label="Expand all folders">Expand All</button>
       </div>
       <div class="filter-wrap">
@@ -758,25 +839,35 @@
 
     /* ══════════════════════════════════════════════════════════════════
        ── FORK CUSTOMIZATION ZONE ──
-       Most forks only need to touch the things in this block:
+       Preferred: drop a tootoo.config.js file next to index.html and set
+       window.TOOTOO_CONFIG = { … } there. Anything you set overrides the
+       built-in CONFIG below. That way index.html stays byte-identical to
+       canonical and you can sync it with a plain `cp`. See the sample
+       tootoo.config.js shipped alongside this file for every available
+       knob.
 
-         1. CONFIG.owner / .repo / .branch  (below) — pre-load a specific
-            repo. Empty values fall through to URL params, GitHub Pages
-            URL, .git/config (file:// only), and the manual repo form.
-         2. CONFIG.storagePrefix             (below) — localStorage
-            namespace. Change this if your fork should keep its own
-            state separate from TooToo's.
-         3. CONFIG.appName                   (below) — drives <title>,
-            the header label, and the About heading.
-         4. CONFIG.sourceRepoUrl             (below) — top-header GitHub
-            icon target and About page "Source code" link. Point this
-            at your fork so the header always links back to your repo.
-         5. CONFIG.hiddenFolders             (below) — folder names to
-            omit from the sidebar tree (case-insensitive, matches at any
-            depth). Files inside stay reachable by direct URL/hash.
-         6. <link rel="icon" ...>            in <head>     — SVG favicon
+       The CONFIG block below holds the built-in defaults. Editing it
+       in-place still works for forks that don't want a sibling file,
+       but every change has to be re-applied on every canonical sync.
 
-       CONFIG_DEFAULTS just snapshots the starter values so detectRepo
+       Knobs you'll usually want to set:
+         • owner / repo / branch  — pre-load a specific repo. Empty
+           values fall through to URL params, GitHub Pages URL,
+           .git/config (file:// only), and the manual repo form.
+         • storagePrefix          — localStorage namespace. Change so
+           your fork's state doesn't collide with canonical TooToo's.
+         • appName                — <title>, header label, About heading.
+         • sourceRepoUrl          — top-header GitHub icon target and
+           About page "Source code" link.
+         • hiddenFolders          — folder names to omit from the
+           sidebar tree (case-insensitive, matches at any depth).
+         • maxRepoFiles           — refuse to render repos bigger than
+           this; protects forks from accidental linux-scale browsing.
+         • themeColor             — highlight color (light + dark mode).
+         • subtitle               — small muted text after the title.
+         • faviconLetters / faviconColor — restyle the SVG favicon.
+
+       CONFIG_DEFAULTS just snapshots owner/repo/branch so detectRepo
        can fall back to them after auto-detection fails.
        ══════════════════════════════════════════════════════════════════ */
     /* ── 2. CONFIG & state ── */
@@ -788,7 +879,22 @@
       appName: 'TooToo',        // <title>, header label, About heading
       sourceRepoUrl: 'https://github.com/pushme-pullyou/tootoo', // top-header GitHub icon target; About page "Source code" link
       hiddenFolders: [ 'Images' ], // folder names to omit from the sidebar tree (case-insensitive, any depth)
+      maxRepoFiles: 5000,       // refuse to render repos larger than this (or any truncated GitHub tree response)
+
+      // Branding knobs (forks usually override these via tootoo.config.js)
+      themeColor: '',           // hex string, e.g. '#3a8856'; empty = built-in blue (#2563eb)
+      subtitle: '',             // small muted text appended after the header title; empty = none
+      faviconLetters: 'TT',     // two characters drawn into the SVG favicon (also the sidebar-footer icon)
+      faviconColor: '#2563eb',  // background color of the SVG favicon
+      headingFontUrl: '',       // optional stylesheet URL (e.g. Google Fonts) loaded into <head> at init
+      headingFont: '',          // font-family value applied to title + panel headers + markdown h1/h2
     };
+
+    // Merge external config (set by tootoo.config.js, if present) over the
+    // built-in defaults. Forks customize here without touching index.html.
+    if ( window.TOOTOO_CONFIG && typeof window.TOOTOO_CONFIG === 'object' ) {
+      Object.assign( CONFIG, window.TOOTOO_CONFIG );
+    }
 
     const CONFIG_DEFAULTS = {
       owner: CONFIG.owner,
@@ -805,6 +911,7 @@
       pagesEnabled: null,
       localBase: null,   // prefix from app to repo root (e.g. '../' or ''); null = unknown
       localMode: false,  // true when a probe confirmed local file reads work
+      oversized: false,  // true when the repo exceeds CONFIG.maxRepoFiles or GitHub truncated the tree
     };
 
     /* ── 3. Extension constants ── */
@@ -870,8 +977,9 @@
 
     const clearCurrentFilePreference = () => {
       try {
-        localStorage.removeItem( getCurrentFileKey() );
-        localStorage.removeItem( storageKey( 'currentFile' ) );
+        sessionStorage.removeItem( getCurrentFileKey() );
+        localStorage.removeItem( getCurrentFileKey() );          // legacy: pre-sessionStorage versions
+        localStorage.removeItem( storageKey( 'currentFile' ) );  // legacy: pre-scoped key
       } catch ( _ ) { /* storage disabled */ }
     };
 
@@ -1037,8 +1145,18 @@
       const label = APP_ORIGIN.owner && APP_ORIGIN.repo
         ? `${ APP_ORIGIN.owner } / ${ APP_ORIGIN.repo }`
         : CONFIG.appName;
-      document.title = label;
-      document.getElementById( 'headerTitle' ).textContent = label;
+      const fullTitle = CONFIG.subtitle ? `${ label } · ${ CONFIG.subtitle }` : label;
+      document.title = fullTitle;
+      const titleEl = document.getElementById( 'headerTitle' );
+      titleEl.textContent = label;
+      if ( CONFIG.subtitle ) {
+        const revised = document.querySelector( 'meta[name="revised"]' )?.content || 'unknown';
+        const sub = document.createElement( 'span' );
+        sub.style.cssText = 'opacity: 0.6; font-weight: normal; margin-left: 0.4rem; font-size: 0.9rem;';
+        sub.textContent = '· ' + CONFIG.subtitle;
+        sub.title = `Last updated: ${ revised }`;
+        titleEl.appendChild( sub );
+      }
       document.getElementById( 'headerGitHub' ).href = APP_ORIGIN.url;
     };
 
@@ -1173,6 +1291,49 @@
       } else if ( window.innerWidth <= 768 ) {
         // Narrow viewport, no saved preference → start at 25% of viewport
         document.documentElement.style.setProperty( '--sidebar-width', Math.round( window.innerWidth * 0.25 ) + 'px' );
+      }
+
+      // Set themeColor on both <html> and <body> so it wins in light AND dark
+      // mode (the body.dark-mode rule otherwise overrides the :root default).
+      if ( CONFIG.themeColor ) {
+        document.documentElement.style.setProperty( '--highlight-color', CONFIG.themeColor );
+        document.body.style.setProperty( '--highlight-color', CONFIG.themeColor );
+      }
+    };
+
+    /* Regenerate the inline SVG favicon from CONFIG.faviconLetters/Color so
+       forks get a visually distinct tab icon and sidebar-footer button.
+       The sidebar-footer button reads its src from the <link rel="icon">
+       href later in setupListeners, so updating the link is enough. */
+    const applyFavicon = () => {
+      const letters = String( CONFIG.faviconLetters || 'TT' );
+      const l1 = ( letters[ 0 ] || 'T' ).toUpperCase();
+      const l2 = ( letters[ 1 ] || l1 ).toUpperCase();
+      const fill = ( CONFIG.faviconColor || '#2563eb' ).replace( '#', '%23' );
+      const svg =
+        `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E` +
+        `%3Crect width='64' height='64' rx='12' fill='${ fill }'/%3E` +
+        `%3Cg font-family='system-ui,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle' dominant-baseline='middle'%3E` +
+        `%3Ctext x='22' y='28'%3E${ encodeURIComponent( l1 ) }%3C/text%3E` +
+        `%3Ctext x='42' y='40'%3E${ encodeURIComponent( l2 ) }%3C/text%3E` +
+        `%3C/g%3E%3C/svg%3E`;
+      const link = document.querySelector( 'link[rel="icon"]' );
+      if ( link ) link.href = svg;
+    };
+
+    /* Load an optional heading stylesheet (e.g. Google Fonts) and apply the
+       chosen font-family to title + panel headers + markdown h1/h2 via the
+       --heading-font CSS variable. The CSS rules use var(--heading-font,
+       var(--font-family)) so omitting either knob is a no-op. */
+    const applyHeadingFont = () => {
+      if ( CONFIG.headingFontUrl ) {
+        const link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.href = CONFIG.headingFontUrl;
+        document.head.appendChild( link );
+      }
+      if ( CONFIG.headingFont ) {
+        document.documentElement.style.setProperty( '--heading-font', CONFIG.headingFont );
       }
     };
 
@@ -1480,7 +1641,7 @@
 
     /* ── 14. GitHub API helpers ── */
 
-    const getToken = () => localStorage.getItem( tokenStorageKey() ) || localStorage.getItem( 'githubToken' ) || '';
+    const getToken = () => localStorage.getItem( tokenStorageKey() ) || '';
 
     const getAuthHeaders = () => {
       const headers = { Accept: 'application/vnd.github+json' };
@@ -1663,17 +1824,43 @@
             setTimeout( renderBatch, 0 );
           } else {
             statusEl.remove();
+            refreshTreeCache();
             resolve();
           }
         };
 
         if ( total === 0 ) {
           statusEl.remove();
+          refreshTreeCache();
           resolve();
         } else {
           renderBatch();
         }
       } );
+    };
+
+    /* ── 21b. Oversized-repo panel ──
+       Repos beyond CONFIG.maxRepoFiles (or any tree the GitHub API truncates)
+       would render a misleading half-tree and choke the sidebar filter. We
+       show a friendly bail-out instead and link out to github.com. */
+    const showOversizedRepoPanel = ( count, truncated ) => {
+      const repoUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }`;
+      const countLabel = truncated
+        ? `over ${ count.toLocaleString() } files (GitHub truncated the tree response)`
+        : `${ count.toLocaleString() } files`;
+
+      document.getElementById( 'treeList' ).innerHTML =
+        `<div style="padding: 0.6rem 0.5rem; font-size: 0.85rem; opacity: 0.8;">Repository too large to browse here.</div>`;
+
+      const cb = document.getElementById( 'contentBody' );
+      cb.innerHTML = `
+        <div class="error-panel">
+          <h3 style="margin-top: 0;">Repository too large for ${ escapeHTML( CONFIG.appName ) }</h3>
+          <p><strong>${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }</strong> contains ${ escapeHTML( countLabel ) }. ${ escapeHTML( CONFIG.appName ) } is built for small-to-medium personal repositories; larger trees overwhelm the sidebar render and the per-keystroke filter.</p>
+          <p><a href="${ escapeHTML( repoUrl ) }" target="_blank" rel="noopener">Browse this repository on github.com →</a></p>
+          <p style="font-size: 0.85rem; opacity: 0.75; margin-bottom: 0;">If you maintain a fork, raise <code>CONFIG.maxRepoFiles</code> (currently ${ CONFIG.maxRepoFiles.toLocaleString() }) to override this cutoff. Truncated trees cannot be overridden — that is a GitHub API response limit.</p>
+        </div>
+      `;
     };
 
     /* ── 22. fetchTree ── */
@@ -1731,16 +1918,22 @@
         if ( !treeRes.ok ) throw new Error( `Failed to fetch tree: ${ treeRes.status }` );
 
         const treeData = await treeRes.json();
+        const treeCount = treeData.tree?.length || 0;
+        const tooLarge = treeData.truncated || treeCount > CONFIG.maxRepoFiles;
+
+        if ( tooLarge ) {
+          state.tree = null;
+          state.oversized = true;
+          showOversizedRepoPanel( treeCount, treeData.truncated );
+          return;
+        }
 
         state.tree = treeData.tree;
         await renderTree( state.tree );
 
-        if ( treeData.truncated ) {
-          const warning = document.createElement( 'div' );
-          warning.style.cssText = 'background: #fff3cd; border: 1px solid #ffc107; padding: 0.5rem; border-radius: 4px; margin: 0 0.5rem 0.5rem 0.5rem; font-size: 0.85rem;';
-          warning.textContent = '⚠️ Repository tree is truncated. Some files may not appear.';
-          treeList.insertBefore( warning, treeList.firstChild );
-        }
+        // Show file count next to the sidebar header label.
+        const fileCount = state.tree.filter( ( i ) => i.type === 'blob' ).length;
+        document.getElementById( 'hFiles' ).textContent = `${ fileCount.toLocaleString() } files`;
 
       } catch ( err ) {
         if ( err.name === 'AbortError' ) return;
@@ -1750,17 +1943,26 @@
 
     /* ── 23. Filter logic ── */
     let preFilterOpenState = null;
+    // Cached after each renderTree(); reused by every filter keystroke so we
+    // don't run two querySelectorAll walks over the tree on every input event.
+    let cachedTreeItems = [];
+    let cachedTreeFolders = [];
+
+    const refreshTreeCache = () => {
+      const treeList = document.getElementById( 'treeList' );
+      cachedTreeItems = Array.from( treeList.querySelectorAll( '.tree-item' ) );
+      cachedTreeFolders = Array.from( treeList.querySelectorAll( 'details' ) );
+    };
 
     const runFilter = () => {
       const query = document.getElementById( 'treeFilter' ).value.trim().toLowerCase();
-      const treeList = document.getElementById( 'treeList' );
       const btnFilterClear = document.getElementById( 'btnFilterClear' );
       const normalizedQuery = query.replace( /[-\s]+/g, ' ' );
 
       btnFilterClear.style.display = query ? 'block' : 'none';
 
-      const items = treeList.querySelectorAll( '.tree-item' );
-      const folders = treeList.querySelectorAll( 'details' );
+      const items = cachedTreeItems;
+      const folders = cachedTreeFolders;
 
       if ( !query ) {
         items.forEach( ( el ) => { el.classList.remove( 'is-hidden' ); } );
@@ -1792,7 +1994,7 @@
         el.classList.toggle( 'is-hidden', !matches );
       } );
 
-      const foldersArr = Array.from( folders ).reverse();
+      const foldersArr = folders.slice().reverse();
       foldersArr.forEach( ( details ) => {
         const hasVisible = details.querySelector( '.tree-item:not(.is-hidden)' );
         if ( hasVisible ) {
@@ -2041,10 +2243,11 @@
       const hash = location.hash.slice( 1 );
       if ( !hash ) return;
       const path = decodeURIComponent( hash );
-      if ( !state.tree ) {
+      if ( !state.tree && !state.oversized ) {
         document.getElementById( 'contentBody' ).innerHTML = '<p>Loading tree…</p>';
         await fetchTree();
       }
+      if ( state.oversized ) return;  // panel already in place; don't overwrite
       const found = state.tree?.find( ( item ) => item.path === path && item.type === 'blob' );
       if ( found ) {
         selectFile( path, { skipHash: true } );
@@ -2082,11 +2285,11 @@
       }
 
       if ( state.pagesEnabled ) {
-        // GitHub Pages / Jekyll renders .md as HTML; README.md becomes the directory index.html
-        const isReadme = /^readme\.md$/i.test( fileName );
+        // GitHub Pages / Jekyll renders .md and .markdown as HTML; README.* becomes the directory index.html
+        const isReadme = /^readme\.(md|markdown)$/i.test( fileName );
         const pagesPath = isReadme
           ? path.slice( 0, path.length - fileName.length )  // strip filename → directory URL
-          : path.replace( /\.md$/i, '' );                   // strip .md extension
+          : path.replace( /\.(md|markdown)$/i, '' );        // strip .md/.markdown extension
         const encodedPagesPath = encodePath( pagesPath );
         const isUserPage = state.repo.toLowerCase() === `${ state.owner.toLowerCase() }.github.io`;
         return isUserPage
@@ -2200,7 +2403,7 @@
             a.removeAttribute( 'href' );
             a.style.cursor = 'pointer';
             a.style.color = 'var(--highlight-color)';
-            a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( blobMatch[ 4 ] ); } );
+            a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( blobMatch[ 4 ], { skipFocus: true } ); } );
             return;
           }
 
@@ -2217,11 +2420,11 @@
           a.removeAttribute( 'href' );
           a.style.cursor = 'pointer';
           a.style.color = 'var(--highlight-color)';
-          a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( normalized ); } );
+          a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( normalized, { skipFocus: true } ); } );
         } );
 
         const images = Array.from( mdBody.querySelectorAll( 'img[src]' ) );
-        await Promise.all( images.map( async ( img ) => {
+        const resolveOne = async ( img ) => {
           const src = img.getAttribute( 'src' );
           if ( !src ) return;
 
@@ -2243,7 +2446,13 @@
           const resolvedSrc = await resolveMediaUrl( normalized, signal );
           img.setAttribute( 'src', resolvedSrc );
           img.setAttribute( 'loading', 'lazy' );
-        } ) );
+        };
+        // Cap concurrency so image-heavy READMEs don't burst the rate limit
+        // when a token is set (each call may hit api.github.com).
+        const IMAGE_CONCURRENCY = 4;
+        for ( let i = 0; i < images.length; i += IMAGE_CONCURRENCY ) {
+          await Promise.all( images.slice( i, i + IMAGE_CONCURRENCY ).map( resolveOne ) );
+        }
       }
     };
 
@@ -2458,7 +2667,7 @@
     /* ── 37. selectFile — main function ── */
     let lastRawText = '';
 
-    const selectFile = async ( path, { skipHash = false } = {} ) => {
+    const selectFile = async ( path, { skipHash = false, skipFocus = false } = {} ) => {
       // Abort in-flight
       if ( currentAbortController ) currentAbortController.abort();
       currentAbortController = new AbortController();
@@ -2494,7 +2703,7 @@
         }
         treeEl.classList.add( 'active' );
         treeEl.scrollIntoView( { block: 'center', behavior: 'auto' } );
-        treeEl.focus();
+        if ( !skipFocus ) treeEl.focus();
       }
 
       state.currentFilePath = path;
@@ -2579,9 +2788,10 @@
         updateHash( path );
       }
 
-      // Save last file path
-      localStorage.setItem( getCurrentFileKey(), path );
-      try { localStorage.removeItem( storageKey( 'currentFile' ) ); } catch ( _ ) { /* storage disabled */ }
+      // Save last file path for the current session only (cleared when the tab/browser closes).
+      try { sessionStorage.setItem( getCurrentFileKey(), path ); } catch ( _ ) { /* storage disabled */ }
+      try { localStorage.removeItem( getCurrentFileKey() ); } catch ( _ ) { /* clear pre-sessionStorage entry */ }
+      try { localStorage.removeItem( storageKey( 'currentFile' ) ); } catch ( _ ) { /* legacy un-scoped key */ }
 
       // Scroll content area to top
       contentArea.scrollTo( { top: 0 } );
@@ -2666,10 +2876,6 @@
 
     /* ── 40. init ── */
     const init = async () => {
-      // Sync Files-panel tooltip with the meta revised marker
-      const revised = document.querySelector( 'meta[name="revised"]' )?.content || 'unknown';
-      document.getElementById( 'filesPanelHeader' ).title = `Last updated: ${ revised }`;
-
       // Migrate any legacy tootoo-lt:* keys before reading appearance/state
       migrateStorageKeys();
       migrateTokenStorage();
@@ -2679,6 +2885,8 @@
       // up front and it stays correct for the whole session.
       await detectAppOrigin();
       updateHeaderFromConfig();
+      applyFavicon();
+      applyHeadingFont();
 
       initAppearance();
       setupListeners();
@@ -2701,6 +2909,11 @@
         updateHeaderFromConfig();
         document.getElementById( 'contentBody' ).innerHTML = '<p>Loading tree…</p>';
         await fetchTree();
+
+        // Oversized-repo bail-out: panel is already in place; skip file-open
+        // logic so deep links / sessionStorage paths don't fight the panel.
+        if ( state.oversized ) return;
+
         document.getElementById( 'btnExpandAll' ).style.display = '';
 
         // Probe for local file access; enables fetching uncommitted edits
@@ -2711,14 +2924,16 @@
           await handleHashChange();
         } else {
           const currentFileKey = getCurrentFileKey();
-          const lastPath = localStorage.getItem( currentFileKey );
+          // One-time cleanup of any pre-sessionStorage entry left in localStorage.
+          try { localStorage.removeItem( currentFileKey ); } catch ( _ ) { /* storage disabled */ }
+          const lastPath = sessionStorage.getItem( currentFileKey );
           const lastPathExists = lastPath && state.tree?.some( ( item ) => item.path === lastPath && item.type === 'blob' );
 
           if ( lastPathExists ) {
             await selectFile( lastPath, { skipHash: false } );
           } else {
             if ( lastPath ) {
-              try { localStorage.removeItem( currentFileKey ); } catch ( _ ) { /* storage disabled */ }
+              try { sessionStorage.removeItem( currentFileKey ); } catch ( _ ) { /* storage disabled */ }
             }
             autoSelectReadme();
           }
