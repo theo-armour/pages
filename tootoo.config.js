@@ -8,4 +8,9 @@ window.TOOTOO_CONFIG = {
   subtitle: '',
   faviconLetters: 'PG',
   faviconColor: '#e67e22',
+  subtitle: 'a GitHub repository browser',
+  headingFontUrl: 'https://fonts.googleapis.com/css2?family=Patua+One&display=swap',
+  headingFont: '"Patua One", serif',
+  hiddenFiles: [ 'tootoo.config.js' ],
+  hiddenFolders: [ 'Images' ],
 };
