@@ -4,7 +4,7 @@
 ## 2026-06-03
 
 
-
+* If a thing's worth doing, it is worth doing badly. -- G.K. Chesterton
 
 ## 2023-05-15
 
