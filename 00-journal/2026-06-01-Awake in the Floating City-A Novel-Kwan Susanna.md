@@ -38,7 +38,11 @@ I don't think we ever get a really clear picture why Bo stays in San Francisco, 
 
 Mia, the other main character, was supposed to be some kind of exceptional person, but pretty much her story reminded me of the stories of many Chinese immigrants living in the city Came over from China, had much, typically, but that ultimately succeeded.
 
+** 2026-06-02
 
+End of the title: Awaken the Floating City!
+
+The Chinese Connection is the floating city of the Jumbo restaurant that used to exist in Aberdeen Harbor in Hong Kong. Yet another reference in the book, perhaps to a tourist destination, more than an absolute relevance.There is no mention of the Hong Kong location in the book.It is just my conjecture, imagining the mind of a Chinese woman, a modern one living in San Francisco.I'm one time imagining; another time referencing.
 
 
 
