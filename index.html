@@ -4,34 +4,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-05-29 00:14">
+  <meta name="revised" content="2026-06-02 22:32">
   <title>TooToo</title>
   <link rel="icon" type="image/svg+xml"
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232563eb'/%3E%3Cg font-family='system-ui,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle' dominant-baseline='middle'%3E%3Ctext x='22' y='28'%3ET%3C/text%3E%3Ctext x='42' y='40'%3ET%3C/text%3E%3C/g%3E%3C/svg%3E">
-  <!--
-    External dependencies. Versions pinned to insulate against upstream churn.
-    To swap a CDN for a local copy, download the file into your fork and
-    point the src/href at the relative path. See FORKING.md for details.
-
-      marked       — Markdown → HTML; output always sanitized via DOMPurify
-      highlight.js — code syntax highlighting (CSS theme + JS engine)
-      DOMPurify    — HTML sanitization for marked + SheetJS output
-      SheetJS      — xlsx/xls/csv/ods rendering (~700KB; remove if unused)
-  -->
+  <!-- External deps. Eager (pinned): marked → HTML (sanitized by DOMPurify),
+       highlight.js, DOMPurify. SheetJS (xlsx/csv; ~700KB) is NOT loaded here —
+       ensureXLSX() injects it on demand the first time a spreadsheet is opened.
+       See FORKING.md. -->
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
   <link id="hljsTheme" rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.4.1/dist/purify.min.js"></script>
-  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
 
-  <!--
-    Optional per-fork branding/config. If tootoo.config.js exists next to
-    this file, it sets window.TOOTOO_CONFIG = { … } and we merge it over
-    the built-in CONFIG block before init runs. Missing file is fine —
-    forks that don't customize anything can omit it. See tootoo.config.js
-    in the canonical repo for the full list of knobs.
-  -->
+  <!-- Optional per-fork config: if present, tootoo.config.js sets
+       window.TOOTOO_CONFIG and we merge it over CONFIG before init. -->
   <script src="tootoo.config.js" onerror="void 0"></script>
   <style>
     /* ── Custom Properties ── */
@@ -69,9 +57,7 @@
     /* ── Font size on html so rem units scale ── */
     html {
       font-size: var(--font-size);
-      /* Faintly tint scrollbars (~35% opacity) so the theme is hinted at
-         without competing with content. Inherits to every scrollable
-         descendant (sidebar tree, content area, code blocks). Chrome 121+. */
+      /* Faintly tint scrollbars with the theme color (Chrome 121+). */
       scrollbar-color: color-mix(in srgb, var(--highlight-color), transparent 65%) transparent;
     }
 
@@ -82,10 +68,8 @@
       box-sizing: border-box;
     }
 
-    /* All headings — title, panel headers, every h1–h6 anywhere in the doc
-       (markdown body, About page, error panels, spreadsheet sheet names) —
-       pick up the optional CONFIG.headingFont. Var fallback means omitting
-       the knob falls through to the body font-family with no override. */
+    /* Every heading + title picks up the optional CONFIG.headingFont
+       (falls back to the body font when unset). */
     h1, h2, h3, h4, h5, h6,
     #headerTitle {
       font-family: var(--heading-font, var(--font-family));
@@ -132,7 +116,7 @@
     }
 
     /* GitHub icon inside the content-header file-title (only direct <a>
-       child of .file-title — the breadcrumb links live inside a <span>). */
+       child of .file-title — the breadcrumb links live inside an <h3>). */
     .file-title > a {
       color: var(--highlight-color);
     }
@@ -141,10 +125,7 @@
       color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
-    /* The 18x18 GitHub icons sit on the line-box geometric center via flex
-       alignment, but text descenders pull the *visual* center down. The
-       required nudge scales with adjacent text size: the top-header title
-       (1.35rem) needs more than the content-header breadcrumb (1rem). */
+    /* Nudge the GitHub icons down to the visual center of adjacent text. */
     #headerGitHub svg {
       transform: translateY(4px);
     }
@@ -154,11 +135,8 @@
     }
 
     #headerTitle {
-      /* Normal weight so a single-weight display heading font (e.g. Patua One)
-         renders as-designed instead of being synthetically emboldened. */
+      /* Normal weight so single-weight display fonts aren't synthetically bolded. */
       font-weight: normal;
-      /* Sized so the title is visually present, but still shorter than the
-         header buttons so the bar's overall height stays driven by them. */
       font-size: 1.35rem;
       text-decoration: none;
       color: var(--highlight-color);
@@ -169,11 +147,8 @@
       color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
-    /* ── Buttons ──
-       One look for every button: ghost pill in default state (theme-color
-       text + border, transparent background) that fills with theme color
-       on hover. Quiet at rest, clear affordance on hover, slight lift on
-       press. Border uses the same color as text so they read as one unit. */
+    /* ── Buttons ── ghost pill (theme-color text + border) that fills with
+       the theme color on hover, with a slight lift on press. */
     .header-btn,
     .file-btn,
     button.primary,
@@ -181,7 +156,7 @@
       background: transparent;
       color: var(--highlight-color);
       border: 1px solid var(--highlight-color);
-      padding: 0.2rem 0.75rem;
+      padding: 0.1rem 0.5rem;
       border-radius: 6px;
       cursor: pointer;
       font-size: 1rem;
@@ -204,9 +179,7 @@
       transform: translateY(0);
     }
 
-    /* Dark mode: brighten the chrome color since saturated theme colors
-       can look dim against dark backgrounds. Matches the pattern used on
-       headings, header title, and panel headers. */
+    /* Dark mode: brighten the chrome color against dark backgrounds. */
     body.dark-mode .header-btn,
     body.dark-mode .file-btn,
     body.dark-mode button.primary,
@@ -225,6 +198,19 @@
 
     .dark-mode-btn {
       margin-left: auto;
+    }
+
+    /* Sidebar toggle (Ctrl/⌘ B): center the icon, and hide the sidebar + its
+       resizer when collapsed so the content area (flex: 1) fills the width. */
+    #btnToggleSidebar {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    body.sidebar-hidden .sidebar,
+    body.sidebar-hidden .resizer {
+      display: none;
     }
 
     /* ── Rate limit badge ── */
@@ -286,15 +272,14 @@
       justify-content: space-between;
       align-items: center;
       padding: 0.5rem 0.5rem;
+      min-height: 3rem; /* lock every header bar (sidebar + content) to one height */
       border-bottom: 1px solid var(--border-color);
       background: var(--primary-bg);
     }
 
     .panel-header h3 {
       margin: 0;
-      /* Normal weight so a single-weight display heading font (e.g. Patua One)
-         renders as-designed instead of being synthetically emboldened.
-         Matches #headerTitle for visual consistency across both bars. */
+      /* Normal weight so single-weight display fonts aren't synthetically bolded. */
       font-size: 1rem;
       font-weight: normal;
       color: var(--highlight-color);
@@ -302,6 +287,16 @@
 
     body.dark-mode .panel-header h3 {
       color: color-mix(in srgb, var(--highlight-color) 65%, white);
+    }
+
+    /* Sidebar summary (folders · files · size): truncate with an ellipsis on a
+       narrow sidebar instead of wrapping or shoving the Expand All button off;
+       the full text stays available via the title tooltip. */
+    #hFiles {
+      min-width: 0;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
     }
 
     /* ── Filter wrap ── */
@@ -439,11 +434,8 @@
 
     /* ── Inline repo form ── */
     .repo-form {
-      /* Form columns (token page, Set-Repository fallback) share the same
-         width/line-height/wrap rules as .markdown-body so prose and forms
-         read with the same rhythm. The flex column + gap is what makes
-         this class different from .markdown-body — labels and inputs stack
-         vertically with consistent spacing instead of using block flow. */
+      /* Shares .markdown-body's width/rhythm, but stacks label+input in a
+         flex column with gap instead of block flow. */
       display: flex;
       flex-direction: column;
       gap: 0.5rem;
@@ -525,6 +517,44 @@
       font-variant-numeric: tabular-nums;
     }
 
+    /* Parent-folder caption under a file name — hidden until filtering. */
+    .tree-item-folder {
+      display: none;
+    }
+
+    /* While the filter box has text, the sidebar becomes a flat list of just
+       the matching files: folder rows and indentation are dropped, the size is
+       hidden, and each file shows the folder it lives in. */
+    #treeList.filtering .tree-folder {
+      display: none;
+    }
+
+    #treeList.filtering details,
+    #treeList.filtering details details {
+      padding-left: 0;
+    }
+
+    #treeList.filtering details .tree-item {
+      padding-left: 0.4rem;
+    }
+
+    #treeList.filtering .tree-item {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.1rem;
+    }
+
+    #treeList.filtering .tree-item-size {
+      display: none;
+    }
+
+    #treeList.filtering .tree-item-folder {
+      display: block;
+      padding-left: 1.4rem;
+      font-size: 0.72rem;
+      opacity: 0.6;
+    }
+
     details details {
       padding-left: 0.8rem;
     }
@@ -540,18 +570,13 @@
       word-wrap: break-word;
     }
 
-    /* Tint every heading in long-form content with the theme color so forks
-       feel branded uniformly — h1 through h6 all get the same treatment.
-       Normal weight so single-weight display heading fonts (e.g. Patua One)
-       aren't synthetically emboldened on top of their already-heavy design. */
+    /* Tint every content heading (h1–h6) with the theme color, normal weight. */
     .markdown-body :is(h1, h2, h3, h4, h5, h6) {
       color: var(--highlight-color);
       font-weight: normal;
     }
 
-    /* Dark mode: lighten the heading color so saturated theme colors don't
-       shimmer against dark backgrounds. color-mix is Chrome 111+, which
-       matches the project's "modern Chrome only" target. */
+    /* Dark mode: lighten headings against dark backgrounds. */
     body.dark-mode .markdown-body :is(h1, h2, h3, h4, h5, h6) {
       color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
@@ -561,16 +586,8 @@
       height: auto;
     }
 
-    /* All links inside the content area (markdown body, About page, error
-       panels, oversized-repo panel) sit on the theme color. Links carry
-       more visual weight than headings or chrome because they're inline
-       with body text and need to stand out as actionable, so light-mode
-       links are darkened against the raw theme color even at rest and
-       darken further on hover. Dark mode mirrors the move toward the
-       opposite end of the contrast axis (brighter at rest, brighter still
-       on hover). External links keep their browser-default underline so
-       they still read distinct from internal-link anchors below, which
-       strip both href and underline. */
+    /* Content-area links sit on the theme color — darkened in light mode
+       (darker on hover), brightened in dark mode — to read as actionable. */
     #contentBody a {
       color: color-mix(in srgb, var(--highlight-color) 80%, black);
       transition: color 0.15s;
@@ -588,9 +605,7 @@
       color: color-mix(in srgb, var(--highlight-color) 40%, white);
     }
 
-    /* In-page link rewritten by renderMarkdown to call selectFile instead of
-       navigating. href is removed so the browser drops the pointer cursor;
-       restore it here. Color is inherited from the #contentBody a rule. */
+    /* renderMarkdown strips href on in-page links; restore the pointer cursor. */
     .markdown-body a.internal-link {
       cursor: pointer;
     }
@@ -625,7 +640,8 @@
       flex-wrap: wrap;
       gap: 0.5rem;
       padding: 0.5rem 1rem;
-      background: var(--secondary-bg);
+      /* background + min-height come from the shared .panel-header rule, so this
+         bar matches the sidebar header (it used to override to --secondary-bg). */
     }
 
     .file-title {
@@ -684,6 +700,34 @@
       font-weight: bold;
     }
 
+    /* ── Self-test report table ── */
+    .selftest-table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 0.85rem;
+    }
+
+    .selftest-table th,
+    .selftest-table td {
+      border: 1px solid var(--border-color);
+      padding: 0.25rem 0.5rem;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    .selftest-table td:first-child {
+      width: 1.5rem;
+      text-align: center;
+    }
+
+    .selftest-table tr.st-fail {
+      background: var(--error-bg);
+    }
+
+    .selftest-table tr.st-skip {
+      background: var(--warning-bg);
+    }
+
     .md-error {
       background: var(--warning-bg);
       border: 1px solid var(--warning-border);
@@ -722,6 +766,69 @@
         flex-direction: column;
         align-items: flex-start;
         gap: 0.5rem;
+      }
+    }
+
+    /* ── Print: only the current file's content, with its name as a title ── */
+    .print-only { display: none; }
+
+    @media print {
+      /* Hide all app chrome. */
+      header,
+      .sidebar,
+      .resizer,
+      .file-header,
+      .back-to-top,
+      .skip-link {
+        display: none !important;
+      }
+
+      /* The shell locks the body to one viewport with internal scrolling; undo
+         that so the whole document flows across printed pages. */
+      body,
+      main,
+      .content-area,
+      #contentBody {
+        display: block;
+        height: auto;
+        max-height: none;
+        overflow: visible;
+      }
+
+      body { border-top: none; } /* drop the brand stripe */
+      #contentBody { padding: 0; }
+      .markdown-body, pre { max-width: none; } /* use the full page width */
+
+      /* Force a light page even if dark mode is on (legible, saves ink). */
+      body,
+      body.dark-mode {
+        --primary-bg: #fff;
+        --secondary-bg: #fff;
+        --text-color: #000;
+        --border-color: #999;
+        --highlight-color: #000;
+        background: #fff;
+        color: #000;
+      }
+
+      /* Dark-mode code blocks carry a dark hljs theme; neutralize it so code
+         prints as legible black-on-white (light mode keeps its syntax colors). */
+      body.dark-mode pre,
+      body.dark-mode code,
+      body.dark-mode .hljs,
+      body.dark-mode .hljs * {
+        background: #fff !important;
+        color: #000 !important;
+      }
+
+      /* The file name, shown only on the printout. */
+      .print-only { display: block; }
+      #printTitle {
+        margin: 0 0 1rem 0;
+        padding-bottom: 0.4rem;
+        font-size: 1.4rem;
+        font-weight: bold;
+        border-bottom: 1px solid #999;
       }
     }
 
@@ -778,6 +885,14 @@
   <a class="skip-link" href="#mainContent">Skip to content</a>
 
   <header>
+    <button id="btnToggleSidebar" class="header-btn" title="Toggle sidebar (Ctrl/⌘ B)"
+      aria-label="Toggle sidebar" aria-expanded="true">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"
+        aria-hidden="true">
+        <rect x="1.75" y="2.75" width="12.5" height="10.5" rx="1.5"></rect>
+        <line x1="6" y1="2.75" x2="6" y2="13.25"></line>
+      </svg>
+    </button>
     <a id="headerGitHub" href="." title="View on GitHub" aria-label="View on GitHub">
       <svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
         <path
@@ -827,6 +942,7 @@
       <div class="panel-header file-header">
         <h3 id="contentTitle">Content</h3>
       </div>
+      <div id="printTitle" class="print-only"></div>
       <div id="contentBody">
         <p>Awaiting repository detection...</p>
       </div>
@@ -866,52 +982,21 @@
     const rawUrl = ( path ) =>
       `https://raw.githubusercontent.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
 
+    // raw.githack.com re-serves raw GitHub files with correct Content-Types, so
+    // HTML renders (and its relative assets resolve) instead of showing source.
+    const githackUrl = ( path ) =>
+      `https://raw.githack.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
+
     const contentsApiUrl = ( path ) =>
       `https://api.github.com/repos/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/contents/${ encodePath( path ) }?ref=${ encodeURIComponent( state.branch ) }`;
 
     const GITHUB_SVG_ICON = '<svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>';
 
-    /* ══════════════════════════════════════════════════════════════════
-       ── FORK CUSTOMIZATION ZONE ──
-       Preferred: drop a tootoo.config.js file next to index.html and set
-       window.TOOTOO_CONFIG = { … } there. Anything you set overrides the
-       built-in CONFIG below. That way index.html stays byte-identical to
-       canonical and you can sync it with a plain `cp`. See the sample
-       tootoo.config.js shipped alongside this file for every available
-       knob.
-
-       The CONFIG block below holds the built-in defaults. Editing it
-       in-place still works for forks that don't want a sibling file,
-       but every change has to be re-applied on every canonical sync.
-
-       Knobs you'll usually want to set:
-         • owner / repo / branch  — pre-load a specific repo. Empty
-           values fall through to URL params, GitHub Pages URL,
-           .git/config (file:// only), and the manual repo form.
-         • storagePrefix          — localStorage namespace. Change so
-           your fork's state doesn't collide with canonical TooToo's.
-         • appName                — <title>, header label, About heading.
-         • sourceRepoUrl          — top-header GitHub icon target and
-           About page "Source code" link.
-         • hiddenFolders          — folder names to omit from the
-           sidebar tree (case-insensitive, matches at any depth).
-         • hiddenFiles            — file names to omit from the sidebar
-           tree (case-insensitive, matches at any depth). Useful for
-           per-fork config files like tootoo.config.js.
-         • maxRepoFiles           — refuse to render repos bigger than
-           this; protects forks from accidental linux-scale browsing.
-         • themeColor             — highlight color (light + dark mode).
-         • subtitle               — small muted text after the title.
-         • faviconLetters / faviconColor — restyle the SVG favicon.
-         • headingFontUrl         — optional stylesheet URL (e.g. Google
-           Fonts) loaded into <head> at init.
-         • headingFont            — font-family applied to the title,
-           panel headers, and markdown h1/h2.
-
-       CONFIG_DEFAULTS just snapshots owner/repo/branch so detectRepo
-       can fall back to them after auto-detection fails.
-       ══════════════════════════════════════════════════════════════════ */
-    /* ── 2. CONFIG & state ── */
+    /* ── 2. CONFIG & state ──
+       Built-in defaults; a fork overrides any of these via tootoo.config.js
+       (window.TOOTOO_CONFIG) so index.html stays byte-identical to canonical.
+       Each knob is documented inline below. CONFIG_DEFAULTS snapshots
+       owner/repo/branch so detectRepo can fall back to them. */
     const CONFIG = {
       owner: '',                // e.g. 'octocat'
       repo: '',                 // e.g. 'hello-world'
@@ -929,7 +1014,7 @@
       faviconLetters: 'TT',     // two characters drawn into the SVG favicon (also the sidebar-footer icon)
       faviconColor: '#2563eb',  // background color of the SVG favicon
       headingFontUrl: '',       // optional stylesheet URL (e.g. Google Fonts) loaded into <head> at init
-      headingFont: '',          // font-family value applied to title + panel headers + markdown h1/h2
+      headingFont: '',          // font-family value applied to title + panel headers + markdown headers
     };
 
     // Merge external config (set by tootoo.config.js, if present) over the
@@ -1132,19 +1217,13 @@
     const setPreferredView = ( ext, view ) => localStorage.setItem( getViewPrefKey( ext ), view );
 
     /* ── 8. updateHeaderFromConfig ──
-       The top header identifies *where this app instance lives* — the
-       owner/repo serving the HTML. On GitHub Pages that's parsed from
-       the URL; on file:// we read .git/config from the surrounding
-       repo; otherwise we fall back to CONFIG.sourceRepoUrl. The header
-       does not follow the currently browsed repo (the lower-panel
-       breadcrumbs do that). */
+       The top header shows where this app instance lives (owner/repo serving
+       the HTML), not the browsed repo. Source: Pages URL, else .git/config
+       on file://, else CONFIG.sourceRepoUrl. */
     const APP_ORIGIN = { owner: '', repo: '', url: '.' };
 
-    // Probe .git/config in the current directory and ancestors. Cached on
-    // first call so detectAppOrigin and detectRepo share one walk per page
-    // load. Returns { owner, repo, base } on a hit, null otherwise. Off
-    // file:// returns null without probing — servers typically deny dotfile
-    // access and the failed requests just surface as console noise.
+    // Probe .git/config in this dir and ancestors (file:// only). Cached so
+    // detectAppOrigin/detectRepo share one walk. Returns { owner, repo, base }.
     let gitConfigProbe = null;
     const findGitConfig = () => {
       if ( gitConfigProbe ) return gitConfigProbe;
@@ -1343,12 +1422,24 @@
         document.documentElement.style.setProperty( '--highlight-color', CONFIG.themeColor );
         document.body.style.setProperty( '--highlight-color', CONFIG.themeColor );
       }
+
+      // Restore the persisted sidebar-collapsed state.
+      const sidebarHidden = localStorage.getItem( storageKey( 'sidebarHidden' ) ) === 'true';
+      document.body.classList.toggle( 'sidebar-hidden', sidebarHidden );
+      document.getElementById( 'btnToggleSidebar' )?.setAttribute( 'aria-expanded', String( !sidebarHidden ) );
     };
 
-    /* Regenerate the inline SVG favicon from CONFIG.faviconLetters/Color so
-       forks get a visually distinct tab icon and sidebar-footer button.
-       The sidebar-footer button reads its src from the <link rel="icon">
-       href later in setupListeners, so updating the link is enough. */
+    /* Collapse / expand the sidebar (header button + Ctrl/⌘ B), persisting it. */
+    const setSidebarHidden = ( hidden ) => {
+      document.body.classList.toggle( 'sidebar-hidden', hidden );
+      document.getElementById( 'btnToggleSidebar' )?.setAttribute( 'aria-expanded', String( !hidden ) );
+      try { localStorage.setItem( storageKey( 'sidebarHidden' ), hidden ); } catch ( _ ) { /* storage disabled */ }
+    };
+
+    const toggleSidebar = () => setSidebarHidden( !document.body.classList.contains( 'sidebar-hidden' ) );
+
+    /* Rebuild the inline SVG favicon from CONFIG.faviconLetters/Color.
+       (The sidebar-footer button reuses this link's href in setupListeners.) */
     const applyFavicon = () => {
       const letters = String( CONFIG.faviconLetters || 'TT' );
       const l1 = ( letters[ 0 ] || 'T' ).toUpperCase();
@@ -1365,11 +1456,8 @@
       if ( link ) link.href = svg;
     };
 
-    /* Load an optional heading stylesheet (e.g. Google Fonts) and apply the
-       chosen font-family to every heading (title + panel headers + every
-       h1–h6 anywhere in the doc) via the --heading-font CSS variable. The
-       CSS rules use var(--heading-font, var(--font-family)) so omitting
-       either knob is a no-op. */
+    /* Optionally load CONFIG.headingFontUrl and set --heading-font; omitting
+       either knob is a no-op (the CSS var falls back to the body font). */
     const applyHeadingFont = () => {
       if ( CONFIG.headingFontUrl ) {
         const link = document.createElement( 'link' );
@@ -1382,22 +1470,37 @@
       }
     };
 
+    /* ── Content-area panel header helpers ──
+       Swap in `headerEl` (replace the current header, else insert before #contentBody). */
+    const setContentHeader = ( headerEl ) => {
+      const contentArea = document.getElementById( 'contentArea' );
+      const existing = contentArea.querySelector( '.panel-header.file-header' );
+      if ( existing ) existing.replaceWith( headerEl );
+      else contentArea.insertBefore( headerEl, document.getElementById( 'contentBody' ) );
+    };
+
+    // Build a plain panel header with a single <h3 id="contentTitle">title</h3>.
+    // Keep the print-only file-name title (shown only when printing) in sync.
+    const setPrintTitle = ( text ) => {
+      const el = document.getElementById( 'printTitle' );
+      if ( el ) el.textContent = text || '';
+    };
+
+    const makeSimpleHeader = ( title ) => {
+      const header = document.createElement( 'div' );
+      header.className = 'panel-header file-header';
+      header.innerHTML = `<h3 id="contentTitle">${ escapeHTML( title ) }</h3>`;
+      setPrintTitle( title );
+      return header;
+    };
+
     /* ── 12. showTokenPanel — render the token form, optionally with a reason ── */
     const showTokenPanel = ( reasonHtml = '' ) => {
       const cb = document.getElementById( 'contentBody' );
-      const contentArea = document.getElementById( 'contentArea' );
       const current = getToken();
       const hasToken = current.length > 0;
 
-      const existingHeader = contentArea.querySelector( '.panel-header.file-header' );
-      const simpleHeader = document.createElement( 'div' );
-      simpleHeader.className = 'panel-header file-header';
-      simpleHeader.innerHTML = '<h3 id="contentTitle">GitHub Token</h3>';
-      if ( existingHeader ) {
-        existingHeader.replaceWith( simpleHeader );
-      } else {
-        contentArea.insertBefore( simpleHeader, cb );
-      }
+      setContentHeader( makeSimpleHeader( 'GitHub Token' ) );
 
       cb.innerHTML = `
         ${ reasonHtml }
@@ -1471,6 +1574,139 @@
     const privateRepoReasonHtml = () =>
       `<div class="error-panel">⚠️ <strong>GitHub returned 404.</strong> If this is a private repository, enter a GitHub access token with <em>Contents: Read</em> permission below. If you already have a token saved, make sure it is scoped to ${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }.</div>`;
 
+    /* ── 12b. Self-test — render every file off-screen and report pass/fail ── */
+    // Reuses the real fetch/parse/decode helpers, so the result reflects what
+    // the viewer actually does. A "pass" means the file loaded and parsed or
+    // decoded without throwing — not that it looks perfect.
+    const runSelfTest = async () => {
+      const cb = document.getElementById( 'contentBody' );
+      setContentHeader( makeSimpleHeader( 'Self-test' ) );
+
+      if ( !state.tree ) {
+        cb.innerHTML = '<div class="markdown-body"><p>No repository tree is loaded yet.</p></div>';
+        return;
+      }
+
+      // The same files the sidebar shows (skip dotfiles + CONFIG.hidden* entries).
+      const hiddenFolders = new Set( ( CONFIG.hiddenFolders || [] ).map( ( s ) => s.toLowerCase() ) );
+      const hiddenFiles = new Set( ( CONFIG.hiddenFiles || [] ).map( ( s ) => s.toLowerCase() ) );
+      const files = state.tree.filter( ( item ) => {
+        if ( item.type !== 'blob' ) return false;
+        const parts = item.path.split( '/' );
+        if ( parts.some( ( p ) => p.startsWith( '.' ) || hiddenFolders.has( p.toLowerCase() ) ) ) return false;
+        return !hiddenFiles.has( parts[ parts.length - 1 ].toLowerCase() );
+      } );
+
+      // Abort any in-flight file load and own this run's signal; if the user
+      // navigates mid-run, our fetches abort and we stop touching the DOM.
+      if ( currentAbortController ) currentAbortController.abort();
+      currentAbortController = new AbortController();
+      const signal = currentAbortController.signal;
+
+      const total = files.length;
+      const results = [];
+      let done = 0, pass = 0, fail = 0, skip = 0, rateLimited = false;
+      const LARGE_SKIP = 5 * 1024 * 1024;
+
+      const render = () => {
+        const rows = results.map( ( r ) => {
+          const icon = r.status === 'pass' ? '✅' : r.status === 'fail' ? '❌' : '⏭';
+          return `<tr class="st-${ r.status }"><td>${ icon }</td><td>${ escapeHTML( r.path ) }</td><td>${ escapeHTML( r.detail || '' ) }</td></tr>`;
+        } ).join( '' );
+        const banner = rateLimited
+          ? '<div class="error-panel">⚠️ <strong>GitHub rate limit hit</strong> — the run stopped early. Add a token (⚙️) or open TooToo locally (file://), then run it again.</div>'
+          : '';
+        const heading = ( done < total && !rateLimited )
+          ? `Testing… <strong>${ done }</strong> / ${ total }`
+          : `<strong>${ fail ? 'Some failures' : 'All passed' }</strong> — ${ done } of ${ total } checked`;
+        cb.innerHTML =
+          banner +
+          '<div class="markdown-body">' +
+          '<h2>Self-test</h2>' +
+          '<p>Renders every file the way TooToo would, off-screen, to confirm it displays. ' +
+          'A pass means it loaded and parsed/decoded without throwing — not that it looks perfect.</p>' +
+          `<p>${ heading } &middot; ✅ ${ pass } &middot; ❌ ${ fail } &middot; ⏭ ${ skip }</p>` +
+          `<table class="selftest-table"><thead><tr><th></th><th>File</th><th>Result</th></tr></thead><tbody>${ rows }</tbody></table>` +
+          '</div>';
+      };
+      render();
+
+      const decodeImage = ( url ) => new Promise( ( resolve, reject ) => {
+        const img = new Image();
+        const timer = setTimeout( () => { img.src = ''; reject( new Error( 'timed out' ) ); }, 15000 );
+        img.onload = () => { clearTimeout( timer ); resolve(); };
+        img.onerror = () => { clearTimeout( timer ); reject( new Error( 'failed to decode' ) ); };
+        img.src = url;
+      } );
+      const revokeIfBlob = ( u ) => { if ( typeof u === 'string' && u.startsWith( 'blob:' ) ) URL.revokeObjectURL( u ); };
+
+      const testFile = async ( item ) => {
+        const path = item.path;
+        const ext = path.includes( '.' ) ? path.split( '.' ).pop().toLowerCase() : '';
+        const size = item.size || 0;
+        if ( size > LARGE_SKIP ) return { path, status: 'skip', detail: `${ formatFileSize( size ) } — too large` };
+
+        try {
+          if ( ext === 'md' ) {
+            DOMPurify.sanitize( marked.parse( await fetchFileText( path, signal ) ) );
+            return { path, status: 'pass', detail: 'markdown parsed' };
+          }
+          if ( ext === 'svg' ) {
+            const text = await fetchFileText( path, signal );
+            const url = URL.createObjectURL( new Blob( [ text ], { type: 'image/svg+xml' } ) );
+            try { await decodeImage( url ); } finally { URL.revokeObjectURL( url ); }
+            return { path, status: 'pass', detail: 'svg decoded' };
+          }
+          if ( IMAGE_EXTS.includes( ext ) ) {
+            const url = await resolveMediaUrl( path, signal );
+            try { await decodeImage( url ); } finally { revokeIfBlob( url ); }
+            return { path, status: 'pass', detail: 'image decoded' };
+          }
+          if ( SHEET_EXTS.includes( ext ) ) {
+            const url = await fetchFileBlob( path, signal );
+            try {
+              const buf = await ( await fetch( url ) ).arrayBuffer();
+              await ensureXLSX();
+              const wb = XLSX.read( new Uint8Array( buf ), { type: 'array' } );
+              return { path, status: 'pass', detail: `${ wb.SheetNames.length } sheet${ wb.SheetNames.length === 1 ? '' : 's' }` };
+            } finally { revokeIfBlob( url ); }
+          }
+          if ( AUDIO_EXTS.includes( ext ) || VIDEO_EXTS.includes( ext ) || ext === 'pdf' ) {
+            revokeIfBlob( await fetchFileBlob( path, signal ) ); // just confirm it downloads
+            return { path, status: 'pass', detail: `${ ext } reachable` };
+          }
+          await fetchFileText( path, signal ); // text / code / html / json / other
+          return { path, status: 'pass', detail: ext ? `${ ext } loaded` : 'loaded' };
+        } catch ( err ) {
+          if ( err?.name === 'AbortError' || err?.message === RATE_LIMIT_MESSAGE ) throw err;
+          return { path, status: 'fail', detail: err?.message || 'error' };
+        }
+      };
+
+      const CONCURRENCY = state.localMode ? 8 : 4;
+      let cursor = 0;
+      const worker = async () => {
+        while ( cursor < files.length && !rateLimited ) {
+          const item = files[ cursor++ ];
+          let res;
+          try {
+            res = await testFile( item );
+          } catch ( err ) {
+            if ( err?.name === 'AbortError' ) return;                 // user navigated away
+            if ( err?.message === RATE_LIMIT_MESSAGE ) { rateLimited = true; break; }
+            res = { path: item.path, status: 'fail', detail: err?.message || 'error' };
+          }
+          results.push( res );
+          done++;
+          if ( res.status === 'pass' ) pass++; else if ( res.status === 'fail' ) fail++; else skip++;
+          if ( !signal.aborted && done % 5 === 0 ) render();
+        }
+      };
+
+      await Promise.all( Array.from( { length: Math.max( 1, Math.min( CONCURRENCY, files.length ) ) }, worker ) );
+      if ( !signal.aborted ) render();
+    };
+
     /* ── 13. setupListeners ── */
     const setupListeners = () => {
       const contentArea = document.getElementById( 'contentArea' );
@@ -1482,6 +1718,9 @@
         localStorage.setItem( storageKey( 'darkMode' ), isDark );
         setHljsTheme( isDark );
       } );
+
+      // Sidebar collapse toggle
+      document.getElementById( 'btnToggleSidebar' ).addEventListener( 'click', toggleSidebar );
 
       // Font size
       const getFontSize = () => {
@@ -1581,20 +1820,15 @@
             <li><kbd>←</kbd> — close folder / step out</li>
             <li><kbd>Enter</kbd> <kbd>Space</kbd> — toggle folder or select file</li>
           </ul>
+          <h3>Maintenance</h3>
+          <p>Render every file in this repo off-screen and report which ones fail to display — markdown that won't parse, images that won't decode, spreadsheets that won't open. Best run locally (<code>file://</code>) or with a token.</p>
+          <button id="btnSelfTest" class="secondary" title="Render every file and report failures">🧪 Run self-test</button>
           </div>
         `;
 
         // Restore original panel header (selectFile replaces it with breadcrumbs)
-        const contentArea = document.getElementById( 'contentArea' );
-        const existingHeader = contentArea.querySelector( '.panel-header.file-header' );
-        const simpleHeader = document.createElement( 'div' );
-        simpleHeader.className = 'panel-header file-header';
-        simpleHeader.innerHTML = '<h3 id="contentTitle">About</h3>';
-        if ( existingHeader ) {
-          existingHeader.replaceWith( simpleHeader );
-        } else {
-          contentArea.insertBefore( simpleHeader, document.getElementById( 'contentBody' ) );
-        }
+        setContentHeader( makeSimpleHeader( 'About' ) );
+        document.getElementById( 'btnSelfTest' )?.addEventListener( 'click', runSelfTest );
       } );
 
       // Token inline form
@@ -1663,8 +1897,6 @@
       } );
 
       // Sidebar footer: favicon doubles as a "scroll tree to top" button.
-      // Pull the img src from the favicon link so forks only need to
-      // update one place in <head>.
       const footerIcon = document.querySelector( '#btnScrollTreeTop img' );
       const faviconHref = document.querySelector( 'link[rel="icon"]' )?.href;
       if ( footerIcon && faviconHref ) footerIcon.src = faviconHref;
@@ -1674,9 +1906,8 @@
         document.getElementById( 'treeList' ).scrollTo( { top: 0, behavior: reduce ? 'auto' : 'smooth' } );
       } );
 
-      // Header title click — return to the *original* repo for this app
-      // instance: clear the deep-link hash, the URL query overrides, the
-      // cached repo, and the last-opened-file preference, then reload.
+      // Header title click — reset to the original repo: clear hash, query
+      // overrides, cached repo, and last-file preference, then reload.
       document.getElementById( 'headerTitle' ).addEventListener( 'click', ( e ) => {
         e.preventDefault();
         clearCurrentFilePreference();
@@ -1833,10 +2064,19 @@
       const nameHtml = isReadme
         ? `<strong>${ escapeHTML( displayName ) }</strong>`
         : escapeHTML( displayName );
+      // Parent folder as a breadcrumb caption — shown only while filtering, so
+      // the flat results list tells you where each matching file lives.
+      const folderDisplay = parentPath
+        ? parentPath.split( '/' ).map( displayTreeName ).join( ' / ' )
+        : '';
+      const folderHtml = folderDisplay
+        ? `<span class="tree-item-folder">${ escapeHTML( folderDisplay ) }</span>`
+        : '';
 
       return `<div class="tree-item" tabindex="0" data-action="select-file" data-path="${ escapeHTML( fullPath ) }" title="${ escapeHTML( fullPath ) }">` +
         `<span class="tree-item-name"><span aria-hidden="true">${ icon }</span> ${ nameHtml }</span>` +
         `<span class="tree-item-size">${ sizeStr }</span>` +
+        folderHtml +
         `</div>`;
     };
 
@@ -1892,10 +2132,8 @@
       } );
     };
 
-    /* ── 21b. Oversized-repo panel ──
-       Repos beyond CONFIG.maxRepoFiles (or any tree the GitHub API truncates)
-       would render a misleading half-tree and choke the sidebar filter. We
-       show a friendly bail-out instead and link out to github.com. */
+    /* ── 21b. Oversized-repo panel ── bail out (and link to github.com) for
+       repos past CONFIG.maxRepoFiles or a truncated tree response. */
     const showOversizedRepoPanel = ( count, truncated ) => {
       const repoUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }`;
       const countLabel = truncated
@@ -1917,6 +2155,22 @@
     };
 
     /* ── 22. fetchTree ── */
+    // Tree-load auth handler: on 403/404 show the token panel and return true
+    // (caller bails); false otherwise so the caller proceeds.
+    const handleTreeAuthError = ( res, treeList ) => {
+      if ( res.status === 403 ) {
+        treeList.innerHTML = `<p style="color: red;">${ escapeHTML( RATE_LIMIT_MESSAGE ) }</p>`;
+        showTokenPanel( RATE_LIMIT_REASON_HTML );
+        return true;
+      }
+      if ( res.status === 404 ) {
+        treeList.innerHTML = `<p style="color: red;">${ escapeHTML( PRIVATE_REPO_MESSAGE ) }</p>`;
+        showTokenPanel( privateRepoReasonHtml() );
+        return true;
+      }
+      return false;
+    };
+
     const fetchTree = async () => {
       if ( currentAbortController ) currentAbortController.abort();
       currentAbortController = new AbortController();
@@ -1932,16 +2186,7 @@
             { headers, signal }
           );
           updateRateBadge( repoRes );
-          if ( repoRes.status === 403 ) {
-            treeList.innerHTML = `<p style="color: red;">${ escapeHTML( RATE_LIMIT_MESSAGE ) }</p>`;
-            showTokenPanel( RATE_LIMIT_REASON_HTML );
-            return;
-          }
-          if ( repoRes.status === 404 ) {
-            treeList.innerHTML = `<p style="color: red;">${ escapeHTML( PRIVATE_REPO_MESSAGE ) }</p>`;
-            showTokenPanel( privateRepoReasonHtml() );
-            return;
-          }
+          if ( handleTreeAuthError( repoRes, treeList ) ) return;
           if ( !repoRes.ok ) throw new Error( `Failed to fetch repo info: ${ repoRes.status }` );
           const repoData = await repoRes.json();
           state.branch = repoData.default_branch;
@@ -1958,16 +2203,7 @@
         );
         updateRateBadge( treeRes );
 
-        if ( treeRes.status === 403 ) {
-          treeList.innerHTML = `<p style="color: red;">${ escapeHTML( RATE_LIMIT_MESSAGE ) }</p>`;
-          showTokenPanel( RATE_LIMIT_REASON_HTML );
-          return;
-        }
-        if ( treeRes.status === 404 ) {
-          treeList.innerHTML = `<p style="color: red;">${ escapeHTML( PRIVATE_REPO_MESSAGE ) }</p>`;
-          showTokenPanel( privateRepoReasonHtml() );
-          return;
-        }
+        if ( handleTreeAuthError( treeRes, treeList ) ) return;
         if ( !treeRes.ok ) throw new Error( `Failed to fetch tree: ${ treeRes.status }` );
 
         const treeData = await treeRes.json();
@@ -1984,9 +2220,25 @@
         state.tree = treeData.tree;
         await renderTree( state.tree );
 
-        // Show file count next to the sidebar header label.
-        const fileCount = state.tree.filter( ( i ) => i.type === 'blob' ).length;
-        document.getElementById( 'hFiles' ).textContent = `${ fileCount.toLocaleString() } files`;
+        // Summarize the visible tree in the sidebar header: folders · files ·
+        // total size. Mirrors buildNestedTree's filter so the counts match what
+        // is actually shown (dotfiles and CONFIG.hidden* entries excluded).
+        const summaryHiddenFolders = new Set( ( CONFIG.hiddenFolders || [] ).map( ( s ) => s.toLowerCase() ) );
+        const summaryHiddenFiles = new Set( ( CONFIG.hiddenFiles || [] ).map( ( s ) => s.toLowerCase() ) );
+        const visibleItems = state.tree.filter( ( item ) => {
+          const parts = item.path.split( '/' );
+          if ( parts.some( ( p ) => p.startsWith( '.' ) || summaryHiddenFolders.has( p.toLowerCase() ) ) ) return false;
+          if ( item.type === 'blob' && summaryHiddenFiles.has( parts[ parts.length - 1 ].toLowerCase() ) ) return false;
+          return true;
+        } );
+        const folderCount = visibleItems.filter( ( i ) => i.type === 'tree' ).length;
+        const fileCount = visibleItems.filter( ( i ) => i.type === 'blob' ).length;
+        const totalBytes = visibleItems.reduce( ( sum, i ) => sum + ( i.type === 'blob' ? ( i.size || 0 ) : 0 ), 0 );
+        const countLabel = ( n, word ) => `${ n.toLocaleString() } ${ word }${ n === 1 ? '' : 's' }`;
+        const hFilesEl = document.getElementById( 'hFiles' );
+        hFilesEl.textContent = `${ countLabel( folderCount, 'folder' ) } · ${ countLabel( fileCount, 'file' ) } · ${ formatFileSize( totalBytes ) }`;
+        hFilesEl.title = `${ countLabel( folderCount, 'folder' ) }, ${ countLabel( fileCount, 'file' ) }, ${ formatFileSize( totalBytes ) } total`;
+        treeSummaryText = hFilesEl.textContent; // restored when the filter clears
 
       } catch ( err ) {
         if ( err.name === 'AbortError' ) return;
@@ -1996,8 +2248,10 @@
 
     /* ── 23. Filter logic ── */
     let preFilterOpenState = null;
-    // Cached after each renderTree(); reused by every filter keystroke so we
-    // don't run two querySelectorAll walks over the tree on every input event.
+    // The Files-header summary text, captured after each tree load so the filter
+    // can swap in a match count and restore the summary when it clears.
+    let treeSummaryText = '';
+    // Cached after each renderTree(); reused by every filter keystroke.
     let cachedTreeItems = [];
     let cachedTreeFolders = [];
 
@@ -2008,6 +2262,7 @@
     };
 
     const runFilter = () => {
+      const treeList = document.getElementById( 'treeList' );
       const query = document.getElementById( 'treeFilter' ).value.trim().toLowerCase();
       const btnFilterClear = document.getElementById( 'btnFilterClear' );
       const normalizedQuery = query.replace( /[-\s]+/g, ' ' );
@@ -2018,6 +2273,8 @@
       const folders = cachedTreeFolders;
 
       if ( !query ) {
+        treeList.classList.remove( 'filtering' );
+        if ( treeSummaryText ) document.getElementById( 'hFiles' ).textContent = treeSummaryText;
         items.forEach( ( el ) => { el.classList.remove( 'is-hidden' ); } );
         folders.forEach( ( el ) => { el.classList.remove( 'is-hidden' ); } );
         if ( preFilterOpenState ) {
@@ -2040,11 +2297,16 @@
         } );
       }
 
+      // Match the file name only (not the full path), so results are the files
+      // a user is looking for — not every file that merely sits under a folder
+      // whose name matches.
+      let matchCount = 0;
       items.forEach( ( el ) => {
-        const path = ( el.dataset.path || '' ).toLowerCase();
-        const normalizedPath = path.replace( /[-\s]+/g, ' ' );
-        const matches = path.includes( query ) || normalizedPath.includes( normalizedQuery );
+        const name = ( el.dataset.path || '' ).split( '/' ).pop().toLowerCase();
+        const normalizedName = name.replace( /[-\s]+/g, ' ' );
+        const matches = name.includes( query ) || normalizedName.includes( normalizedQuery );
         el.classList.toggle( 'is-hidden', !matches );
+        if ( matches ) matchCount++;
       } );
 
       const foldersArr = folders.slice().reverse();
@@ -2057,6 +2319,10 @@
           details.classList.add( 'is-hidden' );
         }
       } );
+
+      treeList.classList.add( 'filtering' );
+      document.getElementById( 'hFiles' ).textContent =
+        `${ matchCount.toLocaleString() } match${ matchCount === 1 ? '' : 'es' }`;
     };
 
     /* ── 24. Debounce helper ── */
@@ -2094,8 +2360,12 @@
     const getVisibleTreeItems = () => {
       const treeList = document.getElementById( 'treeList' );
       const all = treeList.querySelectorAll( '.tree-folder, .tree-item' );
+      const filtering = treeList.classList.contains( 'filtering' );
       return Array.from( all ).filter( ( el ) => {
         if ( el.classList.contains( 'is-hidden' ) ) return false;
+        // While filtering, the sidebar is a flat file list — folder rows are
+        // hidden, so keyboard nav should skip them.
+        if ( filtering && el.classList.contains( 'tree-folder' ) ) return false;
 
         if ( el.classList.contains( 'tree-folder' ) ) {
           const ownDetails = el.parentElement;
@@ -2131,15 +2401,22 @@
         const treeList = document.getElementById( 'treeList' );
         const active = document.activeElement;
 
+        // Ctrl/Cmd+B toggles the sidebar from anywhere (VS Code convention).
+        // Safe even in inputs — Ctrl+B does nothing in a plain text field — and
+        // we preventDefault so Firefox doesn't open its bookmarks sidebar.
+        if ( ( e.ctrlKey || e.metaKey ) && !e.altKey && ( e.key === 'b' || e.key === 'B' ) ) {
+          e.preventDefault();
+          toggleSidebar();
+          return;
+        }
+
         if ( e.key === '/' && active.tagName !== 'INPUT' && active.tagName !== 'TEXTAREA' ) {
           e.preventDefault();
           document.getElementById( 'treeFilter' ).focus();
           return;
         }
 
-        // `\` jumps focus into the tree so arrow / Page / Home / End keys
-        // start working. Prefers the currently-selected item, falls back
-        // to the first visible one.
+        // `\` moves focus into the tree (current selection, else first visible).
         if ( e.key === '\\' && active.tagName !== 'INPUT' && active.tagName !== 'TEXTAREA' ) {
           e.preventDefault();
           const visible = getVisibleTreeItems();
@@ -2247,9 +2524,8 @@
     const autoSelectReadme = () => {
       if ( !state.tree ) return;
 
-      // Only match a root-level README; otherwise fall back to the About page.
-      // Accepts: README.md, README.markdown, README.mkd, README.mdown,
-      // README.txt, and bare README (no extension). Case-insensitive.
+      // Match a root-level README (.md/.markdown/.mkd/.mdown/.txt or bare);
+      // otherwise fall back to the About page.
       const readme = state.tree.find( ( item ) =>
         item.type === 'blob' && /^readme(\.(md|markdown|mkd|mdown|txt))?$/i.test( item.path )
       );
@@ -2280,7 +2556,7 @@
 
     /* ── 30. Hash routing ── */
     const updateHash = ( path ) => {
-      const newHash = '#' + encodeURIComponent( path );
+      const newHash = '#' + encodePath( path );
       try {
         // First navigation pushes so browser Back exits the app;
         // subsequent clicks replace so the back stack doesn't accumulate.
@@ -2315,12 +2591,15 @@
       const fileName = path.split( '/' ).pop();
       const ext = fileName.includes( '.' ) ? fileName.split( '.' ).pop().toLowerCase() : '';
 
-      // Extensionless (LICENSE, AUTHORS) and download-prone (CSV, archives,
-      // Office docs) files go straight to the source. Local file shows as
-      // text in the tab when available; raw triggers a browser download for
-      // these MIME types, which is the expected action for a data/text file.
+      // Local mode (file://): prefer the on-disk file so New Tab reflects
+      // uncommitted edits and HTML keeps its relative assets. Null when hosted.
+      const localUrl = localUrlFor( path );
+      if ( localUrl ) return localUrl;
+
+      // Extensionless and download-prone (CSV, archives, Office) files go
+      // straight to raw, which downloads them — the expected action.
       if ( !ext || DOWNLOAD_PRONE_EXTS.includes( ext ) ) {
-        return localUrlFor( path ) || rawUrl( path );
+        return rawUrl( path );
       }
 
       if ( state.pagesEnabled === null ) {
@@ -2331,18 +2610,22 @@
             { headers }
           );
           updateRateBadge( res );
-          state.pagesEnabled = res.ok;
-        } catch ( _ ) {
-          state.pagesEnabled = false;
-        }
+          // Only cache a definitive answer (200 = on, 404 = off). A 403/network
+          // error leaves pagesEnabled null so the next click re-probes.
+          if ( res.status === 200 ) state.pagesEnabled = true;
+          else if ( res.status === 404 ) state.pagesEnabled = false;
+        } catch ( _ ) { /* network blip: leave null, re-probe next click */ }
       }
 
       if ( state.pagesEnabled ) {
-        // GitHub Pages / Jekyll renders .md and .markdown as HTML; README.* becomes the directory index.html
-        const isReadme = /^readme\.(md|markdown)$/i.test( fileName );
+        // Pages/Jekyll converts Markdown to HTML: a README.md becomes its
+        // directory URL; other .md files drop their extension. (.txt/bare
+        // README are served as-is, so they're excluded here.)
+        const mdExtRe = /\.(md|markdown|mkdown|mkdn|mkd)$/i;
+        const isReadme = /^readme\.(md|markdown|mkdown|mkdn|mkd)$/i.test( fileName );
         const pagesPath = isReadme
           ? path.slice( 0, path.length - fileName.length )  // strip filename → directory URL
-          : path.replace( /\.(md|markdown)$/i, '' );        // strip .md/.markdown extension
+          : path.replace( mdExtRe, '' );                    // strip Markdown extension
         const encodedPagesPath = encodePath( pagesPath );
         const isUserPage = state.repo.toLowerCase() === `${ state.owner.toLowerCase() }.github.io`;
         return isUserPage
@@ -2350,7 +2633,9 @@
           : `https://${ state.owner }.github.io/${ state.repo }/${ encodedPagesPath }`;
       }
 
-      return rawUrl( path );
+      // Pages off: raw serves HTML as text/plain (shows source), so route
+      // .html/.htm through githack to render it; everything else uses raw.
+      return ( ext === 'html' || ext === 'htm' ) ? githackUrl( path ) : rawUrl( path );
     };
 
     /* ── 32. buildFileHeader — breadcrumbs + action buttons ── */
@@ -2361,9 +2646,8 @@
       const ownerUrl = `https://github.com/${ encodeURIComponent( state.owner ) }`;
       const repoUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }`;
 
-      // Breadcrumbs identify the file fully: owner / repo @ branch / folder / file.
-      // The owner, repo, and branch segments link out to GitHub (the top header
-      // is the way back to the TooToo repo home for this app).
+      // Breadcrumbs: owner / repo @ branch / folder / file. Owner/repo/branch
+      // link out to GitHub.
       let breadcrumbHtml =
         `<a class="breadcrumb-link" href="${ escapeHTML( ownerUrl ) }" target="_blank" rel="noopener" title="Open ${ escapeHTML( state.owner ) } on GitHub" aria-label="Open ${ escapeHTML( state.owner ) } on GitHub">${ escapeHTML( state.owner ) }</a>` +
         ` / <a class="breadcrumb-link" href="${ escapeHTML( repoUrl ) }" target="_blank" rel="noopener" title="Open ${ escapeHTML( state.repo ) } on GitHub" aria-label="Open ${ escapeHTML( state.repo ) } on GitHub">${ escapeHTML( state.repo ) }</a>`;
@@ -2398,12 +2682,13 @@
       if ( hasCopy ) {
         actionsHtml += `<button class="file-btn" data-action="copy-file" title="Copy file contents to clipboard" aria-label="Copy file contents to clipboard">📋 Copy</button>`;
       }
+      actionsHtml += `<button class="file-btn" data-action="print" title="Print this file" aria-label="Print this file">🖨 Print</button>`;
       actionsHtml += `<button class="file-btn" data-action="new-tab" data-path="${ escapeHTML( path ) }" title="Open in new tab" aria-label="Open in new tab">↗ New Tab</button>`;
 
       return `<div class="panel-header file-header">` +
         `<div class="file-title">` +
         `<a href="${ escapeHTML( githubUrl ) }" target="_blank" rel="noopener" title="View on GitHub" aria-label="View this file on GitHub">${ GITHUB_SVG_ICON }</a>` +
-        `<span id="breadcrumbs">${ breadcrumbHtml }</span>` +
+        `<h3 id="breadcrumbs">${ breadcrumbHtml }</h3>` +
         `</div>` +
         `<div class="file-actions">${ actionsHtml }</div>` +
         `</div>`;
@@ -2411,9 +2696,21 @@
 
     /* ── 33. Content rendering helpers ── */
 
+    // Rendered/raw toggle scaffold shared by the markdown, html, and svg views.
+    // Starts on the user's last-chosen view for this ext. `prefix` precedes both
+    // panes; `renderedClass` classes the rendered pane.
+    const buildToggleHtml = ( ext, renderedHtml, rawText, { prefix = '', renderedClass = '' } = {} ) => {
+      const preferredView = getPreferredView( ext );
+      const renderedDisplay = preferredView === 'rendered' ? '' : 'display:none';
+      const rawDisplay = preferredView === 'raw' ? '' : 'display:none';
+      const classAttr = renderedClass ? ` class="${ renderedClass }"` : '';
+      return prefix +
+        `<div${ classAttr } id="viewRendered" style="${ renderedDisplay }">${ renderedHtml }</div>` +
+        `<pre id="viewRaw" style="${ rawDisplay }">${ escapeHTML( rawText ) }</pre>`;
+    };
+
     const renderMarkdown = async ( text, filePath, signal ) => {
       const ext = filePath.split( '.' ).pop().toLowerCase();
-      const preferredView = getPreferredView( ext );
       let renderedHtml;
       let errorHtml = '';
 
@@ -2424,13 +2721,8 @@
         renderedHtml = '';
       }
 
-      const renderedDisplay = preferredView === 'rendered' ? '' : 'display:none';
-      const rawDisplay = preferredView === 'raw' ? '' : 'display:none';
-
       document.getElementById( 'contentBody' ).innerHTML =
-        errorHtml +
-        `<div class="markdown-body" id="viewRendered" style="${ renderedDisplay }">${ renderedHtml }</div>` +
-        `<pre id="viewRaw" style="${ rawDisplay }">${ escapeHTML( text ) }</pre>`;
+        buildToggleHtml( ext, renderedHtml, text, { prefix: errorHtml, renderedClass: 'markdown-body' } );
 
       // Rewrite links inside .markdown-body
       const mdBody = document.getElementById( 'viewRendered' );
@@ -2478,11 +2770,8 @@
           a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( normalized, { skipFocus: true } ); } );
         } );
 
-        // Syntax-highlight fenced code blocks. marked emits
-        // <pre><code class="language-x"> but never adds the .hljs class or
-        // token spans the theme styles, so without this pass code in
-        // rendered markdown shows unhighlighted. Skip oversized blocks for
-        // the same reason renderCode does (hljs is slow on huge inputs).
+        // Syntax-highlight fenced code blocks (marked doesn't); skip oversized
+        // ones (hljs is slow on huge inputs).
         mdBody.querySelectorAll( 'pre code' ).forEach( ( el ) => {
           if ( el.textContent.length > 500 * 1024 ) return;
           try { hljs.highlightElement( el ); } catch ( _ ) { /* plain fallback */ }
@@ -2508,12 +2797,17 @@
           if ( !srcPath ) return;
 
           const normalized = resolveRepoPath( srcPath, currentDir );
-          const resolvedSrc = await resolveMediaUrl( normalized, signal );
-          img.setAttribute( 'src', resolvedSrc );
-          img.setAttribute( 'loading', 'lazy' );
+          try {
+            const resolvedSrc = await resolveMediaUrl( normalized, signal );
+            img.setAttribute( 'src', resolvedSrc );
+            img.setAttribute( 'loading', 'lazy' );
+          } catch ( err ) {
+            // One image's failure must not discard the rendered README; only
+            // re-throw aborts (user navigated away).
+            if ( err?.name === 'AbortError' ) throw err;
+          }
         };
-        // Cap concurrency so image-heavy READMEs don't burst the rate limit
-        // when a token is set (each call may hit api.github.com).
+        // Cap concurrency so image-heavy READMEs don't burst the rate limit.
         const IMAGE_CONCURRENCY = 4;
         for ( let i = 0; i < images.length; i += IMAGE_CONCURRENCY ) {
           await Promise.all( images.slice( i, i + IMAGE_CONCURRENCY ).map( resolveOne ) );
@@ -2522,9 +2816,7 @@
     };
 
     const renderCode = ( text, ext ) => {
-      // Skip auto-detect highlighting for extensionless files (LICENSE,
-      // AUTHORS, etc.) — hljs often guesses a code language and colors
-      // natural-text words like "AS"/"OR"/"AND" as keywords.
+      // Skip highlighting for extensionless files — hljs mis-colors prose.
       const skipHighlight = !ext || text.length > 500 * 1024;
       const code = document.createElement( 'code' );
       code.textContent = text;
@@ -2539,24 +2831,16 @@
     };
 
     const renderHtml = ( text, filePath, ext ) => {
-      const preferredView = getPreferredView( ext );
       const blob = new Blob( [ text ], { type: 'text/html' } );
       const url = createBlobUrl( blob );
 
-      const renderedDisplay = preferredView === 'rendered' ? '' : 'display:none';
-      const rawDisplay = preferredView === 'raw' ? '' : 'display:none';
-
-      // The iframe is fully sandboxed (no allow-scripts / allow-same-origin)
-      // and served from a blob: URL with no base, so scripts and relative
-      // assets (CSS, images, modules) won't load. Tell the user instead of
-      // letting a blank-ish preview read as a TooToo bug — New Tab opens the
-      // live page (GitHub Pages or raw) where those work.
+      // The iframe is fully sandboxed from a blob: URL, so scripts/relative
+      // assets won't load — tell the user; New Tab opens the live page.
       const previewNote =
         `<div class="md-error">ℹ️ Preview is sandboxed: scripts and relative assets (CSS, images, modules) are disabled. Use <strong>↗ New Tab</strong> to open the live page.</div>`;
 
       document.getElementById( 'contentBody' ).innerHTML =
-        `<div id="viewRendered" style="${ renderedDisplay }">${ previewNote }<iframe class="iframe-content" sandbox src="${ escapeHTML( url ) }"></iframe></div>` +
-        `<pre id="viewRaw" style="${ rawDisplay }">${ escapeHTML( text ) }</pre>`;
+        buildToggleHtml( ext, `${ previewNote }<iframe class="iframe-content" sandbox src="${ escapeHTML( url ) }"></iframe>`, text );
     };
 
     const renderImage = ( url, alt ) => {
@@ -2565,16 +2849,11 @@
     };
 
     const renderSvg = ( text, fileName = 'SVG image' ) => {
-      const preferredView = getPreferredView( 'svg' );
       const blob = new Blob( [ text ], { type: 'image/svg+xml' } );
       const url = createBlobUrl( blob );
 
-      const renderedDisplay = preferredView === 'rendered' ? '' : 'display:none';
-      const rawDisplay = preferredView === 'raw' ? '' : 'display:none';
-
       document.getElementById( 'contentBody' ).innerHTML =
-        `<div id="viewRendered" style="${ renderedDisplay }"><img class="media-content" src="${ escapeHTML( url ) }" alt="${ escapeHTML( fileName ) }"></div>` +
-        `<pre id="viewRaw" style="${ rawDisplay }">${ escapeHTML( text ) }</pre>`;
+        buildToggleHtml( 'svg', `<img class="media-content" src="${ escapeHTML( url ) }" alt="${ escapeHTML( fileName ) }">`, text );
     };
 
     const renderAudio = ( url ) => {
@@ -2592,8 +2871,29 @@
         `<iframe class="iframe-content" src="${ escapeHTML( url ) }"></iframe>`;
     };
 
+    // SheetJS (~700KB) is the heaviest dependency and only spreadsheets use it,
+    // so it's injected on first use instead of loaded on every page. Cached as
+    // a single in-flight promise; a load failure clears it so the next open retries.
+    let xlsxLoader = null;
+    const ensureXLSX = () => {
+      if ( window.XLSX ) return Promise.resolve();
+      if ( xlsxLoader ) return xlsxLoader;
+      xlsxLoader = new Promise( ( resolve, reject ) => {
+        const s = document.createElement( 'script' );
+        s.src = 'https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js';
+        s.onload = resolve;
+        s.onerror = () => {
+          xlsxLoader = null;
+          reject( new Error( 'Failed to load the spreadsheet library (SheetJS).' ) );
+        };
+        document.head.appendChild( s );
+      } );
+      return xlsxLoader;
+    };
+
     const renderSpreadsheet = async ( data ) => {
       try {
+        await ensureXLSX();
         const workbook = XLSX.read( data, { type: 'array' } );
         let html = '';
         for ( const sheetName of workbook.SheetNames ) {
@@ -2648,7 +2948,35 @@
       }
     };
 
-    /* ── 35. fetchFileText — text content fetch ── */
+    /* ── 35. GitHub file fetch (shared core) ── */
+
+    // Map GitHub statuses to sentinel errors (403 = rate limit, 404 = missing/
+    // private) that callers special-case to pop the token panel.
+    const assertGitHubOk = ( res ) => {
+      if ( res.status === 403 ) throw new Error( RATE_LIMIT_MESSAGE );
+      if ( res.status === 404 ) throw new Error( PRIVATE_REPO_MESSAGE );
+      if ( !res.ok ) throw new Error( `Failed to fetch file: ${ res.status }` );
+    };
+
+    // Token-vs-anonymous fetch shared by the text and blob paths: token → the
+    // contents API (rate headers tracked), anonymous → raw. Callers own caching.
+    const githubFileResponse = async ( path, signal ) => {
+      const token = getToken();
+      if ( token ) {
+        const headers = { ...getAuthHeaders(), Accept: 'application/vnd.github.raw+json' };
+        const res = await fetch( contentsApiUrl( path ), { headers, signal } );
+        updateRateBadge( res );
+        assertGitHubOk( res );
+        return res;
+      }
+      const res = await fetch( rawUrl( path ), { signal } );
+      assertGitHubOk( res );
+      return res;
+    };
+
+    const blobFromMime = ( blob, mimeType ) =>
+      mimeType ? new Blob( [ blob ], { type: mimeType } ) : blob;
+
     const fetchFileText = async ( path, signal ) => {
       // Local-first: bypass cache so uncommitted edits show immediately
       const localUrl = localUrlFor( path );
@@ -2665,24 +2993,8 @@
       const cached = getCachedFileText( path );
       if ( cached !== null ) return cached;
 
-      let text;
-      const token = getToken();
-
-      if ( token ) {
-        const headers = { ...getAuthHeaders(), Accept: 'application/vnd.github.raw+json' };
-        const res = await fetch( contentsApiUrl( path ), { headers, signal } );
-        updateRateBadge( res );
-        if ( res.status === 403 ) throw new Error( RATE_LIMIT_MESSAGE );
-        if ( res.status === 404 ) throw new Error( PRIVATE_REPO_MESSAGE );
-        if ( !res.ok ) throw new Error( `Failed to fetch file: ${ res.status }` );
-        text = await res.text();
-      } else {
-        const res = await fetch( rawUrl( path ), { signal } );
-        if ( res.status === 404 ) throw new Error( PRIVATE_REPO_MESSAGE );
-        if ( !res.ok ) throw new Error( `Failed to fetch file: ${ res.status }` );
-        text = await res.text();
-      }
-
+      const res = await githubFileResponse( path, signal );
+      const text = await res.text();
       setCachedFileText( path, text );
       return text;
     };
@@ -2694,40 +3006,15 @@
       if ( localUrl ) {
         try {
           const res = await fetch( localUrl, { signal } );
-          if ( res.ok ) {
-            let blob = await res.blob();
-            if ( mimeType ) blob = new Blob( [ blob ], { type: mimeType } );
-            return createBlobUrl( blob );
-          }
+          if ( res.ok ) return createBlobUrl( blobFromMime( await res.blob(), mimeType ) );
         } catch ( err ) {
           if ( err.name === 'AbortError' ) throw err;
           /* fall through to GitHub */
         }
       }
 
-      const token = getToken();
-      let blob;
-
-      if ( token ) {
-        const headers = { ...getAuthHeaders(), Accept: 'application/vnd.github.raw+json' };
-        const res = await fetch( contentsApiUrl( path ), { headers, signal } );
-        updateRateBadge( res );
-        if ( res.status === 403 ) throw new Error( RATE_LIMIT_MESSAGE );
-        if ( res.status === 404 ) throw new Error( PRIVATE_REPO_MESSAGE );
-        if ( !res.ok ) throw new Error( `Failed to fetch file: ${ res.status }` );
-        blob = await res.blob();
-      } else {
-        const res = await fetch( rawUrl( path ), { signal } );
-        if ( res.status === 404 ) throw new Error( PRIVATE_REPO_MESSAGE );
-        if ( !res.ok ) throw new Error( `Failed to fetch file: ${ res.status }` );
-        blob = await res.blob();
-      }
-
-      if ( mimeType ) {
-        blob = new Blob( [ blob ], { type: mimeType } );
-      }
-
-      return createBlobUrl( blob );
+      const res = await githubFileResponse( path, signal );
+      return createBlobUrl( blobFromMime( await res.blob(), mimeType ) );
     };
 
     const resolveMediaUrl = async ( path, signal ) => {
@@ -2756,16 +3043,13 @@
       const ext = path.includes( '.' ) ? path.split( '.' ).pop().toLowerCase() : '';
       const isStreamable = STREAMABLE_EXTS.includes( ext );
 
-      // Large file protection. Approval is scoped by owner/repo/branch/path so
-      // a path approved in one repo doesn't carry over after switching repos
-      // (e.g. via the URL-form fallback, which doesn't trigger a reload).
+      // Large-file confirm. Approval is scoped by owner/repo/branch/path so it
+      // doesn't carry across repos switched without a reload.
       const approvalKey = getFileCacheKey( path );
       if ( fileSize > LARGE_FILE_WARNING_BYTES && !isStreamable && !approvedLargeFiles.has( approvalKey ) ) {
         const sizeMB = ( fileSize / ( 1024 * 1024 ) ).toFixed( 1 );
         if ( !window.confirm( `This file is ${ sizeMB } MB. Load anyway?` ) ) return;
-        // Cap the set so a long browsing session can't grow it unbounded.
-        // Set preserves insertion order, so deleting the first key evicts
-        // the oldest approval (LRU-ish; re-approving just re-prompts).
+        // Cap the set (evict oldest; re-approving just re-prompts).
         if ( approvedLargeFiles.size >= 100 ) {
           approvedLargeFiles.delete( approvedLargeFiles.values().next().value );
         }
@@ -2789,18 +3073,13 @@
       }
 
       state.currentFilePath = path;
+      setPrintTitle( path.split( '/' ).pop() ); // file name for the print-only title
 
       // Build file header
       const contentArea = document.getElementById( 'contentArea' );
-      const existingHeader = contentArea.querySelector( '.panel-header.file-header' );
       const newHeader = document.createElement( 'div' );
       newHeader.innerHTML = buildFileHeader( path, ext );
-      const headerEl = newHeader.firstElementChild;
-      if ( existingHeader ) {
-        existingHeader.replaceWith( headerEl );
-      } else {
-        contentArea.insertBefore( headerEl, document.getElementById( 'contentBody' ) );
-      }
+      setContentHeader( newHeader.firstElementChild );
 
       // Show loading
       document.getElementById( 'contentBody' ).innerHTML = '<p>Loading…</p>';
@@ -2870,8 +3149,7 @@
         updateHash( path );
       }
 
-      // Save last file path for the current session only (cleared when the tab/browser closes).
-      // Legacy localStorage keys are wiped once at init in migrateCurrentFileStorage.
+      // Save last file path for this session only (sessionStorage).
       try { sessionStorage.setItem( getCurrentFileKey(), path ); } catch ( _ ) { /* storage disabled */ }
 
       // Scroll content area to top
@@ -2887,8 +3165,7 @@
         const folderLink = e.target.closest( '[data-action="scroll-folder"]' );
         if ( folderLink ) { e.preventDefault(); scrollToTreeFolder( folderLink.dataset.folder ); return; }
 
-        // View toggle: one button that flips between rendered and raw and
-        // relabels itself with whichever view you'd switch to next.
+        // View toggle: flips rendered/raw and relabels to the next view.
         const toggleBtn = e.target.closest( '[data-action="view-toggle"]' );
         if ( toggleBtn ) {
           const viewRendered = document.getElementById( 'viewRendered' );
@@ -2914,6 +3191,10 @@
           } catch ( _ ) { /* clipboard blocked */ }
           return;
         }
+
+        // Print (native print; the @media print stylesheet hides all chrome)
+        const printBtn = e.target.closest( '[data-action="print"]' );
+        if ( printBtn ) { window.print(); return; }
 
         // New Tab
         const newTabBtn = e.target.closest( '[data-action="new-tab"]' );
@@ -2947,9 +3228,7 @@
       migrateStorageKeys();
       migrateTokenStorage();
 
-      // Brand the page from APP_ORIGIN (where this app instance is hosted).
-      // Header is independent of which repo gets browsed, so do this once
-      // up front and it stays correct for the whole session.
+      // Brand the page from APP_ORIGIN (independent of the browsed repo).
       await detectAppOrigin();
       updateHeaderFromConfig();
       applyFavicon();
@@ -2963,9 +3242,8 @@
       setupContentActions();
       restoreFileCache();
 
-      // hashchange covers both browser back/forward and direct hash edits
-      // in the address bar. popstate would double-fire on back/forward
-      // (popstate → hashchange) so we only listen to one.
+      // hashchange covers back/forward and address-bar edits (popstate would
+      // double-fire, so we listen to only one).
       window.addEventListener( 'hashchange', handleHashChange );
 
       await detectRepo();
