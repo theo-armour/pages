@@ -13,6 +13,37 @@ On the other hand, I do love visits. A few hours of deep talk with somebody is a
 
 At the same time, I'm still as driven as I ever have been and feel the need to complete as many things as possible before the brain starts to wither even more.
 
+## 2026-06-04
 
+### Mission
 
+* Complete the digital archive of my life and work.
+* Create an interactive 3D timeline about my and my family's life and work.
+* Build something that helps seniors to live better and longer.
+
+## Questions
+
+* Apart from money, how can I help my children?
+* How can I be a better mentor?
+
+## Rules
+
+* Zero travel
+* Low alcohol ~ 1 drink a day
+
+## Healthy diet
+
+* Breakfast: Six prunes + salmon || granola || yoghurt || fruit
+* Lunch: Salad
+* Dinner: Salad + main + 1 veggie
+
+## Regular exercise
+
+## Regular sleep schedule
+
+* Morning exercises
+* 10K steps a day
+* 100 "pushups"
+
+## Regular work schedule
 
