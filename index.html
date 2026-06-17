@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-06-08 23:18">
+  <meta name="revised" content="2026-06-16 21:59">
   <title>TooToo</title>
   <link rel="icon" type="image/svg+xml"
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232563eb'/%3E%3Cg font-family='system-ui,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle' dominant-baseline='middle'%3E%3Ctext x='22' y='28'%3ET%3C/text%3E%3Ctext x='42' y='40'%3ET%3C/text%3E%3C/g%3E%3C/svg%3E">
@@ -70,7 +70,12 @@
 
     /* Every heading + title picks up the optional CONFIG.headingFont
        (falls back to the body font when unset). */
-    h1, h2, h3, h4, h5, h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
     #headerTitle {
       font-family: var(--heading-font, var(--font-family));
     }
@@ -117,11 +122,11 @@
 
     /* GitHub icon inside the content-header file-title (only direct <a>
        child of .file-title — the breadcrumb links live inside an <h3>). */
-    .file-title > a {
+    .file-title>a {
       color: var(--highlight-color);
     }
 
-    body.dark-mode .file-title > a {
+    body.dark-mode .file-title>a {
       color: color-mix(in srgb, var(--highlight-color) 65%, white);
     }
 
@@ -130,7 +135,7 @@
       transform: translateY(4px);
     }
 
-    .file-title > a svg {
+    .file-title>a svg {
       transform: translateY(4px);
     }
 
@@ -263,7 +268,8 @@
       background: var(--primary-bg);
       padding: 0;
       overflow: hidden;
-      container-type: inline-size; /* enables @container queries on sidebar width */
+      container-type: inline-size;
+      /* enables @container queries on sidebar width */
     }
 
     /* Narrow sidebar — drop the file size onto its own line beneath the name */
@@ -272,9 +278,11 @@
         flex-direction: column;
         align-items: flex-start;
       }
+
       .tree-item-size {
         margin-left: 0;
-        padding-left: 1.4rem; /* aligns roughly with the filename text after the icon */
+        padding-left: 1.4rem;
+        /* aligns roughly with the filename text after the icon */
       }
     }
 
@@ -284,7 +292,8 @@
       justify-content: space-between;
       align-items: center;
       padding: 0.5rem 0.5rem;
-      min-height: 3rem; /* lock every header bar (sidebar + content) to one height */
+      min-height: 3rem;
+      /* lock every header bar (sidebar + content) to one height */
       border-bottom: 1px solid var(--border-color);
       background: var(--primary-bg);
     }
@@ -424,7 +433,7 @@
       background: var(--secondary-bg);
     }
 
-/* ── Back to Top ── */
+    /* ── Back to Top ── */
     .back-to-top {
       position: fixed;
       bottom: 1.5rem;
@@ -782,9 +791,12 @@
     }
 
     /* ── Print: only the current file's content, with its name as a title ── */
-    .print-only { display: none; }
+    .print-only {
+      display: none;
+    }
 
     @media print {
+
       /* Hide all app chrome. */
       header,
       .sidebar,
@@ -807,9 +819,21 @@
         overflow: visible;
       }
 
-      body { border-top: none; } /* drop the brand stripe */
-      #contentBody { padding: 0; }
-      .markdown-body, pre { max-width: none; } /* use the full page width */
+      body {
+        border-top: none;
+      }
+
+      /* drop the brand stripe */
+      #contentBody {
+        padding: 0;
+      }
+
+      .markdown-body,
+      pre {
+        max-width: none;
+      }
+
+      /* use the full page width */
 
       /* Force a light page even if dark mode is on (legible, saves ink). */
       body,
@@ -834,7 +858,10 @@
       }
 
       /* The file name, shown only on the printout. */
-      .print-only { display: block; }
+      .print-only {
+        display: block;
+      }
+
       #printTitle {
         margin: 0 0 1rem 0;
         padding-bottom: 0.4rem;
@@ -897,8 +924,8 @@
   <a class="skip-link" href="#mainContent">Skip to content</a>
 
   <header>
-    <button id="btnToggleSidebar" class="header-btn" title="Toggle sidebar (Ctrl/⌘ B)"
-      aria-label="Toggle sidebar" aria-expanded="true">
+    <button id="btnToggleSidebar" class="header-btn" title="Toggle sidebar (Ctrl/⌘ B)" aria-label="Toggle sidebar"
+      aria-expanded="true">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"
         aria-hidden="true">
         <rect x="1.75" y="2.75" width="12.5" height="10.5" rx="1.5"></rect>
@@ -1081,6 +1108,16 @@
     // viewable tab: an extensionless or non-viewable (binary/data) file. Drives
     // both the button label (⬇ Download vs ↗ New Tab) and what the click does.
     const isDownloadAction = ( ext ) => !TAB_VIEWABLE_EXTS.includes( ext );
+
+    // Text-like files that the browser can't render inline locally (markdown, 3D
+    // model source, extensionless). In local mode (file://), these fetch as
+    // text/plain blobs so they DISPLAY instead of downloading. On GitHub Pages,
+    // getNewTabUrl() handles these correctly already (Pages renders .md to HTML,
+    // others serve as text/plain from raw), so no blob conversion needed.
+    const isTextOpenAsPlain = ( ext ) =>
+      !ext || // extensionless (LICENSE, Makefile, etc.)
+      [ 'md', 'markdown', 'mkd', 'mkdn', 'obj', 'stl', 'mtl' ].includes( ext );
+
     const LARGE_FILE_WARNING_BYTES = 1024 * 1024;
     const approvedLargeFiles = new Set();
     const RATE_LIMIT_MESSAGE = 'Rate limited. Add a GitHub token for higher limits.';
@@ -1596,12 +1633,19 @@
         } catch ( _ ) { /* storage disabled */ }
         location.reload();
       } );
+
+      // The token panel is now showing, so mark the ⚙️ Token button pressed.
+      // showTokenPanel is also called directly by the rate-limit / private-repo
+      // error handlers (not just toggleInfoPanel), so syncing here keeps the
+      // button highlight and aria-pressed correct no matter how it opened.
+      activePanel = 'token';
+      updateInfoButtonState();
     };
 
     const RATE_LIMIT_REASON_HTML = '<div class="error-panel">⚠️ <strong>GitHub API rate limit reached.</strong> You\'ve exceeded the anonymous request quota and cannot load more files until you add a token below or wait for the limit to reset.</div>';
-    const PRIVATE_REPO_MESSAGE = 'GitHub returned 404. If this is a private repository, enter a GitHub access token with Contents: Read permission below.';
+    const PRIVATE_REPO_MESSAGE = 'Repository not found. Double-check the owner, repository, and branch names for typos. If the repository is private, add a GitHub token with read access below.';
     const privateRepoReasonHtml = () =>
-      `<div class="error-panel">⚠️ <strong>GitHub returned 404.</strong> If this is a private repository, enter a GitHub access token with <em>Contents: Read</em> permission below. If you already have a token saved, make sure it is scoped to ${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }.</div>`;
+      `<div class="error-panel">⚠️ <strong>Repository not found</strong> (GitHub returned 404). First, check the owner, repository, and branch names for a typo — that's the most common cause. If the repository really is private, add a GitHub access token with read access below. If you already have a token saved, make sure it covers ${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }.</div>`;
 
     /* ── 12b. Self-test — render every file off-screen and report pass/fail ── */
     // Reuses the real fetch/parse/decode helpers, so the result reflects what
@@ -1753,36 +1797,36 @@
     };
 
     const renderAboutPanel = async () => {
-        const revised = document.querySelector( 'meta[name="revised"]' )?.content || 'unknown';
-        const sourceUrl = CONFIG.sourceRepoUrl;
-        const repoUrl = state.owner && state.repo
-          ? `https://github.com/${ state.owner }/${ state.repo }`
-          : sourceUrl;
-        const token = getToken();
+      const revised = document.querySelector( 'meta[name="revised"]' )?.content || 'unknown';
+      const sourceUrl = CONFIG.sourceRepoUrl;
+      const repoUrl = state.owner && state.repo
+        ? `https://github.com/${ state.owner }/${ state.repo }`
+        : sourceUrl;
+      const token = getToken();
 
-        let rateLimitInfo = 'Unable to fetch';
-        try {
-          const res = await fetch( 'https://api.github.com/rate_limit', { headers: getAuthHeaders() } );
-          if ( res.ok ) {
-            const data = await res.json();
-            const core = data.resources.core;
-            const reset = new Date( core.reset * 1000 ).toLocaleTimeString();
-            rateLimitInfo = `${ core.remaining } / ${ core.limit } remaining (resets at ${ reset })`;
-          }
-        } catch ( _ ) { /* offline or blocked */ }
+      let rateLimitInfo = 'Unable to fetch';
+      try {
+        const res = await fetch( 'https://api.github.com/rate_limit', { headers: getAuthHeaders() } );
+        if ( res.ok ) {
+          const data = await res.json();
+          const core = data.resources.core;
+          const reset = new Date( core.reset * 1000 ).toLocaleTimeString();
+          rateLimitInfo = `${ core.remaining } / ${ core.limit } remaining (resets at ${ reset })`;
+        }
+      } catch ( _ ) { /* offline or blocked */ }
 
-        const tokenStatus = token ? 'Set' : 'Not set (anonymous — 60 requests/hour)';
+      const tokenStatus = token ? 'Set' : 'Not set (anonymous — 60 requests/hour)';
 
-        // Current branch (links to its tree, plus the repo's full branch list).
-        // Only shown once a repo + branch are known.
-        const branchHtml = ( state.owner && state.repo && state.branch )
-          ? `<li><strong>Branch:</strong> <a href="https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/tree/${ encodeURIComponent( state.branch ) }" target="_blank" rel="noopener">${ escapeHTML( state.branch ) }</a> · <a href="https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/branches" target="_blank" rel="noopener">all branches</a></li>`
-          : '';
+      // Current branch (links to its tree, plus the repo's full branch list).
+      // Only shown once a repo + branch are known.
+      const branchHtml = ( state.owner && state.repo && state.branch )
+        ? `<li><strong>Branch:</strong> <a href="https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/tree/${ encodeURIComponent( state.branch ) }" target="_blank" rel="noopener">${ escapeHTML( state.branch ) }</a> · <a href="https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/branches" target="_blank" rel="noopener">all branches</a></li>`
+        : '';
 
-        const cb = document.getElementById( 'contentBody' );
-        // Wrap in .markdown-body so headings, links, and max-width/line-height
-        // inherit the same treatment as rendered markdown files.
-        cb.innerHTML = `
+      const cb = document.getElementById( 'contentBody' );
+      // Wrap in .markdown-body so headings, links, and max-width/line-height
+      // inherit the same treatment as rendered markdown files.
+      cb.innerHTML = `
           <div class="markdown-body">
           <h2>${ escapeHTML( CONFIG.appName ) }</h2>
           <p>A lightweight single-file GitHub repository browser.</p>
@@ -1802,15 +1846,15 @@
             <li><strong>GitHub Pages:</strong> Supported — auto-detects repos hosted on GitHub Pages</li>
           </ul>
           ${ ( () => {
-            const stats = getRepoStats();
-            if ( !stats ) return '<h3>Repository Statistics</h3><p>No tree data loaded yet.</p>';
-            const typesHtml = stats.topTypes.map( ( [ ext, count ] ) =>
-              `<li>${ escapeHTML( ext ) }: ${ count } file${ count !== 1 ? 's' : '' }</li>`
-            ).join( '' );
-            const largestHtml = stats.largest.map( ( f ) =>
-              `<li>${ escapeHTML( f.path ) } — ${ formatFileSize( f.size ) }</li>`
-            ).join( '' );
-            return `<h3>Repository Statistics</h3>
+          const stats = getRepoStats();
+          if ( !stats ) return '<h3>Repository Statistics</h3><p>No tree data loaded yet.</p>';
+          const typesHtml = stats.topTypes.map( ( [ ext, count ] ) =>
+            `<li>${ escapeHTML( ext ) }: ${ count } file${ count !== 1 ? 's' : '' }</li>`
+          ).join( '' );
+          const largestHtml = stats.largest.map( ( f ) =>
+            `<li>${ escapeHTML( f.path ) } — ${ formatFileSize( f.size ) }</li>`
+          ).join( '' );
+          return `<h3>Repository Statistics</h3>
               <ul>
                 <li><strong>Files:</strong> ${ stats.fileCount }</li>
                 <li><strong>Folders:</strong> ${ stats.folderCount }</li>
@@ -1820,7 +1864,7 @@
               <ol>${ typesHtml }</ol>
               <h4>Largest files</h4>
               <ol>${ largestHtml }</ol>`;
-          } )() }
+        } )() }
           <h3>Tips</h3>
           <ul>
             <li>Use the filter input in the sidebar to search file names</li>
@@ -1848,9 +1892,9 @@
           </div>
         `;
 
-        // Restore original panel header (selectFile replaces it with breadcrumbs)
-        setContentHeader( makeSimpleHeader( 'About' ) );
-        document.getElementById( 'btnSelfTest' )?.addEventListener( 'click', runSelfTest );
+      // Restore original panel header (selectFile replaces it with breadcrumbs)
+      setContentHeader( makeSimpleHeader( 'About' ) );
+      document.getElementById( 'btnSelfTest' )?.addEventListener( 'click', runSelfTest );
     };
 
     const closeInfoPanel = () => {
@@ -2765,8 +2809,9 @@
       }
       actionsHtml += `<button class="file-btn" data-action="print" title="Print this file" aria-label="Print this file">🖨 Print</button>`;
       // Label matches the outcome: types the browser downloads (data/binary,
-      // extensionless) get a Download button; viewable types get New Tab.
-      const willDownload = isDownloadAction( ext );
+      // extensionless) get a Download button; viewable types and text-as-plain
+      // files get New Tab.
+      const willDownload = isDownloadAction( ext ) && !isTextOpenAsPlain( ext );
       const newTabLabel = willDownload ? '⬇ Download' : '↗ New Tab';
       const newTabTitle = willDownload ? 'Download this file' : 'Open in new tab';
       actionsHtml += `<button class="file-btn" data-action="new-tab" data-path="${ escapeHTML( path ) }" title="${ newTabTitle }" aria-label="${ newTabTitle }">${ newTabLabel }</button>`;
@@ -3314,24 +3359,27 @@
         if ( newTabBtn ) {
           const filePath = newTabBtn.dataset.path;
           const ext = filePath.includes( '.' ) ? filePath.split( '.' ).pop().toLowerCase() : '';
-          const url = await getNewTabUrl( filePath );
 
-          // Local download-prone file: save it straight to disk via a download
-          // link instead of opening a throwaway tab that the browser converts
-          // to a download. The download attribute is honored for same-origin
-          // (file://) URLs, so no blank tab flashes. Remote files keep the
-          // new-tab path: cross-origin download attrs are ignored, but a new
-          // tab safely downloads/displays without navigating away from the app.
-          if ( isDownloadAction( ext ) && localUrlFor( filePath ) ) {
-            const a = document.createElement( 'a' );
-            a.href = url;
-            a.download = filePath.split( '/' ).pop();
-            document.body.appendChild( a );
-            a.click();
-            a.remove();
-          } else {
-            window.open( url, '_blank', 'noopener' );
+          // Text-like files in LOCAL mode: fetch as text/plain so they DISPLAY
+          // in a new tab instead of downloading or navigating away. On GitHub
+          // Pages, getNewTabUrl() already handles markdown, OBJ, STL, MTL, and
+          // extensionless files correctly (Pages routes .md → directory or raw
+          // serves them as text/plain).
+          if ( isTextOpenAsPlain( ext ) && localUrlFor( filePath ) ) {
+            try {
+              const text = await fetchFileText( filePath );
+              const url = createBlobUrl( new Blob( [ text ], { type: 'text/plain;charset=utf-8' } ) );
+              window.open( url, '_blank', 'noopener' );
+              return;
+            } catch ( err ) {
+              // Fall through to normal path if fetch fails
+              console.error( 'Failed to fetch text file as blob:', err );
+            }
           }
+
+          // Normal path: all remote files, binaries, videos, PDFs, images, HTML, etc.
+          const url = await getNewTabUrl( filePath );
+          window.open( url, '_blank', 'noopener' );
           return;
         }
       } );
