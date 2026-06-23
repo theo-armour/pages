@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-06-22 23:26">
+  <meta name="revised" content="2026-06-23 00:39">
   <title>TooToo</title>
   <link rel="icon" type="image/svg+xml"
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232563eb'/%3E%3Cg font-family='system-ui,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle' dominant-baseline='middle'%3E%3Ctext x='22' y='28'%3ET%3C/text%3E%3Ctext x='42' y='40'%3ET%3C/text%3E%3C/g%3E%3C/svg%3E">
@@ -23,7 +23,7 @@
   <script src="tootoo.config.js" onerror="void 0"></script>
 
   <style>
-/* TooToo Lab — shared stylesheet.
+/* TooToo — shared stylesheet.
    Carved from tootoo-reference.html. This is the "standard CSS file" every
    component page links, and what the assembler will inline into index.html.
    Currently holds: base tokens + header. More sections get added as we carve
@@ -840,7 +840,7 @@ body.dark-mode .app-footer a { color: color-mix(in srgb, var(--highlight-color) 
   </main>
 
   <script>
-/* TooToo Lab — core.js  (shared services, no DOM, no UI).
+/* TooToo — core.js  (shared services, no DOM, no UI).
    In the real app these live in the core layer (reference §1, §15, §16, §18-helpers).
    Only the helpers the carved components need are here for now; this file grows
    as we carve. Per ARCHITECTURE.md, core is the single owner of CONFIG + state
@@ -850,8 +850,11 @@ body.dark-mode .app-footer a { color: color-mix(in srgb, var(--highlight-color) 
    live build, or by mock-data.js for the offline standalone component pages) ── */
 const CONFIG = {
   owner: '', repo: '', branch: '',
-  appName: 'TooToo', subtitle: '', themeColor: '#2563eb',
+  appName: 'TooToo', subtitle: '',
+  themeColor: '',           // empty = the CSS default (blue) — and lets body.dark-mode's
+                            // brighter #3b82f6 win; a fork's explicit color applies to both modes
   faviconLetters: 'TT', faviconColor: '#2563eb',
+  headingFontUrl: '', headingFont: '',
   sourceRepoUrl: 'https://github.com/pushme-pullyou/tootoo',
   storagePrefix: 'tootoo',
   hiddenFolders: [ 'Images' ], hiddenFiles: [], maxRepoFiles: 5000,
@@ -1281,20 +1284,16 @@ const setHljsTheme = ( isDark ) => {
     ? 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css'
     : 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css';
 };
-/* TooToo Lab — config.js: per-build config for the ASSEMBLED (live) build.
-   Object.assigns over the core defaults. This file (not mock-data.js) is what
-   the assembler includes, so `mockFiles` is undefined in the assembled build and
-   the data layer fetches real files from GitHub.
+/* TooToo — production config (used by `assemble.ps1 -Prod`).
 
-   owner/repo here are the default repo; ?owner=…&repo=…&branch=… in the URL wins. */
-Object.assign( CONFIG, {
-  appName: 'TooToo Lab',
-  owner: 'pushme-pullyou',
-  repo: 'tootoo',
-  faviconLetters: 'TT',     // 2 letters drawn into the favicon + brand marks
-  faviconColor: '#2563eb',  // favicon background color
-} );
-/* TooToo Lab — header.js  (the "where are we?" component).
+   Intentionally empty. Canonical index.html stays byte-identical across every fork;
+   each repo customizes via its own tootoo.config.js (window.TOOTOO_CONFIG), merged
+   over the CONFIG defaults at init.
+
+   The dev build uses config.js instead, which bakes a default repo + dev identity so
+   the standalone assembled file is testable without a tootoo.config.js sibling or a
+   .git/config to detect. */
+/* TooToo — header.js  (the "where are we?" component).
    Ported from reference §8 (updateHeaderFromConfig) + appearance controls (§11).
    Reads: CONFIG + meta[revised]. Writes: state.owner/repo/branch (repo/branch
    pickers not built yet). Depends on globals CONFIG/state. */
@@ -1551,7 +1550,7 @@ const initAppearance = () => {
 };
 
 const initHeader = () => { updateHeaderFromConfig(); initAppearance(); initHeaderControls(); };
-/* TooToo Lab — sidebar.js  (the "what files exist & how they're shown" component).
+/* TooToo — sidebar.js  (the "what files exist & how they're shown" component).
    Ported from reference §18-§26. Reads: state.tree, CONFIG.hidden*.
    Writes: nothing global — display only. Hands off via Content's selectFile(path).
    Depends on core.js helpers + globals CONFIG/state (mock-data.js).
@@ -1998,7 +1997,7 @@ const initSidebar = () => {
     } );
   }
 };
-/* TooToo Lab — content.js  (the "show the file & act on it" component).
+/* TooToo — content.js  (the "show the file & act on it" component).
    Ported from reference §32, §33, §37, §38. Reads: state.owner/repo/branch,
    CONFIG. Writes: state.currentFilePath (Content owns this). Depends on core.js
    + marked/hljs/DOMPurify (CDN, same as the real app).
@@ -2419,7 +2418,7 @@ const initContent = () => {
     toTop.addEventListener( 'click', () => area.scrollTo( { top: 0, behavior: 'smooth' } ) );
   }
 };
-/* TooToo Lab — footer.js  (repo-owner copyright + MIT license link).
+/* TooToo — footer.js  (repo-owner copyright + MIT license link).
    Left: TT mark + "© <year> <owner> · No rights reserved." Right: MIT License link. */
 
 const renderFooter = () => {
@@ -2457,7 +2456,7 @@ const updateFooterLicense = () => {
     el.title = 'MIT License (opensource.org)';
   }
 };
-/* TooToo Lab — main.js  (init + wiring) for the ASSEMBLED live build.
+/* TooToo — main.js  (init + wiring) for the ASSEMBLED live build.
    Init order per ARCHITECTURE.md: header → content → footer → detect repo →
    sidebar → fetch tree → route to a file (hash or README). Reference §40. */
 
