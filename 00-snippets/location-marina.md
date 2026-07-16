@@ -180,7 +180,10 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 * Mutagan
 * Cerlos
-* Oliv
+* Olivia
+
+
+
 ## Marina Lounge
 
 * Sully ~ knows Hanh and James
