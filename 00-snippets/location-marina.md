@@ -142,6 +142,7 @@ Regulars
 
 ## Izzy's
 
+* Deano
 
 ## Jake's Steaks
 
