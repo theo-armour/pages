@@ -29,7 +29,6 @@ Quick Tip: What Are Factory Functions in JavaScript   [https://www.sitepoint.c
 
 [https://en.wikipedia.org/wiki/Inverse\_kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics)
 
-
 Creaky voice / vocal fry
 
 The cult of things
