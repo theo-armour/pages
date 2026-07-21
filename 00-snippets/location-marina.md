@@ -175,7 +175,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## Marina Beach
 
-* Mutagan
+* Mutugan
 * Cerlos
 * Olivia
 
@@ -195,7 +195,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Carlos? Captain
 * Eric waiter
 
-## Perry's&nbsp;
+## Perry's&n
 
 * 415.922.9022 ~ union &amp; ~ no reservations
 * Emily
