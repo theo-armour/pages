@@ -1,6 +1,6 @@
 # location: Marina
 
-Nice man 
+Nice man wh
 See pages/03-geography-places/california/marina
 
 Try them all!!
