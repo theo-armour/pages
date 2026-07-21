@@ -1,6 +1,7 @@
 # location: Marina
 
-Nice man wh
+Nice man whoe cleans Chestnut: Calvin Swift
+
 See pages/03-geography-places/california/marina
 
 Try them all!!
