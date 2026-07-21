@@ -195,7 +195,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Carlos? Captain
 * Eric waiter
 
-## Perry's&n
+## Perry's
 
 * 415.922.9022 ~ union &amp; ~ no reservations
 * Emily
