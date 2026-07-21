@@ -179,8 +179,6 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Cerlos
 * Olivia
 
-
-
 ## Marina Lounge
 
 * Sully ~ knows Hanh and James
