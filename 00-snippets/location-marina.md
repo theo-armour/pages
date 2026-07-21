@@ -1,6 +1,6 @@
 # location: Marina
 
-Nice man whoe cleans Chestnut: Calvin Swift ~ https://www.instagram.com/p/DMtfY5cSVuk/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+Nice man whoe cleans Chestnut: Calvin Swift ~ https://www.instagram.com/p/DMtfY5cSVuk/
 
 See pages/03-geography-places/california/marina
 
