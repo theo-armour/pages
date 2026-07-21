@@ -33,8 +33,6 @@ Closed Sunday &amp; Monday
 * Sebastian
 * Manager: Guillaume
 
-
-
 ## Brazen head
 
 * Daniel ~ gigondas
