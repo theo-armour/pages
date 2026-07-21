@@ -165,7 +165,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 ## Mamo ~ [mamosf](https://mamosf.com)
 
 * Jorge
-* Kitchen:&nbsp;
+* Kitchen:
 * Jonathan
 * Karen
 * Sister: Milena
