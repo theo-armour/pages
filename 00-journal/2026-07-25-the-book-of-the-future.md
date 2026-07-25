@@ -59,7 +59,45 @@ The whole topic of intellectual property is interesting in itself, but probably 
 
 There are so many things I want to talk about, but I think you are more concerned about how do I share my thoughts in a simple, easy, interesting fashion?
 
-You know as well as I do: The simplest thing is just to print a copy and give it to somebody. Maybe they will proofread it with a pencil and send it back to you. You will add the edits you want to edit and throw the piece of paper out. 
+You know as well as I do: The simplest thing is just to print a copy and give it to somebody. Maybe they will proofread it with a pencil and send it back to you. You will add the edits you want to edit and throw the piece of paper out.
+
+It doesn't have to be that way. I will talk more about this later, but virtually every edit I do is preserved forever.
+
+From time to time, you'll be finished for the moment, then you will have a version that Passes some kind of happiness test you might have.
+
+Here's my thought: You print it. Then, using a pen or something, you number it and using an inkpad, you put your fingerprint on it. Or perhaps you just initial it or sign it. Or date it. You are blessing this work. You are doing the same thing that an artist does when they sign their painting. You are saying, "I made this."
+
+Of course, it may fail from time to time, but every copy ends up being signed and numbered. Even if you go to a printer and have a hundred copies printed, each copy is signed just the way an artist might sign a lithograph or an etching.
+
+But what about the PDFs? Well, there's nothing to stop you from opening up a PDF and putting your signature on it. And even at a large print run, there's nothing to stop each file from being numbered with the help of a little programming.
+
+For me, even that little bit of the signature goes back to Walter Benjamin. It adds that aura. This is an original unique element the artist held it in their own hands.
+
+Thinking out loud, there may be a lot of this you don't understand. That's not clear, that's confusing, that's off the walls. Forgive me, I am brainstorming. I'm just letting my brain rip, okay?
+
+But let us not forget that people are weird. It's not just your thoughts that they treasure. It's the actual physical object. Maybe it's the well-thumbed paperback copy they had in college 50 years ago. Maybe it's a Kilden-Laposte-Sebriskin cover on expensive paper. Maybe it's a special edition of a small edition for people that are visually impaired. Maybe it's a waterproof edition to take when you're stranded on a desert island.
+
+When you Watch a TV. You pay for the TV, but the programs are free. Perhaps it can be the same thing with your book. You give away the content, but the book itself is a treasure that people want to pay for that people may treasure.
+
+And even your digital copies could have the same thing: different fonts, different styles, different ways of presenting the text. But I won't go into that. That could be a whole other afternoon of discussion.
+
+But because we're doing little production runs, it also means you're probably reading your own work from time to time and coming back and editing it. Again, each edited version is numbered with the same number in that series. So in the future, people may have fun looking old. I have version 173, and you have version 1789. Let's see what the differences are and how the author grew.
+
+Perhaps you might add a chapter or two here and there. Do your work as time went on. Or change the outcome. All of this works because people still have their copies that they bought originally.
+
+I am reminding myself that I am mostly trying to think of people my age who have mostly grown up reading books on paper. Me being a digital person, I can think of many, many other aspects of the way we present text and other concepts to people. But let us not digress too much.
+
+You want to do limited-run, inexpensive publishing Just for the fun of it. Nonetheless, always remember that people may want to praise you for good efforts by sending you stuff like money. Leave a tip jar somewhere. Have a PayPal account. Help people know where they can send money to help people who are writers or something.
+
+Oh, I just thought of a different thought. Suppose you are a writer, and what you really want to do is simply write. Almost everything mentioned here would be a pain in the butt. I think I can counter that. Pretty much every lithograph that Picasso made and published was numbered and signed. It wasn't a real Picasso lithograph unless he had touched it. (I need to fact-check this.)
+
+By the way, I'm getting itchy here. I have turned off my AI. Because every time I start a sentence, it finishes the sentence nearly perfectly, as if it were me. It is totally frightening. But actually, it's running as if it were a better me, a more politically correct, syntactically correct, logical English-thinking kind of me. So I've turned off the AI, and what you're reading so far is me.
+
+But after being at this for a couple of hours, what I really want to do is turn on the AI and have it kick my butt so I come up with even more thoughts. In other words, I'm looking for triggers. I'm looking for visions and images that my head can continue brainstorming with.
+
+Not to worry. When I try and do something like this, I will let you know. Somehow. I'm not sure how. It's between me and my "evil twin".
+
+
 
 
 
