@@ -1,5 +1,17 @@
 # 2026-07-25 The Book of the Future
 
+Hello Blaine
+
+Your message has spurred me. Below is an off-the-top-of-my-head brainstorm session with random thoughts about the publishing of the future. Kindly roast it. Ask questions. Simply enjoy it or whatever. In any case, wherever and whenever, I look forward to a discussion on how to communicate our thoughts in the future in ever more interesting and engaging ways. Bon voyage to you and Rachel!
+
+Cheers,
+
+Theo
+
+Hello David
+
+Your message has spurred me. Below is an off-the-top-of-my-head brainstorm session with random thoughts about the publishing of the future. Kindly roast it. Ask questions. Simply enjoy it or whatever. In any case, wherever and whenever, I look forward to a discussion on how to communicate our thoughts in the future in ever more interesting and engaging ways. I will be looking for my paper on writing for the visually impaired.
+
 This document is the digital equivalent of Yellow Sticky Notes. It will be just the brainstorming thoughts popping out of my head.
 
 The first thing about the book of the future is that the content and the medium are different things. The text that you write (or the words you dictated) is not the same thing as what your reader will read. Think of the Book of the Future as a performance of your concepts.
@@ -96,6 +108,14 @@ By the way, I'm getting itchy here. I have turned off my AI. Because every time 
 But after being at this for a couple of hours, what I really want to do is turn on the AI and have it kick my butt so I come up with even more thoughts. In other words, I'm looking for triggers. I'm looking for visions and images that my head can continue brainstorming with.
 
 Not to worry. When I try and do something like this, I will let you know. Somehow. I'm not sure how. It's between me and my "evil twin".
+
+2026-07-25 15-50
+
+So now it's probably time for a nap. In any case, to be continued. I will be asking AI to roast this paper, but if you have any thoughts, I'd be pleased to hear them. Especially asking about things you don't really understand or that are confusing.
+
+Oh, and since I'm writing to you, you're obviously a writer, so Kindly do take a pen to paper or something.
+
+
 
 
 
