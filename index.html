@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-07-06 20:16">
+  <meta name="revised" content="2026-08-09 19:14">
   <title>TooToo</title>
   <!-- A real favicon.ico is assumed to sit next to index.html in every deployment
        (assemble.ps1 generates a TT-mark placeholder when the dev folder lacks one). -->
@@ -1341,8 +1341,10 @@ const applyHeadingFont = () => {
   }
 };
 
-/* ── per-extension Rendered/Raw preference (reference §7) ── */
-const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ ext }`;
+/* ── per-extension Rendered/Raw preference (reference §7) ──
+   '.htm' and '.html' are the same format with the same renderer, so they share
+   one stored preference (keyed as 'html'). ── */
+const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ ext === 'htm' ? 'html' : ext }`;
 const getPreferredView = ( ext ) => {
   try { return localStorage.getItem( viewPrefKey( ext ) ) || 'rendered'; } catch ( _ ) { return 'rendered'; }
 };
@@ -1629,9 +1631,21 @@ const parseHash = () => {
 };
 // Assigning location.hash (vs replaceState) creates a history entry so browser
 // back/forward navigate between files; the != guard avoids a redundant set/loop.
+// The FIRST navigation of a page load uses replaceState instead: the automatic
+// README/last-file open must not stack an entry on top of the hashless entry URL —
+// Back would land on that empty-hash state, which the router ignores, so the
+// button looked dead. Replacing keeps Back meaning "leave the page" until the
+// user has actually navigated between files.
+let hashNavigated = false;
 const updateHash = ( path, anchor = '' ) => {
   const target = '#' + encodeHash( path ) + ( anchor ? '#' + encodeHash( anchor ) : '' );
-  if ( location.hash !== target ) { try { location.hash = target; } catch ( _ ) { /* noop */ } }
+  if ( location.hash !== target ) {
+    try {
+      if ( hashNavigated ) location.hash = target;
+      else history.replaceState( null, '', target );
+    } catch ( _ ) { /* noop */ }
+  }
+  hashNavigated = true;
 };
 
 /* ── last-opened file (sessionStorage, per owner/repo/branch) ── */
@@ -2540,10 +2554,14 @@ const updateBranchControl = () => {
   btn.title = `Branch: ${ state.branch } — click to switch`;
   btn.hidden = false;
 };
-const closeBranchMenu = () => {
+const closeBranchMenu = ( restoreFocus = false ) => {
   const menu = document.getElementById( 'branchMenu' );
   if ( menu ) menu.hidden = true;
-  document.getElementById( 'btnBranch' )?.setAttribute( 'aria-expanded', 'false' );
+  const btn = document.getElementById( 'btnBranch' );
+  btn?.setAttribute( 'aria-expanded', 'false' );
+  // Keyboard close (Escape / picking an option) hands focus back to the chip —
+  // otherwise focus dies with the hidden menu. Click-outside close leaves focus alone.
+  if ( restoreFocus ) btn?.focus();
 };
 const fetchBranchList = async () => {
   if ( branchList ) return branchList;
@@ -2564,6 +2582,8 @@ const openBranchMenu = async () => {
     menu.innerHTML = branches.map( ( b ) =>
       `<button type="button" role="option" class="branch-option${ b === state.branch ? ' is-current' : '' }" data-branch="${ escapeHTML( b ) }">${ b === state.branch ? '✓ ' : '' }${ escapeHTML( b ) }</button>`
     ).join( '' ) + ( branches.capped ? '<div class="branch-menu-error">Showing the first 100 branches; more may exist.</div>' : '' );
+    // Focus the current branch so arrow keys / Enter work immediately on open.
+    ( menu.querySelector( '.branch-option.is-current' ) || menu.querySelector( '.branch-option' ) )?.focus();
   } catch ( _ ) {
     menu.innerHTML = '<div class="branch-menu-error">Could not load branches.</div>';
   }
@@ -2572,8 +2592,26 @@ const toggleBranchMenu = () => {
   const menu = document.getElementById( 'branchMenu' );
   if ( menu && !menu.hidden ) closeBranchMenu(); else openBranchMenu();
 };
+/* Keyboard support while the menu is open (listener sits on .branch-control, so it
+   covers the chip and the menu): Escape closes and returns focus to the chip;
+   ArrowDown/ArrowUp move through the options (wrapping); Home/End jump to the
+   first/last. Enter/Space need no handling — the options are real <button>s. */
+const branchMenuKeydown = ( e ) => {
+  const menu = document.getElementById( 'branchMenu' );
+  if ( !menu || menu.hidden ) return;
+  if ( e.key === 'Escape' ) { e.preventDefault(); closeBranchMenu( true ); return; }
+  const options = Array.from( menu.querySelectorAll( '.branch-option' ) );
+  if ( !options.length ) return;
+  const idx = options.indexOf( document.activeElement );
+  let next = null;
+  if ( e.key === 'ArrowDown' ) next = options[ idx + 1 ] || options[ 0 ];
+  else if ( e.key === 'ArrowUp' ) next = idx > 0 ? options[ idx - 1 ] : options[ options.length - 1 ];
+  else if ( e.key === 'Home' ) next = options[ 0 ];
+  else if ( e.key === 'End' ) next = options[ options.length - 1 ];
+  if ( next ) { e.preventDefault(); next.focus(); }
+};
 const switchBranch = async ( branch ) => {
-  closeBranchMenu();
+  closeBranchMenu( true );   // the picked option is about to be destroyed — focus the chip
   if ( !branch || branch === state.branch ) return;
   // Leaving this branch's view: clear any active filter first. renderTree rebuilds the rows
   // for the new branch but leaves the filter input, its 'filtering' class, and the clear
@@ -2608,6 +2646,7 @@ const initSidebar = () => {
 
   // Branch switcher chip + menu.
   document.getElementById( 'btnBranch' )?.addEventListener( 'click', toggleBranchMenu );
+  document.querySelector( '.branch-control' )?.addEventListener( 'keydown', branchMenuKeydown );
   document.getElementById( 'branchMenu' )?.addEventListener( 'click', ( e ) => {
     const opt = e.target.closest( '[data-branch]' );
     if ( opt ) switchBranch( opt.dataset.branch );
@@ -2906,9 +2945,17 @@ const selectFile = async ( path, anchor = '' ) => {
   revokeAllBlobUrls();                         // free the previous file's blob URLs
 
   // Highlight the matching tree row, open its ancestor folders, scroll it in view.
-  document.querySelectorAll( '.tree-item' ).forEach( ( el ) =>
-    el.classList.toggle( 'active', el.dataset.path === path ) );
-  const activeRow = document.querySelector( '.tree-item.active' );
+  // Sidebar's cached row list (refreshed on each renderTree) saves re-querying the
+  // whole tree per navigation; standalone content pages (no sidebar.js) fall back.
+  const treeRows = ( typeof cachedTreeItems !== 'undefined' && cachedTreeItems.length )
+    ? cachedTreeItems
+    : Array.from( document.querySelectorAll( '.tree-item' ) );
+  let activeRow = null;
+  treeRows.forEach( ( el ) => {
+    const isActive = el.dataset.path === path;
+    el.classList.toggle( 'active', isActive );
+    if ( isActive ) activeRow = el;
+  } );
   if ( activeRow ) {
     let ancestor = activeRow.closest( 'details' );
     while ( ancestor ) { ancestor.open = true; ancestor = ancestor.parentElement?.closest( 'details' ); }
@@ -2953,6 +3000,9 @@ const selectFile = async ( path, anchor = '' ) => {
   } catch ( err ) {
     if ( err.name === 'AbortError' ) return;   // superseded by a newer selection
     lastRawText = '';
+    // Un-claim the path: leaving a failed load as "current" would make the
+    // hashchange guard in main.js swallow a retry of the same permalink.
+    state.currentFilePath = '';
     body.innerHTML = `<p style="color:red;">${ escapeHTML( err.message ) }</p>`;
   }
   // Land on the requested anchor when there is one; otherwise start at the top.
