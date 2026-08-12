@@ -1,3 +1,7 @@
+# Topics
+
+* https://en.wikipedia.org/wiki/Category:Main_topic_classifications
+* https://en.wikipedia.org/wiki/Category:Main_topic_articles
 
 A
 Academic discipline
@@ -48,4 +52,39 @@ T
 Technology
 Time
 U
+Universe
+
+
+Academic discipline
+Behavior
+Communication
+Concept
+Culture
+Drink
+Economy
+Education
+Energy
+Engineering
+Entity
+Food
+Geography
+Government
+Health
+History
+Human
+Humanities
+Information
+Knowledge
+Language
+Law
+Life
+Mass media
+Mathematics
+Philosophy
+Politics
+Religion
+Science
+Society
+Technology
+Time
 Universe
