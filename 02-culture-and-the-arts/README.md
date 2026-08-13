@@ -48,9 +48,7 @@ tags #02 #culture #arts
 ### Performing arts
 
 Circuses
-
 Dance
-
 Film
 Music
 Opera
@@ -83,7 +81,6 @@ Video games
 
 ### Sports and Recreation
 
-
 Air sports
 American football
 Association football
@@ -91,7 +88,6 @@ Auto racing
 Baseball
 Basketball
 Boating
-
 Boxing
 Canoeing
 Cricket
