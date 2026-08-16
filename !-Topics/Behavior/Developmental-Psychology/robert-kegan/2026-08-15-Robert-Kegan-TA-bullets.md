@@ -1,6 +1,5 @@
 # 2026-08-15 Robert Kegan Bullets
 
-
 So do I like Keegan or do I not like Keegan? Interesting question. I am doing this because my friend Paul Dubas suggested I read Keegan. I have enjoyed Keegan, and I'm enjoying reading it. I think I'm learning something, but it's hard to know. Ok, but the good thing is I am writing about it. I'm not just bookmarking and trying to make a second brain out of it. I'm actually thinking about it.
 
 So here's one thing, because I've read Immunity to Change and read the different plateaus of complexity. Of course, I feel I'm at the highest level. This makes me feel self-important.
@@ -8,6 +7,13 @@ So here's one thing, because I've read Immunity to Change and read the different
 I've learned a few more of the names, the different kinds of psychology, but I will forget those. Is that important?
 
 I guess the big thing that I learned is that we all know about Piaget's theories of child development, but at least Kegan agrees with my idea that this kind of development occurs throughout life. I'm not the same person that I was 20 years ago. Of course, this is observational only. But at least somebody else likes one of my conjectures.
+
+* Will any of this help me in my 80th year?
+* Do I even begin to see a better me? What would that be like?
+
+***
+
+I also looked at the Positive Intelligence website and did the assessment and the saboteurs test as well, and got pretty much the same results.
 
 
 

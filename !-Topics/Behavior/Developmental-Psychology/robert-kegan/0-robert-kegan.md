@@ -26,6 +26,13 @@
 ## Triad
 * Emotional ~ Cognitive ~ psychological ~ Social ~ Cultural
 
+## Five Orders of Consciousness
+
+* https://en.wikipedia.org/wiki/Robert_Kegan
+* https://en.wikipedia.org/wiki/Constructive_developmental_framework
+* https://thecoachingroom.com.au/blog/understanding-the-self-through-the-five-orders-of-consciousness/
+* https://en.wikipedia.org/wiki/Cognitive_science
+
 ### CDF, social-emotional, cognitive, and psychological assessment are arrived at separately, as follows:
 
 1. A person's social-emotional profile addresses the question "What should I do and for whom?"; it is evaluated based on a semi-structured 1-hour interview in terms of "stages" (created by Kegan-Lahey in 1988, refined by Laske 2005).
