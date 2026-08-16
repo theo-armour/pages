@@ -23,8 +23,6 @@
 * https://substack.com/search/%22robert%20kegan%22
 
 
-
-
 ## Triad
 * Emotional ~ Cognitive ~ psychological ~ Social ~ Cultural
 

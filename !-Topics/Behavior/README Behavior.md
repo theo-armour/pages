@@ -1,6 +1,19 @@
 # Behavior Readme
 
 
+## Links
+
+* https://en.wikipedia.org/wiki/Behaviorism
+* https://en.wikipedia.org/wiki/List_of_social_psychologists
+* https://en.wikipedia.org/wiki/List_of_cognitive_biases ~ One of my very favorite Wikipedia lists ~ see https://en.wikipedia.org/wiki/List_of_cognitive_biases#cite_ref-141
+
+## Jake Goodman, MD, MBA
+
+@jakegoodmanmd
+
+* https://substack.com/@jakegoodmanmd
+
+
 ## Note-taking
 
 * https://beepb00p.xyz/myinfra.html
