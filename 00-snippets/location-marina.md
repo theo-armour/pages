@@ -10,8 +10,6 @@ Try them all!!
 
 
 ## Francisco Street
-
-
 * Liz + Rhubarb
 * Grayson ~ bike + jeep
 * Gus ~ two houses
