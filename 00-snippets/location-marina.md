@@ -23,9 +23,9 @@ Try them all!!
 * [https://en.wikipedia.org/wiki/Atelier_Crenn](https://en.wikipedia.org/wiki/Atelier_Crenn)
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
-Closed Sunday &a Monday
+Closed Sunday & Monday
 
-## Balboa ~ [balboacafesf](https://www.balboacafesf.com/)
+## Balboa ~ https://www.balboacafesf.com/)
 
 * Mark
 * Matisse ~ LFLP
