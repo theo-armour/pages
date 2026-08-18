@@ -14,7 +14,8 @@ Try them all!!
 
 * Liz + Rhubarb
 * Grayson ~ bike + jeep
-* Gus ~ two hhouses
+* Gus ~ two houses
+
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
