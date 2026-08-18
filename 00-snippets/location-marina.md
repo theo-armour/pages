@@ -19,7 +19,7 @@ Try them all!!
 * Howard + carl
 * Kevin
 * Masai + two
-* Lady
+* Lady in shorts
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
