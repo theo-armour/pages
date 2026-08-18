@@ -18,7 +18,8 @@ Try them all!!
 * Patrick Murphy
 * Howard + carl
 * Kevin
-
+* Masai + two
+* Lady
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
