@@ -15,7 +15,10 @@ Try them all!!
 * Liz + Rhubarb
 * Grayson ~ bike + jeep
 * Gus ~ two houses
-* Patrick Mu
+* Patrick Murphy
+ Howard
+* Kevin
+
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
