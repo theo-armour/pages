@@ -16,7 +16,7 @@ Try them all!!
 * Patrick Murphy
 * Howard + carl
 * Kevin
-* Masai + two 
+* Masai + two dogs
 * Lady in shorts
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
