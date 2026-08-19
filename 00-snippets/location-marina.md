@@ -12,7 +12,7 @@ Try them all!!
 ## Francisco Street
 * Liz + Rhubarb
 * Grayson ~ bike + jeep
-* Gus ~ two houses
+* Gus ~ two houses ~ van
 * Patrick Murphy
 * Howard + carl
 * Kevin
