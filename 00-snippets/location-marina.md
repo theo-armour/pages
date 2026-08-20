@@ -116,7 +116,7 @@ Try the Caesar salad or **Tuna Tartare**
 
 Cocktail: naked and famous
 
-* [https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
+* https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail)
 
 ## Fiorella's
 
