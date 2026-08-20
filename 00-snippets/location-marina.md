@@ -242,7 +242,6 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 * 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
-* Stephen: skinny ginger
 * Shawn ~ person of some color ~ tattooed
 * John Boss
 * Jah'melah ~ juh-me-lah ~ person of color
@@ -250,9 +249,11 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Garrett
 
 
+* Stephen: skinny ginger
 * Sophie
 * Cecelia
 * Eddie ~ Korean
+
 ## Tiya ~ https://tiyasf.com
 
 * Pujan Sarker
