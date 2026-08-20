@@ -19,7 +19,6 @@ Try them all!!
 
 * Masai + two dogs
 * Patrick Murphy
-
 * Lady in shorts
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
@@ -57,7 +56,7 @@ Closed Sunday & Monday
 
 * Owner: Jesse
 
-## [Cafe Boho](https://cafebohosf.com/)
+## [https://cafebohosf.com/)
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
