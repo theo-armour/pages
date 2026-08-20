@@ -177,7 +177,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * 4 locations
 * lafromageriesf.com
 
-## Mamo ~ [mamosf](https://mamosf.com)
+## Mamo ~ mamosf](https://mamosf.com
 
 * Jorge
 * Kitchen:
