@@ -238,7 +238,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * [tacolicious](https://www.tacolicious.com/) ~ 415.649.6077
 * 2250 Chestnut St
 
-## https://theinterval.org/)&nbs~ long now
+## https://theinterval.org/ ~ long now
 
 * 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
