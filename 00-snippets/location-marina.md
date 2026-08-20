@@ -210,7 +210,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## Perry's
 
-* 415.922.9022 ~ union &amp; ~ no reservations
+* 415.922.9022 ~ union ~ no reservations
 * Emily
 
 ## Radhaus
