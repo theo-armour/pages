@@ -227,6 +227,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 * Tom Owner
 * Cooper
+* Amon
 
 ## SweetGreen
 
@@ -234,7 +235,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## Tacolicious
 
-* [tacolicious](https://www.tacolicious.com/)&nbsp;~ 415.649.6077
+* [tacolicious](https://www.tacolicious.com/)&nbs~ 415.649.6077
 * 2250 Chestnut St
 
 ## [The Interval](https://theinterval.org/)&nbsp;~ long now
