@@ -239,7 +239,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Shawn ~ person of some color ~ tattooed
 * Sophie
 * Cecelia
-* John
+* John Bo
 * Jah'melah ~ juh-me-lah ~ person of color
 * Bart ~ skinny ~ hair thing
 * Eddie ~ Korean
