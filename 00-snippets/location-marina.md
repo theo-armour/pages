@@ -165,7 +165,7 @@ Regulars
 
 ## l'Amida
 
-* [https://www.lmidasf.com]()
+* https://www.lmidasf.com
 * Most everyone speaks French
 
 Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
