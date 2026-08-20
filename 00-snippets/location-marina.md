@@ -10,9 +10,11 @@ Try them all!!
 
 
 ## Francisco Street
-* Liz + Rhubarb
+
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van
+* Liz + Rhubarb
+
 * Patrick Murphy
 * Howard + carl
 * Kevin
