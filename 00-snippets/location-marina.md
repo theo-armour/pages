@@ -56,7 +56,7 @@ Closed Sunday & Monday
 
 * Owner: Jesse
 
-## [https://cafebohosf.com/)
+## [https://cafebohosf.com/
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
