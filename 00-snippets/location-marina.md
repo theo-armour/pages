@@ -250,8 +250,10 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Jah'melah ~ juh-me-lah ~ person of color
 * Bart ~ skinny ~ hair thing
 * Garrett
-* Eddie ~ Korean
 
+
+
+* Eddie ~ Korean
 ## Tiya ~ https://tiyasf.com
 
 * Pujan Sarker
