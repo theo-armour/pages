@@ -233,7 +233,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## [The Interval](https://theinterval.org/)&nbsp;~ long now
 
-* 10a-midnight Saturday &amp; Sunday 3-11p
+* 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
 * Stephen: skinny ginger
 * Shawn ~ person of some color ~ tattooed
