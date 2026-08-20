@@ -13,10 +13,11 @@ Try them all!!
 
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van
-
-
+* Howard + carl
+* Kevin
 * Liz + Rhubarb
 
+* Masai + two dogs
 * Patrick Murphy
 
 * Lady in shorts
