@@ -13,12 +13,12 @@ Try them all!!
 
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van
+
+
 * Liz + Rhubarb
 
 * Patrick Murphy
-* Howard + carl
-* Kevin
-* Masai + two dogs
+
 * Lady in shorts
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
