@@ -1,7 +1,7 @@
 # Unsorted list
 
 
-Safety === security
+Safety === Security
 
 * https://rootsofprogress.org/towards-a-philosophy-of-safety
 * https://rootsofprogress.org/
