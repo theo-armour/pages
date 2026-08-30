@@ -11,7 +11,12 @@ G:\My Drive\2026-theo-github\theo-armour-pages\13-technology-applied-sciences\co
 * https://github.com/yzane/vscode-markdown-pdf#readme
 * https://github.com/markdown-it/markdown-it-container
 
-## markdown-pdf.css
+## Enable markdown-pdf.css
+
+* markdown-pdf.includeDefaultStyles
+*  (VSCode, markdown-pdf)
+* boolean. Default: true
+
 
 "markdown-pdf.styles" is kept and editable in:
 * C:\Users\tarmo\AppData\Roaming\Code\User\settings.json
