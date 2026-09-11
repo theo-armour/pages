@@ -29,6 +29,13 @@ Phenomenology is a philosophical study and movement largely associated with the 
 
 ***
 
+
+## 2026-09-10
+
+"Memory, history, the past: All are defined by an unbridgeable disjunction in time." p354
+
+My thought: the past is just as imaginary as the future. 
+
 ## 2026-09-07
 
 I should keep a diary of a few lines after I read every section of The Frenchmen.
