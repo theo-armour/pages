@@ -20,6 +20,9 @@ https://cdnc.ucr.edu/?a=d&d=DAC18540627.2.10&srpos=1&e=------185-en--20-DAC-1--t
 * Preserve the history of the San Francisco Ladies Protection and Relief Society
 * Make the history of the San Francisco Ladies Protection and Relief Society freely available to the public
 
+theoarmour1.substack.com
+
+
 ### Scope
 
 Republish these three documents
