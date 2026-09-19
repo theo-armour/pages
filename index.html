@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-08-09 19:14">
+  <meta name="revised" content="2026-09-18 21:45">
   <title>TooToo</title>
   <!-- A real favicon.ico is assumed to sit next to index.html in every deployment
        (assemble.ps1 generates a TT-mark placeholder when the dev folder lacks one). -->
@@ -636,6 +636,13 @@ details {
 
 /* ── Helpers ── */
 .is-hidden {
+  display: none !important;
+}
+
+/* The hidden ATTRIBUTE relies on the browser's own [hidden] { display: none } rule, which
+   any author display: on the same element silently overrides (e.g. .branch-switcher's
+   inline-flex). Restate it with !important so `el.hidden = true` always wins. */
+[hidden] {
   display: none !important;
 }
 
@@ -1343,8 +1350,8 @@ const applyHeadingFont = () => {
 
 /* ── per-extension Rendered/Raw preference (reference §7) ──
    '.htm' and '.html' are the same format with the same renderer, so they share
-   one stored preference (keyed as 'html'). ── */
-const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ ext === 'htm' ? 'html' : ext }`;
+   one stored preference (keyed as 'html'); Markdown extensions share 'md'. ── */
+const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ MARKDOWN_EXTS.includes( ext ) ? 'md' : ext === 'htm' ? 'html' : ext }`;
 const getPreferredView = ( ext ) => {
   try { return localStorage.getItem( viewPrefKey( ext ) ) || 'rendered'; } catch ( _ ) { return 'rendered'; }
 };
@@ -1362,12 +1369,16 @@ const setPreferredView = ( ext, view ) => {
    =================================================================== */
 
 /* ── request abort (cancel in-flight fetch when navigating away) ── */
-let currentAbortController = null;
-const newAbort = () => {
-  if ( currentAbortController ) currentAbortController.abort();
-  currentAbortController = new AbortController();
-  return currentAbortController.signal;
+const requests = { current: null, content: null };
+const newAbort = ( forContent = true ) => {
+  requests.current?.abort();
+  const controller = new AbortController();
+  requests.current = controller;
+  if ( forContent ) requests.content = controller;
+  return controller.signal;
 };
+// Opening an info panel cancels content without interrupting the repository tree.
+const cancelContentLoad = () => requests.content?.abort();
 
 /* ── in-memory file-text cache (per session; capped, FIFO eviction) ── */
 const fileTextCache = new Map();
@@ -1431,12 +1442,12 @@ const ghApi = async ( url, signal ) => {
 
 /* ── file URLs + fetchers ── */
 const rawUrl = ( path ) =>
-  `https://raw.githubusercontent.com/${ state.owner }/${ state.repo }/${ state.branch }/${ encodePath( path ) }`;
+  `https://raw.githubusercontent.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
 
 // Contents API URL (used WITH a token): returns file content the token is authorized
 // for — including PRIVATE repos, which raw.githubusercontent.com refuses to serve.
 const contentsApiUrl = ( path ) =>
-  `https://api.github.com/repos/${ state.owner }/${ state.repo }/contents/${ encodePath( path ) }?ref=${ state.branch }`;
+  `https://api.github.com/repos/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/contents/${ encodePath( path ) }?ref=${ encodeURIComponent( state.branch ) }`;
 
 /* Fetch a file's Response — local-first (file:// drop-in), then GitHub. With a token
    we go through the Contents API (Accept: raw) so PRIVATE repos work — raw.github
@@ -1499,6 +1510,7 @@ const fetchFileArrayBuffer = async ( path, signal ) =>
    from disk and seeds owner/repo from .git/config. Needs a GitHub remote + a
    browser that allows file:// fetches (Chrome --allow-file-access-from-files). ── */
 let localMode = false;
+const localRepo = { owner: '', repo: '', branch: '' };
 let fileAccessBlocked = false;   // file:// reads denied (Chrome missing --allow-file-access-from-files)
 const detectLocalMode = async () => {
   if ( location.protocol !== 'file:' ) return;
@@ -1511,7 +1523,18 @@ const detectLocalMode = async () => {
     const m = text.match( /github\.com[:/]+([\w.-]+)\/([\w.-]+?)(?:\.git)?\/?\s*$/im );
     // Local .git/config wins over the static CONFIG default (canonical precedence:
     // .git/config beats CONFIG_DEFAULTS). Query params still override in detectRepo.
-    if ( m ) { CONFIG.owner = m[ 1 ]; CONFIG.repo = m[ 2 ]; CONFIG.branch = ''; }
+    if ( m ) {
+      localRepo.owner = m[ 1 ]; localRepo.repo = m[ 2 ];
+      // Use the checked-out branch (or detached commit), not the remote default.
+      // If HEAD is unreadable, use remote files rather than guess what's on disk.
+      try {
+        const headResponse = await fetch( '.git/HEAD' );
+        const head = headResponse.ok ? ( await headResponse.text() ).trim() : '';
+        localRepo.branch = head.startsWith( 'ref: refs/heads/' )
+          ? head.slice( 'ref: refs/heads/'.length ) : /^[a-f0-9]{40,64}$/i.test( head ) ? head : '';
+      } catch ( _ ) { localRepo.branch = ''; }
+      CONFIG.owner = localRepo.owner; CONFIG.repo = localRepo.repo; CONFIG.branch = localRepo.branch;
+    }
     else { CONFIG.owner = ''; CONFIG.repo = ''; }   // in a git repo but no GitHub remote → ask, don't silently load tootoo
     localMode = true;
   } catch ( _ ) {
@@ -1524,7 +1547,10 @@ const detectLocalMode = async () => {
     catch ( _e ) { fileAccessBlocked = true; }
   }
 };
-const localUrlFor = ( path ) => ( localMode ? './' + encodePath( path ) : null );
+const isLocalRepo = () => localMode && state.owner.toLowerCase() === localRepo.owner.toLowerCase()
+  && state.repo.toLowerCase() === localRepo.repo.toLowerCase();
+const localUrlFor = ( path ) => isLocalRepo() && localRepo.branch && state.branch === localRepo.branch
+  ? './' + encodePath( path ) : null;
 
 /* ── per-pathname storage + repo cache (reference §4) ── */
 const storageKey = ( suffix ) => `${ CONFIG.storagePrefix }:${ location.pathname }:${ suffix }`;
@@ -1541,6 +1567,9 @@ const detectRepo = async () => {
   const p = new URLSearchParams( location.search );
   if ( p.get( 'owner' ) ) CONFIG.owner = p.get( 'owner' );
   if ( p.get( 'repo' ) ) CONFIG.repo = p.get( 'repo' );
+  // A different requested repository must not inherit the checkout's branch.
+  if ( localMode && ( CONFIG.owner.toLowerCase() !== localRepo.owner.toLowerCase()
+    || CONFIG.repo.toLowerCase() !== localRepo.repo.toLowerCase() ) ) CONFIG.branch = '';
   if ( p.get( 'branch' ) ) CONFIG.branch = p.get( 'branch' );
   if ( CONFIG.owner && CONFIG.repo ) { applyRepo(); return; }
 
@@ -1593,9 +1622,10 @@ const promptForRepo = () => new Promise( ( resolve ) => {
    Segments are percent-decoded: marked emits hrefs URL-encoded (spaces → %20), but
    tree paths and fetch helpers work with the real file names. ── */
 const resolveRepoPath = ( href, currentDir ) => {
-  if ( href.startsWith( '/' ) ) return safeDecode( href.replace( /^\/+/, '' ) );   // root-relative
-  const stack = currentDir ? currentDir.split( '/' ) : [];
-  for ( const part of href.split( '/' ) ) {
+  // Remove URL suffixes before decoding: an encoded '?' or '#' can belong to a filename.
+  const path = href.split( /[?#]/, 1 )[ 0 ];
+  const stack = !path.startsWith( '/' ) && currentDir ? currentDir.split( '/' ) : [];
+  for ( const part of path.split( '/' ) ) {
     if ( part === '' || part === '.' ) continue;
     if ( part === '..' ) stack.pop();
     else stack.push( safeDecode( part ) );
@@ -1997,6 +2027,8 @@ const toggleInfoPanel = async ( panel ) => {
   if ( !document.getElementById( 'contentBody' ) ) return;
   if ( activePanel === panel ) { closeInfoPanel(); return; }
   if ( !activePanel ) panelReturnPath = state.currentFilePath || '';
+  cancelContentLoad();
+  state.currentFilePath = '';
   activePanel = panel;
   updateInfoButtonState();
   if ( panel === 'about' ) await renderAboutPanel();
@@ -2050,7 +2082,7 @@ const README_RE = /^readme/i;
 
 /* ── build nested tree from the flat GitHub list ── */
 const buildNestedTree = ( flatTree ) => {
-  const root = { children: {} };
+  const root = { children: Object.create( null ) };
   const hidFolders = hiddenFolderSet();
   const hidFiles = hiddenFileSet();
   for ( const item of flatTree ) {
@@ -2060,7 +2092,7 @@ const buildNestedTree = ( flatTree ) => {
     for ( let i = 0; i < parts.length; i++ ) {
       const part = parts[ i ];
       if ( !current.children[ part ] ) {
-        current.children[ part ] = { children: {}, type: null, size: null, path: null };
+        current.children[ part ] = { children: Object.create( null ), type: null, size: null, path: null };
       }
       if ( i === parts.length - 1 ) {
         current.children[ part ].type = item.type;
@@ -2387,11 +2419,17 @@ const showOversizedRepoPanel = ( count, truncated ) => {
 
 /* ── fetchTree: load the repo tree from GitHub (writes state.tree) ── */
 const fetchTree = async () => {
-  const signal = newAbort();
+  const signal = newAbort( false );   // tree loading can continue while an info panel is open
   const treeList = document.getElementById( 'treeList' );
   treeList.innerHTML = '<p style="padding:0.5rem;">Loading tree…</p>';
   try {
     if ( !state.branch ) state.branch = await getDefaultBranch( signal );
+    // Pin the repository and branch in every permalink, including history entries.
+    const url = new URL( location.href );
+    url.searchParams.set( 'owner', state.owner );
+    url.searchParams.set( 'repo', state.repo );
+    url.searchParams.set( 'branch', state.branch );
+    history.replaceState( null, '', url );
     cacheRepo();   // persist owner/repo/branch now that the branch is resolved
     setHeaderTimestamp();   // refresh the title tooltip with this repo's last-push date
     updateBranchControl();   // show the branch chip in the sidebar header
@@ -2523,7 +2561,7 @@ const setupKeyboardNav = () => {
         if ( active.classList.contains( 'tree-folder' ) ) {
           const d = active.parentElement;
           if ( !d.open ) { d.open = true; autoOpenFolder( d ); }
-          else { const c = d.querySelector( '.tree-folder, .tree-item' ); if ( c && c !== active ) { c.focus(); selectFileItem( c ); } }
+          else { const c = d.querySelector( ':scope > .tree-item, :scope > details > summary' ); if ( c && c !== active ) { c.focus(); selectFileItem( c ); } }
         }
         break;
       }
@@ -2610,7 +2648,7 @@ const branchMenuKeydown = ( e ) => {
   else if ( e.key === 'End' ) next = options[ options.length - 1 ];
   if ( next ) { e.preventDefault(); next.focus(); }
 };
-const switchBranch = async ( branch ) => {
+const switchBranch = async ( branch, path = '', anchor = '' ) => {
   closeBranchMenu( true );   // the picked option is about to be destroyed — focus the chip
   if ( !branch || branch === state.branch ) return;
   // Leaving this branch's view: clear any active filter first. renderTree rebuilds the rows
@@ -2620,12 +2658,22 @@ const switchBranch = async ( branch ) => {
   if ( filter && filter.value ) { filter.value = ''; runFilter(); }
   state.branch = branch;
   state.tree = null;
+  state.currentFilePath = '';
+  activePanel = null;
+  updateInfoButtonState();
+  setContentHeader( makeSimpleHeader( 'Content' ) );
+  document.getElementById( 'contentBody' ).innerHTML = '<p>Select a file from the list to preview it here.</p>';
+  // A branch switch starts a new file history; never keep an old branch's file hash.
+  history.replaceState( null, '', location.pathname + location.search );
+  hashNavigated = false;
   branchList = null;          // re-list for the new branch context if reopened
   cacheRepo();
   clearFileCache();
   updateBranchControl();
   await fetchTree();
-  autoSelectReadme();
+  if ( state.branch !== branch || activePanel ) return;
+  if ( path ) selectFile( path, anchor );
+  else autoSelectReadme();
 };
 
 /* ── init: render + wire ── */
@@ -2714,7 +2762,7 @@ const buildFileHeader = ( path, ext ) => {
 
   const githubUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/blob/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
 
-  const hasToggle = [ 'md', 'html', 'htm', 'svg' ].includes( ext );
+  const hasToggle = MARKDOWN_EXTS.includes( ext ) || [ 'html', 'htm', 'svg' ].includes( ext );
   const hasCopy = !NO_COPY_EXTS.includes( ext ) || ext === 'svg';
   const preferredView = hasToggle ? getPreferredView( ext ) : 'rendered';
 
@@ -2787,8 +2835,10 @@ const renderMarkdown = ( text, filePath, signal, anchor = '' ) => {
     if ( !href ) return;
     if ( href.startsWith( '#' ) ) {
       const anchor = safeDecode( href.slice( 1 ) );
+      a.href = '#' + encodeHash( filePath ) + ( anchor ? '#' + encodeHash( anchor ) : '' );
       a.classList.add( 'internal-link' );
       a.addEventListener( 'click', ( e ) => {
+        if ( e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey ) return;
         e.preventDefault();
         scrollToAnchor( anchor );
         updateHash( state.currentFilePath, anchor );
@@ -2802,10 +2852,14 @@ const renderMarkdown = ( text, filePath, signal, anchor = '' ) => {
     const frag = href.indexOf( '#' );
     const clean = frag >= 0 ? href.slice( 0, frag ) : href;
     if ( !clean ) return;
-    const repoPath = resolveRepoPath( clean, currentDir );
+    const repoPath = clean.startsWith( '?' ) ? filePath : resolveRepoPath( clean, currentDir );
     const anchor = frag >= 0 ? safeDecode( href.slice( frag + 1 ) ) : '';
-    a.removeAttribute( 'href' ); a.classList.add( 'internal-link' );
-    a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( repoPath, anchor ); } );
+    a.href = '#' + encodeHash( repoPath ) + ( anchor ? '#' + encodeHash( anchor ) : '' );
+    a.classList.add( 'internal-link' );
+    a.addEventListener( 'click', ( e ) => {
+      if ( e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey ) return;
+      e.preventDefault(); selectFile( repoPath, anchor );
+    } );
   } );
 
   // Images: resolve repo-relative src against the current file's directory. The URL
@@ -2893,9 +2947,10 @@ const ensureXLSX = () => {
   return xlsxLoader;
 };
 
-const renderSpreadsheet = async ( data ) => {
+const renderSpreadsheet = async ( data, signal ) => {
   try {
     await ensureXLSX();
+    if ( signal?.aborted ) return;
     const workbook = XLSX.read( data, { type: 'array' } );
     let html = '';
     for ( const sheetName of workbook.SheetNames ) {
@@ -2903,6 +2958,7 @@ const renderSpreadsheet = async ( data ) => {
     }
     document.getElementById( 'contentBody' ).innerHTML = DOMPurify.sanitize( html );
   } catch ( err ) {
+    if ( signal?.aborted ) return;
     document.getElementById( 'contentBody' ).innerHTML =
       `<p style="color: red;">Failed to parse spreadsheet: ${ escapeHTML( err.message ) }</p>`;
   }
@@ -2974,31 +3030,43 @@ const selectFile = async ( path, anchor = '' ) => {
   try {
     if ( IMAGE_EXTS.includes( ext ) && ext !== 'svg' ) {
       lastRawText = '';
-      renderImage( await resolveMediaUrl( path, signal ), path.split( '/' ).pop() );
+      const url = await resolveMediaUrl( path, signal );
+      if ( signal.aborted ) return;
+      renderImage( url, path.split( '/' ).pop() );
     } else if ( AUDIO_EXTS.includes( ext ) ) {
       lastRawText = '';
-      renderAudio( await fetchFileBlob( path, MIME[ ext ], signal ) );
+      const url = await fetchFileBlob( path, MIME[ ext ], signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderAudio( url );
     } else if ( VIDEO_EXTS.includes( ext ) ) {
       lastRawText = '';
-      renderVideo( await fetchFileBlob( path, MIME[ ext ], signal ) );
+      const url = await fetchFileBlob( path, MIME[ ext ], signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderVideo( url );
     } else if ( ext === 'pdf' ) {
       lastRawText = '';
-      renderPdf( await fetchFileBlob( path, 'application/pdf', signal ) );
+      const url = await fetchFileBlob( path, 'application/pdf', signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderPdf( url );
     } else if ( SHEET_EXTS.includes( ext ) ) {
       lastRawText = '';
-      await renderSpreadsheet( await fetchFileArrayBuffer( path, signal ) );
+      const data = await fetchFileArrayBuffer( path, signal );
+      if ( signal.aborted ) return;
+      await renderSpreadsheet( data, signal );
     } else {
       const text = await fetchFileText( path, signal );
+      if ( signal.aborted ) return;
       lastRawText = text;
-      if ( ext === 'md' ) renderMarkdown( text, path, signal, anchor );
+      if ( MARKDOWN_EXTS.includes( ext ) ) renderMarkdown( text, path, signal, anchor );
       else if ( ext === 'svg' ) renderSvg( text, path.split( '/' ).pop() );
       else if ( ext === 'html' || ext === 'htm' ) renderHtml( text, ext );
       else renderCode( text, ext );
     }
+    if ( signal.aborted ) return;
     updateHash( path, anchor );
     saveCurrentFile( path );   // remember last-opened file for this repo (sessionStorage)
   } catch ( err ) {
-    if ( err.name === 'AbortError' ) return;   // superseded by a newer selection
+    if ( signal.aborted || err.name === 'AbortError' ) return;   // superseded by a newer view
     lastRawText = '';
     // Un-claim the path: leaving a failed load as "current" would make the
     // hashchange guard in main.js swallow a retry of the same permalink.
@@ -3099,7 +3167,7 @@ const runSelfTest = async () => {
     const ext = extOf( path );
     if ( ( item.size || 0 ) > LARGE_SKIP ) return { path, status: 'skip', detail: `${ formatFileSize( item.size ) } — too large` };
     try {
-      if ( ext === 'md' ) { DOMPurify.sanitize( marked.parse( await fetchFileText( path, signal ) ) ); return { path, status: 'pass', detail: 'markdown parsed' }; }
+      if ( MARKDOWN_EXTS.includes( ext ) ) { DOMPurify.sanitize( marked.parse( await fetchFileText( path, signal ) ) ); return { path, status: 'pass', detail: 'markdown parsed' }; }
       if ( ext === 'svg' ) {
         const url = createBlobUrl( new Blob( [ await fetchFileText( path, signal ) ], { type: 'image/svg+xml' } ) );
         try { await decodeImage( url ); } finally { revokeIfBlob( url ); }
@@ -3252,12 +3320,19 @@ const initApp = async () => {
 
   // Back/forward + address-bar hash edits re-open the file (and/or scroll to the
   // in-file anchor after the first raw '#').
-  window.addEventListener( 'hashchange', () => {
+  const routeLocation = () => {
     const { path, anchor } = parseHash();
+    const branch = new URLSearchParams( location.search ).get( 'branch' );
+    if ( branch && branch !== state.branch ) { switchBranch( branch, path, anchor ); return; }
     if ( !path ) return;
     if ( path === state.currentFilePath ) { if ( anchor ) scrollToAnchor( anchor ); return; }
     selectFile( path, anchor );
-  } );
+  };
+  window.addEventListener( 'hashchange', routeLocation );
+  window.addEventListener( 'popstate', routeLocation );   // branch changes also change the query
+
+  // Keep a panel opened during startup visible when the repository tree finishes.
+  if ( activePanel ) return;
 
   // Distinguish a RELOAD (keep your place) from a browser SESSION-RESTORE (go home).
   // Both bring back the URL hash and sessionStorage, so we time it instead: on pagehide
