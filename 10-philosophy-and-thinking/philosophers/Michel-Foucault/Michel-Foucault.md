@@ -6,11 +6,3 @@ https://en.wikipedia.org/wiki/Michel_Foucault
 
 https://www.britannica.com/biography/Michel-Foucault
 
-
-
-
-
-
-
-
-
