@@ -1,7 +1,5 @@
 # CAD File Viewers
 
-
-
 ## reviews
 
 * https://www.sculpteo.com/en/3d-learning-hub/laser-cutting/best-2d-cad-software/
