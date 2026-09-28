@@ -1,8 +1,7 @@
 # 2026-06-06 DNA Attraction
 
 * https://claude.ai/share/67c38bc2-0b22-4f07-814d-5d9f24374920
-
-https://chatgpt.com/share/6a8ba011-03e8-83e8-ac3d-81d5393fd612
+* https://chatgpt.com/share/6a8ba011-03e8-83e8-ac3d-81d5393fd612
 
 ## DNA
 
