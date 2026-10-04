@@ -1,5 +1,10 @@
 # Anthropic Skills Reference
 
+## 2026-10-03: Getting the most out of Opus 5.5 in Claude and Claude Code
+
+* https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
+* https://news.ycombinator.com/item?id=49946567
+
 ## List of AI Skills
 
 * https://www.anthropic.com/news/skills
