@@ -1,5 +1,22 @@
 # AI Journal
 
+
+## 2026-10-03
+
+Good place to start exploring AI use cases:
+
+* https://academy.claude.com/collections/claude-for-you
+* https://academy.claude.com/use-cases
+
+
+### Dot
+
+* ChatGPT: “Here is something I want you to do now.”
+* Task/automation: “Do this particular thing every Tuesday.”
+* ChatGPT Work: “Take this substantial job and carry it through.”
+* Dot: “This is an area of my life or work that I want you to take continuing responsibility for.”
+
+
 ## 2025-08-22
 
 * https://blog.cubed.run/the-only-chat-gpt-prompt-that-actually-works-25559b4dfff4
