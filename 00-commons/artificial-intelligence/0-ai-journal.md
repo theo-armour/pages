@@ -1,6 +1,12 @@
 # AI Journal
 
 
+## 2026-10-07 The Best Way to Prompt Claude in 2026
+
+* What still works, what to drop, and what's new, from beginner to pro
+* https://artificialcorner.com/p/prompt-claude-2026
+
+
 ## 2026-10-03
 
 Good place to start exploring AI use cases:

@@ -156,6 +156,7 @@ https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
 
 ### Elder Care: factors for choosing an independent living community
 
+
 * https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
 * https://www.health.harvard.edu/staying-healthy/choosing-a-senior-living-community
 * https://www.ncala.org/guide-choosing-senior-living-community.pdf
@@ -163,6 +164,11 @@ https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
 * https://www.seniorliving.org/independent-living/
 * https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
 * https://www.forbes.com/sites/ashleaebeling/2011/09/26/continuing-care-communities-a-big-investment-with-catches/?sh=da03a1237ad6
+
+### How Do I Find the Right Continuing Care Facility for Me? 
+
+* 2026-10-07
+* https://www.nytimes.com/2026/09/26/realestate/how-do-i-find-the-right-continuing-care-facility-for-me.html?smid=nytcore-android-share 
 
 ### Alice James
 

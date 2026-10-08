@@ -1,5 +1,11 @@
 # How to forget 
 
+
+## 2026-10-07 What if Writing Isn’t Central to Thinking? 
+
+* https://www.nytimes.com/2026/09/29/opinion/writing-thinking-college-ai.html?smid=nytcore-android-share 
+
+
 ## The Id, the Ego and the Superintelligence
 
  https://www.nytimes.com/2026/09/27/opinion/ai-philosophy-thinking-judgment.html
