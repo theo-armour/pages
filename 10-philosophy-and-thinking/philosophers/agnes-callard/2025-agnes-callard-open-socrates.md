@@ -946,28 +946,39 @@ Socrates is making the radical claim that for ignorant people like us, human goo
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece) p250
 
+the fundamental problem of politics, which is that we sometimes have trouble living together, because we have different ideas about how best to do so. p250
 
-Liberalism triad p251
+Political fictions ~ Liberalism triad p251
 
-* freedom of speech
-* egalitarianism
-* fight for social justice.
+* Freedom of speech
+* Egalitarianism
+* Fight for social justice.
 
 Or: justice, freedom and equality. p271
 
-If these claims are to be consistent with one another. The art of love, the craft of politics, and the preparation for death must be attributable the same underlying ability. p246
+While I won’t repudiate any of those ideas, I will, with the help of the Platonic dialogue the Gorgias, make the case that they are not valid as they stand. p251
+
+If these claims are to be consistent with one another. The art of love, the craft of politics, and the preparation for death must be attributable the same underlying ability. p251
 
 By inquiring into untimely questions, every philosopher has all along been preparing himself for death. p246
+
+The answer is that he understood what is usually called politics as a stage on which philosophical disagreement gets dramatized. p252
+
+Philosophy is how you actually navigate such disagreements. Philosophy is the real politics, p252
 
 The practice of Socratic ignorance is a kind of mastery of the deepest things. The mechanism of this reversal is something that I call the Socratic move. p246
 
 #### I Politicization
 
+Three counterintuitive assertions about politics 
+
 You cannot fight injustice. p252
 
 When people think they are fighting injustice, they are instead imitating refutation. p252
 
-Free if and only if it is inquisitive. p253
+Speech is free if and only if it is inquisitive. p253
+
+Equality: one person to treat another as their equal, which is a matter of whether they can take one another seriously even when they disagree about what is most important.
 
 Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. p254
 
