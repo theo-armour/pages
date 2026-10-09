@@ -982,7 +982,7 @@ Equality: one person to treat another as their equal, which is a matter of wheth
 
 Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. p254
 
-It converts a question, which is of two positions is correct — into a competition between the interests of two parties.
+It converts a question, which is of two positions is correct — into a competition between the interests of two parties. p254
 
 Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
 
@@ -990,7 +990,7 @@ Disagreement tends to fuel an eagerness to win, which manifests itself in the pr
 
 Being refuted is a greater good. p258
 
-- is pleasant
+- is pleasant, calls for gratitude
 
 #### II Fighting is Pretend Arguing
 
