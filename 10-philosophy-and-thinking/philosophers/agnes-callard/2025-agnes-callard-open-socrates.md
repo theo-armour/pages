@@ -1054,26 +1054,27 @@ They are trying to get the equality points at high to license the conclusion the
 
 The equality we seek in such encounters is something positive p276
 
-It is not a default but a conversational achievement. p276
+It is not a default but a **conversational achievement**. p276
 
-The self blowing gestures can be reconciled with satis seeking if we see them both as a quest for an elevated equality. We are trying to be high up and equal to one another. p277
+The self blowing gestures can be reconciled with status-seeking if we see them both as a quest for an elevated equality. We are trying to be high up and equal to one another. p277
 
 #### II The Elusiveness of equality p277
 
-We are anxious to even out the appearance of difference in abilities, in social standing, in success. p277
+Equality is a value in the service of which we are willing to lie. The defensive practices we use to guard the conversational equilibrium, which range from tactful nondisclosure to downright deception, suggest that what we are guarding is, at most, the **appearance of equality**. p278
+
+We are anxious to even out the appearance of difference in abilities, in social standing, in success. p278
 
 Much of what gets called social skill involves inducing the feeling of equality in the face of all the facts that challenge this feeling. p278
 
-Our quest for equality tends to end in something that has been described as the conceit of equality. p278
+Our quest for equality tends to end in something that has been described as the **conceit** of equality. p278
 
-The equality arrived at in social context is not the real thing, but only an unstable placeholder. p278
+**The equality arrived at in social context is not the real thing, but only an unstable placeholder.** p278
 
 #### III Inequality p278
 
 The quest for equality drives the ambitious person to excess. p279
 
 Pulling yourself Above the level of the person dominating you looks like an achievement, so long as they are above you. p280
-
 
 We're not sure how to put that equality point back where it belongs after we are discriminated against, because we don't actually know where it belongs. p281
 
