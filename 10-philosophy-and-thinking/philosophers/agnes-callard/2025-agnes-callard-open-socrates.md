@@ -1083,12 +1083,22 @@ The problem about egalitarianism is not new. It is ancient. p281
 
 #### IV Egalitarianism in the Iliad p281
 
-One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening.
+Real equality means you know that you are useful, important, and valuable to me, not because I tell you those things or send you signals to that effect, but because I am making active use of you, leaning on you, doing something I could not be doing without you.
+
+The practice of equality is where equality comes alive. p285
 
 
 #### V Adam Smith p285
 
+One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening. p286
+
+We speak of taking turns to talk, not taking turns to listen. The social norms are against interrupting, not against pausing. p287
+
 There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them.
+
+When you give someone a cognitive good, what you get in return is a signal of your own worth. Their willingness to receive the product of your mind is a mark or a sign of your fitness to lead. p287
+
+There's something very strange in the practice of seeking from someone, proofs that you do not need such proofs from them. p289
 
 #### VI Socratic Equality p290
 
