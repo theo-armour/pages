@@ -219,6 +219,7 @@ Not for profit
 
 * https://www.asaging.org/
 * https://www.aginglifecare.org/
+  * https://www.nytimes.com/2026/10/03/well/family/geriatric-care-managers.html
 * https://encore.org/
 * https://www.ioaging.org/
 * https://leadingage.org/
