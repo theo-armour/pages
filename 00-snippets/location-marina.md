@@ -235,7 +235,8 @@ alumni
 * Tom Owner
 * Cooper
 * Amon
-* De
+* Debbie?
+
 ## SweetGreen
 
 * [sweetgreen](https://order.sweetgreen.com/marina/menu?target=5)
