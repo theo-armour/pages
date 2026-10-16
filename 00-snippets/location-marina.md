@@ -13,7 +13,7 @@ Try them all!!
 
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  ~ Lauren ~ Jade
-   * Digs
+   * Dogs: 
 * Howard + carl
 * Kevin
 * Liz + Rhubarb
