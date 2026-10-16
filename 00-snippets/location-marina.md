@@ -15,7 +15,7 @@ Try them all!!
 * Gus ~ two houses ~ van  ~ Lauren ~ Jade
    * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
-* Kevin
+* Kevin  ~ white 
 * Liz + Rhubarb
 * Mark ~  appraiser
 * Masai + two dogs
