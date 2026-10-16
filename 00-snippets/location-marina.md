@@ -192,7 +192,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## Marina Beach ~ 510 709 8663
 
-* Mutugan
+* Murugan
 * Third
 * Carlos
 * Wayne
