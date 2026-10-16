@@ -232,11 +232,10 @@ alumni
 
 ## Silver Clouds
 
-
 * Tom Owner
 * Cooper
 * Amon
-
+* De
 ## SweetGreen
 
 * [sweetgreen](https://order.sweetgreen.com/marina/menu?target=5)
