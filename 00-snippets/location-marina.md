@@ -206,7 +206,7 @@ alumni
 * Sully ~ knows Hanh and James
 * Jake ~ bearded ~ friendly
 
-## Maybeck's ~ [ma~ Closed
+## +Maybeck's ~ Closed
 
 * Oysters
 
