@@ -217,7 +217,7 @@ alumni
 
 ## Perry's
 
-* 415.922.9022 ~ union ~ no reservations
+* 415.922.9022 ~ union ~ no reservatio
 * Emily
 
 ## Radhaus
