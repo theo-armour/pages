@@ -195,7 +195,8 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Mutugan
 * Third
 * Carlos
-* 
+* Wayne
+alumni
 * Olivia
 
 ## Marina Lounge
