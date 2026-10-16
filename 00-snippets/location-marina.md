@@ -13,8 +13,8 @@ Try them all!!
 
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
-Lauren ~ Jade
-   * Dogs: Holly ~ cubby? ~  Poodle: lean?
+  * Lauren ~ Jade
+  * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
 * Kevin  ~ white hair
 * Liz + Rhubarb
