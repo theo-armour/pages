@@ -14,4 +14,5 @@ window.TOOTOO_CONFIG = {
   headingFont: '"Patua One", serif',
   hiddenFiles: [ 'tootoo.config.js' ],
   hiddenFolders: [ 'Images' ],
+  homeUrl: 'https://theo-armour.github.io',
 };
