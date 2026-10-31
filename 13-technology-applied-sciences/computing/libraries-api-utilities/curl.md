@@ -9,14 +9,14 @@ curl https://api.github.com/theo-armmour
 
 ## GitHub API
 
-curl -H "Authorization: token ed7a5e3e458585dbe8c94ce39c322957404af138" https://api.github.com/user
+curl -H "Authorization: token " https://api.github.com/user
 
-curl -H "Authorization: token ed7a5e3e458585dbe8c94ce39c322957404af138" https://api.github.com/users/theo-armour -I
+curl -H "Authorization: token " https://api.github.com/users/theo-armour -I
 
-https://api.github.com/user?access_token=ed7a5e3e458585dbe8c94ce39c322957404af138
+https://api.github.com/user?access_token=
 
 
-curl -H "Authorization: token ed7a5e3e458585dbe8c94ce39c322957404af138" https://api.github.com/users/jaanga
+curl -H "Authorization: token " https://api.github.com/users/jaanga
 
 curl https://api.github.com/users/jaanga
 

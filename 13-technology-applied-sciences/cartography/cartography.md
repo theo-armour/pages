@@ -172,7 +172,7 @@ OSM Tools
 ## MapBox
 
 public access token
-* pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+* 
 
 Sites
 * https://en.wikipedia.org/wiki/Mapbox
@@ -297,24 +297,24 @@ Stackoverflow
 
 ## MapBox
 
-https://api.mapbox.com/v4/mapbox.terrain-rgb/15/5242/12663.pngraw?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+https://api.mapbox.com/v4/mapbox.terrain-rgb/15/5242/12663.pngraw?access_token=
 
-https://api.mapbox.com/v4/mapbox.terrain-rgb/0/0/0.pngraw?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+https://api.mapbox.com/v4/mapbox.terrain-rgb/0/0/0.pngraw?access_token=
 
-https://api.mapbox.com/v4/mapbox.terrain-rgb/7/20/49.pngraw?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+https://api.mapbox.com/v4/mapbox.terrain-rgb/7/20/49.pngraw?access_token=
 
 
 height = -10000 + ((R *256* 256 + G *256 + B)* 0.1)
 
 key from https://www.mapbox.com/mapbox-gl-js/example/map-tiles/
 
-http://a.tiles.mapbox.com/v4/mapbox.mapbox-streets-v6/14/4823/6160.vector.pbf?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+http://a.tiles.mapbox.com/v4/mapbox.mapbox-streets-v6/14/4823/6160.vector.pbf?access_token=
 
 works!!!
 
-pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
 
-https://api.mapbox.com/v4/mapbox.streets/14/4823/6160.png?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+
+https://api.mapbox.com/v4/mapbox.streets/14/4823/6160.png?access_token=
 
 
 http://tile.openstreetmap.org/7/20/49.png

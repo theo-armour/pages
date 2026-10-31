@@ -4,6 +4,8 @@ To be read in conjunction with:
 
 https://raindrop.io/TheoA/01-general-reference-29388251
 
+Browse these files via the hub: [theo-armour.github.io/?repo=pages](https://theo-armour.github.io/?repo=pages)
+
 ## Concept
 
 My digital commonplace book

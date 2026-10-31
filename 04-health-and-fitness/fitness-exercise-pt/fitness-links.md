@@ -8,6 +8,11 @@ tags #fitness #health #hw #sensors #wearables #exercise #devices
 * https://en.wikipedia.org/wiki/Outline_of_exercise
 * https://en.wikipedia.org/wiki/Outline_of_health
 
+## Kardia
+
+* https://kardia.com/
+* Get the personal EKG
+
 
 ## Alinker
 

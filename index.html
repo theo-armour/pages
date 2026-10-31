@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="revised" content="2026-08-09 19:14">
+  <meta name="revised" content="2026-10-19 17:14">
   <title>TooToo</title>
   <!-- A real favicon.ico is assumed to sit next to index.html in every deployment
        (assemble.ps1 generates a TT-mark placeholder when the dev folder lacks one). -->
@@ -639,6 +639,13 @@ details {
   display: none !important;
 }
 
+/* The hidden ATTRIBUTE relies on the browser's own [hidden] { display: none } rule, which
+   any author display: on the same element silently overrides (e.g. .branch-switcher's
+   inline-flex). Restate it with !important so `el.hidden = true` always wins. */
+[hidden] {
+  display: none !important;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1194,7 +1201,7 @@ const CONFIG = {
   headingFontUrl: '', headingFont: '',
   sourceRepoUrl: 'https://github.com/pushme-pullyou/tootoo',
   storagePrefix: 'tootoo',
-  hiddenFolders: [], hiddenFiles: [ 'tootoo.config.js' ], maxRepoFiles: 5000,
+  hiddenFolders: [], hiddenFiles: [ 'tootoo.config.js' ],
   autoOpenFolderReadme: true,  // expanding a folder opens its own README the first time (set false to disable)
   // Footer rights line appended after "© <year> <owner>". rightsOwners scopes WHICH
   // owners it shows for: null = every repo (default), an array = only those owner logins
@@ -1343,8 +1350,8 @@ const applyHeadingFont = () => {
 
 /* ── per-extension Rendered/Raw preference (reference §7) ──
    '.htm' and '.html' are the same format with the same renderer, so they share
-   one stored preference (keyed as 'html'). ── */
-const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ ext === 'htm' ? 'html' : ext }`;
+   one stored preference (keyed as 'html'); Markdown extensions share 'md'. ── */
+const viewPrefKey = ( ext ) => `${ CONFIG.storagePrefix || 'tootoo' }:viewPref:${ MARKDOWN_EXTS.includes( ext ) ? 'md' : ext === 'htm' ? 'html' : ext }`;
 const getPreferredView = ( ext ) => {
   try { return localStorage.getItem( viewPrefKey( ext ) ) || 'rendered'; } catch ( _ ) { return 'rendered'; }
 };
@@ -1362,12 +1369,18 @@ const setPreferredView = ( ext, view ) => {
    =================================================================== */
 
 /* ── request abort (cancel in-flight fetch when navigating away) ── */
-let currentAbortController = null;
-const newAbort = () => {
-  if ( currentAbortController ) currentAbortController.abort();
-  currentAbortController = new AbortController();
-  return currentAbortController.signal;
+// Tree and content loads get separate controllers: opening a file must never cancel
+// a tree load still in flight (that left the sidebar stuck on "Loading tree…").
+const requests = { tree: null, content: null };
+const newAbort = ( forContent = true ) => {
+  requests.content?.abort();             // any new load replaces the file view
+  if ( !forContent ) requests.tree?.abort();
+  const controller = new AbortController();
+  requests[ forContent ? 'content' : 'tree' ] = controller;
+  return controller.signal;
 };
+// Opening an info panel cancels content without interrupting the repository tree.
+const cancelContentLoad = () => requests.content?.abort();
 
 /* ── in-memory file-text cache (per session; capped, FIFO eviction) ── */
 const fileTextCache = new Map();
@@ -1431,12 +1444,12 @@ const ghApi = async ( url, signal ) => {
 
 /* ── file URLs + fetchers ── */
 const rawUrl = ( path ) =>
-  `https://raw.githubusercontent.com/${ state.owner }/${ state.repo }/${ state.branch }/${ encodePath( path ) }`;
+  `https://raw.githubusercontent.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
 
 // Contents API URL (used WITH a token): returns file content the token is authorized
 // for — including PRIVATE repos, which raw.githubusercontent.com refuses to serve.
 const contentsApiUrl = ( path ) =>
-  `https://api.github.com/repos/${ state.owner }/${ state.repo }/contents/${ encodePath( path ) }?ref=${ state.branch }`;
+  `https://api.github.com/repos/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/contents/${ encodePath( path ) }?ref=${ encodeURIComponent( state.branch ) }`;
 
 /* Fetch a file's Response — local-first (file:// drop-in), then GitHub. With a token
    we go through the Contents API (Accept: raw) so PRIVATE repos work — raw.github
@@ -1499,6 +1512,7 @@ const fetchFileArrayBuffer = async ( path, signal ) =>
    from disk and seeds owner/repo from .git/config. Needs a GitHub remote + a
    browser that allows file:// fetches (Chrome --allow-file-access-from-files). ── */
 let localMode = false;
+const localRepo = { owner: '', repo: '', branch: '' };
 let fileAccessBlocked = false;   // file:// reads denied (Chrome missing --allow-file-access-from-files)
 const detectLocalMode = async () => {
   if ( location.protocol !== 'file:' ) return;
@@ -1511,7 +1525,18 @@ const detectLocalMode = async () => {
     const m = text.match( /github\.com[:/]+([\w.-]+)\/([\w.-]+?)(?:\.git)?\/?\s*$/im );
     // Local .git/config wins over the static CONFIG default (canonical precedence:
     // .git/config beats CONFIG_DEFAULTS). Query params still override in detectRepo.
-    if ( m ) { CONFIG.owner = m[ 1 ]; CONFIG.repo = m[ 2 ]; CONFIG.branch = ''; }
+    if ( m ) {
+      localRepo.owner = m[ 1 ]; localRepo.repo = m[ 2 ];
+      // Use the checked-out branch (or detached commit), not the remote default.
+      // If HEAD is unreadable, use remote files rather than guess what's on disk.
+      try {
+        const headResponse = await fetch( '.git/HEAD' );
+        const head = headResponse.ok ? ( await headResponse.text() ).trim() : '';
+        localRepo.branch = head.startsWith( 'ref: refs/heads/' )
+          ? head.slice( 'ref: refs/heads/'.length ) : /^[a-f0-9]{40,64}$/i.test( head ) ? head : '';
+      } catch ( _ ) { localRepo.branch = ''; }
+      CONFIG.owner = localRepo.owner; CONFIG.repo = localRepo.repo; CONFIG.branch = localRepo.branch;
+    }
     else { CONFIG.owner = ''; CONFIG.repo = ''; }   // in a git repo but no GitHub remote → ask, don't silently load tootoo
     localMode = true;
   } catch ( _ ) {
@@ -1524,7 +1549,10 @@ const detectLocalMode = async () => {
     catch ( _e ) { fileAccessBlocked = true; }
   }
 };
-const localUrlFor = ( path ) => ( localMode ? './' + encodePath( path ) : null );
+const isLocalRepo = () => localMode && state.owner.toLowerCase() === localRepo.owner.toLowerCase()
+  && state.repo.toLowerCase() === localRepo.repo.toLowerCase();
+const localUrlFor = ( path ) => isLocalRepo() && localRepo.branch && state.branch === localRepo.branch
+  ? './' + encodePath( path ) : null;
 
 /* ── per-pathname storage + repo cache (reference §4) ── */
 const storageKey = ( suffix ) => `${ CONFIG.storagePrefix }:${ location.pathname }:${ suffix }`;
@@ -1533,16 +1561,40 @@ const cacheRepo = () => {
   try { localStorage.setItem( repoCacheKey(), JSON.stringify( { owner: state.owner, repo: state.repo, branch: state.branch, updated: state.repoUpdated } ) ); }
   catch ( _ ) { /* storage disabled */ }
 };
+/* ── home repo: what this page browses with no URL params (tootoo.config.js / .git seed),
+   captured before params apply. Permalinks leave out ?owner/repo/branch that match it. ── */
+const homeRepo = { owner: '', repo: '', branch: '', defaultBranch: '' };
+const isHomeRepo = () => !!homeRepo.owner && !!homeRepo.repo
+  && state.owner.toLowerCase() === homeRepo.owner.toLowerCase()
+  && state.repo.toLowerCase() === homeRepo.repo.toLowerCase();
+// '' while unknown (no seeded branch and the default not yet fetched).
+const homeBranch = () => homeRepo.branch || homeRepo.defaultBranch;
+
 const applyRepo = () => { state.owner = CONFIG.owner; state.repo = CONFIG.repo; state.branch = CONFIG.branch; };
 
-/* ── repo detection (reference §9): params → localStorage cache → GitHub Pages
-   hostname → CONFIG (incl. the local .git/config seed) → manual entry form. ── */
+/* ── repo detection (reference §9): params → CONFIG (incl. the local .git/config
+   seed) → GitHub Pages hostname → localStorage cache → manual entry form. The host
+   beats the cache so a bare Pages URL always returns to the repo it's served from,
+   not the last ?owner=… permalink opened there. ── */
 const detectRepo = async () => {
   const p = new URLSearchParams( location.search );
+  Object.assign( homeRepo, { owner: CONFIG.owner, repo: CONFIG.repo, branch: CONFIG.branch } );
   if ( p.get( 'owner' ) ) CONFIG.owner = p.get( 'owner' );
   if ( p.get( 'repo' ) ) CONFIG.repo = p.get( 'repo' );
+  // A different requested repository must not inherit the checkout's branch.
+  if ( localMode && ( CONFIG.owner.toLowerCase() !== localRepo.owner.toLowerCase()
+    || CONFIG.repo.toLowerCase() !== localRepo.repo.toLowerCase() ) ) CONFIG.branch = '';
   if ( p.get( 'branch' ) ) CONFIG.branch = p.get( 'branch' );
   if ( CONFIG.owner && CONFIG.repo ) { applyRepo(); return; }
+
+  // Deployed forks: <owner>.github.io/<repo>/ → browse the repo it's served from.
+  if ( location.hostname.endsWith( '.github.io' ) ) {
+    const owner = location.hostname.split( '.' )[ 0 ];
+    const segs = location.pathname.split( '/' ).filter( Boolean );
+    CONFIG.owner = owner;
+    CONFIG.repo = segs[ 0 ] || `${ owner }.github.io`;
+    applyRepo(); cacheRepo(); return;
+  }
 
   try {
     const cached = JSON.parse( localStorage.getItem( repoCacheKey() ) || 'null' );
@@ -1554,15 +1606,6 @@ const detectRepo = async () => {
       return;
     }
   } catch ( _ ) { /* malformed cache */ }
-
-  // Deployed forks: <owner>.github.io/<repo>/ → browse the repo it's served from.
-  if ( location.hostname.endsWith( '.github.io' ) ) {
-    const owner = location.hostname.split( '.' )[ 0 ];
-    const segs = location.pathname.split( '/' ).filter( Boolean );
-    CONFIG.owner = owner;
-    CONFIG.repo = segs[ 0 ] || `${ owner }.github.io`;
-    applyRepo(); cacheRepo(); return;
-  }
 
   return promptForRepo();   // nothing detected — ask the user
 };
@@ -1593,9 +1636,10 @@ const promptForRepo = () => new Promise( ( resolve ) => {
    Segments are percent-decoded: marked emits hrefs URL-encoded (spaces → %20), but
    tree paths and fetch helpers work with the real file names. ── */
 const resolveRepoPath = ( href, currentDir ) => {
-  if ( href.startsWith( '/' ) ) return safeDecode( href.replace( /^\/+/, '' ) );   // root-relative
-  const stack = currentDir ? currentDir.split( '/' ) : [];
-  for ( const part of href.split( '/' ) ) {
+  // Remove URL suffixes before decoding: an encoded '?' or '#' can belong to a filename.
+  const path = href.split( /[?#]/, 1 )[ 0 ];
+  const stack = !path.startsWith( '/' ) && currentDir ? currentDir.split( '/' ) : [];
+  for ( const part of path.split( '/' ) ) {
     if ( part === '' || part === '.' ) continue;
     if ( part === '..' ) stack.pop();
     else stack.push( safeDecode( part ) );
@@ -1612,6 +1656,7 @@ const getDefaultBranch = async ( signal ) => {
   // Capture the repo's real last-push date so the header tooltip reflects the
   // repo being viewed (incl. drop-in mode), not this file's static build date.
   state.repoUpdated = data.pushed_at || '';
+  if ( isHomeRepo() ) homeRepo.defaultBranch = data.default_branch;
   return data.default_branch;
 };
 
@@ -1823,7 +1868,7 @@ const showTokenPanel = ( reasonHtml = '' ) => {
         <li><strong>Public repositories:</strong> create a token at <a href="https://github.com/settings/tokens" target="_blank" rel="noopener">github.com/settings/tokens</a>. A classic token with no scopes is enough for read-only access, or use a fine-grained token.</li>
         <li><strong>Private repositories:</strong> ask the repository owner to issue a fine-grained personal access token scoped to that repository, with at minimum <em>Contents: Read</em> permission, and to share it with you securely.</li>
       </ul>
-      <p>Your token is stored in this browser's <code>localStorage</code> only. It is never sent anywhere except <code>api.github.com</code>, and it is not shared with the developers of ${ escapeHTML( CONFIG.appName ) }.</p>
+      <p>Your token is stored in this browser's <code>localStorage</code> only. It is never sent anywhere except <code>api.github.com</code>, and it is not shared with the developers of ${ escapeHTML( CONFIG.appName ) }. When ${ escapeHTML( CONFIG.appName ) } runs from a local file (<code>file://</code>), any other local HTML page opened in this browser can read it too — prefer a read-only, narrowly scoped token.</p>
       <hr style="margin: 1rem 0; border: none; border-top: 1px solid var(--border-color);">
       <p>Wipe every preference, cached file, and the GitHub token from this browser. Useful when testing a fork or starting fresh.</p>
       <button id="btnResetAll" class="secondary" title="Wipe all ${ escapeHTML( CONFIG.appName ) } data from this browser">Reset all ${ escapeHTML( CONFIG.appName ) } data</button>
@@ -1997,6 +2042,8 @@ const toggleInfoPanel = async ( panel ) => {
   if ( !document.getElementById( 'contentBody' ) ) return;
   if ( activePanel === panel ) { closeInfoPanel(); return; }
   if ( !activePanel ) panelReturnPath = state.currentFilePath || '';
+  cancelContentLoad();
+  state.currentFilePath = '';
   activePanel = panel;
   updateInfoButtonState();
   if ( panel === 'about' ) await renderAboutPanel();
@@ -2046,11 +2093,11 @@ const initHeader = () => { updateHeaderFromConfig(); initAppearance(); initHeade
    here it's synchronous for clarity. Re-add batching when we carve for real. */
 
 /* README matcher — shared by root auto-open, folder auto-open, and bold styling. */
-const README_RE = /^readme/i;
+const README_RE = /^readme(\.\w+)?$/i;   // README, README.md, readme.txt — not README-2026-….md backups
 
 /* ── build nested tree from the flat GitHub list ── */
 const buildNestedTree = ( flatTree ) => {
-  const root = { children: {} };
+  const root = { children: Object.create( null ) };
   const hidFolders = hiddenFolderSet();
   const hidFiles = hiddenFileSet();
   for ( const item of flatTree ) {
@@ -2060,7 +2107,7 @@ const buildNestedTree = ( flatTree ) => {
     for ( let i = 0; i < parts.length; i++ ) {
       const part = parts[ i ];
       if ( !current.children[ part ] ) {
-        current.children[ part ] = { children: {}, type: null, size: null, path: null };
+        current.children[ part ] = { children: Object.create( null ), type: null, size: null, path: null };
       }
       if ( i === parts.length - 1 ) {
         current.children[ part ].type = item.type;
@@ -2363,13 +2410,10 @@ const setupFileSelection = () => {
   } );
 };
 
-// Bail out for very large repositories (or truncated GitHub tree responses):
+// Bail out when GitHub truncates the tree response (over 100,000 entries or 7 MB):
 // keep sidebar concise and show a clear explanation + link in the content pane.
-const showOversizedRepoPanel = ( count, truncated ) => {
+const showOversizedRepoPanel = () => {
   const repoUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }`;
-  const countLabel = truncated
-    ? `over ${ count.toLocaleString() } files (GitHub truncated the tree response)`
-    : `${ count.toLocaleString() } files`;
 
   document.getElementById( 'treeList' ).innerHTML =
     '<div style="padding: 0.6rem 0.5rem; font-size: 0.85rem; opacity: 0.8;">Repository too large to browse here.</div>';
@@ -2378,29 +2422,38 @@ const showOversizedRepoPanel = ( count, truncated ) => {
   cb.innerHTML = `
         <div class="error-panel">
           <h3 style="margin-top: 0;">Repository too large for ${ escapeHTML( CONFIG.appName ) }</h3>
-          <p><strong>${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }</strong> contains ${ escapeHTML( countLabel ) }. ${ escapeHTML( CONFIG.appName ) } is built for small-to-medium personal repositories; larger trees overwhelm the sidebar render and the per-keystroke filter.</p>
+          <p><strong>${ escapeHTML( state.owner ) }/${ escapeHTML( state.repo ) }</strong> is over GitHub's limit of 100,000 files or 7 MB for a single tree listing, so GitHub returned only part of it.</p>
           <p><a href="${ escapeHTML( repoUrl ) }" target="_blank" rel="noopener">Browse this repository on github.com →</a></p>
-          <p style="font-size: 0.85rem; opacity: 0.75; margin-bottom: 0;">If you maintain a fork, raise <code>CONFIG.maxRepoFiles</code> (currently ${ CONFIG.maxRepoFiles.toLocaleString() }) to override this cutoff. Truncated trees cannot be overridden — that is a GitHub API response limit.</p>
         </div>
       `;
 };
 
 /* ── fetchTree: load the repo tree from GitHub (writes state.tree) ── */
 const fetchTree = async () => {
-  const signal = newAbort();
+  const signal = newAbort( false );   // tree loading can continue while an info panel is open
   const treeList = document.getElementById( 'treeList' );
   treeList.innerHTML = '<p style="padding:0.5rem;">Loading tree…</p>';
   try {
     if ( !state.branch ) state.branch = await getDefaultBranch( signal );
+    // Home repo, explicit branch, default not yet known → look it up so ?branch= can be dropped.
+    else if ( isHomeRepo() && !homeBranch() ) await getDefaultBranch( signal );
+    // Pin the repository and branch in permalinks (incl. history entries) only where they
+    // differ from the page's home repo; a plain home link stays index.html#file.
+    const url = new URL( location.href );
+    const home = isHomeRepo();
+    const pin = ( key, value, keep ) => keep ? url.searchParams.set( key, value ) : url.searchParams.delete( key );
+    pin( 'owner', state.owner, !home );
+    pin( 'repo', state.repo, !home );
+    pin( 'branch', state.branch, !home || state.branch !== homeBranch() );
+    history.replaceState( null, '', url );
     cacheRepo();   // persist owner/repo/branch now that the branch is resolved
     setHeaderTimestamp();   // refresh the title tooltip with this repo's last-push date
     updateBranchControl();   // show the branch chip in the sidebar header
     const data = await ghApi( `https://api.github.com/repos/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/git/trees/${ encodeURIComponent( state.branch ) }?recursive=1`, signal );
-    const count = data.tree?.length || 0;
-    if ( data.truncated || count > CONFIG.maxRepoFiles ) {
+    if ( data.truncated ) {
       state.tree = null;
       state.oversized = true;
-      showOversizedRepoPanel( count, data.truncated );
+      showOversizedRepoPanel();
       return;
     }
     state.oversized = false;
@@ -2419,6 +2472,7 @@ const fetchTree = async () => {
     h.title = `${ folders.toLocaleString() } folder${ folders === 1 ? '' : 's' }, ` +
       `${ files.toLocaleString() } file${ files === 1 ? '' : 's' }, ${ formatFileSize( bytes ) } total`;
     treeSummaryText = h.textContent;
+    runFilter();   // re-apply a query typed while the tree was loading (or clear 'filtering')
   } catch ( err ) {
     if ( err.name === 'AbortError' ) return;
     if ( err.status === 403 ) {
@@ -2523,7 +2577,7 @@ const setupKeyboardNav = () => {
         if ( active.classList.contains( 'tree-folder' ) ) {
           const d = active.parentElement;
           if ( !d.open ) { d.open = true; autoOpenFolder( d ); }
-          else { const c = d.querySelector( '.tree-folder, .tree-item' ); if ( c && c !== active ) { c.focus(); selectFileItem( c ); } }
+          else { const c = d.querySelector( ':scope > .tree-item, :scope > details > summary' ); if ( c && c !== active ) { c.focus(); selectFileItem( c ); } }
         }
         break;
       }
@@ -2610,7 +2664,7 @@ const branchMenuKeydown = ( e ) => {
   else if ( e.key === 'End' ) next = options[ options.length - 1 ];
   if ( next ) { e.preventDefault(); next.focus(); }
 };
-const switchBranch = async ( branch ) => {
+const switchBranch = async ( branch, path = '', anchor = '' ) => {
   closeBranchMenu( true );   // the picked option is about to be destroyed — focus the chip
   if ( !branch || branch === state.branch ) return;
   // Leaving this branch's view: clear any active filter first. renderTree rebuilds the rows
@@ -2620,12 +2674,22 @@ const switchBranch = async ( branch ) => {
   if ( filter && filter.value ) { filter.value = ''; runFilter(); }
   state.branch = branch;
   state.tree = null;
+  state.currentFilePath = '';
+  activePanel = null;
+  updateInfoButtonState();
+  setContentHeader( makeSimpleHeader( 'Content' ) );
+  document.getElementById( 'contentBody' ).innerHTML = '<p>Select a file from the list to preview it here.</p>';
+  // A branch switch starts a new file history; never keep an old branch's file hash.
+  history.replaceState( null, '', location.pathname + location.search );
+  hashNavigated = false;
   branchList = null;          // re-list for the new branch context if reopened
   cacheRepo();
   clearFileCache();
   updateBranchControl();
   await fetchTree();
-  autoSelectReadme();
+  if ( state.branch !== branch || activePanel ) return;
+  if ( path ) selectFile( path, anchor );
+  else autoSelectReadme();
 };
 
 /* ── init: render + wire ── */
@@ -2714,7 +2778,7 @@ const buildFileHeader = ( path, ext ) => {
 
   const githubUrl = `https://github.com/${ encodeURIComponent( state.owner ) }/${ encodeURIComponent( state.repo ) }/blob/${ encodeURIComponent( state.branch ) }/${ encodePath( path ) }`;
 
-  const hasToggle = [ 'md', 'html', 'htm', 'svg' ].includes( ext );
+  const hasToggle = MARKDOWN_EXTS.includes( ext ) || [ 'html', 'htm', 'svg' ].includes( ext );
   const hasCopy = !NO_COPY_EXTS.includes( ext ) || ext === 'svg';
   const preferredView = hasToggle ? getPreferredView( ext ) : 'rendered';
 
@@ -2754,15 +2818,19 @@ const buildToggleHtml = ( ext, renderedHtml, rawText, { prefix = '', renderedCla
     `<pre id="viewRaw" style="${ rawDisplay }">${ escapeHTML( rawText ) }</pre>`;
 };
 
+const MD_PURIFY = { FORBID_TAGS: [ 'style', 'form', 'button', 'textarea', 'select' ], FORBID_ATTR: [ 'style' ] };
+
 const renderMarkdown = ( text, filePath, signal, anchor = '' ) => {
   let renderedHtml, errorHtml = '';
-  try { renderedHtml = DOMPurify.sanitize( marked.parse( text ) ); }
+  // Strip what GitHub strips: page-wide styles, inline styles (a README could cover the app
+  // with a fake form) and form controls (task-list checkboxes stay).
+  try { renderedHtml = DOMPurify.sanitize( marked.parse( text ), MD_PURIFY ); }
   catch ( err ) { errorHtml = `<div class="md-error">⚠️ Markdown rendering failed: ${ escapeHTML( err.message ) }</div>`; renderedHtml = ''; }
 
   document.getElementById( 'contentBody' ).innerHTML =
     buildToggleHtml( 'md', renderedHtml, text, { prefix: errorHtml, renderedClass: 'markdown-body' } );
 
-  const mdBody = document.getElementById( 'viewRendered' );
+  const mdBody = document.querySelector( '#contentBody > #viewRendered' );
   if ( !mdBody ) return;
   const currentDir = filePath.includes( '/' ) ? filePath.slice( 0, filePath.lastIndexOf( '/' ) ) : '';
 
@@ -2787,8 +2855,10 @@ const renderMarkdown = ( text, filePath, signal, anchor = '' ) => {
     if ( !href ) return;
     if ( href.startsWith( '#' ) ) {
       const anchor = safeDecode( href.slice( 1 ) );
+      a.href = '#' + encodeHash( filePath ) + ( anchor ? '#' + encodeHash( anchor ) : '' );
       a.classList.add( 'internal-link' );
       a.addEventListener( 'click', ( e ) => {
+        if ( e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey ) return;
         e.preventDefault();
         scrollToAnchor( anchor );
         updateHash( state.currentFilePath, anchor );
@@ -2802,10 +2872,14 @@ const renderMarkdown = ( text, filePath, signal, anchor = '' ) => {
     const frag = href.indexOf( '#' );
     const clean = frag >= 0 ? href.slice( 0, frag ) : href;
     if ( !clean ) return;
-    const repoPath = resolveRepoPath( clean, currentDir );
+    const repoPath = clean.startsWith( '?' ) ? filePath : resolveRepoPath( clean, currentDir );
     const anchor = frag >= 0 ? safeDecode( href.slice( frag + 1 ) ) : '';
-    a.removeAttribute( 'href' ); a.classList.add( 'internal-link' );
-    a.addEventListener( 'click', ( e ) => { e.preventDefault(); selectFile( repoPath, anchor ); } );
+    a.href = '#' + encodeHash( repoPath ) + ( anchor ? '#' + encodeHash( anchor ) : '' );
+    a.classList.add( 'internal-link' );
+    a.addEventListener( 'click', ( e ) => {
+      if ( e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey ) return;
+      e.preventDefault(); selectFile( repoPath, anchor );
+    } );
   } );
 
   // Images: resolve repo-relative src against the current file's directory. The URL
@@ -2893,9 +2967,10 @@ const ensureXLSX = () => {
   return xlsxLoader;
 };
 
-const renderSpreadsheet = async ( data ) => {
+const renderSpreadsheet = async ( data, signal ) => {
   try {
     await ensureXLSX();
+    if ( signal?.aborted ) return;
     const workbook = XLSX.read( data, { type: 'array' } );
     let html = '';
     for ( const sheetName of workbook.SheetNames ) {
@@ -2903,6 +2978,7 @@ const renderSpreadsheet = async ( data ) => {
     }
     document.getElementById( 'contentBody' ).innerHTML = DOMPurify.sanitize( html );
   } catch ( err ) {
+    if ( signal?.aborted ) return;
     document.getElementById( 'contentBody' ).innerHTML =
       `<p style="color: red;">Failed to parse spreadsheet: ${ escapeHTML( err.message ) }</p>`;
   }
@@ -2974,31 +3050,43 @@ const selectFile = async ( path, anchor = '' ) => {
   try {
     if ( IMAGE_EXTS.includes( ext ) && ext !== 'svg' ) {
       lastRawText = '';
-      renderImage( await resolveMediaUrl( path, signal ), path.split( '/' ).pop() );
+      const url = await resolveMediaUrl( path, signal );
+      if ( signal.aborted ) return;
+      renderImage( url, path.split( '/' ).pop() );
     } else if ( AUDIO_EXTS.includes( ext ) ) {
       lastRawText = '';
-      renderAudio( await fetchFileBlob( path, MIME[ ext ], signal ) );
+      const url = await fetchFileBlob( path, MIME[ ext ], signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderAudio( url );
     } else if ( VIDEO_EXTS.includes( ext ) ) {
       lastRawText = '';
-      renderVideo( await fetchFileBlob( path, MIME[ ext ], signal ) );
+      const url = await fetchFileBlob( path, MIME[ ext ], signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderVideo( url );
     } else if ( ext === 'pdf' ) {
       lastRawText = '';
-      renderPdf( await fetchFileBlob( path, 'application/pdf', signal ) );
+      const url = await fetchFileBlob( path, 'application/pdf', signal );
+      if ( signal.aborted ) { URL.revokeObjectURL( url ); return; }
+      renderPdf( url );
     } else if ( SHEET_EXTS.includes( ext ) ) {
       lastRawText = '';
-      await renderSpreadsheet( await fetchFileArrayBuffer( path, signal ) );
+      const data = await fetchFileArrayBuffer( path, signal );
+      if ( signal.aborted ) return;
+      await renderSpreadsheet( data, signal );
     } else {
       const text = await fetchFileText( path, signal );
+      if ( signal.aborted ) return;
       lastRawText = text;
-      if ( ext === 'md' ) renderMarkdown( text, path, signal, anchor );
+      if ( MARKDOWN_EXTS.includes( ext ) ) renderMarkdown( text, path, signal, anchor );
       else if ( ext === 'svg' ) renderSvg( text, path.split( '/' ).pop() );
       else if ( ext === 'html' || ext === 'htm' ) renderHtml( text, ext );
       else renderCode( text, ext );
     }
+    if ( signal.aborted ) return;
     updateHash( path, anchor );
     saveCurrentFile( path );   // remember last-opened file for this repo (sessionStorage)
   } catch ( err ) {
-    if ( err.name === 'AbortError' ) return;   // superseded by a newer selection
+    if ( signal.aborted || err.name === 'AbortError' ) return;   // superseded by a newer view
     lastRawText = '';
     // Un-claim the path: leaving a failed load as "current" would make the
     // hashchange guard in main.js swallow a retry of the same permalink.
@@ -3024,8 +3112,9 @@ const setupContentActions = () => {
     }
     const toggleBtn = e.target.closest( '[data-action="view-toggle"]' );
     if ( toggleBtn ) {
-      const viewRendered = document.getElementById( 'viewRendered' );
-      const viewRaw = document.getElementById( 'viewRaw' );
+      // Scoped to direct children: rendered Markdown may carry its own id="viewRaw".
+      const viewRendered = document.querySelector( '#contentBody > #viewRendered' );
+      const viewRaw = document.querySelector( '#contentBody > #viewRaw' );
       const ext = extOf( state.currentFilePath );
       const goingToRaw = getPreferredView( ext ) === 'rendered';
       if ( viewRendered ) viewRendered.style.display = goingToRaw ? 'none' : '';
@@ -3099,7 +3188,7 @@ const runSelfTest = async () => {
     const ext = extOf( path );
     if ( ( item.size || 0 ) > LARGE_SKIP ) return { path, status: 'skip', detail: `${ formatFileSize( item.size ) } — too large` };
     try {
-      if ( ext === 'md' ) { DOMPurify.sanitize( marked.parse( await fetchFileText( path, signal ) ) ); return { path, status: 'pass', detail: 'markdown parsed' }; }
+      if ( MARKDOWN_EXTS.includes( ext ) ) { DOMPurify.sanitize( marked.parse( await fetchFileText( path, signal ) ) ); return { path, status: 'pass', detail: 'markdown parsed' }; }
       if ( ext === 'svg' ) {
         const url = createBlobUrl( new Blob( [ await fetchFileText( path, signal ) ], { type: 'image/svg+xml' } ) );
         try { await decodeImage( url ); } finally { revokeIfBlob( url ); }
@@ -3231,7 +3320,7 @@ const initApp = async () => {
   const haveExplicitRepo = new URLSearchParams( location.search ).get( 'owner' )
     || ( window.TOOTOO_CONFIG && window.TOOTOO_CONFIG.owner );
   if ( fileAccessBlocked && !haveExplicitRepo ) { showFileAccessHelp(); return; }
-  await detectRepo();       // core.js — params → cache → Pages host → CONFIG → manual form
+  await detectRepo();       // core.js — params → CONFIG → Pages host → cache → manual form
   updateHeaderFromConfig(); // header.js — repo now known, so refresh the title (owner / repo)
   updateFooterCopyright();  // footer.js — repo owner now known, set the © line
   initSidebar();    // sidebar.js — wire filter/expand/select (tree fills next)
@@ -3252,12 +3341,20 @@ const initApp = async () => {
 
   // Back/forward + address-bar hash edits re-open the file (and/or scroll to the
   // in-file anchor after the first raw '#').
-  window.addEventListener( 'hashchange', () => {
+  const routeLocation = () => {
     const { path, anchor } = parseHash();
+    // No ?branch= means the home branch (permalinks leave it out — see fetchTree).
+    const branch = new URLSearchParams( location.search ).get( 'branch' ) || ( isHomeRepo() ? homeBranch() : '' );
+    if ( branch && branch !== state.branch ) { switchBranch( branch, path, anchor ); return; }
     if ( !path ) return;
     if ( path === state.currentFilePath ) { if ( anchor ) scrollToAnchor( anchor ); return; }
     selectFile( path, anchor );
-  } );
+  };
+  window.addEventListener( 'hashchange', routeLocation );
+  window.addEventListener( 'popstate', routeLocation );   // branch changes also change the query
+
+  // Keep a panel opened during startup visible when the repository tree finishes.
+  if ( activePanel ) return;
 
   // Distinguish a RELOAD (keep your place) from a browser SESSION-RESTORE (go home).
   // Both bring back the URL hash and sessionStorage, so we time it instead: on pagehide
@@ -3267,10 +3364,14 @@ const initApp = async () => {
   // sub-second for a reload (back-to-back) but seconds+ for a restore (browser was closed).
   // No stamp at all → a genuinely fresh context (new tab / directly opened permalink).
   const RELOAD_GRACE_MS = 3000;          // a reload's gap is sub-second; restores far exceed this
+  // A followed link or typed/pasted permalink ('navigate') is never a restore, even in a tab
+  // that showed TooToo earlier — otherwise its #file would be swapped for the README.
+  const navType = performance.getEntriesByType?.( 'navigation' )[ 0 ]?.type;
   let restored = false;
   try {
     const leftAt = sessionStorage.getItem( sessionBeatKey() );
-    restored = leftAt !== null && ( performance.timeOrigin - Number( leftAt ) ) > RELOAD_GRACE_MS;
+    restored = navType !== 'navigate' && leftAt !== null &&
+      ( performance.timeOrigin - Number( leftAt ) ) > RELOAD_GRACE_MS;
   } catch ( _ ) { restored = false; }    // storage off → not a restore, so permalinks still open
 
   if ( restored ) {

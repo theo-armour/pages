@@ -1,11 +1,10 @@
 # 2025 Agnes Callard ~ Open Socrates ~ Definitions
 
-
 ## Ethics
 
 Three main branches of ethical theorizing in the West.
 
-*  Kantianism
+* Kantianism
 * Utilitarianism,
 * Virtue Ethics, Aristotelianism: To act virtuously. p110
 

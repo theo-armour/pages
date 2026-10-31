@@ -8,6 +8,21 @@ Try them all!!
 
 * https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
 
+
+## Francisco Street
+
+* Grayson ~ bike + jeep
+* Gus ~ two houses ~ van  
+  * Lauren ~ Jade
+  * Dogs: Holly ~ cubby? ~  Poodle: lean?
+* Howard + carl
+* Kevin  ~ white hair
+* Liz + Rhubarb
+* Mark ~  appraiser
+* Masai + two dogs
+* Patrick Murphy
+* Lady in shorts
+
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
 * meaning: happiness, gaiety
@@ -23,9 +38,9 @@ Try them all!!
 * [https://en.wikipedia.org/wiki/Atelier_Crenn](https://en.wikipedia.org/wiki/Atelier_Crenn)
 * Confirmation: TOCK-R-CUQN5B48 March 9, 2024 5:45 PM
 
-Closed Sunday &amp; Monday
+Closed Sunday & Monday
 
-## Balboa ~ [balboacafesf](https://www.balboacafesf.com/)
+## Balboa ~ https://www.balboacafesf.com/
 
 * Mark
 * Matisse ~ LFLP
@@ -43,7 +58,7 @@ Closed Sunday &amp; Monday
 
 * Owner: Jesse
 
-## [Cafe Boho](https://cafebohosf.com/)
+## [https://cafebohosf.com/
 
 * Andrei Busuev ~ Moldava ~ Ukraine ~ Russian
 * Brendan ~ bartender
@@ -103,7 +118,7 @@ Try the Caesar salad or **Tuna Tartare**
 
 Cocktail: naked and famous
 
-* [https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail](https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail))
+* https://en.wikipedia.org/wiki/Naked_and_famous_(cocktail)
 
 ## Fiorella's
 
@@ -152,7 +167,7 @@ Regulars
 
 ## l'Amida
 
-* [https://www.lmidasf.com]()
+* https://www.lmidasf.com
 * Most everyone speaks French
 
 Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
@@ -164,7 +179,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * 4 locations
 * lafromageriesf.com
 
-## Mamo ~ [mamosf](https://mamosf.com)
+## Mamo ~ mamosf](https://mamosf.com
 
 * Jorge
 * Kitchen:
@@ -175,10 +190,15 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Michael ~ realtor ~ Brother-in-law
 * Silvio ~ Jorge's father
 
-## Marina Beach
+## Marina Beach ~ 510 709 8663
 
-* Mutugan
-* Cerlos
+* Murugan
+* Third
+* Carlos
+* Wayne
+
+
+alumni
 * Olivia
 
 ## Marina Lounge
@@ -186,7 +206,7 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Sully ~ knows Hanh and James
 * Jake ~ bearded ~ friendly
 
-## Maybeck's ~ [maybecks](https://www.maybecks.com/)&nbsp;~ Closed
+## +Maybeck's ~ Closed
 
 * Oysters
 
@@ -197,8 +217,9 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 
 ## Perry's
 
-* 415.922.9022 ~ union &amp; ~ no reservations
+* 415.922.9022 ~ union
 * Emily
+* Carolyn
 
 ## Radhaus
 
@@ -209,26 +230,37 @@ Zaatar Manakesh: bread stuff. tasty but dry. greases up the keyboard
 * Danny ~ wife from 12th ~ born Costa Rica ~ came to US wanting to join Military
 * Deborah
 
+## Silver Clouds
+
+* Tom Owner
+* Cooper
+* Amon
+* Debbie?
+
 ## SweetGreen
 
 * [sweetgreen](https://order.sweetgreen.com/marina/menu?target=5)
 
 ## Tacolicious
 
-* [tacolicious](https://www.tacolicious.com/)&nbsp;~ 415.649.6077
+* [tacolicious](https://www.tacolicious.com/) ~ 415.649.6077
 * 2250 Chestnut St
 
-## [The Interval](https://theinterval.org/)&nbsp;~ long now
+## https://theinterval.org/ ~ long now
 
-* 10a-midnight Saturday &amp; Sunday 3-11p
+* 10a-midnight Saturday & Sunday 3-11p
 * Sunday: gets quiet at 6:30
-* Stephen: skinny ginger
 * Shawn ~ person of some color ~ tattooed
-* Sophie
-* Cecelia
-* John
+* John Boss
 * Jah'melah ~ juh-me-lah ~ person of color
 * Bart ~ skinny ~ hair thing
+* Garrett
+
+alumni
+
+* Stephen: skinny ginger
+* Sophie
+* Cecelia
 * Eddie ~ Korean
 
 ## Tiya ~ https://tiyasf.com

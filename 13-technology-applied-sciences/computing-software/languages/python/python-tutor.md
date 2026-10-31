@@ -74,7 +74,6 @@ print(type(y))
 * A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 * Variable names are case-sensitive (age, Age and AGE are three different variables)
 * A variable name cannot be any of the Python keywords.
-
 * String variables can be declared either by using single or double quotes:
 * You can assign a multiline string to a variable by using three quotes - single or double:
 * put an f in front of the string literal, and add curly brackets {} as placeholders for variables and other operations.

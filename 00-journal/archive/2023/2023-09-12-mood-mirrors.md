@@ -149,7 +149,7 @@ Today I would describe my energy color as pastel pinks and purples, with shapes 
 
 ### Video
 
-* https://dnznrvs05pmza.cloudfront.net/08c21344-5765-4e52-8a59-546f7eb49e8e.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzYyZmUyMjY4NWIzYTA3YiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTY5NDY0OTYwMH0.2GiKi87XJ8eBQTWhKWXpZ2SFiIcKn9GEfxzbMP7-DwM
+* https://dnznrvs05pmza.cloudfront.net/08c21344-5765-4e52-8a59-546f7eb49e8e.mp4?_jwt=
 
 ### Text to Video Observations
 

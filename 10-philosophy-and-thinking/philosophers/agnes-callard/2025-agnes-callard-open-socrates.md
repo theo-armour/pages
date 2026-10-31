@@ -946,32 +946,43 @@ Socrates is making the radical claim that for ignorant people like us, human goo
 
 * autochthony ~ born from the earth ~ https://en.wikipedia.org/wiki/Autochthon_(ancient_Greece) p250
 
+the fundamental problem of politics, which is that we sometimes have trouble living together, because we have different ideas about how best to do so. p250
 
-Liberalism triad p251
+Political fictions ~ Liberalism triad p251
 
-* freedom of speech
-* egalitarianism
-* fight for social justice.
+* Freedom of speech
+* Egalitarianism
+* Fight for social justice.
 
 Or: justice, freedom and equality. p271
 
-If these claims are to be consistent with one another. The art of love, the craft of politics, and the preparation for death must be attributable the same underlying ability. p246
+While I won’t repudiate any of those ideas, I will, with the help of the Platonic dialogue the Gorgias, make the case that they are not valid as they stand. p251
+
+If these claims are to be consistent with one another. The art of love, the craft of politics, and the preparation for death must be attributable the same underlying ability. p251
 
 By inquiring into untimely questions, every philosopher has all along been preparing himself for death. p246
+
+The answer is that he understood what is usually called politics as a stage on which philosophical disagreement gets dramatized. p252
+
+Philosophy is how you actually navigate such disagreements. Philosophy is the real politics, p252
 
 The practice of Socratic ignorance is a kind of mastery of the deepest things. The mechanism of this reversal is something that I call the Socratic move. p246
 
 #### I Politicization
 
+Three counterintuitive assertions about politics 
+
 You cannot fight injustice. p252
 
 When people think they are fighting injustice, they are instead imitating refutation. p252
 
-Free if and only if it is inquisitive. p253
+Speech is free if and only if it is inquisitive. p253
+
+Equality: one person to treat another as their equal, which is a matter of whether they can take one another seriously even when they disagree about what is most important.
 
 Politicization is the displacement of a disagreement from the context of argumentation into a 0 sum context where if one party wins, the other party loses. p254
 
-It converts a question, which is of two positions is correct — into a competition between the interests of two parties.
+It converts a question, which is of two positions is correct — into a competition between the interests of two parties. p254
 
 Politicization is a pathology of politics. A mapping of a disagreement into a contest. p255
 
@@ -979,7 +990,7 @@ Disagreement tends to fuel an eagerness to win, which manifests itself in the pr
 
 Being refuted is a greater good. p258
 
-- is pleasant
+- is pleasant, calls for gratitude
 
 #### II Fighting is Pretend Arguing
 
@@ -1043,26 +1054,27 @@ They are trying to get the equality points at high to license the conclusion the
 
 The equality we seek in such encounters is something positive p276
 
-It is not a default but a conversational achievement. p276
+It is not a default but a **conversational achievement**. p276
 
-The self blowing gestures can be reconciled with satis seeking if we see them both as a quest for an elevated equality. We are trying to be high up and equal to one another. p277
+The self blowing gestures can be reconciled with status-seeking if we see them both as a quest for an elevated equality. We are trying to be high up and equal to one another. p277
 
 #### II The Elusiveness of equality p277
 
-We are anxious to even out the appearance of difference in abilities, in social standing, in success. p277
+Equality is a value in the service of which we are willing to lie. The defensive practices we use to guard the conversational equilibrium, which range from tactful nondisclosure to downright deception, suggest that what we are guarding is, at most, the **appearance of equality**. p278
+
+We are anxious to even out the appearance of difference in abilities, in social standing, in success. p278
 
 Much of what gets called social skill involves inducing the feeling of equality in the face of all the facts that challenge this feeling. p278
 
-Our quest for equality tends to end in something that has been described as the conceit of equality. p278
+Our quest for equality tends to end in something that has been described as the **conceit** of equality. p278
 
-The equality arrived at in social context is not the real thing, but only an unstable placeholder. p278
+**The equality arrived at in social context is not the real thing, but only an unstable placeholder.** p278
 
 #### III Inequality p278
 
 The quest for equality drives the ambitious person to excess. p279
 
 Pulling yourself Above the level of the person dominating you looks like an achievement, so long as they are above you. p280
-
 
 We're not sure how to put that equality point back where it belongs after we are discriminated against, because we don't actually know where it belongs. p281
 
@@ -1071,12 +1083,22 @@ The problem about egalitarianism is not new. It is ancient. p281
 
 #### IV Egalitarianism in the Iliad p281
 
-One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening.
+Real equality means you know that you are useful, important, and valuable to me, not because I tell you those things or send you signals to that effect, but because I am making active use of you, leaning on you, doing something I could not be doing without you.
+
+The practice of equality is where equality comes alive. p285
 
 
 #### V Adam Smith p285
 
+One data that Smith's theory explains extraordinary well is the otherwise puzzling human preference over speaking over listening. p286
+
+We speak of taking turns to talk, not taking turns to listen. The social norms are against interrupting, not against pausing. p287
+
 There is something very strange in the practice of seeking, from someone, proofs that you do not such proofs from them.
+
+When you give someone a cognitive good, what you get in return is a signal of your own worth. Their willingness to receive the product of your mind is a mark or a sign of your fitness to lead. p287
+
+There's something very strange in the practice of seeking from someone, proofs that you do not need such proofs from them. p289
 
 #### VI Socratic Equality p290
 
