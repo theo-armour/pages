@@ -1,6 +1,4 @@
 
-
-
 <span style=display:none; >
 [You are now in GitHub source code view - click this link to view Read Me file as a web page]
 ( http://jaanga.github.io/documents/jaanga-practice-notes/ "View file as a web page." ) </span>
