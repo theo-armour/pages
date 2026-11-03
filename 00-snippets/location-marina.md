@@ -17,7 +17,7 @@ Try them all!!
   * Lauren ~ Jade
   * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
-* John: trenchc
+* John: trenchcoat
 * Kevin  ~ white hair
 * Liz + Rhubarb
 * Mark ~  appraiser, pony tail
