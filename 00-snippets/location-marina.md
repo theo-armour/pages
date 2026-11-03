@@ -22,7 +22,7 @@ Try them all!!
 * Masai + two dogs
 * Patrick Murphy
 * Lady in shorts
-* Rod & Marion + corky: Asian tall medical
+* Rod & Marion + corky: Asian tall medical tech
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
