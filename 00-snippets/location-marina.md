@@ -11,6 +11,7 @@ Try them all!!
 
 ## Francisco Street
 
+* Lady in shorts
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
   * Lauren ~ Jade
@@ -21,7 +22,7 @@ Try them all!!
 * Mark ~  appraiser, pony tail
 * Masai + two dogs
 * Patrick Murphy
-* Lady in shorts
+
 * Rod & Marion + corky: Asian tall medical tech
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
