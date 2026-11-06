@@ -11,17 +11,20 @@ Try them all!!
 
 ## Francisco Street
 
+* Lady in shorts
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
   * Lauren ~ Jade
   * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
+* John: trenchcoat
 * Kevin  ~ white hair
 * Liz + Rhubarb
-* Mark ~  appraiser
+* Mark ~  appraiser, pony tail
 * Masai + two dogs
 * Patrick Murphy
-* Lady in shorts
+
+* Rod & Marion + corky: Asian tall medical tech
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
 
