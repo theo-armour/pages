@@ -21,10 +21,9 @@ Try them all!!
 * John: trenchcoat
 * Kevin  ~ white hair
 * Liz + Rhubarb
-* Mark ~  appraiser, pony tail
+* Mark ~ appraiser, pony tail
 * Masai + two dogs
 * Patrick Murphy
-
 * Rod & Marion + corky: Asian tall medical tech
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
