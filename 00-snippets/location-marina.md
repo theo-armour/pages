@@ -12,7 +12,7 @@ Try them all!!
 ## Francisco Street
 
 * Lady in shorts
-* Darlene + baby Howard 
+* Darlene + baby Howard/ Gough
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
   * Lauren ~ Jade
