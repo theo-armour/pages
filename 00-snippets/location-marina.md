@@ -1,6 +1,8 @@
 # location: Marina
 
-Nice man whoe cleans Chestnut: Calvin Swift ~ https://www.instagram.com/p/DMtfY5cSVuk/
+Nice man who cleans Chestnut: Calvin Swift ~ https://www.instagram.com/p/DMtfY5cSVuk/
+
+Nice Gardener: Carl
 
 See pages/03-geography-places/california/marina
 
@@ -12,6 +14,7 @@ Try them all!!
 ## Francisco Street
 
 * Lady in shorts
+* Darlene + baby Howard/ Gough&B+F
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
   * Lauren ~ Jade
@@ -20,10 +23,9 @@ Try them all!!
 * John: trenchcoat
 * Kevin  ~ white hair
 * Liz + Rhubarb
-* Mark ~  appraiser, pony tail
+* Mark ~ appraiser, pony tail
 * Masai + two dogs
 * Patrick Murphy
-
 * Rod & Marion + corky: Asian tall medical tech
 
 ## +++ Alegrias ~ [alegrias](https://www.alegriassf.com/)
