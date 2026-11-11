@@ -1,7 +1,6 @@
 # Internet and Art
 
 
-
 Sites I find interesting
 
 ## [Ello]( https://ello.co/ )
