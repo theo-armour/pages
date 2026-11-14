@@ -970,7 +970,7 @@ The practice of Socratic ignorance is a kind of mastery of the deepest things. T
 
 #### I Politicization
 
-Three counterintuitive assertions about politics 
+Three counterintuitive assertions about politics
 
 You cannot fight injustice. p252
 
@@ -1102,7 +1102,7 @@ There's something very strange in the practice of seeking from someone, proofs t
 
 #### VI Socratic Equality p290
 
-If you have nothing to prove. then I am no less pleased to be persuaded than to persuade. p290
+If I have nothing to prove, then I am no less pleased to be persuaded than to persuade. p290
 
 make it easy to unconvince me. p291
 
