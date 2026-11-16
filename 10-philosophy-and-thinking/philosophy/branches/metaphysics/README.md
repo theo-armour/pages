@@ -30,7 +30,9 @@ https://en.wikipedia.org/wiki/Turtles_all_the_way_down
 For me it’s doing nice things - things that are simultaneously nice for me and good for the world.
 
 
-### Arthur C Brooks ~ The Meaning of Life Is Surprisingly Simple ~ https://www.theatlantic.com/family/archive/2021/10/meaning-life-macronutrients-purpose-search/620440/
+### Arthur C Brooks ~ The Meaning of Life Is Surprisingly Simple
+
+https://www.theatlantic.com/family/archive/2021/10/meaning-life-macronutrients-purpose-search/620440/
 
 * You can make your quest for meaning manageable by breaking it down into three bite-size dimensions.
 * https://www.theatlantic.com/projects/how-build-life/

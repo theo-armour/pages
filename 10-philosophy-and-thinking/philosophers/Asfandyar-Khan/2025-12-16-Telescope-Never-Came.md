@@ -6,10 +6,9 @@ Online, it is easier. You are not alone.
 
 Following Camus and evolutionary anthropology and "why beauty?", for a while I have taken positive psychology as the bridge:
 
-Martin Seligman /https://en.wikipedia.org/wiki/Positive_psychology
+Martin Seligman / https://en.wikipedia.org/wiki/Positive_psychology
 
-More recently, I have been exploring a "psychologically rich" lofe via:
-
+More recently, I have been exploring a "psychologically rich life" via:
 Shigehiro-Oishi / https://en.wikipedia.org/wiki/Shigehiro_Oishi
 
 and occasionally throwing in a bit of:
