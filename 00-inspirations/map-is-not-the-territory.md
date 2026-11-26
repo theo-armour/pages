@@ -19,3 +19,24 @@ Collected Fictions, translated by Andrew Hurley.
 
 (Suarez Miranda,Viajes devarones prudentes, Libro IV,Cap. XLV, Lerida, 1658)
 
+## 2026-11-26
+
+What is the triad of the map and the territory? The significance or something. Source, sign, significance, whatever.
+
+* The map is not the meaning.
+* The territory is not the meaning.
+* The map is not the territory.
+
+Similar thoughts
+
+* "The map is not the territory" - Alfred Korzybski
+* "The word is not the thing" - Korzybski
+* "The menu is not the meal" - Marshall McLuhan
+* "The model is not the reality" - George Box
+* "All models are wrong, but some are useful" - George Box
+
+More
+
+* Appearance versus reality
+* Plato's Allegory of the Cave
+* René Magritte's "The Treachery of Images"
