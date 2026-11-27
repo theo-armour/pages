@@ -24,8 +24,9 @@ Collected Fictions, translated by Andrew Hurley.
 What is the triad of the map and the territory? The significance or something. Source, sign, significance, whatever.
 
 * The map is not the meaning.
-* The territory is not the meaning.
+* The territory is not the meaning.  Similar: It's the journey, not the destination??
 * The map is not the territory.
+
 
 Similar thoughts
 
