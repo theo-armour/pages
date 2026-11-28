@@ -18,6 +18,7 @@ Try them all!!
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
   * Lauren ~ Jade
+  * Kyle
   * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
 * John: trenchcoat
