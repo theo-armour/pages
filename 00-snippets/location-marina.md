@@ -13,7 +13,7 @@ Try them all!!
 
 ## Francisco Street
 
-* Lady in shorts
+* Cristie ~ Lady in shorts
 * Darlene + baby Howard + Eric Gough&B+F
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
