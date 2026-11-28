@@ -17,7 +17,7 @@ Try them all!!
 * Darlene + baby Howard + Eric Gough&B+F
 * Grayson ~ bike + jeep
 * Gus ~ two houses ~ van  
-  * Lauren ~ Jade 
+  * Lauren ~ Jade ~ vad
   * Kyle
   * Dogs: Holly ~ cubby? ~  Poodle: lean?
 * Howard + carl
